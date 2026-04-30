@@ -65,24 +65,17 @@ def ffmpeg_capture(url):
         "ffmpeg",
         "-hide_banner",
         "-loglevel", "error",
-
-        # speed + stability
         "-fflags", "nobuffer",
         "-flags", "low_delay",
-
         "-reconnect", "1",
         "-reconnect_streamed", "1",
         "-reconnect_delay_max", "1",
-
         "-rw_timeout", "8000000",
-
-        "-headers",
-        "User-Agent: Mozilla/5.0\r\nReferer: https://google.com\r\n",
-
-        "-ss", "2",
+        "-ss", "00:00:01",
+        "vframes", "1",
         "-i", url,
 
-        "-vf", "scale=320:-1",
+        "-q:v", "2",
 
         "-frames:v", "1",
         "-f", "image2pipe",
