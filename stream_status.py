@@ -2,29 +2,39 @@
 """
 IPTV Stream Status Checker
 Fetches streams from iptv-org API and checks if each is online/viewable.
-
-Usage:
-    python stream_status.py [--concurrency 50] [--timeout 8] [--out status.json]
-                            [--hide-offline] [--limit 500]
 """
 
-import argparse
 import asyncio
 import aiohttp
 import json
+import logging
+import os
 import sys
 import time
 from dataclasses import dataclass, field
-from datetime import datetime, timezone
+from datetime import datetime
 from typing import Optional
+from urllib.parse import urlparse
 
 
-# ── Config defaults ───────────────────────────────────────────────────────────
-API_URL      = "https://iptv-org.github.io/api/streams.json"
-CONCURRENCY  = 50    # simultaneous checks
-TIMEOUT_SEC  = 8     # per-stream timeout (GET fallback)
-HEAD_TIMEOUT = 5     # HEAD request timeout (faster first-pass)
-OUTPUT_FILE  = "status.json"
+# ── Config ────────────────────────────────────────────────────────────────────
+API_URL        = "https://iptv-org.github.io/api/streams.json"
+CONCURRENCY    = 50       # simultaneous checks
+TIMEOUT_SEC    = 8        # per-stream GET timeout (seconds)
+HEAD_TIMEOUT   = 5        # HEAD request timeout (seconds)
+API_TIMEOUT    = 30       # timeout for fetching the API stream list
+OUTPUT_FILE    = "stream_results.json"
+SHOW_OFFLINE   = False    # set True to also print offline streams
+MAX_REDIRECTS  = 10       # redirect limit per stream
+
+
+# ── Logging (warnings+ to stderr, keeps stdout clean) ─────────────────────────
+logging.basicConfig(
+    stream=sys.stderr,
+    level=logging.WARNING,
+    format="[%(levelname)s] %(message)s",
+)
+log = logging.getLogger(__name__)
 
 
 # ── Data model ────────────────────────────────────────────────────────────────
@@ -32,179 +42,193 @@ OUTPUT_FILE  = "status.json"
 class StreamResult:
     channel:    str
     url:        str
-    status:     str                  # "online" | "offline" | "error"
+    status:     str               # "online" | "offline"
     http_code:  Optional[int]   = None
     latency_ms: Optional[float] = None
-    error:      Optional[str]   = None
-    checked_at: str = field(
-        default_factory=lambda: datetime.now(timezone.utc).isoformat()
-    )
+    checked_at: str = field(default_factory=lambda: datetime.utcnow().isoformat())
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 def is_viewable(status_code: int) -> bool:
-    """2xx / 3xx are considered viewable (redirects are common for HLS)."""
+    """2xx / 3xx responses are considered viewable (HLS streams commonly redirect)."""
     return 200 <= status_code < 400
 
 
+def is_valid_url(url: str) -> bool:
+    """Reject obviously malformed URLs before attempting a connection."""
+    try:
+        parsed = urlparse(url)
+        return parsed.scheme in ("http", "https") and bool(parsed.netloc)
+    except Exception:
+        return False
+
+
+def make_offline(channel: str, url: str, http_code: Optional[int] = None) -> StreamResult:
+    return StreamResult(channel=channel, url=url, status="offline", http_code=http_code)
+
+
+# ── Per-stream checker ────────────────────────────────────────────────────────
 async def check_stream(
-    session:   aiohttp.ClientSession,
+    session: aiohttp.ClientSession,
     semaphore: asyncio.Semaphore,
-    channel:   str,
-    url:       str,
-    timeout:   float,
-    head_timeout: float,
+    channel: str,
+    url: str,
 ) -> StreamResult:
+    """
+    Try HEAD → GET for each stream.
+    Every known failure mode is caught and mapped to "offline".
+    """
+    if not is_valid_url(url):
+        return make_offline(channel, url)
+
     async with semaphore:
         t0 = time.perf_counter()
-        try:
-            for method in ("HEAD", "GET"):
-                try:
-                    async with session.request(
-                        method, url,
-                        timeout=aiohttp.ClientTimeout(
-                            total=head_timeout if method == "HEAD" else timeout
-                        ),
-                        allow_redirects=True,
-                        ssl=False,   # many IPTV streams use self-signed certs
-                    ) as resp:
-                        latency = (time.perf_counter() - t0) * 1000
 
-                        # Retry with GET if server rejects HEAD (405) or
-                        # returns other client errors that may not apply to GET
-                        if method == "HEAD" and resp.status in (405, 501):
-                            continue
+        for method in ("HEAD", "GET"):
+            timeout = aiohttp.ClientTimeout(
+                total=HEAD_TIMEOUT if method == "HEAD" else TIMEOUT_SEC,
+                connect=5,
+                sock_connect=5,
+                sock_read=TIMEOUT_SEC,
+            )
+            try:
+                async with session.request(
+                    method, url,
+                    timeout=timeout,
+                    allow_redirects=True,
+                    max_redirects=MAX_REDIRECTS,
+                    ssl=False,          # many streams use self-signed certs
+                ) as resp:
+                    latency = (time.perf_counter() - t0) * 1000
+                    return StreamResult(
+                        channel=channel,
+                        url=url,
+                        status="online" if is_viewable(resp.status) else "offline",
+                        http_code=resp.status,
+                        latency_ms=round(latency, 1),
+                    )
 
-                        viewable = is_viewable(resp.status)
-                        return StreamResult(
-                            channel=channel,
-                            url=url,
-                            status="online" if viewable else "offline",
-                            http_code=resp.status,
-                            latency_ms=round(latency, 1),
-                        )
+            # ── HEAD rejected → retry with GET ────────────────────────────────
+            except aiohttp.ClientResponseError as e:
+                if method == "HEAD":
+                    continue
+                return make_offline(channel, url, http_code=e.status)
 
-                except aiohttp.ClientResponseError:
-                    if method == "HEAD":
-                        continue   # retry with GET
-                    raise
+            # ── Redirect loop ──────────────────────────────────────────────────
+            except aiohttp.TooManyRedirects:
+                return make_offline(channel, url)
 
-        except asyncio.TimeoutError:
-            return StreamResult(channel=channel, url=url,
-                                status="offline", error="timeout")
-        except aiohttp.ClientConnectorError as e:
-            return StreamResult(channel=channel, url=url,
-                                status="offline", error=f"connection: {e}")
-        except Exception as e:
-            return StreamResult(channel=channel, url=url,
-                                status="error", error=str(e))
+            # ── DNS / TCP connection failures ──────────────────────────────────
+            except (
+                aiohttp.ClientConnectorError,
+                aiohttp.ClientConnectorDNSError,
+                aiohttp.ClientConnectorSSLError,
+                aiohttp.ClientConnectorCertificateError,
+            ):
+                return make_offline(channel, url)
+
+            # ── Server-side connection problems ────────────────────────────────
+            except (
+                aiohttp.ServerDisconnectedError,
+                aiohttp.ServerConnectionError,
+                aiohttp.ServerTimeoutError,
+            ):
+                return make_offline(channel, url)
+
+            # ── Timeout (connect or read) ──────────────────────────────────────
+            except (asyncio.TimeoutError, aiohttp.ClientTimeout.__class__):
+                return make_offline(channel, url)
+
+            # ── Payload / encoding errors ──────────────────────────────────────
+            except (aiohttp.ClientPayloadError, UnicodeDecodeError):
+                return make_offline(channel, url)
+
+            # ── OS-level socket errors ─────────────────────────────────────────
+            except (aiohttp.ClientOSError, OSError):
+                return make_offline(channel, url)
+
+            # ── Malformed URL passed through ───────────────────────────────────
+            except (aiohttp.InvalidURL, ValueError):
+                return make_offline(channel, url)
+
+            # ── Task cancellation — propagate, do not swallow ──────────────────
+            except asyncio.CancelledError:
+                raise
+
+            # ── Absolute safety net ────────────────────────────────────────────
+            except Exception as e:
+                log.warning("Unexpected error for %s: %s: %s", url, type(e).__name__, e)
+                return make_offline(channel, url)
+
+    # Exhausted both methods without returning (should not happen)
+    return make_offline(channel, url)
 
 
 # ── Progress printer ──────────────────────────────────────────────────────────
-def print_result(r: StreamResult, idx: int, total: int,
-                 show_offline: bool) -> None:
-    if r.status != "online" and not show_offline:
+def print_result(r: StreamResult, idx: int, total: int) -> None:
+    if r.status != "online" and not SHOW_OFFLINE:
         return
-
-    pct  = f"{idx}/{total}"
     icon = "✅" if r.status == "online" else "❌"
-    name = (r.channel[:35] + "…") if len(r.channel) > 36 else r.channel
+    ch   = r.channel or "unknown"
+    name = (ch[:35] + "…") if len(ch) > 36 else ch
     lat  = f"{r.latency_ms}ms" if r.latency_ms is not None else ""
-    code = f"HTTP {r.http_code}" if r.http_code is not None else (r.error or "")
-
-    print(f"[{pct:>13}] {icon}  {name:<36}  {code:<12}  {lat}")
-
-
-# ── CLI ───────────────────────────────────────────────────────────────────────
-def parse_args() -> argparse.Namespace:
-    p = argparse.ArgumentParser(description="Check IPTV stream availability.")
-    p.add_argument("--concurrency", type=int, default=CONCURRENCY,
-                   help=f"Parallel workers (default: {CONCURRENCY})")
-    p.add_argument("--timeout", type=float, default=TIMEOUT_SEC,
-                   help=f"GET timeout in seconds (default: {TIMEOUT_SEC})")
-    p.add_argument("--head-timeout", type=float, default=HEAD_TIMEOUT,
-                   help=f"HEAD timeout in seconds (default: {HEAD_TIMEOUT})")
-    p.add_argument("--out", default=OUTPUT_FILE,
-                   help=f"Output JSON file (default: {OUTPUT_FILE})")
-    p.add_argument("--hide-offline", action="store_true",
-                   help="Suppress offline/error streams from console output")
-    p.add_argument("--limit", type=int, default=0,
-                   help="Only check the first N streams (0 = all)")
-    return p.parse_args()
+    code = f"HTTP {r.http_code}" if r.http_code is not None else "—"
+    pct  = f"{idx}/{total}"
+    print(f"[{pct:>12}] {icon}  {name:<36}  {code:<10}  {lat}")
 
 
-# ── Main ──────────────────────────────────────────────────────────────────────
-async def main(args: argparse.Namespace) -> None:
-    print("⬇️  Fetching stream list from iptv-org API …")
+# ── API fetch ─────────────────────────────────────────────────────────────────
+async def fetch_stream_list() -> list[tuple[str, str]]:
+    """Download and parse the iptv-org stream list. Returns (channel, url) pairs."""
+    connector = aiohttp.TCPConnector(force_close=True)
+    timeout   = aiohttp.ClientTimeout(total=API_TIMEOUT)
 
-    # Single shared connector for the whole run
-    connector = aiohttp.TCPConnector(limit=args.concurrency, force_close=True)
-
-    async with aiohttp.ClientSession(connector=connector) as session:
-
-        # 1. Download stream list
-        try:
-            async with session.get(
-                API_URL, timeout=aiohttp.ClientTimeout(total=30)
-            ) as resp:
+    try:
+        async with aiohttp.ClientSession(connector=connector, timeout=timeout) as session:
+            async with session.get(API_URL) as resp:
                 resp.raise_for_status()
-                raw = await resp.json(content_type=None)
-        except Exception as e:
-            print(f"❌  Failed to fetch stream list: {e}", file=sys.stderr)
-            sys.exit(1)
+                try:
+                    raw = await resp.json(content_type=None)
+                except (json.JSONDecodeError, aiohttp.ContentTypeError) as e:
+                    sys.exit(f"❌  Failed to parse API response as JSON: {e}")
 
-        streams = [
-            (entry.get("channel", "unknown"), entry["url"])
-            for entry in raw
-            if entry.get("url")
-        ]
+    except aiohttp.ClientConnectorError as e:
+        sys.exit(f"❌  Cannot reach API ({API_URL}): {e}")
+    except asyncio.TimeoutError:
+        sys.exit(f"❌  API request timed out after {API_TIMEOUT}s.")
+    except aiohttp.ClientResponseError as e:
+        sys.exit(f"❌  API returned HTTP {e.status}: {e.message}")
+    except Exception as e:
+        sys.exit(f"❌  Unexpected error fetching API: {type(e).__name__}: {e}")
 
-        if args.limit > 0:
-            streams = streams[: args.limit]
+    if not isinstance(raw, list) or len(raw) == 0:
+        sys.exit("❌  API returned an empty or unexpected payload.")
 
-        total = len(streams)
-        show_offline = not args.hide_offline
+    streams = []
+    for entry in raw:
+        if not isinstance(entry, dict):
+            continue
+        url = entry.get("url")
+        if not url or not isinstance(url, str) or not url.strip():
+            continue
+        channel = (entry.get("channel") or "unknown").strip() or "unknown"
+        streams.append((channel, url.strip()))
 
-        print(f"📋  {total:,} streams to check "
-              f"({args.concurrency} workers, "
-              f"timeout {args.timeout}s / HEAD {args.head_timeout}s) …\n")
-        print(f"{'':>15}  {'Channel':<36}  {'HTTP':<12}  Latency")
-        print("─" * 75)
+    if not streams:
+        sys.exit("❌  No valid stream URLs found in API response.")
 
-        semaphore = asyncio.Semaphore(args.concurrency)
-        results: list[StreamResult] = []
+    return streams
 
-        tasks = [
-            check_stream(session, semaphore, channel, url,
-                         args.timeout, args.head_timeout)
-            for channel, url in streams
-        ]
 
-        for idx, coro in enumerate(asyncio.as_completed(tasks), start=1):
-            result = await coro
-            results.append(result)
-            print_result(result, idx, total, show_offline)
-
-    # ── Summary ───────────────────────────────────────────────────────────────
+# ── Save results ──────────────────────────────────────────────────────────────
+def save_results(results: list[StreamResult]) -> None:
     online  = [r for r in results if r.status == "online"]
     offline = [r for r in results if r.status != "online"]
 
-    print("\n" + "═" * 75)
-    print(f"  ✅  Online  : {len(online):,}")
-    print(f"  ❌  Offline : {len(offline):,}")
-    print(f"  📊  Total   : {total:,}")
-
-    latencies = [r.latency_ms for r in online if r.latency_ms is not None]
-    if latencies:
-        print(f"  ⚡  Avg latency (online): {sum(latencies)/len(latencies):.0f} ms")
-
-    print("═" * 75)
-
-    # ── Save results ──────────────────────────────────────────────────────────
     output = {
-        "checked_at": datetime.now(timezone.utc).isoformat(),
+        "checked_at": datetime.utcnow().isoformat(),
         "summary": {
-            "total":   total,
+            "total":   len(results),
             "online":  len(online),
             "offline": len(offline),
         },
@@ -215,22 +239,80 @@ async def main(args: argparse.Namespace) -> None:
                 "status":     r.status,
                 "http_code":  r.http_code,
                 "latency_ms": r.latency_ms,
-                "error":      r.error,
-                "checked_at": r.checked_at,
             }
-            for r in sorted(results, key=lambda x: (x.status != "online", x.channel))
+            for r in sorted(results, key=lambda x: (x.status != "online", x.channel or ""))
         ],
     }
 
-    with open(args.out, "w", encoding="utf-8") as f:
-        json.dump(output, f, indent=2, ensure_ascii=False)
+    try:
+        tmp = OUTPUT_FILE + ".tmp"
+        with open(tmp, "w", encoding="utf-8") as f:
+            json.dump(output, f, indent=2, ensure_ascii=False)
+        os.replace(tmp, OUTPUT_FILE)   # atomic write — avoids partial file on crash
+    except OSError as e:
+        print(f"\n⚠️  Could not save results to {OUTPUT_FILE}: {e}", file=sys.stderr)
+        return
 
-    print(f"\n💾  Results saved → {args.out}")
+    print(f"\n💾  Results saved → {OUTPUT_FILE}")
 
 
+# ── Main ──────────────────────────────────────────────────────────────────────
+async def main() -> None:
+    print("⬇️  Fetching stream list from iptv-org API …")
+    streams = await fetch_stream_list()
+    total   = len(streams)
+
+    print(f"📋  {total:,} streams found. Starting checks "
+          f"({CONCURRENCY} workers, timeout {TIMEOUT_SEC}s / HEAD {HEAD_TIMEOUT}s) …\n")
+    print(f"{'':>14}  {'Channel':<36}  {'HTTP':<10}  Latency")
+    print("─" * 72)
+
+    semaphore  = asyncio.Semaphore(CONCURRENCY)
+    connector  = aiohttp.TCPConnector(limit=CONCURRENCY, force_close=True, enable_cleanup_closed=True)
+    results: list[StreamResult] = []
+
+    async with aiohttp.ClientSession(connector=connector) as session:
+        tasks = [
+            check_stream(session, semaphore, channel, url)
+            for channel, url in streams
+        ]
+        for idx, coro in enumerate(asyncio.as_completed(tasks), start=1):
+            try:
+                result = await coro
+            except asyncio.CancelledError:
+                raise
+            except Exception as e:
+                # Should never reach here, but log and continue
+                log.warning("Unhandled task exception at index %d: %s", idx, e)
+                continue
+            results.append(result)
+            print_result(result, idx, total)
+
+    # ── Summary ───────────────────────────────────────────────────────────────
+    online  = [r for r in results if r.status == "online"]
+    offline = [r for r in results if r.status != "online"]
+
+    print("\n" + "═" * 72)
+    print(f"  ✅  Online  : {len(online):,}")
+    print(f"  ❌  Offline : {len(offline):,}")
+    print(f"  📊  Total   : {total:,}")
+    if online:
+        lats    = [r.latency_ms for r in online if r.latency_ms is not None]
+        avg_lat = sum(lats) / len(lats) if lats else 0
+        print(f"  ⚡  Avg latency (online): {avg_lat:.0f} ms")
+    print("═" * 72)
+
+    save_results(results)
+
+
+# ── Entry point ───────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     try:
-        asyncio.run(main(parse_args()))
+        asyncio.run(main())
     except KeyboardInterrupt:
-        print("\n⚠️  Interrupted by user.")
+        print("\n⚠️  Interrupted by user.", file=sys.stderr)
         sys.exit(0)
+    except MemoryError:
+        sys.exit("❌  Out of memory — try reducing CONCURRENCY.")
+    except Exception as e:
+        sys.exit(f"❌  Fatal error: {type(e).__name__}: {e}")
