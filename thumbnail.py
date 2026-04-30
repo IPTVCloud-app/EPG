@@ -1,17 +1,16 @@
 #!/usr/bin/env python3
 """
-FAST IPTV THUMBNAIL CAPTURER (WEBP + CPU-AWARE + FIXED)
+IPTV THUMBNAIL CAPTURER (PYAV VERSION - CLEAN & FAST)
 """
 
 import os
 import json
 import re
-import subprocess
-import io
 import time
 
 import numpy as np
 import psutil
+import av
 from PIL import Image
 
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -25,8 +24,11 @@ from tqdm import tqdm
 STREAMS_FILE = "streams.json"
 OUTPUT_DIR = "thumbnails"
 
+TIMEOUT_SECONDS = 10
 BATCH_SIZE = 50
-TIMEOUT = 15
+MAX_BATCH_WORKERS = 4
+
+RETRIES = 2
 
 
 # ─────────────────────────────────────────────
@@ -56,86 +58,82 @@ def chunk_list(data, size):
 
 
 # ─────────────────────────────────────────────
-# CPU-AWARE SCALING (psutil)
+# CPU-aware workers
 # ─────────────────────────────────────────────
 
-def get_dynamic_workers():
+def get_workers():
     cpu = psutil.cpu_percent(interval=0.2)
 
-    if cpu < 50:
-        return 16, 6   # stream_workers, batch_workers
-    elif cpu < 75:
-        return 10, 4
+    if cpu < 60:
+        return 12
+    elif cpu < 80:
+        return 8
     elif cpu < 90:
-        return 6, 3
+        return 5
     else:
-        return 3, 2
+        return 3
 
 
 # ─────────────────────────────────────────────
-# FRAME EXTRACTION (FFMPEG → WEBP PIPE)
+# PYAV FRAME EXTRACTION (CORE FIX)
 # ─────────────────────────────────────────────
 
-def extract_frame(url):
+def pyav_extract(url):
     try:
-        cmd = [
-            "ffmpeg",
-            "-loglevel", "error",
-
-            # required for most IPTV streams
-            "-headers",
-            "User-Agent: Mozilla/5.0\r\nReferer: https://google.com\r\n",
-
-            "-ss", "2",
-            "-i", url,
-
-            "-frames:v", "1",
-            "-f", "image2pipe",
-            "-vcodec", "libwebp",   # WEBP output
-
-            "-"
-        ]
-
-        result = subprocess.run(
-            cmd,
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
-            timeout=TIMEOUT
+        # Open stream (auto demux + decode)
+        container = av.open(
+            url,
+            options={
+                "user_agent": "Mozilla/5.0",
+                "reconnect": "1",
+                "reconnect_streamed": "1",
+                "reconnect_delay_max": "2",
+            },
+            timeout=TIMEOUT_SECONDS
         )
 
-        # IMPORTANT: validate ffmpeg success
-        if result.returncode != 0 or not result.stdout:
-            return None
+        for frame in container.decode(video=0):
+            img = frame.to_ndarray(format="rgb24")
 
-        if len(result.stdout) < 500:
-            return None
+            if is_black(img):
+                continue
 
-        img = Image.open(io.BytesIO(result.stdout)).convert("RGB")
-        frame = np.array(img)
+            container.close()
+            return img
 
-        if is_black(frame):
-            return None
-
-        return frame
+        container.close()
+        return None
 
     except Exception:
         return None
 
 
 # ─────────────────────────────────────────────
+# RETRY WRAPPER
+# ─────────────────────────────────────────────
+
+def extract_with_retry(url):
+    for _ in range(RETRIES):
+        frame = pyav_extract(url)
+        if frame is not None:
+            return frame
+        time.sleep(0.5)
+    return None
+
+
+# ─────────────────────────────────────────────
 # STREAM PROCESSING
 # ─────────────────────────────────────────────
 
-def process_stream(stream, global_idx):
+def process_stream(stream, idx):
     url = stream.get("url")
-    name = safe_name(stream.get("channel", f"stream_{global_idx}"))
-
     if not url:
         return False
 
+    name = safe_name(stream.get("channel", f"stream_{idx}"))
     out_path = os.path.join(OUTPUT_DIR, f"{name}.webp")
 
-    frame = extract_frame(url)
+    frame = extract_with_retry(url)
 
     if frame is None:
         return False
@@ -144,7 +142,7 @@ def process_stream(stream, global_idx):
         Image.fromarray(frame).save(
             out_path,
             "WEBP",
-            quality=80,
+            quality=82,
             method=6
         )
         return True
@@ -153,15 +151,16 @@ def process_stream(stream, global_idx):
 
 
 # ─────────────────────────────────────────────
-# BATCH PROCESSING (DYNAMIC THREADS)
+# BATCH PROCESSING
 # ─────────────────────────────────────────────
 
-def process_batch_dynamic(batch_offset, batch, stream_workers):
+def process_batch(offset, batch):
+    workers = get_workers()
     success = 0
 
-    with ThreadPoolExecutor(max_workers=stream_workers) as executor:
+    with ThreadPoolExecutor(max_workers=workers) as executor:
         futures = [
-            executor.submit(process_stream, stream, batch_offset + i)
+            executor.submit(process_stream, stream, offset + i)
             for i, stream in enumerate(batch)
         ]
 
@@ -178,6 +177,11 @@ def process_batch_dynamic(batch_offset, batch, stream_workers):
 # MAIN
 # ─────────────────────────────────────────────
 
+def chunk_list(data, size):
+    for i in range(0, len(data), size):
+        yield i, data[i:i + size]
+
+
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -186,29 +190,23 @@ def main():
 
     batches = list(chunk_list(streams, BATCH_SIZE))
 
-    print(f"Total streams: {len(streams)}")
+    print(f"Streams: {len(streams)}")
     print(f"Batches: {len(batches)}\n")
 
-    total_success = 0
+    total = 0
 
-    # batch executor is lightweight
-    with ThreadPoolExecutor(max_workers=4) as batch_executor:
-
-        futures = []
-
-        for offset, batch in batches:
-            stream_workers, _ = get_dynamic_workers()
-
-            futures.append(
-                batch_executor.submit(process_batch_dynamic, offset, batch, stream_workers)
-            )
+    with ThreadPoolExecutor(max_workers=MAX_BATCH_WORKERS) as batch_exec:
+        futures = [
+            batch_exec.submit(process_batch, offset, batch)
+            for offset, batch in batches
+        ]
 
         for f in tqdm(as_completed(futures), total=len(futures), desc="Batches"):
-            total_success += f.result()
+            total += f.result()
 
     print("\n━━━━━━━━━━━━━━━━━━━━━━")
-    print("Done")
-    print(f"Success: {total_success}/{len(streams)}")
+    print("DONE")
+    print(f"Success: {total}/{len(streams)}")
 
 
 if __name__ == "__main__":
