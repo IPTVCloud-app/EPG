@@ -43,6 +43,11 @@ jobs:
         run: |
           pip install aiohttp aiodns
           python stream_status.py --concurrency 20 --timeout 10 --out status.json
+      
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Commit changes (if any)
         run: |
