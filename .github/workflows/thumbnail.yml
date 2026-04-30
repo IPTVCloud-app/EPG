@@ -41,7 +41,7 @@ jobs:
 
       - name: Run stream checker
         run: |
-          pip install numpy av pillow tqdm psutil
+          pip install numpy pillow tqdm psutil
           python thumbnail.py
       
       - name: Configure Git
