@@ -39,7 +39,7 @@ jobs:
           mv -n ./content.json ./sites/ || true
           mv -n ./streams.json ./sites/ || true
           mv -n ./thumbnails.json ./sites/ || true
-          mv -n ./thumbnails/ ./sites/ || true
+          mv -n ./thumbnails/*.webp ./sites/thumbnails/ || true
           
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
