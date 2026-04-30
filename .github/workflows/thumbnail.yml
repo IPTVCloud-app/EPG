@@ -15,7 +15,7 @@ jobs:
       github.event_name == 'schedule' ||
       (
         github.event_name == 'push' &&
-        contains(github.event.head_commit.message, '[update thumbnails]')
+        contains(github.event.head_commit.message, '[update streams]')
       )
 
     permissions:
@@ -28,10 +28,10 @@ jobs:
           fetch-depth: 0   # IMPORTANT: full history
           persist-credentials: true
 
-      - name: Set up FFmpeg
-        uses: federicocarboni/setup-ffmpeg@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          node-version: 25
 
       - name: Setup Python
         uses: actions/setup-python@v6
@@ -41,7 +41,7 @@ jobs:
 
       - name: Run stream checker
         run: |
-          pip install aiohttp aiodns
+          pip install numpy av pillow tqdm psutil
           python thumbnail.py --concurrency 20 --timeout 10 --out status.json
       
       - name: Configure Git
