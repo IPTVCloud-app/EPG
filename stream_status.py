@@ -24,8 +24,8 @@ CONCURRENCY    = 50       # simultaneous checks
 TIMEOUT_SEC    = 8        # per-stream GET timeout (seconds)
 HEAD_TIMEOUT   = 5        # HEAD request timeout (seconds)
 API_TIMEOUT    = 30       # timeout for fetching the API stream list
-OUTPUT_FILE    = "stream_results.json"
-SHOW_OFFLINE   = False    # set True to also print offline streams
+OUTPUT_FILE    = "streams.json"
+SHOW_OFFLINE   = True    # set True to also print offline streams
 MAX_REDIRECTS  = 10       # redirect limit per stream
 
 
