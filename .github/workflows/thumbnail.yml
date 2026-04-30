@@ -1,10 +1,10 @@
-name: EPG Cron Update
+name: Thumbnail Saver
 
 on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '*/30 * * * *'
 
 jobs:
   build:
@@ -15,7 +15,7 @@ jobs:
       github.event_name == 'schedule' ||
       (
         github.event_name == 'push' &&
-        contains(github.event.head_commit.message, '[update epg]')
+        contains(github.event.head_commit.message, '[update thumbnails]')
       )
 
     permissions:
@@ -25,13 +25,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          # Required for auto-commit to work correctly on some triggers
-          persist-credentials: false 
+          fetch-depth: 0   # IMPORTANT: full history
+          persist-credentials: true
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Set up FFmpeg
+        uses: federicocarboni/setup-ffmpeg@v3
         with:
-          node-version: 25
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v6
@@ -39,18 +39,10 @@ jobs:
           python-version: '3.x'
           check-latest: true
 
-      - name: Setup Dev Proxy
-        id: setup-devproxy
-        uses: dev-proxy-tools/actions/setup@v1
-        with:
-          version: v1.0.0
-
-      - name: Start EPG
-        env:
-          PROXY_URL: ${{ steps.setup-devproxy.outputs.proxy-url }}
+      - name: Run stream checker
         run: |
-          chmod +x ./UpdateEPG.sh
-          ./UpdateEPG.sh
+          pip install aiohttp aiodns
+          python thumbnail.py --concurrency 20 --timeout 10 --out status.json
       
       - name: Configure Git
         run: |
