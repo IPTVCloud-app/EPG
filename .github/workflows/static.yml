@@ -35,8 +35,8 @@ jobs:
       - name: Move content.json to sites/ folder.
         run: |
           mkdir -p sites
-          mv ./content.json ./sites/
-          mv ./streams.json ./sites/
+          mv -n ./content.json ./sites/
+          mv -n ./streams.json ./sites/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
