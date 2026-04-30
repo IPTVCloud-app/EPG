@@ -1,13 +1,4 @@
 #!/usr/bin/env python3
-"""
-IPTV THUMBNAIL CAPTURER (OPTIMIZED + STABLE)
-
-- Batch + parallel batch execution
-- PyAV safe decoding
-- WebP encoding (quality 80)
-- Buffered batch saving
-- Real-time progress logging
-"""
 
 import os
 import json
@@ -15,9 +6,11 @@ import re
 import time
 import av
 import numpy as np
+import queue
+import threading
 
 from PIL import Image
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor
 from tqdm import tqdm
 
 
@@ -26,40 +19,13 @@ from tqdm import tqdm
 STREAMS_FILE = "streams.json"
 OUTPUT_DIR = "thumbnails"
 
-BATCH_SIZE = 50
-TIMEOUT = 5
+TIMEOUT = 4
+FRAME_LIMIT = 3
 
-MAX_BATCH_WORKERS = 3
-MAX_STREAM_WORKERS = 6
-TOTAL_MAX_WORKERS = 16
+DECODE_WORKERS = 12     # CPU/network bound
+ENCODE_WORKERS = 6      # disk bound
 
-FRAME_SAMPLE_LIMIT = 5
-
-# batch image save buffer (for faster disk I/O)
-SAVE_BUFFER_SIZE = 25
-
-
-# ───────────────── COLORS ─────────────────
-
-class C:
-    RESET = "\033[0m"
-    GREEN = "\033[92m"
-    RED = "\033[91m"
-    YELLOW = "\033[93m"
-    BLUE = "\033[94m"
-    CYAN = "\033[96m"
-
-
-def log(msg, color=C.BLUE):
-    print(f"{color}{msg}{C.RESET}")
-
-
-def log_ok(msg):
-    print(f"{C.GREEN}[OK]{C.RESET} {msg}")
-
-
-def log_fail(msg):
-    print(f"{C.RED}[FAIL]{C.RESET} {msg}")
+QUEUE_SIZE = 500
 
 
 # ───────────────── UTIL ─────────────────
@@ -77,183 +43,139 @@ def is_online(s):
     return str(s.get("status", "")).lower() == "online"
 
 
-def chunk_list(data, size):
-    for i in range(0, len(data), size):
-        yield data[i:i + size]
+# ───────────────── QUEUES ─────────────────
+
+frame_queue = queue.Queue(maxsize=QUEUE_SIZE)
+done_queue = queue.Queue()
 
 
-# ───────────────── PYAV FRAME GRAB ─────────────────
+# ───────────────── DECODE WORKER ─────────────────
 
-def extract_frame(url):
-    container = None
-    try:
-        container = av.open(
-            url,
-            timeout=TIMEOUT,
-            options={
-                "fflags": "nobuffer",
-                "flags": "low_delay",
-                "probesize": "200000",
-                "analyzeduration": "200000",
-                "rw_timeout": "4000000",
-            }
-        )
+def decode_worker(streams, pbar):
+    for i, stream in enumerate(streams):
+        url = stream.get("url")
+        name = safe_name(stream.get("channel", f"stream_{i}"))
 
-        if not container.streams.video:
-            return None
+        if not url:
+            pbar.update(1)
+            continue
 
-        stream = container.streams.video[0]
-        stream.thread_type = "NONE"
+        try:
+            container = av.open(
+                url,
+                timeout=TIMEOUT,
+                options={
+                    "fflags": "nobuffer",
+                    "flags": "low_delay",
+                    "probesize": "200000",
+                    "analyzeduration": "200000",
+                }
+            )
 
-        for i, frame in enumerate(container.decode(video=0)):
-            if i >= FRAME_SAMPLE_LIMIT:
-                break
+            if not container.streams.video:
+                raise Exception()
 
-            img = frame.to_ndarray(format="rgb24")
+            stream_v = container.streams.video[0]
+            stream_v.thread_type = "NONE"
 
-            if np.mean(img) < 10:
-                continue
+            frame = None
 
-            return img
+            for j, f in enumerate(container.decode(video=0)):
+                if j >= FRAME_LIMIT:
+                    break
 
-        return None
+                img = f.to_ndarray(format="rgb24")
 
-    except Exception:
-        return None
+                if np.mean(img) > 10:
+                    frame = img
+                    break
 
-    finally:
-        if container:
-            try:
-                container.close()
-            except:
-                pass
+            container.close()
 
+            if frame is not None:
+                frame_queue.put((name, frame))
 
-# ───────────────── SAVE (WEBP FAST) ─────────────────
+        except:
+            pass
 
-def save_webp(path, frame):
-    try:
-        img = Image.fromarray(frame)
+        pbar.update(1)
 
-        img.save(
-            path,
-            format="WEBP",
-            quality=80,
-            method=0  # fastest encoding
-        )
-        return True
-    except Exception:
-        return False
+    # signal end
+    for _ in range(ENCODE_WORKERS):
+        frame_queue.put(None)
 
 
-# ───────────────── STREAM PROCESS ─────────────────
+# ───────────────── ENCODE WORKER ─────────────────
 
-def process_stream(stream, index):
-    url = stream.get("url")
-    name = safe_name(stream.get("channel", f"stream_{index}"))
+def encode_worker():
+    while True:
+        item = frame_queue.get()
 
-    if not url:
-        return None
+        if item is None:
+            break
 
-    frame = extract_frame(url)
+        name, frame = item
 
-    if frame is None:
-        return None
+        path = os.path.join(OUTPUT_DIR, f"{name}.webp")
 
-    return (f"{OUTPUT_DIR}/{name}.webp", frame)
+        try:
+            img = Image.fromarray(frame)
 
+            img.save(
+                path,
+                format="WEBP",
+                quality=80,
+                method=0
+            )
 
-# ───────────────── BATCH PROCESSING ─────────────────
+            done_queue.put(True)
 
-def process_batch(batch, batch_id, progress):
-    workers = min(MAX_STREAM_WORKERS, len(batch), TOTAL_MAX_WORKERS)
-
-    results = []
-
-    log(f"Batch {batch_id} started ({len(batch)} streams)", C.YELLOW)
-
-    with ThreadPoolExecutor(max_workers=workers) as executor:
-        futures = [
-            executor.submit(process_stream, s, i)
-            for i, s in enumerate(batch)
-        ]
-
-        for f in as_completed(futures):
-            try:
-                result = f.result()
-                progress.update(1)
-
-                if result:
-                    results.append(result)
-
-            except Exception:
-                progress.update(1)
-
-    log_ok(f"Batch {batch_id} done | valid: {len(results)}")
-
-    return results
+        except:
+            done_queue.put(False)
 
 
 # ───────────────── MAIN ─────────────────
 
 def main():
-    start = time.time()
-
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     data = load_json(STREAMS_FILE)
     streams = [s for s in data.get("streams", []) if is_online(s)]
 
-    batches = list(chunk_list(streams, BATCH_SIZE))
+    total = len(streams)
 
-    log(f"Total streams: {len(streams)}", C.CYAN)
-    log(f"Batches: {len(batches)}", C.CYAN)
+    print(f"Streams: {total}")
+    print(f"Decode workers: {DECODE_WORKERS}")
+    print(f"Encode workers: {ENCODE_WORKERS}\n")
 
-    total_valid = 0
-    save_buffer = []
+    start = time.time()
 
-    # global progress (per stream)
-    with tqdm(total=len(streams), desc="Processing", smoothing=0.1) as pbar:
+    with tqdm(total=total, desc="Decoding") as pbar:
 
-        with ThreadPoolExecutor(max_workers=min(MAX_BATCH_WORKERS, len(batches))) as batch_exec:
-            futures = [
-                batch_exec.submit(process_batch, batch, i, pbar)
-                for i, batch in enumerate(batches, 1)
-            ]
+        # start encode workers
+        encoders = []
+        for _ in range(ENCODE_WORKERS):
+            t = threading.Thread(target=encode_worker, daemon=True)
+            t.start()
+            encoders.append(t)
 
-            for f in as_completed(futures):
-                try:
-                    results = f.result()
+        # run decode workers
+        decode_worker(streams, pbar)
 
-                    # ── buffered saving (faster disk writes) ──
-                    for path, frame in results:
-                        save_buffer.append((path, frame))
+        # wait encoders
+        for t in encoders:
+            t.join()
 
-                        if len(save_buffer) >= SAVE_BUFFER_SIZE:
-                            for p, fr in save_buffer:
-                                save_webp(p, fr)
-                            total_valid += len(save_buffer)
-                            save_buffer.clear()
-
-                except Exception:
-                    pass
-
-    # flush remaining buffer
-    for p, fr in save_buffer:
-        save_webp(p, fr)
-        total_valid += 1
-
-    duration = time.time() - start
-
-    # ───────── SUMMARY ─────────
+    # summary
+    success = 0
+    while not done_queue.empty():
+        if done_queue.get():
+            success += 1
 
     print("\n━━━━━━━━━━━━━━━━━━━━━━")
-    log_ok("DONE")
-
-    print(f"{C.CYAN}Total streams:{C.RESET} {len(streams)}")
-    print(f"{C.CYAN}Valid thumbnails:{C.RESET} {total_valid}")
-    print(f"{C.CYAN}Failed:{C.RESET} {len(streams) - total_valid}")
-    print(f"{C.CYAN}Time:{C.RESET} {duration:.2f}s")
+    print(f"Done")
+    print(f"Success: {success}/{total}")
+    print(f"Time: {time.time() - start:.2f}s")
     print("━━━━━━━━━━━━━━━━━━━━━━")
 
 
