@@ -55,7 +55,7 @@ jobs:
 
           git diff --cached --quiet && echo "No changes" && exit 0
 
-          git commit -m "chore: update status"
+          git commit -m "chore: update thumbnails"
 
       - name: Sync with remote
         continue-on-error: true
