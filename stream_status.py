@@ -191,6 +191,7 @@ def print_result(r: StreamResult, idx: int, total: int) -> None:
 # ── API fetch ─────────────────────────────────────────────────────────────────
 async def fetch_stream_list() -> list[tuple[str, str]]:
     """Download and parse the iptv-org stream list. Returns (channel, url) pairs."""
+    resolver = aiohttp.AsyncResolver()
     connector = connector = aiohttp.TCPConnector(
         resolver=resolver,
         limit=CONCURRENCY,

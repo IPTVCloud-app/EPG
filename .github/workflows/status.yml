@@ -25,8 +25,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          # Required for auto-commit to work correctly on some triggers
-          persist-credentials: false 
+          fetch-depth: 0   # IMPORTANT: full history
+          persist-credentials: true
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -39,18 +39,30 @@ jobs:
           python-version: '3.x'
           check-latest: true
 
-      - name: Start Checking Channel Status
-        env:
-          PROXY_URL: ${{ steps.setup-devproxy.outputs.proxy-url }}
+      - name: Run stream checker
         run: |
           pip install aiohttp
           python stream_status.py --concurrency 20 --timeout 10 --out status.json
-      
-      - name: Pull latest changes
-        run: git pull origin ${{ github.ref_name }} --rebase
 
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          message: "chore: update status"
+      - name: Commit changes (if any)
+        run: |
+          git add -A
+
+          git diff --cached --quiet && echo "No changes" && exit 0
+
+          git commit -m "chore: update status"
+
+      - name: Sync with remote (SAFE)
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git fetch origin "${{ github.ref_name }}"
+
+          # HARD SYNC (no merge, no rebase issues)
+          git reset --hard "origin/${{ github.ref_name }}"
+          git clean -fd
+
+      - name: Push changes safely
+        run: |
+          git push origin HEAD:${{ github.ref_name }}
