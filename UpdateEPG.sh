@@ -425,6 +425,8 @@ FAIL_GEO=0; FAIL_404=0; FAIL_RATE=0; FAIL_5XX=0; FAIL_OTHER=0
 TOTAL_RETRIES=0; TOTAL_BYTES=0; TOTAL_PROGS=0
 declare -a FAIL_LIST=() SKIP_LIST=()
 
+run_aggregator() {
+
 _cur_site=""; _cur_ok=0; _cur_fail=0; _cur_fetch=0; _cur_loaded=0
 
 _flush_url_stats() {
@@ -442,7 +444,7 @@ while IFS='|' read -r TOKEN F1 F2 F3 F4 F5 F6 F7 F8; do
   case "$TOKEN" in
 
     BATCH_START)
-      printf "${DIM}[BATCH]${NC}  %s\n" "$F4"
+      printf "${DIM}[BATCH]${NC}  %s sites: %s\n" "$F2" "$F3"
       ;;
 
     WORKER_START)
@@ -564,6 +566,9 @@ done < <(
 )
 
 _flush_url_stats
+
+} # end run_aggregator
+run_aggregator
 
 # ── Generate Information ───────────────────────────────────────
 echo ""
