@@ -50,7 +50,7 @@ jobs:
           PROXY_URL: ${{ steps.setup-devproxy.outputs.proxy-url }}
         run: |
           pip install aiohttp
-          python3 "./stream_status.py"
+          python stream_status.py --concurrency 100 --timeout 10 --out status.json
 
       - name: Commit & Push changes
         uses: actions-js/push@master
