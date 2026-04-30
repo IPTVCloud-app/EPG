@@ -36,7 +36,9 @@ logging.basicConfig(
     format="[%(levelname)s] %(message)s",
 )
 log = logging.getLogger(__name__)
+logging.getLogger("aiohttp.resolver").setLevel(logging.CRITICAL)
 logging.getLogger("aiohttp.connector").setLevel(logging.CRITICAL)
+logging.getLogger("asyncio").setLevel(logging.CRITICAL)
 
 
 # ── Data model ────────────────────────────────────────────────────────────────
@@ -189,7 +191,13 @@ def print_result(r: StreamResult, idx: int, total: int) -> None:
 # ── API fetch ─────────────────────────────────────────────────────────────────
 async def fetch_stream_list() -> list[tuple[str, str]]:
     """Download and parse the iptv-org stream list. Returns (channel, url) pairs."""
-    connector = aiohttp.TCPConnector(force_close=True)
+    connector = connector = aiohttp.TCPConnector(
+        resolver=resolver,
+        limit=CONCURRENCY,
+        ttl_dns_cache=300,
+        force_close=True,
+        enable_cleanup_closed=True
+    )
     timeout   = aiohttp.ClientTimeout(total=API_TIMEOUT)
 
     try:
