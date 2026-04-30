@@ -45,7 +45,7 @@ jobs:
         with:
           version: v1.0.0
 
-      - name: Start EPG
+      - name: Start Checking Channel Status
         env:
           PROXY_URL: ${{ steps.setup-devproxy.outputs.proxy-url }}
         run: |
