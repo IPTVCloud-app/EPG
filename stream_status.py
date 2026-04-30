@@ -36,6 +36,7 @@ logging.basicConfig(
     format="[%(levelname)s] %(message)s",
 )
 log = logging.getLogger(__name__)
+logging.getLogger("aiohttp.connector").setLevel(logging.CRITICAL)
 
 
 # ── Data model ────────────────────────────────────────────────────────────────
@@ -100,6 +101,9 @@ async def check_stream(
                     max_redirects=MAX_REDIRECTS,
                     ssl=False,          # many streams use self-signed certs
                 ) as resp:
+                    # 405 / 501 means server rejects HEAD → retry with GET
+                    if method == "HEAD" and resp.status in (405, 501):
+                        continue
                     latency = (time.perf_counter() - t0) * 1000
                     return StreamResult(
                         channel=channel,
