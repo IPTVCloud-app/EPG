@@ -1,18 +1,17 @@
 #!/usr/bin/env python3
 """
-IPTV THUMBNAIL CAPTURER (PYAV VERSION - CLEAN & FAST)
+IPTV THUMBNAIL CAPTURER
 """
 
 import os
 import json
 import re
+import subprocess
+import io
 import time
 
 import numpy as np
-import psutil
-import av
 from PIL import Image
-
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 
@@ -24,10 +23,8 @@ from tqdm import tqdm
 STREAMS_FILE = "streams.json"
 OUTPUT_DIR = "thumbnails"
 
-TIMEOUT_SECONDS = 10
-BATCH_SIZE = 50
-MAX_BATCH_WORKERS = 4
-
+MAX_WORKERS = 8          # safe pool size (adjust 4–12)
+TIMEOUT = 12
 RETRIES = 2
 
 
@@ -45,64 +42,62 @@ def load_json(path):
 
 
 def is_online(stream):
-    return str(stream.get("status", "")).strip().lower() == "online"
+    return str(stream.get("status", "")).lower() == "online"
 
 
 def is_black(frame):
     return np.mean(frame) < 10
 
 
-def chunk_list(data, size):
-    for i in range(0, len(data), size):
-        yield i, data[i:i + size]
-
-
 # ─────────────────────────────────────────────
-# CPU-aware workers
+# FFMPEG FRAME CAPTURE
 # ─────────────────────────────────────────────
 
-def get_workers():
-    cpu = psutil.cpu_percent(interval=0.2)
+def ffmpeg_capture(url):
+    cmd = [
+        "ffmpeg",
+        "-hide_banner",
+        "-loglevel", "error",
+        "-reconnect", "1",
+        "-reconnect_streamed", "1",
+        "-reconnect_delay_max", "2",
 
-    if cpu < 60:
-        return 12
-    elif cpu < 80:
-        return 8
-    elif cpu < 90:
-        return 5
-    else:
-        return 3
+        "-rw_timeout", "15000000",
 
+        "-headers",
+        "User-Agent: Mozilla/5.0\r\nReferer: https://google.com\r\n",
 
-# ─────────────────────────────────────────────
-# PYAV FRAME EXTRACTION (CORE FIX)
-# ─────────────────────────────────────────────
+        "-ss", "2",
+        "-i", url,
 
-def pyav_extract(url):
+        "-frames:v", "1",
+        "-f", "image2pipe",
+        "-vcodec", "mjpeg",
+
+        "-"
+    ]
+
     try:
-        # Open stream (auto demux + decode)
-        container = av.open(
-            url,
-            options={
-                "user_agent": "Mozilla/5.0",
-                "reconnect": "1",
-                "reconnect_streamed": "1",
-                "reconnect_delay_max": "2",
-            },
-            timeout=TIMEOUT_SECONDS
+        result = subprocess.run(
+            cmd,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            timeout=TIMEOUT
         )
 
-        for frame in container.decode(video=0):
-            img = frame.to_ndarray(format="rgb24")
+        if result.returncode != 0:
+            return None
 
-            if is_black(img):
-                continue
+        if not result.stdout or len(result.stdout) < 1000:
+            return None
 
-            container.close()
-            return img
+        img = Image.open(io.BytesIO(result.stdout)).convert("RGB")
+        frame = np.array(img)
 
-        container.close()
-        return None
+        if is_black(frame):
+            return None
+
+        return frame
 
     except Exception:
         return None
@@ -112,12 +107,12 @@ def pyav_extract(url):
 # RETRY WRAPPER
 # ─────────────────────────────────────────────
 
-def extract_with_retry(url):
+def capture_with_retry(url):
     for _ in range(RETRIES):
-        frame = pyav_extract(url)
+        frame = ffmpeg_capture(url)
         if frame is not None:
             return frame
-        time.sleep(0.5)
+        time.sleep(0.3)
     return None
 
 
@@ -133,7 +128,7 @@ def process_stream(stream, idx):
     name = safe_name(stream.get("channel", f"stream_{idx}"))
     out_path = os.path.join(OUTPUT_DIR, f"{name}.webp")
 
-    frame = extract_with_retry(url)
+    frame = capture_with_retry(url)
 
     if frame is None:
         return False
@@ -151,36 +146,8 @@ def process_stream(stream, idx):
 
 
 # ─────────────────────────────────────────────
-# BATCH PROCESSING
+# MAIN POOL EXECUTION
 # ─────────────────────────────────────────────
-
-def process_batch(offset, batch):
-    workers = get_workers()
-    success = 0
-
-    with ThreadPoolExecutor(max_workers=workers) as executor:
-        futures = [
-            executor.submit(process_stream, stream, offset + i)
-            for i, stream in enumerate(batch)
-        ]
-
-        for f in as_completed(futures):
-            try:
-                success += 1 if f.result() else 0
-            except Exception:
-                pass
-
-    return success
-
-
-# ─────────────────────────────────────────────
-# MAIN
-# ─────────────────────────────────────────────
-
-def chunk_list(data, size):
-    for i in range(0, len(data), size):
-        yield i, data[i:i + size]
-
 
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -188,25 +155,28 @@ def main():
     data = load_json(STREAMS_FILE)
     streams = [s for s in data.get("streams", []) if is_online(s)]
 
-    batches = list(chunk_list(streams, BATCH_SIZE))
-
     print(f"Streams: {len(streams)}")
-    print(f"Batches: {len(batches)}\n")
+    print(f"Workers: {MAX_WORKERS}\n")
 
-    total = 0
+    success = 0
 
-    with ThreadPoolExecutor(max_workers=MAX_BATCH_WORKERS) as batch_exec:
+    # 🔥 FFmpeg SUBPROCESS POOL
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+
         futures = [
-            batch_exec.submit(process_batch, offset, batch)
-            for offset, batch in batches
+            executor.submit(process_stream, stream, i)
+            for i, stream in enumerate(streams)
         ]
 
-        for f in tqdm(as_completed(futures), total=len(futures), desc="Batches"):
-            total += f.result()
+        for f in tqdm(as_completed(futures), total=len(futures), desc="Processing"):
+            try:
+                success += 1 if f.result() else 0
+            except Exception:
+                pass
 
     print("\n━━━━━━━━━━━━━━━━━━━━━━")
     print("DONE")
-    print(f"Success: {total}/{len(streams)}")
+    print(f"Success: {success}/{len(streams)}")
 
 
 if __name__ == "__main__":
