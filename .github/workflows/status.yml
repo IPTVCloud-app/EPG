@@ -57,16 +57,11 @@ jobs:
 
           git commit -m "chore: update status"
 
-      - name: Sync with remote (SAFE)
+      - name: Sync with remote
+        continue-on-error: true
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-
           git fetch origin "${{ github.ref_name }}"
-
-          # HARD SYNC (no merge, no rebase issues)
-          git reset --hard "origin/${{ github.ref_name }}"
-          git clean -fd
+          git pull origin ${{ github.ref_name }} --rebase
 
       - name: Push changes safely
         run: |
