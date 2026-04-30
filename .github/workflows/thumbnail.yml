@@ -40,11 +40,7 @@ jobs:
           check-latest: true
 
       - name: Setup FFMPEG
-        uses: FedericoCarboni/setup-ffmpeg@v3
-        with:
-          ffmpeg-version: release
-          linking-type: static
-          github-token: ${{ github.server_url == 'https://github.com' && github.token || '' }}
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
      
       - name: Run Stream Thumbnail Capturer
         run: |
