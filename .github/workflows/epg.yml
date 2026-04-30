@@ -1,0 +1,60 @@
+name: EPG Cron Update
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      github.event_name == 'schedule' ||
+      (
+        github.event_name == 'push' &&
+        contains(github.event.head_commit.message, '[update epg]')
+      )
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Required for auto-commit to work correctly on some triggers
+          persist-credentials: false 
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 25
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.x'
+          check-latest: true
+
+      - name: Setup Dev Proxy
+        id: setup-devproxy
+        uses: dev-proxy-tools/actions/setup@v1
+        with:
+          version: v1.0.0
+
+      - name: Start EPG
+        env:
+          PROXY_URL: ${{ steps.setup-devproxy.outputs.proxy-url }}
+        run: |
+          chmod +x ./UpdateEPG.sh
+          ./UpdateEPG.sh
+
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: "chore: update epg"
+          branch: epg
