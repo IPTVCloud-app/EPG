@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """
-FAST IPTV THUMBNAIL CAPTURER (BATCH + PARALLEL OPTIMIZED)
+FAST IPTV THUMBNAIL CAPTURER (FIXED + RELIABLE)
+
+- Batch processing
+- Parallel batches
+- Thread-based workers
+- Robust ffmpeg extraction for IPTV/HLS
 """
 
 import os
@@ -8,7 +13,6 @@ import json
 import re
 import subprocess
 import io
-import multiprocessing
 
 import numpy as np
 from PIL import Image
@@ -25,7 +29,11 @@ STREAMS_FILE = "streams.json"
 OUTPUT_DIR = "thumbnails"
 
 BATCH_SIZE = 50
-TIMEOUT = 6
+TIMEOUT = 10          # increased (critical)
+MAX_RETRIES = 2
+
+MAX_BATCH_WORKERS = 8     # parallel batches
+MAX_STREAM_WORKERS = 32   # per batch
 
 
 # ─────────────────────────────────────────────
@@ -55,17 +63,27 @@ def chunk_list(data, size):
 
 
 # ─────────────────────────────────────────────
-# FAST FRAME EXTRACTION (FFMPEG)
+# IPTV-SAFE FRAME EXTRACTION (FIXED)
 # ─────────────────────────────────────────────
 
 def extract_frame(url):
     try:
         cmd = [
             "ffmpeg",
-            "-loglevel", "quiet",
-            "-ss", "2",
+            "-loglevel", "error",
+
+            # 🔥 critical flags for IPTV/HLS
+            "-fflags", "nobuffer",
+            "-flags", "low_delay",
+            "-rw_timeout", "5000000",
+            "-analyzeduration", "1000000",
+            "-probesize", "1000000",
+
             "-i", url,
+
+            # DO NOT SEEK (-ss removed for live streams)
             "-frames:v", "1",
+
             "-f", "image2pipe",
             "-vcodec", "mjpeg",
             "-"
@@ -106,24 +124,24 @@ def process_stream(stream, index):
 
     out_path = os.path.join(OUTPUT_DIR, f"{name}.jpg")
 
-    frame = extract_frame(url)
+    for _ in range(MAX_RETRIES):
+        frame = extract_frame(url)
+        if frame is not None:
+            try:
+                Image.fromarray(frame).save(out_path, quality=75, optimize=True)
+                return True
+            except Exception:
+                pass
 
-    if frame is None:
-        return False
-
-    try:
-        Image.fromarray(frame).save(out_path, quality=75, optimize=True)
-        return True
-    except Exception:
-        return False
+    return False
 
 
 # ─────────────────────────────────────────────
-# BATCH PROCESSING (THREAD-BASED)
+# BATCH PROCESSING
 # ─────────────────────────────────────────────
 
 def process_batch(batch, batch_id):
-    workers = min(32, len(batch))  # safe cap for stability
+    workers = min(MAX_STREAM_WORKERS, len(batch))
 
     success = 0
 
@@ -135,7 +153,8 @@ def process_batch(batch, batch_id):
 
         for f in as_completed(futures):
             try:
-                success += 1 if f.result() else 0
+                if f.result():
+                    success += 1
             except Exception:
                 pass
 
@@ -143,7 +162,7 @@ def process_batch(batch, batch_id):
 
 
 # ─────────────────────────────────────────────
-# MAIN (PARALLEL BATCH EXECUTION)
+# MAIN
 # ─────────────────────────────────────────────
 
 def main():
@@ -157,19 +176,23 @@ def main():
     print(f"Total streams: {len(streams)}")
     print(f"Batches: {len(batches)}")
     print(f"Batch size: {BATCH_SIZE}")
-    print(f"Parallel batch workers: {min(8, len(batches))}\n")
+    print(f"Batch workers: {min(MAX_BATCH_WORKERS, len(batches))}")
+    print(f"Stream workers per batch: {MAX_STREAM_WORKERS}\n")
 
     total_success = 0
 
     # ── PARALLEL BATCH EXECUTION ──
-    with ThreadPoolExecutor(max_workers=min(8, len(batches))) as batch_executor:
+    with ThreadPoolExecutor(max_workers=min(MAX_BATCH_WORKERS, len(batches))) as batch_executor:
         futures = [
             batch_executor.submit(process_batch, batch, i)
             for i, batch in enumerate(batches, 1)
         ]
 
         for f in tqdm(as_completed(futures), total=len(futures), desc="Batches"):
-            total_success += f.result()
+            try:
+                total_success += f.result()
+            except Exception:
+                pass
 
     print("\n━━━━━━━━━━━━━━━━━━━━━━")
     print("Done")
