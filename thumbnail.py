@@ -4,9 +4,9 @@ import os
 import json
 import re
 import time
-import av
+import subprocess
 import numpy as np
- 
+
 from PIL import Image
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
@@ -17,11 +17,8 @@ from tqdm import tqdm
 STREAMS_FILE = "streams.json"
 OUTPUT_DIR = "thumbnails"
 
-TIMEOUT = 3
-FRAME_LIMIT = 2
-
-# 🔥 CRITICAL: increase concurrency
-WORKERS = 64
+WORKERS = 48          # safe for subprocess (NOT PyAV)
+TIMEOUT = 6
 
 
 # ───────── UTIL ─────────
@@ -39,51 +36,42 @@ def is_online(s):
     return str(s.get("status", "")).lower() == "online"
 
 
-# ───────── FAST PYAV ─────────
+# ───────── FAST FFMEG (ISOLATED = NO CRASH) ─────────
 
 def extract_frame(url):
-    container = None
     try:
-        container = av.open(
-            url,
-            timeout=TIMEOUT,
-            options={
-                "fflags": "nobuffer",
-                "flags": "low_delay",
-                "probesize": "100000",
-                "analyzeduration": "100000",
-                "rw_timeout": "3000000",
-            }
+        cmd = [
+            "ffmpeg",
+            "-loglevel", "error",
+            "-rw_timeout", "5000000",
+
+            "-i", url,
+            "-frames:v", "1",
+            "-f", "image2pipe",
+            "-vcodec", "mjpeg",
+            "-"
+        ]
+
+        p = subprocess.run(
+            cmd,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.DEVNULL,
+            timeout=TIMEOUT
         )
 
-        if not container.streams.video:
+        if not p.stdout:
             return None
 
-        stream = container.streams.video[0]
-        stream.thread_type = "NONE"
+        img = Image.open(io.BytesIO(p.stdout)).convert("RGB")
+        frame = np.array(img)
 
-        for i, frame in enumerate(container.decode(video=0)):
-            if i >= FRAME_LIMIT:
-                break
+        if np.mean(frame) < 10:
+            return None
 
-            img = frame.to_ndarray(format="rgb24")
-
-            if np.mean(img) < 10:
-                continue
-
-            return img
-
-        return None
+        return frame
 
     except:
         return None
-
-    finally:
-        if container:
-            try:
-                container.close()
-            except:
-                pass
 
 
 # ───────── PROCESS ─────────
@@ -133,7 +121,7 @@ def main():
             for i, s in enumerate(streams)
         }
 
-        for f in tqdm(as_completed(futures), total=len(futures), desc="Decoding"):
+        for f in tqdm(as_completed(futures), total=len(futures), desc="Processing"):
             try:
                 success += 1 if f.result() else 0
             except:
