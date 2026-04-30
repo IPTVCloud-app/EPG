@@ -15,7 +15,7 @@ jobs:
       github.event_name == 'schedule' ||
       (
         github.event_name == 'push' &&
-        contains(github.event.head_commit.message, '[update streams]')
+        contains(github.event.head_commit.message, '[update thumbnails]')
       )
 
     permissions:
@@ -42,7 +42,7 @@ jobs:
       - name: Run stream checker
         run: |
           pip install numpy av pillow tqdm psutil
-          python thumbnail.py --concurrency 20 --timeout 10 --out status.json
+          python thumbnail.py
       
       - name: Configure Git
         run: |
