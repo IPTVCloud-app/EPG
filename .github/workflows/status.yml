@@ -41,7 +41,7 @@ jobs:
 
       - name: Run stream checker
         run: |
-          pip install aiohttp
+          pip install aiohttp aiodns
           python stream_status.py --concurrency 20 --timeout 10 --out status.json
 
       - name: Commit changes (if any)
