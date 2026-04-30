@@ -45,6 +45,9 @@ jobs:
         run: |
           pip install aiohttp
           python stream_status.py --concurrency 20 --timeout 10 --out status.json
+      
+      - name: Pull latest changes
+        run: git pull origin ${{ github.ref_name }} --rebase
 
       - name: Commit & Push changes
         uses: actions-js/push@master
