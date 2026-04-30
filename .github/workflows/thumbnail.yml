@@ -46,6 +46,7 @@ jobs:
         run: |
           pip install numpy pillow tqdm psutil av
           python thumbnail.py
+          python thumbnails_content.py
       
       - name: Configure Git
         run: |
