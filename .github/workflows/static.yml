@@ -36,7 +36,7 @@ jobs:
         run: |
           mkdir -p sites
           mv ./content.json ./sites/
-          mv ./status.json ./sites/
+          mv ./streams.json ./sites/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
