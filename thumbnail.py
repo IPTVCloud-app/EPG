@@ -1,22 +1,20 @@
 #!/usr/bin/env python3
 """
-FAST IPTV THUMBNAIL CAPTURER (FIXED + RELIABLE)
+FAST IPTV THUMBNAIL CAPTURER (PYAV OPTIMIZED)
 
 - Batch processing
 - Parallel batches
 - Thread-based workers
-- Robust ffmpeg extraction for IPTV/HLS
+- Fast frame sampling (no full decode loops)
 """
 
 import os
 import json
 import re
-import subprocess
-import io
-
+import av
 import numpy as np
-from PIL import Image
 
+from PIL import Image
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 
@@ -29,11 +27,13 @@ STREAMS_FILE = "streams.json"
 OUTPUT_DIR = "thumbnails"
 
 BATCH_SIZE = 50
-TIMEOUT = 10          # increased (critical)
-MAX_RETRIES = 2
+TIMEOUT = 5
+MAX_RETRIES = 1
 
-MAX_BATCH_WORKERS = 8     # parallel batches
-MAX_STREAM_WORKERS = 32   # per batch
+MAX_BATCH_WORKERS = 6
+MAX_STREAM_WORKERS = 16
+
+FRAME_SAMPLE_LIMIT = 5   # 🔥 reduced (critical for speed)
 
 
 # ─────────────────────────────────────────────
@@ -63,49 +63,42 @@ def chunk_list(data, size):
 
 
 # ─────────────────────────────────────────────
-# IPTV-SAFE FRAME EXTRACTION (FIXED)
+# FAST PYAV EXTRACTION
 # ─────────────────────────────────────────────
 
 def extract_frame(url):
     try:
-        cmd = [
-            "ffmpeg",
-            "-loglevel", "error",
-
-            # 🔥 critical flags for IPTV/HLS
-            "-fflags", "nobuffer",
-            "-flags", "low_delay",
-            "-rw_timeout", "5000000",
-            "-analyzeduration", "1000000",
-            "-probesize", "1000000",
-
-            "-i", url,
-
-            # DO NOT SEEK (-ss removed for live streams)
-            "-frames:v", "1",
-
-            "-f", "image2pipe",
-            "-vcodec", "mjpeg",
-            "-"
-        ]
-
-        result = subprocess.run(
-            cmd,
-            stdout=subprocess.PIPE,
-            stderr=subprocess.DEVNULL,
-            timeout=TIMEOUT
+        container = av.open(
+            url,
+            timeout=TIMEOUT,
+            options={
+                "fflags": "nobuffer",
+                "flags": "low_delay",
+                "probesize": "500000",
+                "analyzeduration": "500000",
+                "rw_timeout": "5000000",
+            }
         )
 
-        if not result.stdout:
-            return None
+        stream = container.streams.video[0]
+        stream.thread_type = "AUTO"
 
-        img = Image.open(io.BytesIO(result.stdout)).convert("RGB")
-        frame = np.array(img)
+        best_frame = None
 
-        if is_black(frame):
-            return None
+        for i, frame in enumerate(container.decode(video=0)):
+            if i >= FRAME_SAMPLE_LIMIT:
+                break
 
-        return frame
+            img = frame.to_ndarray(format="rgb24")
+
+            if is_black(img):
+                continue
+
+            best_frame = img
+            break  # 🔥 take first valid frame (fast)
+
+        container.close()
+        return best_frame
 
     except Exception:
         return None
@@ -128,7 +121,7 @@ def process_stream(stream, index):
         frame = extract_frame(url)
         if frame is not None:
             try:
-                Image.fromarray(frame).save(out_path, quality=75, optimize=True)
+                Image.fromarray(frame).save(out_path, quality=75)
                 return True
             except Exception:
                 pass
