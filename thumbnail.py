@@ -24,8 +24,8 @@ from tqdm import tqdm
 STREAMS_FILE = "streams.json"
 OUTPUT_DIR = "thumbnails"
 
-BATCH_SIZE = 100
-WORKERS_PER_BATCH = 16
+BATCH_SIZE = 10
+WORKERS_PER_BATCH = 6
 TIMEOUT = 1
 RETRIES = 2
 
