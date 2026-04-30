@@ -1,29 +1,38 @@
 #!/usr/bin/env python3
+"""
+FAST IPTV THUMBNAIL CAPTURER (BATCH + PARALLEL OPTIMIZED)
+"""
 
 import os
 import json
 import re
-import time
 import subprocess
-import numpy as np
+import io
+import multiprocessing
 
+import numpy as np
 from PIL import Image
+
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 
 
-# ───────── CONFIG ─────────
+# ─────────────────────────────────────────────
+# CONFIG
+# ─────────────────────────────────────────────
 
 STREAMS_FILE = "streams.json"
 OUTPUT_DIR = "thumbnails"
 
-WORKERS = 48          # safe for subprocess (NOT PyAV)
+BATCH_SIZE = 50
 TIMEOUT = 6
 
 
-# ───────── UTIL ─────────
+# ─────────────────────────────────────────────
+# UTIL
+# ─────────────────────────────────────────────
 
-def safe_name(name):
+def safe_name(name: str) -> str:
     return re.sub(r"[^a-zA-Z0-9_\-\.]", "_", name)
 
 
@@ -32,19 +41,29 @@ def load_json(path):
         return json.load(f)
 
 
-def is_online(s):
-    return str(s.get("status", "")).lower() == "online"
+def is_online(stream):
+    return str(stream.get("status", "")).strip().lower() == "online"
 
 
-# ───────── FAST FFMEG (ISOLATED = NO CRASH) ─────────
+def is_black(frame):
+    return np.mean(frame) < 8
+
+
+def chunk_list(data, size):
+    for i in range(0, len(data), size):
+        yield data[i:i + size]
+
+
+# ─────────────────────────────────────────────
+# FAST FRAME EXTRACTION (FFMPEG)
+# ─────────────────────────────────────────────
 
 def extract_frame(url):
     try:
         cmd = [
             "ffmpeg",
-            "-loglevel", "error",
-            "-rw_timeout", "5000000",
-
+            "-loglevel", "quiet",
+            "-ss", "2",
             "-i", url,
             "-frames:v", "1",
             "-f", "image2pipe",
@@ -52,56 +71,80 @@ def extract_frame(url):
             "-"
         ]
 
-        p = subprocess.run(
+        result = subprocess.run(
             cmd,
             stdout=subprocess.PIPE,
             stderr=subprocess.DEVNULL,
             timeout=TIMEOUT
         )
 
-        if not p.stdout:
+        if not result.stdout:
             return None
 
-        img = Image.open(io.BytesIO(p.stdout)).convert("RGB")
+        img = Image.open(io.BytesIO(result.stdout)).convert("RGB")
         frame = np.array(img)
 
-        if np.mean(frame) < 10:
+        if is_black(frame):
             return None
 
         return frame
 
-    except:
+    except Exception:
         return None
 
 
-# ───────── PROCESS ─────────
+# ─────────────────────────────────────────────
+# STREAM PROCESSING
+# ─────────────────────────────────────────────
 
-def process(stream, idx):
+def process_stream(stream, index):
     url = stream.get("url")
-    name = safe_name(stream.get("channel", f"stream_{idx}"))
+    name = safe_name(stream.get("channel", f"stream_{index}"))
 
     if not url:
         return False
 
-    out = os.path.join(OUTPUT_DIR, f"{name}.webp")
+    out_path = os.path.join(OUTPUT_DIR, f"{name}.jpg")
 
     frame = extract_frame(url)
+
     if frame is None:
         return False
 
     try:
-        Image.fromarray(frame).save(
-            out,
-            format="WEBP",
-            quality=80,
-            method=0
-        )
+        Image.fromarray(frame).save(out_path, quality=75, optimize=True)
         return True
-    except:
+    except Exception:
         return False
 
 
-# ───────── MAIN ─────────
+# ─────────────────────────────────────────────
+# BATCH PROCESSING (THREAD-BASED)
+# ─────────────────────────────────────────────
+
+def process_batch(batch, batch_id):
+    workers = min(32, len(batch))  # safe cap for stability
+
+    success = 0
+
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        futures = [
+            executor.submit(process_stream, stream, idx)
+            for idx, stream in enumerate(batch)
+        ]
+
+        for f in as_completed(futures):
+            try:
+                success += 1 if f.result() else 0
+            except Exception:
+                pass
+
+    return success
+
+
+# ─────────────────────────────────────────────
+# MAIN (PARALLEL BATCH EXECUTION)
+# ─────────────────────────────────────────────
 
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -109,29 +152,28 @@ def main():
     data = load_json(STREAMS_FILE)
     streams = [s for s in data.get("streams", []) if is_online(s)]
 
-    print(f"Streams: {len(streams)}")
-    print(f"Workers: {WORKERS}\n")
+    batches = list(chunk_list(streams, BATCH_SIZE))
 
-    start = time.time()
-    success = 0
+    print(f"Total streams: {len(streams)}")
+    print(f"Batches: {len(batches)}")
+    print(f"Batch size: {BATCH_SIZE}")
+    print(f"Parallel batch workers: {min(8, len(batches))}\n")
 
-    with ThreadPoolExecutor(max_workers=WORKERS) as executor:
-        futures = {
-            executor.submit(process, s, i): i
-            for i, s in enumerate(streams)
-        }
+    total_success = 0
 
-        for f in tqdm(as_completed(futures), total=len(futures), desc="Processing"):
-            try:
-                success += 1 if f.result() else 0
-            except:
-                pass
+    # ── PARALLEL BATCH EXECUTION ──
+    with ThreadPoolExecutor(max_workers=min(8, len(batches))) as batch_executor:
+        futures = [
+            batch_executor.submit(process_batch, batch, i)
+            for i, batch in enumerate(batches, 1)
+        ]
+
+        for f in tqdm(as_completed(futures), total=len(futures), desc="Batches"):
+            total_success += f.result()
 
     print("\n━━━━━━━━━━━━━━━━━━━━━━")
-    print(f"Done")
-    print(f"Success: {success}/{len(streams)}")
-    print(f"Time: {time.time() - start:.2f}s")
-    print("━━━━━━━━━━━━━━━━━━━━━━")
+    print("Done")
+    print(f"Success: {total_success}/{len(streams)}")
 
 
 if __name__ == "__main__":
