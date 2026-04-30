@@ -6,29 +6,25 @@ import re
 import time
 import av
 import numpy as np
-import queue
-import threading
 
 from PIL import Image
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 
 
-# ───────────────── CONFIG ─────────────────
+# ───────── CONFIG ─────────
 
 STREAMS_FILE = "streams.json"
 OUTPUT_DIR = "thumbnails"
 
-TIMEOUT = 4
-FRAME_LIMIT = 3
+TIMEOUT = 3
+FRAME_LIMIT = 2
 
-DECODE_WORKERS = 12     # CPU/network bound
-ENCODE_WORKERS = 6      # disk bound
-
-QUEUE_SIZE = 500
+# 🔥 CRITICAL: increase concurrency
+WORKERS = 64
 
 
-# ───────────────── UTIL ─────────────────
+# ───────── UTIL ─────────
 
 def safe_name(name):
     return re.sub(r"[^a-zA-Z0-9_\-\.]", "_", name)
@@ -43,98 +39,81 @@ def is_online(s):
     return str(s.get("status", "")).lower() == "online"
 
 
-# ───────────────── QUEUES ─────────────────
+# ───────── FAST PYAV ─────────
 
-frame_queue = queue.Queue(maxsize=QUEUE_SIZE)
-done_queue = queue.Queue()
+def extract_frame(url):
+    container = None
+    try:
+        container = av.open(
+            url,
+            timeout=TIMEOUT,
+            options={
+                "fflags": "nobuffer",
+                "flags": "low_delay",
+                "probesize": "100000",
+                "analyzeduration": "100000",
+                "rw_timeout": "3000000",
+            }
+        )
 
+        if not container.streams.video:
+            return None
 
-# ───────────────── DECODE WORKER ─────────────────
+        stream = container.streams.video[0]
+        stream.thread_type = "NONE"
 
-def decode_worker(streams, pbar):
-    for i, stream in enumerate(streams):
-        url = stream.get("url")
-        name = safe_name(stream.get("channel", f"stream_{i}"))
+        for i, frame in enumerate(container.decode(video=0)):
+            if i >= FRAME_LIMIT:
+                break
 
-        if not url:
-            pbar.update(1)
-            continue
+            img = frame.to_ndarray(format="rgb24")
 
-        try:
-            container = av.open(
-                url,
-                timeout=TIMEOUT,
-                options={
-                    "fflags": "nobuffer",
-                    "flags": "low_delay",
-                    "probesize": "200000",
-                    "analyzeduration": "200000",
-                }
-            )
+            if np.mean(img) < 10:
+                continue
 
-            if not container.streams.video:
-                raise Exception()
+            return img
 
-            stream_v = container.streams.video[0]
-            stream_v.thread_type = "NONE"
+        return None
 
-            frame = None
+    except:
+        return None
 
-            for j, f in enumerate(container.decode(video=0)):
-                if j >= FRAME_LIMIT:
-                    break
-
-                img = f.to_ndarray(format="rgb24")
-
-                if np.mean(img) > 10:
-                    frame = img
-                    break
-
-            container.close()
-
-            if frame is not None:
-                frame_queue.put((name, frame))
-
-        except:
-            pass
-
-        pbar.update(1)
-
-    # signal end
-    for _ in range(ENCODE_WORKERS):
-        frame_queue.put(None)
+    finally:
+        if container:
+            try:
+                container.close()
+            except:
+                pass
 
 
-# ───────────────── ENCODE WORKER ─────────────────
+# ───────── PROCESS ─────────
 
-def encode_worker():
-    while True:
-        item = frame_queue.get()
+def process(stream, idx):
+    url = stream.get("url")
+    name = safe_name(stream.get("channel", f"stream_{idx}"))
 
-        if item is None:
-            break
+    if not url:
+        return False
 
-        name, frame = item
+    out = os.path.join(OUTPUT_DIR, f"{name}.webp")
 
-        path = os.path.join(OUTPUT_DIR, f"{name}.webp")
+    frame = extract_frame(url)
+    if frame is None:
+        return False
 
-        try:
-            img = Image.fromarray(frame)
-
-            img.save(
-                path,
-                format="WEBP",
-                quality=80,
-                method=0
-            )
-
-            done_queue.put(True)
-
-        except:
-            done_queue.put(False)
+    try:
+        Image.fromarray(frame).save(
+            out,
+            format="WEBP",
+            quality=80,
+            method=0
+        )
+        return True
+    except:
+        return False
 
 
-# ───────────────── MAIN ─────────────────
+# ───────── MAIN ─────────
 
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -142,39 +121,27 @@ def main():
     data = load_json(STREAMS_FILE)
     streams = [s for s in data.get("streams", []) if is_online(s)]
 
-    total = len(streams)
-
-    print(f"Streams: {total}")
-    print(f"Decode workers: {DECODE_WORKERS}")
-    print(f"Encode workers: {ENCODE_WORKERS}\n")
+    print(f"Streams: {len(streams)}")
+    print(f"Workers: {WORKERS}\n")
 
     start = time.time()
-
-    with tqdm(total=total, desc="Decoding") as pbar:
-
-        # start encode workers
-        encoders = []
-        for _ in range(ENCODE_WORKERS):
-            t = threading.Thread(target=encode_worker, daemon=True)
-            t.start()
-            encoders.append(t)
-
-        # run decode workers
-        decode_worker(streams, pbar)
-
-        # wait encoders
-        for t in encoders:
-            t.join()
-
-    # summary
     success = 0
-    while not done_queue.empty():
-        if done_queue.get():
-            success += 1
+
+    with ThreadPoolExecutor(max_workers=WORKERS) as executor:
+        futures = {
+            executor.submit(process, s, i): i
+            for i, s in enumerate(streams)
+        }
+
+        for f in tqdm(as_completed(futures), total=len(futures), desc="Decoding"):
+            try:
+                success += 1 if f.result() else 0
+            except:
+                pass
 
     print("\n━━━━━━━━━━━━━━━━━━━━━━")
     print(f"Done")
-    print(f"Success: {success}/{total}")
+    print(f"Success: {success}/{len(streams)}")
     print(f"Time: {time.time() - start:.2f}s")
     print("━━━━━━━━━━━━━━━━━━━━━━")
 
