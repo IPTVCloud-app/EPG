@@ -39,7 +39,14 @@ jobs:
           python-version: '3.x'
           check-latest: true
 
-      - name: Run stream checker
+      - name: Setup FFMPEG
+        uses: FedericoCarboni/setup-ffmpeg@v3
+        with:
+          ffmpeg-version: release
+          linking-type: static
+          github-token: ${{ github.server_url == 'https://github.com' && github.token || '' }}
+     
+      - name: Run Stream Thumbnail Capturer
         run: |
           pip install numpy pillow tqdm psutil av
           python thumbnail.py
