@@ -49,6 +49,7 @@ jobs:
         env:
           PROXY_URL: ${{ steps.setup-devproxy.outputs.proxy-url }}
         run: |
+          pip install aiohttp
           python3 "./stream_status.py"
 
       - name: Commit & Push changes
