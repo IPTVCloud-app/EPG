@@ -33,7 +33,9 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Move content.json to sites/ folder.
-        run: mv ./content.json ./sites/
+        run: |
+          mv ./content.json ./sites/
+          mv ./status.json ./sites/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

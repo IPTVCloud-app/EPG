@@ -9,10 +9,11 @@ import aiohttp
 import json
 import logging
 import os
+import socket
 import sys
 import time
 from dataclasses import dataclass, field
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Optional
 from urllib.parse import urlparse
 
@@ -45,7 +46,7 @@ class StreamResult:
     status:     str               # "online" | "offline"
     http_code:  Optional[int]   = None
     latency_ms: Optional[float] = None
-    checked_at: str = field(default_factory=lambda: datetime.utcnow().isoformat())
+    checked_at: str = field(default_factory=lambda: datetime.now(timezone.utc).isoformat())
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
@@ -136,7 +137,11 @@ async def check_stream(
                 return make_offline(channel, url)
 
             # ── Timeout (connect or read) ──────────────────────────────────────
-            except (asyncio.TimeoutError, aiohttp.ClientTimeout.__class__):
+            except asyncio.TimeoutError:
+                return make_offline(channel, url)
+
+            # ── DNS resolution failure ─────────────────────────────────────────
+            except socket.gaierror:
                 return make_offline(channel, url)
 
             # ── Payload / encoding errors ──────────────────────────────────────
@@ -226,7 +231,7 @@ def save_results(results: list[StreamResult]) -> None:
     offline = [r for r in results if r.status != "online"]
 
     output = {
-        "checked_at": datetime.utcnow().isoformat(),
+        "checked_at": datetime.now(timezone.utc).isoformat(),
         "summary": {
             "total":   len(results),
             "online":  len(online),

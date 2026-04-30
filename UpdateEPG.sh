@@ -506,9 +506,16 @@ while IFS='|' read -r TOKEN F1 F2 F3 F4 F5 F6 F7 F8; do
         partial_tag=" ${YELLOW}~partial${NC}"
         PARTIAL_PASS=$(( PARTIAL_PASS + 1 ))
       fi
-      printf "${GREEN}[OK  %d/%d]${NC}%s  %-40s  %s  ${CYAN}%s progs${NC}  %s  ${DIM}%s${NC}%s\n" \
+      # ── Progress ratio coloring: green when >50% done, yellow early on ──
+      local ratio_color="$YELLOW"
+      (( PASS * 2 >= TOTAL )) && ratio_color="$GREEN"
+      printf "${BOLD}${GREEN}[OK${NC}  ${ratio_color}%d/%d${NC}${BOLD}${GREEN}]${NC}%s  ${BOLD}%-40s${NC}  %s  ${BOLD}${CYAN}%s progs${NC}  ${DIM}%s  %s${NC}%s\n" \
         "$PASS" "$TOTAL" "$partial_tag" "$F1" \
         "$sz" "$local_progs" "$local_elapsed" "$local_host" "$retry_tag"
+      # ── Saved confirmation line ──────────────────────────────────────
+      local saved_path="${OUTPUT_DIR}/${F1}.xml"
+      printf "           ${DIM}└─${NC} ${GREEN}✔ saved${NC}  ${CYAN}${saved_path}${NC}  ${DIM}(%s, %s progs)${NC}\n" \
+        "$(format_bytes "$local_bytes")" "$local_progs"
       ;;
 
     SKIP)
