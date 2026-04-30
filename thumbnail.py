@@ -74,9 +74,9 @@ def ffmpeg_capture(url):
         "-ss", "00:00:01",
         "vframes", "1",
         "-i", url,
-
-        "-q:v", "2",
-
+        "-reorder_queue_size", "0",
+        "-q:v", "5",
+        "-vf", "scale=iw/2:ih/2",
         "-frames:v", "1",
         "-f", "image2pipe",
         "-vcodec", "mjpeg",
