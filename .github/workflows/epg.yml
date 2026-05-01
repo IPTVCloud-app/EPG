@@ -50,7 +50,7 @@ jobs:
           PROXY_URL: ${{ steps.setup-devproxy.outputs.proxy-url }}
         run: |
           chmod +x ./update_epg.sh
-          ./update_epg.sh
+          ./update_epg.sh || true
       
       - name: Configure Git
         run: |
