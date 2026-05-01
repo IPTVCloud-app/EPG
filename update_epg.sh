@@ -17,7 +17,7 @@ set -Eeuo pipefail
 #   DELAY             ms between requests             (default: 250)
 #   SITE_TIMEOUT      per-attempt wall budget (s)     (default: 1000)
 #   GRAB_TIMEOUT      per-channel HTTP timeout (ms)   (default: 1000)
-#   DAYS              days of EPG to grab             (default: 90)
+#   DAYS              days of EPG to grab             (default: 1)
 #   MIN_PROGRAMMES    min progs to count as PASS      (default: 1)
 #   MAX_RETRIES       attempts per site               (default: 2)
 #   RETRY_DELAY       seconds between retries         (default: 2)
@@ -38,7 +38,7 @@ MAX_CONNECTIONS="${MAX_CONNECTIONS:-20}"
 DELAY="${DELAY:-250}"
 SITE_TIMEOUT="${SITE_TIMEOUT:-1000}"
 GRAB_TIMEOUT="${GRAB_TIMEOUT:-1000}"
-DAYS="${DAYS:-90}"
+DAYS="${DAYS:-1}"
 MIN_PROGRAMMES="${MIN_PROGRAMMES:-1}"
 MAX_RETRIES="${MAX_RETRIES:-2}"
 RETRY_DELAY="${RETRY_DELAY:-2}"
