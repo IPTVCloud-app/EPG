@@ -13,14 +13,14 @@ set -Eeuo pipefail
 #
 # Tunables (env vars):
 #   PARALLEL          outer site workers              (default: 12)
-#   MAX_CONNECTIONS   in-site concurrent channel pool (default: 5)
+#   MAX_CONNECTIONS   in-site concurrent channel pool (default: 20)
 #   DELAY             ms between requests             (default: 250)
-#   SITE_TIMEOUT      per-attempt wall budget (s)     (default: 1200)
-#   GRAB_TIMEOUT      per-channel HTTP timeout (ms)   (default: 30000)
-#   DAYS              days of EPG to grab             (default: 2)
+#   SITE_TIMEOUT      per-attempt wall budget (s)     (default: 1000)
+#   GRAB_TIMEOUT      per-channel HTTP timeout (ms)   (default: 1000)
+#   DAYS              days of EPG to grab             (default: 90)
 #   MIN_PROGRAMMES    min progs to count as PASS      (default: 1)
-#   MAX_RETRIES       attempts per site               (default: 10)
-#   RETRY_DELAY       seconds between retries         (default: 5)
+#   MAX_RETRIES       attempts per site               (default: 2)
+#   RETRY_DELAY       seconds between retries         (default: 2)
 #   GZIP              also write .xml.gz beside .xml  (default: 0)
 #   REPO_URL          iptv-org/epg fork to use
 # ════════════════════════════════════════════════════════════════
@@ -34,14 +34,14 @@ OUT_DIR="$BASE_DIR/sites"
 LOG_DIR="$BASE_DIR/logs"
 
 PARALLEL="${PARALLEL:-12}"
-MAX_CONNECTIONS="${MAX_CONNECTIONS:-5}"
+MAX_CONNECTIONS="${MAX_CONNECTIONS:-20}"
 DELAY="${DELAY:-250}"
-SITE_TIMEOUT="${SITE_TIMEOUT:-1200}"
-GRAB_TIMEOUT="${GRAB_TIMEOUT:-30000}"
-DAYS="${DAYS:-2}"
+SITE_TIMEOUT="${SITE_TIMEOUT:-1000}"
+GRAB_TIMEOUT="${GRAB_TIMEOUT:-1000}"
+DAYS="${DAYS:-90}"
 MIN_PROGRAMMES="${MIN_PROGRAMMES:-1}"
-MAX_RETRIES="${MAX_RETRIES:-10}"
-RETRY_DELAY="${RETRY_DELAY:-5}"
+MAX_RETRIES="${MAX_RETRIES:-2}"
+RETRY_DELAY="${RETRY_DELAY:-2}"
 GZIP="${GZIP:-0}"
 
 GREEN='\033[0;32m'
