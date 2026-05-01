@@ -59,12 +59,13 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Commit changes (if any)
+        continue-on-error: true
         run: |
           git add -A
 
           git diff --cached --quiet && echo "No changes" && exit 0
 
-          git commit -m "chore: update status"
+          git commit -m "chore: update thumbnails"
 
       - name: Sync with remote
         continue-on-error: true
@@ -73,5 +74,6 @@ jobs:
           git pull origin ${{ github.ref_name }} --rebase
 
       - name: Push changes safely
+        continue-on-error: true
         run: |
           git push origin HEAD:${{ github.ref_name }}
