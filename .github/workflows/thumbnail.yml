@@ -6,6 +6,10 @@ on:
   schedule:
     - cron: '0 */2 * * *'
 
+concurrency:
+  group: thumbnail-job
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -25,7 +29,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # IMPORTANT: full history
+          fetch-depth: 0
           persist-credentials: true
 
       - name: Setup Node.js
@@ -37,36 +41,31 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: '3.x'
-          check-latest: true
 
-      - name: Setup FFMPEG
-        run: sudo apt-get update && sudo apt-get install -y ffmpeg
-     
-      - name: Run Stream Thumbnail Capturer
+      - name: Install dependencies
         run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
           pip install numpy pillow tqdm psutil av
+
+      - name: Run Thumbnail Generator
+        run: |
           python thumbnail.py
           python thumbnails_content.py
-      
+
       - name: Configure Git
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit changes (if any)
+      - name: Commit & Force Push (NO CONFLICTS)
         run: |
           git add -A
 
-          git diff --cached --quiet && echo "No changes" && exit 0
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
 
           git commit -m "chore: update thumbnails"
-
-      - name: Sync with remote
-        continue-on-error: true
-        run: |
-          git fetch origin "${{ github.ref_name }}"
-          git pull origin ${{ github.ref_name }} --rebase
-
-      - name: Push changes safely
-        run: |
-          git push origin HEAD:${{ github.ref_name }}
+          git push origin HEAD:${{ github.ref_name }} --force
