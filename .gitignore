@@ -20,3 +20,7 @@ Gemfile.lock
 # EPG Logs
 logs/**/*.log
 epg/
+devproxy/
+.config/*
+.agents/*
+.vscode/*
