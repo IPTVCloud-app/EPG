@@ -50,8 +50,9 @@ jobs:
 
       - name: Run Thumbnail Generator
         run: |
-          python thumbnail.py
-          python thumbnails_content.py
+          rm -rf thumbnails/*.webp || true
+          python thumbnail.py || true
+          python thumbnails_content.py || true
 
       - name: Configure Git
         run: |
