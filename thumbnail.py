@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-IPTV THUMBNAIL CAPTURER (BATCH + FFMPEG POOL + WEBP 80%)
+IPTV THUMBNAIL CAPTURER FOR IPTVCLOUD.APP
 """
 
 import os
@@ -9,6 +9,7 @@ import re
 import subprocess
 import io
 import time
+import hashlib
 
 import numpy as np
 from PIL import Image
@@ -38,6 +39,13 @@ def safe_name(name: str):
     return re.sub(r"[^a-zA-Z0-9_\-\.]", "_", name)
 
 
+def unique_name(stream, idx):
+    base = safe_name(stream.get("channel", f"stream_{idx}"))
+    url = stream.get("url", "")
+    h = hashlib.md5(url.encode()).hexdigest()[:8]
+    return f"{base}_{h}"
+
+
 def load_json(path):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
@@ -56,8 +64,19 @@ def chunk_list(data, size):
         yield i, data[i:i + size]
 
 
+def deduplicate_streams(streams):
+    seen = set()
+    unique = []
+    for s in streams:
+        url = s.get("url")
+        if url and url not in seen:
+            seen.add(url)
+            unique.append(s)
+    return unique
+
+
 # ─────────────────────────────────────────────
-# FFMPEG FRAME CAPTURE (OPTIMIZED)
+# FFMPEG FRAME CAPTURE
 # ─────────────────────────────────────────────
 
 def ffmpeg_capture(url):
@@ -72,15 +91,12 @@ def ffmpeg_capture(url):
         "-reconnect_delay_max", "1",
         "-rw_timeout", "8000000",
         "-ss", "00:00:01",
-        "vframes", "1",
         "-i", url,
         "-reorder_queue_size", "0",
-        "-q:v", "5",
         "-vf", "scale=iw/2:ih/2",
-        "-frames:v", "1",
+        "-vframes", "1",  # FIXED
         "-f", "image2pipe",
         "-vcodec", "mjpeg",
-
         "-"
     ]
 
@@ -132,22 +148,29 @@ def process_stream(stream, idx):
     if not url:
         return False
 
-    name = safe_name(stream.get("channel", f"stream_{idx}"))
+    name = unique_name(stream, idx)
     out_path = os.path.join(OUTPUT_DIR, f"{name}.webp")
 
     frame = capture_with_retry(url)
-
     if frame is None:
         return False
 
     try:
+        tmp_path = out_path + ".tmp"
+
+        # Save to temp file first
         Image.fromarray(frame).save(
-            out_path,
+            tmp_path,
             format="WEBP",
-            quality=80,   # ✅ REQUIRED
+            quality=80,
             method=4
         )
+
+        # Atomic overwrite (safe even with threads)
+        os.replace(tmp_path, out_path)
+
         return True
+
     except Exception:
         return False
 
@@ -167,7 +190,8 @@ def process_batch(batch, batch_id):
 
         for f in as_completed(futures):
             try:
-                success += 1 if f.result() else 0
+                if f.result():
+                    success += 1
             except Exception:
                 pass
 
@@ -183,6 +207,9 @@ def main():
 
     data = load_json(STREAMS_FILE)
     streams = [s for s in data.get("streams", []) if is_online(s)]
+
+    # Remove duplicate URLs
+    streams = deduplicate_streams(streams)
 
     batches = list(chunk_list(streams, BATCH_SIZE))
 
