@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-IPTV THUMBNAIL CAPTURER FOR IPTVCLOUD.APP
+IPTV THUMBNAIL CAPTURER
 """
 
 import os
@@ -9,7 +9,6 @@ import re
 import subprocess
 import io
 import time
-import hashlib
 
 import numpy as np
 from PIL import Image
@@ -36,14 +35,12 @@ RETRIES = 2
 # ─────────────────────────────────────────────
 
 def safe_name(name: str):
-    return re.sub(r"[^a-zA-Z0-9_\-\.]", "_", name)
+    return re.sub(r"[^a-zA-Z0-9_\-\.]", "_", name).strip("_")
 
 
 def unique_name(stream, idx):
-    base = safe_name(stream.get("channel", f"stream_{idx}"))
-    url = stream.get("url", "")
-    h = hashlib.md5(url.encode()).hexdigest()[:8]
-    return f"{base}_{h}"
+    # ✅ STABLE NAME (NO URL HASH, NO INDEX DRIFT)
+    return safe_name(stream.get("channel", f"stream_{idx}"))
 
 
 def load_json(path):
@@ -76,6 +73,25 @@ def deduplicate_streams(streams):
 
 
 # ─────────────────────────────────────────────
+# CLEANUP (REMOVE OLD FILES)
+# ─────────────────────────────────────────────
+
+def cleanup_thumbnails(valid_names):
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+    existing = set(f for f in os.listdir(OUTPUT_DIR) if f.endswith(".webp"))
+    valid = set(f"{name}.webp" for name in valid_names)
+
+    stale = existing - valid
+
+    for f in stale:
+        try:
+            os.remove(os.path.join(OUTPUT_DIR, f))
+        except Exception:
+            pass
+
+
+# ─────────────────────────────────────────────
 # FFMPEG FRAME CAPTURE
 # ─────────────────────────────────────────────
 
@@ -94,7 +110,7 @@ def ffmpeg_capture(url):
         "-i", url,
         "-reorder_queue_size", "0",
         "-vf", "scale=iw/2:ih/2",
-        "-vframes", "1",  # FIXED
+        "-vframes", "1",
         "-f", "image2pipe",
         "-vcodec", "mjpeg",
         "-"
@@ -126,10 +142,6 @@ def ffmpeg_capture(url):
         return None
 
 
-# ─────────────────────────────────────────────
-# RETRY WRAPPER
-# ─────────────────────────────────────────────
-
 def capture_with_retry(url):
     for _ in range(RETRIES):
         frame = ffmpeg_capture(url)
@@ -158,7 +170,6 @@ def process_stream(stream, idx):
     try:
         tmp_path = out_path + ".tmp"
 
-        # Save to temp file first
         Image.fromarray(frame).save(
             tmp_path,
             format="WEBP",
@@ -166,7 +177,7 @@ def process_stream(stream, idx):
             method=4
         )
 
-        # Atomic overwrite (safe even with threads)
+        # ✅ atomic replace (safe)
         os.replace(tmp_path, out_path)
 
         return True
@@ -184,7 +195,7 @@ def process_batch(batch, batch_id):
 
     with ThreadPoolExecutor(max_workers=WORKERS_PER_BATCH) as executor:
         futures = [
-            executor.submit(process_stream, stream, batch_id * 1000 + i)
+            executor.submit(process_stream, stream, i)
             for i, stream in enumerate(batch)
         ]
 
@@ -208,23 +219,22 @@ def main():
     data = load_json(STREAMS_FILE)
     streams = [s for s in data.get("streams", []) if is_online(s)]
 
-    # Remove duplicate URLs
     streams = deduplicate_streams(streams)
+
+    # ✅ CLEANUP BEFORE GENERATION
+    names = [unique_name(s, i) for i, s in enumerate(streams)]
+    cleanup_thumbnails(names)
 
     batches = list(chunk_list(streams, BATCH_SIZE))
 
     print(f"Total streams: {len(streams)}")
-    print(f"Batches: {len(batches)}")
-    print(f"Batch size: {BATCH_SIZE}")
-    print(f"Workers per batch: {WORKERS_PER_BATCH}\n")
 
     total_success = 0
 
-    for i, (offset, batch) in enumerate(tqdm(batches, desc="Batches")):
+    for i, (_, batch) in enumerate(tqdm(batches, desc="Batches")):
         total_success += process_batch(batch, i)
 
-    print("\n━━━━━━━━━━━━━━━━━━━━━━")
-    print("DONE")
+    print("\nDONE")
     print(f"Success: {total_success}/{len(streams)}")
 
 
