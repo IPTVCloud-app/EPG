@@ -34,7 +34,7 @@ jobs:
           echo "Last commit message:"
           echo "$MSG"
 
-          if echo "$MSG" | grep -qi "chore update:"; then
+          if echo "$MSG" | grep -qi "chore:"; then
             echo "match=true" >> $GITHUB_OUTPUT
           else
             echo "match=false" >> $GITHUB_OUTPUT
@@ -43,7 +43,7 @@ jobs:
       - name: Skip if no match
         if: steps.check.outputs.match != 'true' && github.event_name != 'workflow_dispatch'
         run: |
-          echo "No 'chore update:' found. Skipping deploy."
+          echo "No 'chore:' found. Skipping deploy."
           exit 0
 
       - name: Setup Pages
