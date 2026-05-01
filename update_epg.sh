@@ -430,13 +430,13 @@ XARGS_PGID=""
 # ── POST-PROCESS ────────────────────────────────────────────────
 if [[ $PASS -gt 0 ]]; then
     log "Pretty-printing XMLTV files..."
-    python3 "$BASE_DIR/xml_prettier.py" "$OUT_DIR" || true
+    python3 "$BASE_DIR/xml_formatter.py" "$OUT_DIR" || true
 
     log "Splitting oversized XMLTV files (>1 MB)..."
-    python3 "$BASE_DIR/split_xml.py" "$OUT_DIR" || true
+    python3 "$BASE_DIR/xml_splitter.py" "$OUT_DIR" || true
 
     log "Regenerating content.json index..."
-    python3 "$BASE_DIR/content.py" "$OUT_DIR" "$BASE_DIR/content.json" || true
+    python3 "$BASE_DIR/content_generator.py" "$OUT_DIR" "$BASE_DIR/content.json" || true
 else
     log "No successful grabs — skipping post-processing."
 fi
