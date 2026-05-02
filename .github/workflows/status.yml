@@ -70,3 +70,8 @@ jobs:
       - name: Push changes safely
         run: |
           git push origin HEAD:${{ github.ref_name }}
+
+      - name: Build pages
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: static.yml
