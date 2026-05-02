@@ -70,3 +70,8 @@ jobs:
 
           git commit -m "chore: update thumbnails"
           git push origin HEAD:${{ github.ref_name }} --force
+
+      - name: Build pages
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: static.yml
