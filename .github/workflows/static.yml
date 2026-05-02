@@ -34,7 +34,7 @@ jobs:
           echo "Last commit message:"
           echo "$MSG"
 
-          if echo "$MSG" | grep -qi "chore:"; then
+          if echo "$MSG" | grep -qi "[update pages]"; then
             echo "match=true" >> $GITHUB_OUTPUT
           else
             echo "match=false" >> $GITHUB_OUTPUT
