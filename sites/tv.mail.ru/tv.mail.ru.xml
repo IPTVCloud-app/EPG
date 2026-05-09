@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260508">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260509">
 <channel id="Eurosport1.fr@Russia"><display-name>Eurosport 1</display-name><icon src="https://i.imgur.com/olQJgm7.png"/><url>https://tv.mail.ru</url></channel>
 <channel id="MTV00s.uk@SD"><display-name>MTV 00s</display-name><icon src="https://i.imgur.com/l5wBRfF.png"/><url>https://tv.mail.ru</url></channel>
 <channel id="Mir.ru@SD"><display-name>МИР</display-name><icon src="https://i.imgur.com/AqWaJT8.png"/><url>https://tv.mail.ru</url></channel>
@@ -648,23 +648,677 @@
 <channel id="vijuPlusPremiere.ru@SD"><display-name>viju+ Premiere</display-name><icon src="https://i.imgur.com/klRvhR5.png"/><url>https://tv.mail.ru</url></channel>
 <channel id="ZnanieTV.ru@SD"><display-name>Знание ТВ</display-name><icon src="https://i.imgur.com/Et5hmy0.png"/><url>https://tv.mail.ru</url></channel>
 <channel id="CuriosityStream.ru@SD"><display-name>Curiosity Stream</display-name><icon src="https://i.imgur.com/UFREahx.png"/><url>https://tv.mail.ru</url></channel>
-<programme start="20260508022900 +0000" stop="20260508033000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Mountain bike: World cup elite Yongpyong Мужчины Elite Олимпийский кросс-кантри</title></programme>
-<programme start="20260508033000 +0000" stop="20260508042900 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт &amp;#34;Вуэльта&amp;#34; Испании Пятый этап Женщины</title></programme>
-<programme start="20260508042900 +0000" stop="20260508063500 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Снукер: World Championship Sheffield Shaun Murphy - Wu Yize Final</title></programme>
-<programme start="20260508063500 +0000" stop="20260508073000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Скалолазание: World Series Keqiao Мужчины Боулдеринг Финал</title></programme>
-<programme start="20260508073000 +0000" stop="20260508085800 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Мотогонки на выносливость. World Championship 6 Hours Of Imola</title></programme>
-<programme start="20260508085800 +0000" stop="20260508095900 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт &amp;#34;Вуэльта&amp;#34; Испании Пятый этап Женщины</title></programme>
-<programme start="20260508095900 +0000" stop="20260508103000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт шоу</title><category lang="ru">Досуг,Хобби</category></programme>
-<programme start="20260508103000 +0000" stop="20260508143000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт World Tour &amp;#34;Джиро д&amp;#39;Италия&amp;#34; Первый этап Men. Прямая трансляция</title></programme>
-<programme start="20260508143000 +0000" stop="20260508161500 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт: World Tour Вуэльта Испании Шестой этап Women. Прямая трансляция</title></programme>
-<programme start="20260508161500 +0000" stop="20260508180000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт World Tour &amp;#34;Джиро д&amp;#39;Италия&amp;#34; Первый этап Men</title></programme>
-<programme start="20260508180000 +0000" stop="20260508183000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Секрет выносливости: Гонка за совершенством</title><category lang="ru">Документальное</category></programme>
-<programme start="20260508183000 +0000" stop="20260508190000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Альпинизм World Cup Keqiao Boulder Финал Женщины</title></programme>
-<programme start="20260508190000 +0000" stop="20260508200000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Скалолазание: World Series Keqiao Мужчины Боулдеринг Финал</title></programme>
-<programme start="20260508200000 +0000" stop="20260508210000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт World Tour &amp;#34;Джиро д&amp;#39;Италия&amp;#34; Первый этап Men</title></programme>
-<programme start="20260508210000 +0000" stop="20260508220000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт: World Tour Вуэльта Испании Шестой этап Women</title></programme>
-<programme start="20260508220000 +0000" stop="20260508230000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Скалолазание: World Series Keqiao Мужчины Боулдеринг Финал</title></programme>
-<programme start="20260508230000 +0000" stop="20260508233000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт World Tour &amp;#34;Джиро д&amp;#39;Италия&amp;#34; Первый этап Men</title></programme>
-<programme start="20260508233000 +0000" stop="20260509010000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт: World Tour Вуэльта Испании Шестой этап Women</title></programme>
-<programme start="20260509010000 +0000" stop="20260509020000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Снукер: World Championship Sheffield Shaun Murphy - Wu Yize Final</title></programme>
+<programme start="20260509023100 +0000" stop="20260509033000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт World Tour &amp;#34;Джиро д&amp;#39;Италия&amp;#34; Первый этап Men</title></programme>
+<programme start="20260509033000 +0000" stop="20260509043000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт: World Tour Вуэльта Испании Шестой этап Women</title></programme>
+<programme start="20260509043000 +0000" stop="20260509053000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Альпинизм World Cup Keqiao Boulder Финал Женщины</title></programme>
+<programme start="20260509053000 +0000" stop="20260509063000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Скалолазание: World Series Keqiao Мужчины Боулдеринг Финал</title></programme>
+<programme start="20260509063000 +0000" stop="20260509080000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Снукер: World Championship Sheffield Shaun Murphy - Wu Yize Final</title></programme>
+<programme start="20260509080000 +0000" stop="20260509084500 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт World Tour &amp;#34;Джиро д&amp;#39;Италия&amp;#34; Первый этап Men</title></programme>
+<programme start="20260509084500 +0000" stop="20260509113000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт World Tour &amp;#34;Джиро д&amp;#39;Италия&amp;#34; Второй этап Men. Прямая трансляция</title></programme>
+<programme start="20260509113000 +0000" stop="20260509123000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт: World Tour Вуэльта Испании Седьмой этап Women. Прямая трансляция</title></programme>
+<programme start="20260509123000 +0000" stop="20260509144500 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт World Tour &amp;#34;Джиро д&amp;#39;Италия&amp;#34; Второй этап Men. Прямая трансляция</title></programme>
+<programme start="20260509144500 +0000" stop="20260509154500 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт: World Tour Вуэльта Испании Седьмой этап Women</title></programme>
+<programme start="20260509154500 +0000" stop="20260509161500 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт шоу</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509161500 +0000" stop="20260509180000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт World Tour &amp;#34;Джиро д&amp;#39;Италия&amp;#34; Второй этап Men</title></programme>
+<programme start="20260509180000 +0000" stop="20260509200000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Скалолазание World Series Wujiang Мужчины и женщины Лазание на трудность Финал</title></programme>
+<programme start="20260509200000 +0000" stop="20260509210000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт World Tour &amp;#34;Джиро д&amp;#39;Италия&amp;#34; Второй этап Men</title></programme>
+<programme start="20260509210000 +0000" stop="20260509220000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт: World Tour Вуэльта Испании Седьмой этап Women</title></programme>
+<programme start="20260509220000 +0000" stop="20260509230000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Снукер: World Championship Sheffield Shaun Murphy - Wu Yize Final</title></programme>
+<programme start="20260509230000 +0000" stop="20260509233000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт: World Tour Вуэльта Испании Седьмой этап Women</title></programme>
+<programme start="20260509233000 +0000" stop="20260510010000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Велоспорт World Tour &amp;#34;Джиро д&amp;#39;Италия&amp;#34; Второй этап Men</title></programme>
+<programme start="20260510010000 +0000" stop="20260510020000 +0000" channel="Eurosport1.fr@Russia"><title lang="ru">Мотогонки на выносливость: World Championship &amp;#34;6 часов Спа-Фракоршама&amp;#34;</title></programme>
+<programme start="20260509020000 +0000" stop="20260509021000 +0000" channel="Mir.ru@SD"><title lang="ru">Весна</title><category lang="ru">Фильм</category></programme>
+<programme start="20260509021000 +0000" stop="20260509040500 +0000" channel="Mir.ru@SD"><title lang="ru">Наше кино. История большой любви</title></programme>
+<programme start="20260509040500 +0000" stop="20260509053000 +0000" channel="Mir.ru@SD"><title lang="ru">Поезд идет на восток</title><category lang="ru">Фильм</category></programme>
+<programme start="20260509053000 +0000" stop="20260509065000 +0000" channel="Mir.ru@SD"><title lang="ru">Небесный тихоход</title><category lang="ru">Фильм</category></programme>
+<programme start="20260509065000 +0000" stop="20260509090500 +0000" channel="Mir.ru@SD"><title lang="ru">Память сердца. День Победы. Прямая трансляция</title><category lang="ru">Другое</category></programme>
+<programme start="20260509090500 +0000" stop="20260509155500 +0000" channel="Mir.ru@SD"><title lang="ru">Наше кино. История большой любви</title></programme>
+<programme start="20260509155500 +0000" stop="20260509160000 +0000" channel="Mir.ru@SD"><title lang="ru">Светлой памяти павших в борьбе против фашизма. Минута молчания</title><category lang="ru">Другое</category></programme>
+<programme start="20260509160000 +0000" stop="20260509163000 +0000" channel="Mir.ru@SD"><title lang="ru">Память сердца. Беларусь. Прямая трансляция</title><category lang="ru">Другое</category></programme>
+<programme start="20260509163000 +0000" stop="20260509174500 +0000" channel="Mir.ru@SD"><title lang="ru">В небе &amp;#34;ночные ведьмы&amp;#34;</title><category lang="ru">Фильм</category></programme>
+<programme start="20260509174500 +0000" stop="20260509190000 +0000" channel="Mir.ru@SD"><title lang="ru">Крепкий орешек</title><category lang="ru">Фильм</category></programme>
+<programme start="20260509190000 +0000" stop="20260509202000 +0000" channel="Mir.ru@SD"><title lang="ru">Небесный тихоход</title><category lang="ru">Фильм</category></programme>
+<programme start="20260509202000 +0000" stop="20260509215500 +0000" channel="Mir.ru@SD"><title lang="ru">Подвиг разведчика</title><category lang="ru">Фильм</category></programme>
+<programme start="20260509215500 +0000" stop="20260509232500 +0000" channel="Mir.ru@SD"><title lang="ru">Истребители</title><category lang="ru">Фильм</category></programme>
+<programme start="20260509232500 +0000" stop="20260510001500 +0000" channel="Mir.ru@SD"><title lang="ru">Антоша Рыбкин</title><category lang="ru">Фильм</category></programme>
+<programme start="20260510001500 +0000" stop="20260510011500 +0000" channel="Mir.ru@SD"><title lang="ru">Наше кино. История большой любви</title></programme>
+<programme start="20260509020100 +0000" stop="20260509020100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509020100 +0000" stop="20260509020200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509020200 +0000" stop="20260509020200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509020200 +0000" stop="20260509020200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509020200 +0000" stop="20260509020500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509020500 +0000" stop="20260509020500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509020500 +0000" stop="20260509021700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509021700 +0000" stop="20260509021900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Aljoscha Laschgari</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509021900 +0000" stop="20260509021900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Retrospective</title><category lang="ru">Позновательное</category></programme>
+<programme start="20260509021900 +0000" stop="20260509022400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Retrospective</title><category lang="ru">Позновательное</category></programme>
+<programme start="20260509022400 +0000" stop="20260509022400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Retrospective</title><category lang="ru">Позновательное</category></programme>
+<programme start="20260509022400 +0000" stop="20260509023200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">The story of one collection</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509023200 +0000" stop="20260509023600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Flashback To</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509023600 +0000" stop="20260509023600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509023600 +0000" stop="20260509023600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509023600 +0000" stop="20260509023800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509023800 +0000" stop="20260509023900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509023900 +0000" stop="20260509024600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509024600 +0000" stop="20260509024600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509024600 +0000" stop="20260509024800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509024800 +0000" stop="20260509024800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509024800 +0000" stop="20260509025100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509025100 +0000" stop="20260509025200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509025200 +0000" stop="20260509025200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509025200 +0000" stop="20260509030300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509030300 +0000" stop="20260509030300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509030300 +0000" stop="20260509030300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Inside</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509030300 +0000" stop="20260509030400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Names</title></programme>
+<programme start="20260509030400 +0000" stop="20260509030400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Inside</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509030400 +0000" stop="20260509030500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Names</title></programme>
+<programme start="20260509030500 +0000" stop="20260509030500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509030500 +0000" stop="20260509030500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Swimwear</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509030500 +0000" stop="20260509030600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Seafolly</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509030600 +0000" stop="20260509030600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Swimwear</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509030600 +0000" stop="20260509030700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Swimwear</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509030700 +0000" stop="20260509030800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Haute Couture</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509030800 +0000" stop="20260509030800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Lingerie</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509030800 +0000" stop="20260509031000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Luna Splendida</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509031000 +0000" stop="20260509031000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WF Logo</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509031000 +0000" stop="20260509031000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509031000 +0000" stop="20260509031300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509031300 +0000" stop="20260509031300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509031300 +0000" stop="20260509032400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509032400 +0000" stop="20260509032400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509032400 +0000" stop="20260509032400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF PLACES 2020</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509032400 +0000" stop="20260509032600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Luxury Resorts</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509032600 +0000" stop="20260509032700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Aljoscha Laschgari</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509032700 +0000" stop="20260509032700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509032700 +0000" stop="20260509033000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509033000 +0000" stop="20260509033000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509033000 +0000" stop="20260509033200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Dior</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509033200 +0000" stop="20260509033200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509033200 +0000" stop="20260509033500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509033500 +0000" stop="20260509033500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509033500 +0000" stop="20260509033600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509033600 +0000" stop="20260509033600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WF Logo</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509033600 +0000" stop="20260509033600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF PLACES 2020</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509033600 +0000" stop="20260509034600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Tikhomirov. Ocean</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509034600 +0000" stop="20260509034600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WF Logo</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509034600 +0000" stop="20260509034600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509034600 +0000" stop="20260509035500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509035500 +0000" stop="20260509035500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509035500 +0000" stop="20260509040300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509040300 +0000" stop="20260509040300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509040300 +0000" stop="20260509040300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509040300 +0000" stop="20260509041800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Red Carpets 2016</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509041800 +0000" stop="20260509041800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509041800 +0000" stop="20260509042000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Annual Dga Awards 2018</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509042000 +0000" stop="20260509042800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Editors Choice</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509042800 +0000" stop="20260509042800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509042800 +0000" stop="20260509043900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509043900 +0000" stop="20260509043900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509043900 +0000" stop="20260509044700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509044700 +0000" stop="20260509044800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Sea Dk Films</title></programme>
+<programme start="20260509044800 +0000" stop="20260509044800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Names</title></programme>
+<programme start="20260509044800 +0000" stop="20260509045900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Names</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509045900 +0000" stop="20260509045900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509045900 +0000" stop="20260509045900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo licence 2019</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509045900 +0000" stop="20260509045900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509045900 +0000" stop="20260509050200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509050200 +0000" stop="20260509050200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509050200 +0000" stop="20260509051100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509051100 +0000" stop="20260509051100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509051100 +0000" stop="20260509051700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509051700 +0000" stop="20260509051700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Logo Spring</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509051700 +0000" stop="20260509051700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509051700 +0000" stop="20260509052000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Bafta Awards 2019</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509052000 +0000" stop="20260509052000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509052000 +0000" stop="20260509052800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Screen Actors Guild Awards 2018</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509052800 +0000" stop="20260509052800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509052800 +0000" stop="20260509053400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Emmy Awards 2018</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509053400 +0000" stop="20260509053500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF Logo 2018</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509053500 +0000" stop="20260509054100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Editors Choice</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509054100 +0000" stop="20260509054100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF PLACES 2020</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509054100 +0000" stop="20260509054200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Alex Voronoy</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509054200 +0000" stop="20260509054300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Alex Voronoy</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509054300 +0000" stop="20260509054300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509054300 +0000" stop="20260509054500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509054500 +0000" stop="20260509054600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509054600 +0000" stop="20260509055000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509055000 +0000" stop="20260509055000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509055000 +0000" stop="20260509060300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509060300 +0000" stop="20260509060400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">BNS. Vladislava Evtushenko 2019</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509060400 +0000" stop="20260509060400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Inside</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509060400 +0000" stop="20260509060500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Names</title></programme>
+<programme start="20260509060500 +0000" stop="20260509060500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Inside</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509060500 +0000" stop="20260509060600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509060600 +0000" stop="20260509060700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509060700 +0000" stop="20260509060700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Swimwear</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509060700 +0000" stop="20260509060800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Swimwear</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509060800 +0000" stop="20260509060800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Swimwear</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509060800 +0000" stop="20260509061100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Leonard Paris</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509061100 +0000" stop="20260509061200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WFC 2020</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509061200 +0000" stop="20260509061200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Lingerie</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509061200 +0000" stop="20260509061300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Marc And Andre</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509061300 +0000" stop="20260509061300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WF Logo</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509061300 +0000" stop="20260509061300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509061300 +0000" stop="20260509061700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509061700 +0000" stop="20260509061700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509061700 +0000" stop="20260509062400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509062400 +0000" stop="20260509062500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509062500 +0000" stop="20260509062900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509062900 +0000" stop="20260509062900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509062900 +0000" stop="20260509062900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Inside</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509062900 +0000" stop="20260509063000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Names</title></programme>
+<programme start="20260509063000 +0000" stop="20260509063000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Inside</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509063000 +0000" stop="20260509063100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Names</title></programme>
+<programme start="20260509063100 +0000" stop="20260509063100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Inside</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509063100 +0000" stop="20260509063600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509063600 +0000" stop="20260509063600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Inside</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509063600 +0000" stop="20260509063800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Names</title></programme>
+<programme start="20260509063800 +0000" stop="20260509063800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509063800 +0000" stop="20260509063800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF PLACES 2020</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509063800 +0000" stop="20260509064200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Benn TK. City</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509064200 +0000" stop="20260509064300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Summer Mood</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509064300 +0000" stop="20260509064900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Editors Choice</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509064900 +0000" stop="20260509064900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509064900 +0000" stop="20260509064900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF PLACES 2020</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509064900 +0000" stop="20260509070100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">FourEyesTwoSouls</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509070100 +0000" stop="20260509070200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WFC 2021</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509070200 +0000" stop="20260509070200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509070200 +0000" stop="20260509071300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509071300 +0000" stop="20260509071300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509071300 +0000" stop="20260509071600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509071600 +0000" stop="20260509071700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509071700 +0000" stop="20260509071700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF PLACES 2020</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509071700 +0000" stop="20260509071800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Tikhomirov</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509071800 +0000" stop="20260509071900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WFC 2021</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509071900 +0000" stop="20260509071900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509071900 +0000" stop="20260509072000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Dior</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509072000 +0000" stop="20260509072000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509072000 +0000" stop="20260509072600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509072600 +0000" stop="20260509072600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509072600 +0000" stop="20260509072600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509072600 +0000" stop="20260509072700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509072700 +0000" stop="20260509072700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509072700 +0000" stop="20260509072800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Logo Spring</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509072800 +0000" stop="20260509072800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509072800 +0000" stop="20260509073900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509073900 +0000" stop="20260509073900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509073900 +0000" stop="20260509074800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509074800 +0000" stop="20260509074800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509074800 +0000" stop="20260509074800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509074800 +0000" stop="20260509074900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509074900 +0000" stop="20260509074900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509074900 +0000" stop="20260509075000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Screen Actors Guild Awards 2017</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509075000 +0000" stop="20260509075000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509075000 +0000" stop="20260509075400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Kids’ Choice Awards 2018</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509075400 +0000" stop="20260509075400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509075400 +0000" stop="20260509080100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Green Carpet Awards 2018 Milan</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509080100 +0000" stop="20260509080100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Haute Couture</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509080100 +0000" stop="20260509080100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509080100 +0000" stop="20260509081400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509081400 +0000" stop="20260509081400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509081400 +0000" stop="20260509081900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509081900 +0000" stop="20260509081900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509081900 +0000" stop="20260509081900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509081900 +0000" stop="20260509082300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509082300 +0000" stop="20260509082300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509082300 +0000" stop="20260509082600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509082600 +0000" stop="20260509082600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509082600 +0000" stop="20260509082700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509082700 +0000" stop="20260509082700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509082700 +0000" stop="20260509083200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509083200 +0000" stop="20260509083200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509083200 +0000" stop="20260509083200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509083200 +0000" stop="20260509084500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509084500 +0000" stop="20260509084500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509084500 +0000" stop="20260509085000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509085000 +0000" stop="20260509085000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509085000 +0000" stop="20260509085000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509085000 +0000" stop="20260509085900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">American Music Awards 2018</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509085900 +0000" stop="20260509085900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509085900 +0000" stop="20260509090100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509090100 +0000" stop="20260509090100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509090100 +0000" stop="20260509090400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509090400 +0000" stop="20260509090400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509090400 +0000" stop="20260509090500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">De Grisogono Party Cannes 2017</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509090500 +0000" stop="20260509090500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Haute Couture</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509090500 +0000" stop="20260509090500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509090500 +0000" stop="20260509091100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Paris fashion week</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509091100 +0000" stop="20260509091100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509091100 +0000" stop="20260509091400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509091400 +0000" stop="20260509091400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509091400 +0000" stop="20260509091500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509091500 +0000" stop="20260509091500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509091500 +0000" stop="20260509091800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509091800 +0000" stop="20260509091800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509091800 +0000" stop="20260509091800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Swimwear</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509091800 +0000" stop="20260509092000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Swimwear</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509092000 +0000" stop="20260509092000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509092000 +0000" stop="20260509092000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509092000 +0000" stop="20260509092900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509092900 +0000" stop="20260509092900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509092900 +0000" stop="20260509092900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Retrospective</title><category lang="ru">Позновательное</category></programme>
+<programme start="20260509092900 +0000" stop="20260509093200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Retrospective</title><category lang="ru">Позновательное</category></programme>
+<programme start="20260509093200 +0000" stop="20260509093200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Retrospective</title><category lang="ru">Позновательное</category></programme>
+<programme start="20260509093200 +0000" stop="20260509093700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Julien Fournie</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509093700 +0000" stop="20260509094200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">The Story Of One Collection</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509094200 +0000" stop="20260509094700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Flashback To</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509094700 +0000" stop="20260509094700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509094700 +0000" stop="20260509094700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509094700 +0000" stop="20260509095000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509095000 +0000" stop="20260509095000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509095000 +0000" stop="20260509095500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509095500 +0000" stop="20260509095500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509095500 +0000" stop="20260509095900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509095900 +0000" stop="20260509095900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509095900 +0000" stop="20260509100200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509100200 +0000" stop="20260509100200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WF Logo</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509100200 +0000" stop="20260509100200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509100200 +0000" stop="20260509101600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509101600 +0000" stop="20260509101600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509101600 +0000" stop="20260509101600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Events</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509101600 +0000" stop="20260509102100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Events</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509102100 +0000" stop="20260509102100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509102100 +0000" stop="20260509103400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Vanity Fair Oscar Party 2019</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509103400 +0000" stop="20260509103500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WFC 2021</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509103500 +0000" stop="20260509103500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509103500 +0000" stop="20260509104400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509104400 +0000" stop="20260509104400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509104400 +0000" stop="20260509105100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509105100 +0000" stop="20260509105100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509105100 +0000" stop="20260509105200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509105200 +0000" stop="20260509105500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509105500 +0000" stop="20260509105500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509105500 +0000" stop="20260509105600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509105600 +0000" stop="20260509105600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509105600 +0000" stop="20260509105700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509105700 +0000" stop="20260509105700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509105700 +0000" stop="20260509110000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509110000 +0000" stop="20260509110000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509110000 +0000" stop="20260509110000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo licence 2019</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509110000 +0000" stop="20260509110000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509110000 +0000" stop="20260509110600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509110600 +0000" stop="20260509110600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509110600 +0000" stop="20260509110800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509110800 +0000" stop="20260509110800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509110800 +0000" stop="20260509111300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509111300 +0000" stop="20260509111300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509111300 +0000" stop="20260509111800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509111800 +0000" stop="20260509111800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509111800 +0000" stop="20260509111800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Retrospective</title><category lang="ru">Позновательное</category></programme>
+<programme start="20260509111800 +0000" stop="20260509112500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Tsumori Chisato</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509112500 +0000" stop="20260509112600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Retrospective</title><category lang="ru">Позновательное</category></programme>
+<programme start="20260509112600 +0000" stop="20260509112600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Retrospective</title><category lang="ru">Позновательное</category></programme>
+<programme start="20260509112600 +0000" stop="20260509112600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Retrospective</title><category lang="ru">Позновательное</category></programme>
+<programme start="20260509112600 +0000" stop="20260509113200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">The story of one collection</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509113200 +0000" stop="20260509113700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Flashback To</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509113700 +0000" stop="20260509113800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509113800 +0000" stop="20260509113800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509113800 +0000" stop="20260509113900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509113900 +0000" stop="20260509113900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509113900 +0000" stop="20260509114300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509114300 +0000" stop="20260509114300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509114300 +0000" stop="20260509114700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509114700 +0000" stop="20260509114700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509114700 +0000" stop="20260509115000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509115000 +0000" stop="20260509115000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WF Logo</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509115000 +0000" stop="20260509115000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509115000 +0000" stop="20260509115300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509115300 +0000" stop="20260509115300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509115300 +0000" stop="20260509120800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509120800 +0000" stop="20260509120800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509120800 +0000" stop="20260509120800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509120800 +0000" stop="20260509121100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509121100 +0000" stop="20260509121100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509121100 +0000" stop="20260509121800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509121800 +0000" stop="20260509121800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509121800 +0000" stop="20260509121800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509121800 +0000" stop="20260509122100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509122100 +0000" stop="20260509122100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509122100 +0000" stop="20260509123600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509123600 +0000" stop="20260509123700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509123700 +0000" stop="20260509123700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509123700 +0000" stop="20260509123800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509123800 +0000" stop="20260509123800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509123800 +0000" stop="20260509123900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509123900 +0000" stop="20260509123900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509123900 +0000" stop="20260509124000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509124000 +0000" stop="20260509124000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509124000 +0000" stop="20260509124500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509124500 +0000" stop="20260509124600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Kevin Tablizo</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509124600 +0000" stop="20260509124600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509124600 +0000" stop="20260509125300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509125300 +0000" stop="20260509125300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509125300 +0000" stop="20260509125900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509125900 +0000" stop="20260509125900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509125900 +0000" stop="20260509130100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509130100 +0000" stop="20260509130100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF Logo 2018</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509130100 +0000" stop="20260509130100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF PLACES 2020</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509130100 +0000" stop="20260509130200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Kevin Tablizo</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509130200 +0000" stop="20260509130200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509130200 +0000" stop="20260509130200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Events</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509130200 +0000" stop="20260509130300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Events</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509130300 +0000" stop="20260509130300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509130300 +0000" stop="20260509130700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Berlinale film Festival</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509130700 +0000" stop="20260509130700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509130700 +0000" stop="20260509131200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509131200 +0000" stop="20260509131200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509131200 +0000" stop="20260509132000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">MTV Movie Awards 2018</title><category lang="ru">ТВ-шоу</category></programme>
+<programme start="20260509132000 +0000" stop="20260509132000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF Logo 2018</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509132000 +0000" stop="20260509132600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Summer Mood</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509132600 +0000" stop="20260509132700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Alex Voronoy</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509132700 +0000" stop="20260509132700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509132700 +0000" stop="20260509133600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509133600 +0000" stop="20260509133600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509133600 +0000" stop="20260509134000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509134000 +0000" stop="20260509134000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509134000 +0000" stop="20260509134300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509134300 +0000" stop="20260509134300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WF Logo</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509134300 +0000" stop="20260509134300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509134300 +0000" stop="20260509134700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Emmy Awards 2017</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509134700 +0000" stop="20260509134700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509134700 +0000" stop="20260509135200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Cezar Awards 2018</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509135200 +0000" stop="20260509135200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509135200 +0000" stop="20260509135800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509135800 +0000" stop="20260509135800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Logo Spring</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509135800 +0000" stop="20260509135800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509135800 +0000" stop="20260509141400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509141400 +0000" stop="20260509141400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509141400 +0000" stop="20260509141400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Retrospective</title><category lang="ru">Позновательное</category></programme>
+<programme start="20260509141400 +0000" stop="20260509142100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">The story of one collection</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509142100 +0000" stop="20260509142100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Retrospective</title><category lang="ru">Позновательное</category></programme>
+<programme start="20260509142100 +0000" stop="20260509142400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Retrospective</title><category lang="ru">Позновательное</category></programme>
+<programme start="20260509142400 +0000" stop="20260509142400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Retrospective</title><category lang="ru">Позновательное</category></programme>
+<programme start="20260509142400 +0000" stop="20260509143200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Retrospective</title><category lang="ru">Позновательное</category></programme>
+<programme start="20260509143200 +0000" stop="20260509144500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Editors Choice</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509144500 +0000" stop="20260509144500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509144500 +0000" stop="20260509145500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509145500 +0000" stop="20260509145500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509145500 +0000" stop="20260509150300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509150300 +0000" stop="20260509150300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509150300 +0000" stop="20260509150400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509150400 +0000" stop="20260509150400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509150400 +0000" stop="20260509150500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Eres x Maison Rabih Kayrouz</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509150500 +0000" stop="20260509150500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509150500 +0000" stop="20260509151100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509151100 +0000" stop="20260509151100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509151100 +0000" stop="20260509151200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Story</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509151200 +0000" stop="20260509151200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509151200 +0000" stop="20260509152500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509152500 +0000" stop="20260509152500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509152500 +0000" stop="20260509152800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509152800 +0000" stop="20260509152800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF Logo 2018</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509152800 +0000" stop="20260509152800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Events</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509152800 +0000" stop="20260509153400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Events</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509153400 +0000" stop="20260509153400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509153400 +0000" stop="20260509153700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Los Angeles Awards 2018</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509153700 +0000" stop="20260509153700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509153700 +0000" stop="20260509154300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509154300 +0000" stop="20260509154300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509154300 +0000" stop="20260509154600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509154600 +0000" stop="20260509154600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509154600 +0000" stop="20260509154700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509154700 +0000" stop="20260509155800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509155800 +0000" stop="20260509155800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509155800 +0000" stop="20260509160400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509160400 +0000" stop="20260509160400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509160400 +0000" stop="20260509160700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509160700 +0000" stop="20260509160700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509160700 +0000" stop="20260509161200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509161200 +0000" stop="20260509161200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509161200 +0000" stop="20260509161400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509161400 +0000" stop="20260509161400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509161400 +0000" stop="20260509161900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509161900 +0000" stop="20260509161900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WF Logo</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509161900 +0000" stop="20260509161900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509161900 +0000" stop="20260509162200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509162200 +0000" stop="20260509162200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509162200 +0000" stop="20260509162800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509162800 +0000" stop="20260509162900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509162900 +0000" stop="20260509163700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509163700 +0000" stop="20260509163700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WF Logo</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509163700 +0000" stop="20260509163700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Inside</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509163700 +0000" stop="20260509163800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Inside</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509163800 +0000" stop="20260509163800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Inside</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509163800 +0000" stop="20260509164100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Names</title></programme>
+<programme start="20260509164100 +0000" stop="20260509164100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF Logo 2018</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509164100 +0000" stop="20260509164100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Swimwear</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509164100 +0000" stop="20260509164300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Swimwear</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509164300 +0000" stop="20260509164300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Swimwear</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509164300 +0000" stop="20260509164400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Seafolly</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509164400 +0000" stop="20260509164400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF Logo 2018</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509164400 +0000" stop="20260509164400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF PLACES 2020</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509164400 +0000" stop="20260509164500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Dico Bascoro</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509164500 +0000" stop="20260509164600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Guide</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509164600 +0000" stop="20260509164600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509164600 +0000" stop="20260509164900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509164900 +0000" stop="20260509164900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509164900 +0000" stop="20260509165300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Inside</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509165300 +0000" stop="20260509165300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509165300 +0000" stop="20260509165600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Paris fashion week</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509165600 +0000" stop="20260509165600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509165600 +0000" stop="20260509165800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509165800 +0000" stop="20260509165900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Haute Couture</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509165900 +0000" stop="20260509165900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Lingerie</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509165900 +0000" stop="20260509170100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Maison Close</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509170100 +0000" stop="20260509170100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF Logo 2018</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509170100 +0000" stop="20260509170100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo licence 2019</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509170100 +0000" stop="20260509170100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509170100 +0000" stop="20260509170400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509170400 +0000" stop="20260509170400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509170400 +0000" stop="20260509171700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509171700 +0000" stop="20260509171700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509171700 +0000" stop="20260509171700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509171700 +0000" stop="20260509171900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509171900 +0000" stop="20260509171900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509171900 +0000" stop="20260509172300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509172300 +0000" stop="20260509172300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509172300 +0000" stop="20260509172500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509172500 +0000" stop="20260509172500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509172500 +0000" stop="20260509172800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509172800 +0000" stop="20260509172800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509172800 +0000" stop="20260509172800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509172800 +0000" stop="20260509173500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509173500 +0000" stop="20260509173500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509173500 +0000" stop="20260509174300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509174300 +0000" stop="20260509174400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Alex Voronoy</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509174400 +0000" stop="20260509174400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509174400 +0000" stop="20260509175000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">CFDA Fashion Awards 2017</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509175000 +0000" stop="20260509175000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509175000 +0000" stop="20260509175700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509175700 +0000" stop="20260509175700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509175700 +0000" stop="20260509180200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">amfAR Gala Cannes 2018</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509180200 +0000" stop="20260509180300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Haute Couture</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509180300 +0000" stop="20260509180300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509180300 +0000" stop="20260509180500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509180500 +0000" stop="20260509180500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509180500 +0000" stop="20260509180900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509180900 +0000" stop="20260509180900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509180900 +0000" stop="20260509181000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Milan Fashion Week</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509181000 +0000" stop="20260509181000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509181000 +0000" stop="20260509181400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Paris fashion week</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509181400 +0000" stop="20260509181400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509181400 +0000" stop="20260509181400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509181400 +0000" stop="20260509182800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509182800 +0000" stop="20260509182800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509182800 +0000" stop="20260509182800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Retrospective</title><category lang="ru">Позновательное</category></programme>
+<programme start="20260509182800 +0000" stop="20260509183000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Retrospective</title><category lang="ru">Позновательное</category></programme>
+<programme start="20260509183000 +0000" stop="20260509183000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Retrospective</title><category lang="ru">Позновательное</category></programme>
+<programme start="20260509183000 +0000" stop="20260509184300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">The Story Of One Collection</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509184300 +0000" stop="20260509184700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Flashback To</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509184700 +0000" stop="20260509184700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509184700 +0000" stop="20260509184700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509184700 +0000" stop="20260509185000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509185000 +0000" stop="20260509185000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509185000 +0000" stop="20260509185200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509185200 +0000" stop="20260509185200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509185200 +0000" stop="20260509185300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509185300 +0000" stop="20260509185400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509185400 +0000" stop="20260509190000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Celebrity Style</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509190000 +0000" stop="20260509190000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509190000 +0000" stop="20260509190000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509190000 +0000" stop="20260509191200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509191200 +0000" stop="20260509191200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509191200 +0000" stop="20260509191800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509191800 +0000" stop="20260509191800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509191800 +0000" stop="20260509191800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509191800 +0000" stop="20260509192700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Cannes Film Festival 2014</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509192700 +0000" stop="20260509192700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509192700 +0000" stop="20260509193500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Vanity Fair Oscar Party 2018</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509193500 +0000" stop="20260509193500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Success on air</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509193500 +0000" stop="20260509193600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509193600 +0000" stop="20260509194800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509194800 +0000" stop="20260509194800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509194800 +0000" stop="20260509195000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509195000 +0000" stop="20260509195100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Haute Couture</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509195100 +0000" stop="20260509195100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509195100 +0000" stop="20260509195300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509195300 +0000" stop="20260509195300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509195300 +0000" stop="20260509195400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509195400 +0000" stop="20260509195400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509195400 +0000" stop="20260509195500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509195500 +0000" stop="20260509195500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509195500 +0000" stop="20260509195800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509195800 +0000" stop="20260509195800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Logo Spring</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509195800 +0000" stop="20260509195800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509195800 +0000" stop="20260509201300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509201300 +0000" stop="20260509201300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WF Logo</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509201300 +0000" stop="20260509201300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509201300 +0000" stop="20260509201500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Bafta Awards</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509201500 +0000" stop="20260509201500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509201500 +0000" stop="20260509201700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">American Music Awards 2019</title><category lang="ru">ТВ-шоу</category></programme>
+<programme start="20260509201700 +0000" stop="20260509201700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509201700 +0000" stop="20260509202300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509202300 +0000" stop="20260509202300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509202300 +0000" stop="20260509203100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Amfar Gala Cannes 2019</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509203100 +0000" stop="20260509203100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Logo Spring</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509203100 +0000" stop="20260509203400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Editors Choice</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509203400 +0000" stop="20260509203400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF PLACES 2020</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509203400 +0000" stop="20260509204700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">FourEyesTwoSouls</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509204700 +0000" stop="20260509204700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF Logo 2018</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509204700 +0000" stop="20260509204700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509204700 +0000" stop="20260509205100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509205100 +0000" stop="20260509205100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509205100 +0000" stop="20260509210400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509210400 +0000" stop="20260509210400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Haute Couture</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509210400 +0000" stop="20260509210400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Inside</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509210400 +0000" stop="20260509210500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Chanel Cruise 2019</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509210500 +0000" stop="20260509210600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Craftsmanship</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509210600 +0000" stop="20260509210600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Inside</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509210600 +0000" stop="20260509211100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Names</title></programme>
+<programme start="20260509211100 +0000" stop="20260509211200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Logo Spring</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509211200 +0000" stop="20260509211200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Swimwear</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509211200 +0000" stop="20260509211300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Swimwear</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509211300 +0000" stop="20260509211300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Swimwear</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509211300 +0000" stop="20260509211400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Seafolly</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509211400 +0000" stop="20260509211400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Haute Couture</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509211400 +0000" stop="20260509211400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509211400 +0000" stop="20260509211700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509211700 +0000" stop="20260509211700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509211700 +0000" stop="20260509212100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509212100 +0000" stop="20260509212100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509212100 +0000" stop="20260509212500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509212500 +0000" stop="20260509212500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509212500 +0000" stop="20260509213400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509213400 +0000" stop="20260509213400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WF Logo</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509213400 +0000" stop="20260509213500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Houses</title></programme>
+<programme start="20260509213500 +0000" stop="20260509213600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Salvatore Ferragamo</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509213600 +0000" stop="20260509213700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Made In Italy</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509213700 +0000" stop="20260509213700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Houses</title></programme>
+<programme start="20260509213700 +0000" stop="20260509213800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Houses</title></programme>
+<programme start="20260509213800 +0000" stop="20260509213800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Houses</title></programme>
+<programme start="20260509213800 +0000" stop="20260509214000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Houses</title></programme>
+<programme start="20260509214000 +0000" stop="20260509214000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509214000 +0000" stop="20260509214000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF PLACES 2020</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509214000 +0000" stop="20260509214200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Viceroy Bali</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509214200 +0000" stop="20260509215000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Editors Choice</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509215000 +0000" stop="20260509215000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509215000 +0000" stop="20260509215100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF PLACES 2020</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509215100 +0000" stop="20260509215400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Guide</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509215400 +0000" stop="20260509215500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WFC 2020</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509215500 +0000" stop="20260509215500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509215500 +0000" stop="20260509222000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509222000 +0000" stop="20260509222000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WF Logo</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509222000 +0000" stop="20260509222000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509222000 +0000" stop="20260509222200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Junko Shimada</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509222200 +0000" stop="20260509222200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509222200 +0000" stop="20260509222300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Philosophy Di Lorenzo Serafini Holiday Treat With Barbara Palvin</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509222300 +0000" stop="20260509222300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509222300 +0000" stop="20260509222600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Salvatore Ferragamo</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509222600 +0000" stop="20260509222600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509222600 +0000" stop="20260509222900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Moschino Pre-Fall 2022 And Menswear Fall 2022</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509222900 +0000" stop="20260509223000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WFC 2021</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509223000 +0000" stop="20260509223000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509223000 +0000" stop="20260509223200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509223200 +0000" stop="20260509223200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509223200 +0000" stop="20260509224500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509224500 +0000" stop="20260509224500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509224500 +0000" stop="20260509224500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509224500 +0000" stop="20260509224700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">The Fashion Awards 2019</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509224700 +0000" stop="20260509224700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509224700 +0000" stop="20260509225200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509225200 +0000" stop="20260509225200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509225200 +0000" stop="20260509225900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509225900 +0000" stop="20260509230000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Logo Spring</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509230000 +0000" stop="20260509230000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo licence 2019</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509230000 +0000" stop="20260509230000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509230000 +0000" stop="20260509230500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509230500 +0000" stop="20260509230500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509230500 +0000" stop="20260509230800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509230800 +0000" stop="20260509230800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509230800 +0000" stop="20260509231500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509231500 +0000" stop="20260509231500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Haute Couture</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509231500 +0000" stop="20260509231500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509231500 +0000" stop="20260509233300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Cannes film festival 2017</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509233300 +0000" stop="20260509233400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Haute Couture</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509233400 +0000" stop="20260509233400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509233400 +0000" stop="20260509234000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509234000 +0000" stop="20260509234000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509234000 +0000" stop="20260509234900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509234900 +0000" stop="20260509234900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WF Logo</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509234900 +0000" stop="20260509235000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509235000 +0000" stop="20260509235200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509235200 +0000" stop="20260509235200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509235200 +0000" stop="20260509235400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509235400 +0000" stop="20260509235400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509235400 +0000" stop="20260509235600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509235600 +0000" stop="20260509235600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion and Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260509235600 +0000" stop="20260510000000 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion &amp;amp; Art</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510000000 +0000" stop="20260510000100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Haute Couture</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510000100 +0000" stop="20260510000100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510000100 +0000" stop="20260510001400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510001400 +0000" stop="20260510001400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510001400 +0000" stop="20260510001900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510001900 +0000" stop="20260510001900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Logo Spring</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510001900 +0000" stop="20260510001900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Events</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510001900 +0000" stop="20260510002400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Events</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510002400 +0000" stop="20260510002400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510002400 +0000" stop="20260510003600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510003600 +0000" stop="20260510003600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WF Logo</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510003600 +0000" stop="20260510004300 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Editors Choice</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510004300 +0000" stop="20260510004400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF PLACES 2020</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510004400 +0000" stop="20260510004600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Mary Shum and Artem Morozov</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510004600 +0000" stop="20260510004600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo WF Logo</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510004600 +0000" stop="20260510004600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510004600 +0000" stop="20260510005500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510005500 +0000" stop="20260510005500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510005500 +0000" stop="20260510010400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510010400 +0000" stop="20260510010500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Promo Haute Couture</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510010500 +0000" stop="20260510010500 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510010500 +0000" stop="20260510012200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Red Carpet</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510012200 +0000" stop="20260510012200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF Logo 2018</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510012200 +0000" stop="20260510012200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510012200 +0000" stop="20260510013100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510013100 +0000" stop="20260510013100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510013100 +0000" stop="20260510013100 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Retrospective</title><category lang="ru">Позновательное</category></programme>
+<programme start="20260510013100 +0000" stop="20260510013700 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Julien Fournie</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510013700 +0000" stop="20260510014200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">The Story Of One Collection</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510014200 +0000" stop="20260510014200 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Retrospective</title><category lang="ru">Позновательное</category></programme>
+<programme start="20260510014200 +0000" stop="20260510014400 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashback</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510014400 +0000" stop="20260510014800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Flashback To</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510014800 +0000" stop="20260510014800 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Calendar Ident</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510014800 +0000" stop="20260510015600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Editors Choice</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510015600 +0000" stop="20260510015600 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">WF PLACES 2020</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510015600 +0000" stop="20260510015900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Tikhomirov</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510015900 +0000" stop="20260510015900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
+<programme start="20260510015900 +0000" stop="20260510025900 +0000" channel="WorldFashionChannel.ru@SD"><title lang="ru">World Fashion Shows</title><category lang="ru">Досуг,Хобби</category></programme>
 </tv>
