@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260525">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260526">
 <channel id="Rustavi2.ge@SD"><display-name>რუსთავი 2</display-name><icon src="https://i.imgur.com/rPqd1Cx.png"/></channel>
 <channel id="EroX.nl@SD"><display-name>Erox</display-name><icon src="https://i.imgur.com/B9Fz9Yr.png"/></channel>
 <channel id="1TV.ge@SD"><display-name>პირველი არხი</display-name><icon src="https://i.imgur.com/FSkYLPK.png"/></channel>
@@ -239,392 +239,715 @@
 <channel id="76361"><display-name>4ever Music</display-name></channel>
 <channel id="76362"><display-name>Sumiko</display-name></channel>
 <channel id="76363"><display-name>Кинеко</display-name></channel>
-<programme start="20260525060000 +0000" stop="20260525063000 +0000" channel="65001"><title lang="ka">სათვალე</title></programme>
-<programme start="20260525063000 +0000" stop="20260525064500 +0000" channel="65001"><title lang="ka">დედა ბუნება</title></programme>
-<programme start="20260525064500 +0000" stop="20260525071500 +0000" channel="65001"><title lang="ka">ფარული კამერა</title></programme>
-<programme start="20260525071500 +0000" stop="20260525074500 +0000" channel="65001"><title lang="ka">კინო მუსიკა</title></programme>
-<programme start="20260525074500 +0000" stop="20260525080000 +0000" channel="65001"><title lang="ka">სამზარეულო</title></programme>
-<programme start="20260525080000 +0000" stop="20260525083000 +0000" channel="65001"><title lang="ka">45 წუთი</title></programme>
-<programme start="20260525083000 +0000" stop="20260525090000 +0000" channel="65001"><title lang="ka">მულტფილმი</title></programme>
-<programme start="20260525090000 +0000" stop="20260525133000 +0000" channel="65001"><title lang="ka">დღის ეთერი</title></programme>
-<programme start="20260525133000 +0000" stop="20260525140000 +0000" channel="65001"><title lang="ka">დოკუმენტური ფილმი</title></programme>
-<programme start="20260525140000 +0000" stop="20260525143000 +0000" channel="65001"><title lang="ka">თოჯინების თეატრი</title></programme>
-<programme start="20260525143000 +0000" stop="20260525150000 +0000" channel="65001"><title lang="ka">ტექნოლოგიური დეტალები</title></programme>
-<programme start="20260525150000 +0000" stop="20260525152500 +0000" channel="65001"><title lang="ka">სპექტრის სპექციალური გამოშვება</title></programme>
-<programme start="20260525152500 +0000" stop="20260525160000 +0000" channel="65001"><title lang="ka">შაქრით თუ უშაქროდ</title></programme>
-<programme start="20260525160000 +0000" stop="20260525163000 +0000" channel="65001"><title lang="ka">მემორი</title></programme>
-<programme start="20260525163000 +0000" stop="20260525170000 +0000" channel="65001"><title lang="ka">სპორტული ჰაილაითები</title></programme>
-<programme start="20260525170000 +0000" stop="20260525173000 +0000" channel="65001"><title lang="ka">რადიო თავისუფლება</title></programme>
-<programme start="20260525173000 +0000" stop="20260525180000 +0000" channel="65001"><title lang="ka">მაქსი</title></programme>
-<programme start="20260525180000 +0000" stop="20260525182500 +0000" channel="65001"><title lang="ka">სპექტრის სპეციალური გამოშვება</title></programme>
-<programme start="20260525182500 +0000" stop="20260525183000 +0000" channel="65001"><title lang="ka">სტუდია ვაშინგტონი</title></programme>
-<programme start="20260525183000 +0000" stop="20260525190000 +0000" channel="65001"><title lang="ka">უცნობი ისტორიები</title></programme>
-<programme start="20260525190000 +0000" stop="20260525200000 +0000" channel="65001"><title lang="ka">დოკუმენტური ფილმი</title></programme>
-<programme start="20260525200000 +0000" stop="20260526060000 +0000" channel="65001"><title lang="ka">ღამის ეთერი</title></programme>
-<programme start="20260525060000 +0000" stop="20260525063000 +0000" channel="66001"><title lang="ka">ნამდვილი დრო</title></programme>
-<programme start="20260525063000 +0000" stop="20260525070000 +0000" channel="66001"><title lang="ka">დოკუმენტური</title></programme>
-<programme start="20260525070000 +0000" stop="20260525080000 +0000" channel="66001"><title lang="ka">მუსიკა</title></programme>
-<programme start="20260525080000 +0000" stop="20260525084500 +0000" channel="66001"><title lang="ka">აგრო სიახლეები</title></programme>
-<programme start="20260525084500 +0000" stop="20260525091500 +0000" channel="66001"><title lang="ka">პლუს მინუსი-21</title></programme>
-<programme start="20260525091500 +0000" stop="20260525110000 +0000" channel="66001"><title lang="ka">მუსიკა</title></programme>
-<programme start="20260525110000 +0000" stop="20260525113000 +0000" channel="66001"><title lang="ka">გლობალ-3000</title></programme>
-<programme start="20260525113000 +0000" stop="20260525153000 +0000" channel="66001"><title lang="ka">მუსიკა</title></programme>
-<programme start="20260525153000 +0000" stop="20260525160000 +0000" channel="66001"><title lang="ka">ვიდრე ხვალ</title></programme>
-<programme start="20260525160000 +0000" stop="20260525164500 +0000" channel="66001"><title lang="ka">სათვალე</title></programme>
-<programme start="20260525164500 +0000" stop="20260525180000 +0000" channel="66001"><title lang="ka">მუსიკა</title></programme>
-<programme start="20260525180000 +0000" stop="20260525183000 +0000" channel="66001"><title lang="ka">კურსორი</title></programme>
-<programme start="20260525183000 +0000" stop="20260525190000 +0000" channel="66001"><title lang="ka">ნამდვილი დრო</title></programme>
-<programme start="20260525190000 +0000" stop="20260525195800 +0000" channel="66001"><title lang="ka">მუსიკა</title></programme>
-<programme start="20260525195800 +0000" stop="20260526040000 +0000" channel="66001"><title lang="ka">შესვენება</title></programme>
-<programme start="20260526040000 +0000" stop="20260526060000 +0000" channel="66001"><title lang="ka">მუსიკა</title></programme>
-<programme start="20260525050000 +0000" stop="20260525060000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
-<programme start="20260525060000 +0000" stop="20260525070000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
-<programme start="20260525070000 +0000" stop="20260525080000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
-<programme start="20260525080000 +0000" stop="20260525090000 +0000" channel="68002"><title lang="ka">ამბები დღისით</title></programme>
-<programme start="20260525090000 +0000" stop="20260525100000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
-<programme start="20260525100000 +0000" stop="20260525103000 +0000" channel="68002"><title lang="ka">ამბები დღისით</title></programme>
-<programme start="20260525103000 +0000" stop="20260525110000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
-<programme start="20260525110000 +0000" stop="20260525120000 +0000" channel="68002"><title lang="ka">ამბები დღისით</title></programme>
-<programme start="20260525120000 +0000" stop="20260525130000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
-<programme start="20260525130000 +0000" stop="20260525133000 +0000" channel="68002"><title lang="ka">ამბები დღისით</title></programme>
-<programme start="20260525133000 +0000" stop="20260525140000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
-<programme start="20260525140000 +0000" stop="20260525150000 +0000" channel="68002"><title lang="ka">ამბები ამ საღამოს</title></programme>
-<programme start="20260525150000 +0000" stop="20260525160000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
-<programme start="20260525160000 +0000" stop="20260525170000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
-<programme start="20260525170000 +0000" stop="20260525180000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
-<programme start="20260525180000 +0000" stop="20260525183000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
-<programme start="20260525183000 +0000" stop="20260525190000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
-<programme start="20260525190000 +0000" stop="20260525200000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
-<programme start="20260525200000 +0000" stop="20260525210000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
-<programme start="20260525210000 +0000" stop="20260525220000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
-<programme start="20260525220000 +0000" stop="20260525230000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
-<programme start="20260525230000 +0000" stop="20260526000000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
-<programme start="20260526000000 +0000" stop="20260526010000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
-<programme start="20260526010000 +0000" stop="20260526020000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
-<programme start="20260526020000 +0000" stop="20260526030000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
-<programme start="20260526030000 +0000" stop="20260526040000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
-<programme start="20260526040000 +0000" stop="20260526050000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
-<programme start="20260525050000 +0000" stop="20260525050100 +0000" channel="68003"><title lang="ka">რაგბი</title></programme>
-<programme start="20260525050100 +0000" stop="20260525050700 +0000" channel="68003"><title lang="ka">უცნობი ახალი თაობა და მოძრაობა (რუსთაველი)</title></programme>
-<programme start="20260525050700 +0000" stop="20260525050900 +0000" channel="68003"><title lang="ka">ლეგენდები - ანდრო ჟორდანია</title></programme>
-<programme start="20260525050900 +0000" stop="20260525051100 +0000" channel="68003"><title lang="ka">ლეგენდები - ბორის პაიჭაძე</title></programme>
-<programme start="20260525051100 +0000" stop="20260525051400 +0000" channel="68003"><title lang="ka">ლეგენდები - ბასა ღოღობერიძე</title></programme>
-<programme start="20260525051400 +0000" stop="20260525051500 +0000" channel="68003"><title lang="ka">ლეგენდები - შოთა იამანიძე</title></programme>
-<programme start="20260525051500 +0000" stop="20260525064400 +0000" channel="68003"><title lang="ka">GEO-Ch-FS-SEMIFINALS-61-70-79-92-125</title></programme>
-<programme start="20260525064400 +0000" stop="20260525064800 +0000" channel="68003"><title lang="ka">I Don&apos;t Blame You</title></programme>
-<programme start="20260525064800 +0000" stop="20260525065000 +0000" channel="68003"><title lang="ka">ლეგენდები - მედეა ჯუღელი</title></programme>
-<programme start="20260525065000 +0000" stop="20260525065300 +0000" channel="68003"><title lang="ka">ლეგენდები - ნინო დუმბაძე</title></programme>
-<programme start="20260525065300 +0000" stop="20260525065500 +0000" channel="68003"><title lang="ka">ლეგენდები - რობერტ შავლაყაძე</title></programme>
-<programme start="20260525065500 +0000" stop="20260525065800 +0000" channel="68003"><title lang="ka">ლეგენდები - ნუგზარ ასათიანი</title></programme>
-<programme start="20260525065800 +0000" stop="20260525090900 +0000" channel="68003"><title lang="ka">ფრენბურთი 2023 ევრ. ჩემპ. W-U17 GEO - ISR</title></programme>
-<programme start="20260525090900 +0000" stop="20260525091400 +0000" channel="68003"><title lang="ka">Pills Of Time</title></programme>
-<programme start="20260525091400 +0000" stop="20260525093600 +0000" channel="68003"><title lang="ka">სპორტის ანატომია - კოტე ლაშხი</title></programme>
-<programme start="20260525093600 +0000" stop="20260525095000 +0000" channel="68003"><title lang="ka">2022 მსოფლიო U17-51კგ. დავით ჯაფარიძე - ენდრიუ სნედონი მეთექვსმეტედფინალი</title></programme>
-<programme start="20260525095000 +0000" stop="20260525100200 +0000" channel="68003"><title lang="ka">2022 მსოფლიო U17-54კგ. გორ აივაზიანი - ალი ისა მეთექვსმეტედფინალი</title></programme>
-<programme start="20260525100200 +0000" stop="20260525101700 +0000" channel="68003"><title lang="ka">2022 მსოფლიო U17-54კგ. გორ აივაზიანი - დენის ბრილი მერვედფინალი</title></programme>
-<programme start="20260525101700 +0000" stop="20260525103100 +0000" channel="68003"><title lang="ka">2022 მსოფლიო U17-60კგ. გოჩა გორდულავა - მაკ ევოი ლი ნახევარფინალი</title></programme>
-<programme start="20260525103100 +0000" stop="20260525103500 +0000" channel="68003"><title lang="ka">უცნობი-უგვირგვინო ჯოკერი (რუსთაველი)</title></programme>
-<programme start="20260525103500 +0000" stop="20260525104900 +0000" channel="68003"><title lang="ka">2022 მსოფლიო U17-60კგ. გოჩა გორდულავა - პურევდორჯ დამდინდორჯი მერვედფინალი</title></programme>
-<programme start="20260525104900 +0000" stop="20260525110300 +0000" channel="68003"><title lang="ka">2022 მსოფლიო U17-60კგ. გოჩა გორდულავა - ტომაშ ოტა მეთექვსმეტედფინალი</title></programme>
-<programme start="20260525110300 +0000" stop="20260525111800 +0000" channel="68003"><title lang="ka">2022 მსოფლიო U17-63.5კგ. დემურ ქაჯაია - აჰმედ ჰეკალი მეთექვსმეტედფინალი</title></programme>
-<programme start="20260525111800 +0000" stop="20260525113300 +0000" channel="68003"><title lang="ka">2022 მსოფლიო U17-63.5კგ. დემურ ქაჯაია - ბართოლომეი როსკოვიჩი ნახევარფინალი</title></programme>
-<programme start="20260525113300 +0000" stop="20260525114700 +0000" channel="68003"><title lang="ka">2022 მსოფლიო U17-63.5კგ. დემურ ქაჯაია - მოჰამედ ოსამა ინგლ. - მეოთხედფინალი</title></programme>
-<programme start="20260525114700 +0000" stop="20260525115100 +0000" channel="68003"><title lang="ka">ლეგენდები - შოთა ჩოჩიშვილი</title></programme>
-<programme start="20260525115100 +0000" stop="20260525115300 +0000" channel="68003"><title lang="ka">ლეგენდები - თემურ ხუბულური</title></programme>
-<programme start="20260525115300 +0000" stop="20260525115500 +0000" channel="68003"><title lang="ka">ლეგენდები - დავით ხახალეიშვილი</title></programme>
-<programme start="20260525115500 +0000" stop="20260525115700 +0000" channel="68003"><title lang="ka">ლეგენდები - შოთა ხაბარელი</title></programme>
-<programme start="20260525115700 +0000" stop="20260525132600 +0000" channel="68003"><title lang="ka">ხელბურთი - Men&apos;s U18 EHF Ch. Estonia - Greece</title></programme>
-<programme start="20260525132600 +0000" stop="20260525133100 +0000" channel="68003"><title lang="ka">Pills Of Time</title></programme>
-<programme start="20260525133100 +0000" stop="20260525150100 +0000" channel="68003"><title lang="ka">ხელბურთი - Men&apos;s U18 EHF Ch. Georgia - Finland</title></programme>
-<programme start="20260525150100 +0000" stop="20260525153800 +0000" channel="68003"><title lang="ka">სპორტის ანატომია - ემზარ ზენაიშვილი</title></programme>
-<programme start="20260525153800 +0000" stop="20260525154200 +0000" channel="68003"><title lang="ka">უცნობი-კუნძული (რუსთაველი)</title></programme>
-<programme start="20260525154200 +0000" stop="20260525154400 +0000" channel="68003"><title lang="ka">ლეგენდები - გივი კარტოზია</title></programme>
-<programme start="20260525154400 +0000" stop="20260525154600 +0000" channel="68003"><title lang="ka">ლეგენდები - დავით ციმაკურიძე</title></programme>
-<programme start="20260525154600 +0000" stop="20260525154800 +0000" channel="68003"><title lang="ka">ლეგენდები - ავთანდილ ქორიძე</title></programme>
-<programme start="20260525154800 +0000" stop="20260525155100 +0000" channel="68003"><title lang="ka">ლეგენდები - მირიან ცალქალამანიძე</title></programme>
-<programme start="20260525155100 +0000" stop="20260525155300 +0000" channel="68003"><title lang="ka">ლეგენდები - შოთა ლომიძე</title></programme>
-<programme start="20260525155300 +0000" stop="20260525155500 +0000" channel="68003"><title lang="ka">ლეგენდები - რომან რურუა</title></programme>
-<programme start="20260525155500 +0000" stop="20260525162600 +0000" channel="68003"><title lang="ka">ძიუდო გიორგი ჭანიშვილთან ერთად - ვასილ ბალახაძე</title></programme>
-<programme start="20260525162600 +0000" stop="20260526050000 +0000" channel="68003"><title lang="ka">მაგიდის ჩოგბურთი - 2022 მსოფ. ახალ. ტური 19 წლამდე გოგონები</title></programme>
-<programme start="20260525050000 +0000" stop="20260525050500 +0000" channel="68050"><title lang="ka">ლოცვა</title></programme>
-<programme start="20260525050500 +0000" stop="20260525060000 +0000" channel="68050"><title lang="ka">დილის გადაცემები</title></programme>
-<programme start="20260525060000 +0000" stop="20260525070000 +0000" channel="68050"><title lang="ka">პროფ. გია კვაშილავას საავტორო გადაცემა ფაზისის აკადემიის კვლევები (განმეორებით)</title></programme>
-<programme start="20260525070000 +0000" stop="20260525080000 +0000" channel="68050"><title lang="ka">პროფესორ თემურ ჩილაჩავას საავტორო გადაცემა “განათლება და მეცნიერება” (განმეორებით)</title></programme>
-<programme start="20260525080000 +0000" stop="20260525080500 +0000" channel="68050"><title lang="ka">ლოცვა</title></programme>
-<programme start="20260525080500 +0000" stop="20260525090000 +0000" channel="68050"><title lang="ka">ალექსანდრე კასრაძის &quot;წამი&quot;</title></programme>
-<programme start="20260525090000 +0000" stop="20260525100000 +0000" channel="68050"><title lang="ka">ლუარა ნიჟარაძის შეხვედრა მეცნიერთა კონგრესთან. ეროვნულ-სახელმწიფოებრივი დოქტრინის განხილვა</title></programme>
-<programme start="20260525100000 +0000" stop="20260525110000 +0000" channel="68050"><title lang="ka">დოკ.ფილმი</title></programme>
-<programme start="20260525110000 +0000" stop="20260525110500 +0000" channel="68050"><title lang="ka">ლოცვა</title></programme>
-<programme start="20260525110500 +0000" stop="20260525140000 +0000" channel="68050"><title lang="ka">მხ.ფილმი</title></programme>
-<programme start="20260525140000 +0000" stop="20260525140500 +0000" channel="68050"><title lang="ka">ლოცვები</title></programme>
-<programme start="20260525140500 +0000" stop="20260525150000 +0000" channel="68050"><title lang="ka">დოკ.ფილმი</title></programme>
-<programme start="20260525150000 +0000" stop="20260525160000 +0000" channel="68050"><title lang="ka">პროფესორ კოტე კემულარიას საავტორო გადაცემა “კვირის პოლიტიკური ანალიზი”</title></programme>
-<programme start="20260525160000 +0000" stop="20260525170000 +0000" channel="68050"><title lang="ka">უზენაესი საბჭოს დეპუტატის, თენგიზ დიხამინჯიას საავტორო გადაცემა “საქართველო გუშინ.დღეს, ხვალ”</title></programme>
-<programme start="20260525170000 +0000" stop="20260525170500 +0000" channel="68050"><title lang="ka">ლოცვა</title></programme>
-<programme start="20260525170500 +0000" stop="20260525180000 +0000" channel="68050"><title lang="ka">პროფესორ ამბროსი გრიშიკაშვილის საავტორო გადაცემა &quot;ეკონომიკა და არა მხოლოდ &quot;</title></programme>
-<programme start="20260525180000 +0000" stop="20260525190000 +0000" channel="68050"><title lang="ka">მეცნიერთა კონგრესის პროგრამები</title></programme>
-<programme start="20260525190000 +0000" stop="20260525200000 +0000" channel="68050"><title lang="ka">დოკ.ფილმი</title></programme>
-<programme start="20260525200000 +0000" stop="20260525200500 +0000" channel="68050"><title lang="ka">ლოცვა</title></programme>
-<programme start="20260525200500 +0000" stop="20260525220000 +0000" channel="68050"><title lang="ka">მხ.ფილმი</title></programme>
-<programme start="20260525220000 +0000" stop="20260525230000 +0000" channel="68050"><title lang="ka">ზურაბ კობახიძისა და პაატა შუბითიძის საავტორო გადაცემა &quot;აქტუალური ამერიკა&quot; (პარასკევის გადაცემის (განმეორებით)</title></programme>
-<programme start="20260525230000 +0000" stop="20260526000000 +0000" channel="68050"><title lang="ka">გიორგი ჟორჟოლიანის საავტორო გადაცემა &quot;ერთი ერთზე&quot;</title></programme>
-<programme start="20260526000000 +0000" stop="20260526010000 +0000" channel="68050"><title lang="ka">აკაცუკების ნადიმი (განმეორებით)</title></programme>
-<programme start="20260526010000 +0000" stop="20260526020000 +0000" channel="68050"><title lang="ka">ადვოკატ ნიკოლოზ მებაღიშვილის საავტორო გადაცემა (განმეორებით)</title></programme>
-<programme start="20260526020000 +0000" stop="20260526020500 +0000" channel="68050"><title lang="ka">ლოცვა</title></programme>
-<programme start="20260526020500 +0000" stop="20260526040000 +0000" channel="68050"><title lang="ka">მუსიკალური გადაცემები</title></programme>
-<programme start="20260526040000 +0000" stop="20260526050000 +0000" channel="68050"><title lang="ka">დილის გადაცემები</title></programme>
-<programme start="20260525053000 +0000" stop="20260525060000 +0000" channel="68052"><title lang="ka">დოკუმენტური ფილმი</title></programme>
-<programme start="20260525060000 +0000" stop="20260525061000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
-<programme start="20260525061000 +0000" stop="20260525073000 +0000" channel="68052"><title lang="ka">საერთაშორისო მიმოხილვა</title></programme>
-<programme start="20260525073000 +0000" stop="20260525080000 +0000" channel="68052"><title lang="ka">დაცვითი სიტყვები</title></programme>
-<programme start="20260525080000 +0000" stop="20260525081000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
-<programme start="20260525081000 +0000" stop="20260525093000 +0000" channel="68052"><title lang="ka">პოდკასტი</title></programme>
-<programme start="20260525093000 +0000" stop="20260525100000 +0000" channel="68052"><title lang="ka">დაცვითი სიტყვები</title></programme>
-<programme start="20260525100000 +0000" stop="20260525101000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
-<programme start="20260525101000 +0000" stop="20260525113000 +0000" channel="68052"><title lang="ka">თავისუფალი საქართველო</title></programme>
-<programme start="20260525113000 +0000" stop="20260525120000 +0000" channel="68052"><title lang="ka">დაცვითი სიტყვები</title></programme>
-<programme start="20260525120000 +0000" stop="20260525133000 +0000" channel="68052"><title lang="ka">ანალიტიკა</title></programme>
-<programme start="20260525133000 +0000" stop="20260525140000 +0000" channel="68052"><title lang="ka">დოკუმენტური ფილმი</title></programme>
-<programme start="20260525140000 +0000" stop="20260525141000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
-<programme start="20260525141000 +0000" stop="20260525153000 +0000" channel="68052"><title lang="ka">საერთაშორისო მიმოხილვა</title></programme>
-<programme start="20260525153000 +0000" stop="20260525160000 +0000" channel="68052"><title lang="ka">დაცვითი სიტყვები</title></programme>
-<programme start="20260525160000 +0000" stop="20260525161000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
-<programme start="20260525161000 +0000" stop="20260525173000 +0000" channel="68052"><title lang="ka">პოდკასტი</title></programme>
-<programme start="20260525173000 +0000" stop="20260525180000 +0000" channel="68052"><title lang="ka">დაცვითი სიტყვები</title></programme>
-<programme start="20260525180000 +0000" stop="20260525181000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
-<programme start="20260525181000 +0000" stop="20260525193000 +0000" channel="68052"><title lang="ka">თავისუფალი საქართველო</title></programme>
-<programme start="20260525193000 +0000" stop="20260525200000 +0000" channel="68052"><title lang="ka">დაცვითი სიტყვები</title></programme>
-<programme start="20260525200000 +0000" stop="20260525201000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
-<programme start="20260525201000 +0000" stop="20260525213000 +0000" channel="68052"><title lang="ka">საქართველოს ტალღა</title></programme>
-<programme start="20260525213000 +0000" stop="20260525220000 +0000" channel="68052"><title lang="ka">დოკუმენტური ფილმი</title></programme>
-<programme start="20260525220000 +0000" stop="20260525221000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
-<programme start="20260525221000 +0000" stop="20260525233000 +0000" channel="68052"><title lang="ka">საერთაშორისო მიმოხილვა</title></programme>
-<programme start="20260525233000 +0000" stop="20260526000000 +0000" channel="68052"><title lang="ka">დაცვითი სიტყვები</title></programme>
-<programme start="20260526000000 +0000" stop="20260526001000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
-<programme start="20260526001000 +0000" stop="20260526013000 +0000" channel="68052"><title lang="ka">პოდკასტი</title></programme>
-<programme start="20260526013000 +0000" stop="20260526020000 +0000" channel="68052"><title lang="ka">დაცვითი სიტყვები</title></programme>
-<programme start="20260526020000 +0000" stop="20260526021000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
-<programme start="20260526021000 +0000" stop="20260526033000 +0000" channel="68052"><title lang="ka">თავისუფალი საქართველო</title></programme>
-<programme start="20260526033000 +0000" stop="20260526040000 +0000" channel="68052"><title lang="ka">დაცვითი სიტყვები</title></programme>
-<programme start="20260526040000 +0000" stop="20260526041000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
-<programme start="20260526041000 +0000" stop="20260526053000 +0000" channel="68052"><title lang="ka">საქართველოს ტალღა</title></programme>
-<programme start="20260525050000 +0000" stop="20260525050500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525050500 +0000" stop="20260525053000 +0000" channel="68100"><title lang="ka">მოდა</title></programme>
-<programme start="20260525053000 +0000" stop="20260525053500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525053500 +0000" stop="20260525060000 +0000" channel="68100"><title lang="ka">მუსიკა</title></programme>
-<programme start="20260525060000 +0000" stop="20260525060500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525060500 +0000" stop="20260525063000 +0000" channel="68100"><title lang="ka">მუსიკა</title></programme>
-<programme start="20260525063000 +0000" stop="20260525063500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525063500 +0000" stop="20260525070000 +0000" channel="68100"><title lang="ka">მდიდრული აპარტამენტები</title></programme>
-<programme start="20260525070000 +0000" stop="20260525070500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525070500 +0000" stop="20260525073000 +0000" channel="68100"><title lang="ka">მუსიკა</title></programme>
-<programme start="20260525073000 +0000" stop="20260525073500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525073500 +0000" stop="20260525080000 +0000" channel="68100"><title lang="ka">ევროპის ქალაქები</title></programme>
-<programme start="20260525080000 +0000" stop="20260525080500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525080500 +0000" stop="20260525083000 +0000" channel="68100"><title lang="ka">მდიდრული აპარტამენტები</title></programme>
-<programme start="20260525083000 +0000" stop="20260525083500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525083500 +0000" stop="20260525090000 +0000" channel="68100"><title lang="ka">მდიდრული აპარტამენტები</title></programme>
-<programme start="20260525090000 +0000" stop="20260525090500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525090500 +0000" stop="20260525093000 +0000" channel="68100"><title lang="ka">მეგაპოლისები</title></programme>
-<programme start="20260525093000 +0000" stop="20260525093500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525093500 +0000" stop="20260525100000 +0000" channel="68100"><title lang="ka">გასაოცარი ბუნება</title></programme>
-<programme start="20260525100000 +0000" stop="20260525100500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525100500 +0000" stop="20260525103000 +0000" channel="68100"><title lang="ka">მოდა</title></programme>
-<programme start="20260525103000 +0000" stop="20260525103500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525103500 +0000" stop="20260525110000 +0000" channel="68100"><title lang="ka">ევროპის ქალაქები</title></programme>
-<programme start="20260525110000 +0000" stop="20260525110500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525110500 +0000" stop="20260525113000 +0000" channel="68100"><title lang="ka">გასაოცარი ბუნება</title></programme>
-<programme start="20260525113000 +0000" stop="20260525113500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525113500 +0000" stop="20260525120000 +0000" channel="68100"><title lang="ka">მდიდრული აპარტამენტები</title></programme>
-<programme start="20260525120000 +0000" stop="20260525120500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525120500 +0000" stop="20260525123000 +0000" channel="68100"><title lang="ka">ძვირადღირებული იახტები</title></programme>
-<programme start="20260525123000 +0000" stop="20260525123500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525123500 +0000" stop="20260525130000 +0000" channel="68100"><title lang="ka">მუსიკა</title></programme>
-<programme start="20260525130000 +0000" stop="20260525130500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525130500 +0000" stop="20260525133000 +0000" channel="68100"><title lang="ka">მოდა</title></programme>
-<programme start="20260525133000 +0000" stop="20260525133500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525133500 +0000" stop="20260525140000 +0000" channel="68100"><title lang="ka">ძვირადღირებული ავტომობილები</title></programme>
-<programme start="20260525140000 +0000" stop="20260525140500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525140500 +0000" stop="20260525143000 +0000" channel="68100"><title lang="ka">საინტერესო ქვეყნები</title></programme>
-<programme start="20260525143000 +0000" stop="20260525143500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525143500 +0000" stop="20260525150000 +0000" channel="68100"><title lang="ka">მეგაპოლისები</title></programme>
-<programme start="20260525150000 +0000" stop="20260525150500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525150500 +0000" stop="20260525153000 +0000" channel="68100"><title lang="ka">მდიდრული აპარტამენტები</title></programme>
-<programme start="20260525153000 +0000" stop="20260525153500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525153500 +0000" stop="20260525160000 +0000" channel="68100"><title lang="ka">მუსიკა</title></programme>
-<programme start="20260525160000 +0000" stop="20260525160500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525160500 +0000" stop="20260525163000 +0000" channel="68100"><title lang="ka">კოსმოსი/ტექნოლოგიები</title></programme>
-<programme start="20260525163000 +0000" stop="20260525163500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525163500 +0000" stop="20260525170000 +0000" channel="68100"><title lang="ka">მდიდრული აპარტამენტები</title></programme>
-<programme start="20260525170000 +0000" stop="20260525170500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525170500 +0000" stop="20260525173000 +0000" channel="68100"><title lang="ka">მდიდრული აპარტამენტები</title></programme>
-<programme start="20260525173000 +0000" stop="20260525173500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525173500 +0000" stop="20260525180000 +0000" channel="68100"><title lang="ka">საინეტერესო ქვეყნები და ქალაქები</title></programme>
-<programme start="20260525180000 +0000" stop="20260525180500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525180500 +0000" stop="20260525183000 +0000" channel="68100"><title lang="ka">მოდა</title></programme>
-<programme start="20260525183000 +0000" stop="20260525183500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525183500 +0000" stop="20260525190000 +0000" channel="68100"><title lang="ka">ევროპის ქალაქები</title></programme>
-<programme start="20260525190000 +0000" stop="20260525190500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525190500 +0000" stop="20260525193000 +0000" channel="68100"><title lang="ka">მუსიკა</title></programme>
-<programme start="20260525193000 +0000" stop="20260525193500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525193500 +0000" stop="20260525200000 +0000" channel="68100"><title lang="ka">მდიდრული აპარტამენტები</title></programme>
-<programme start="20260525200000 +0000" stop="20260525200500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525200500 +0000" stop="20260525203000 +0000" channel="68100"><title lang="ka">მოდა</title></programme>
-<programme start="20260525203000 +0000" stop="20260525203500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525203500 +0000" stop="20260525210000 +0000" channel="68100"><title lang="ka">მუსიკა</title></programme>
-<programme start="20260525210000 +0000" stop="20260525210500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525210500 +0000" stop="20260525213000 +0000" channel="68100"><title lang="ka">მეგაპოლისები</title></programme>
-<programme start="20260525213000 +0000" stop="20260525213500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525213500 +0000" stop="20260525220000 +0000" channel="68100"><title lang="ka">მუსიკა</title></programme>
-<programme start="20260525220000 +0000" stop="20260525220500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525220500 +0000" stop="20260525223000 +0000" channel="68100"><title lang="ka">მდიდრული აპარტამენტები</title></programme>
-<programme start="20260525223000 +0000" stop="20260525223500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525223500 +0000" stop="20260525230000 +0000" channel="68100"><title lang="ka">გასაოცარი ბუნება</title></programme>
-<programme start="20260525230000 +0000" stop="20260525230500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260525230500 +0000" stop="20260526040000 +0000" channel="68100"><title lang="ka">საინტერესო ვიდეო</title></programme>
-<programme start="20260526040000 +0000" stop="20260526040500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260526040500 +0000" stop="20260526043000 +0000" channel="68100"><title lang="ka">მუსიკა</title></programme>
-<programme start="20260526043000 +0000" stop="20260526043500 +0000" channel="68100"><title lang="ka">ამინდი. ვალუტა. no comment</title></programme>
-<programme start="20260526043500 +0000" stop="20260526050000 +0000" channel="68100"><title lang="ka">მუსიკა</title></programme>
-<programme start="20260525050000 +0000" stop="20260525055000 +0000" channel="68350"><title lang="ka">დოკ. ფილმი</title></programme>
-<programme start="20260525055000 +0000" stop="20260525060000 +0000" channel="68350"><title lang="ka">სტრიმის დაიჯესტი</title></programme>
-<programme start="20260525060000 +0000" stop="20260525063000 +0000" channel="68350"><title lang="ka">შეჰერეზადას ზღაპრები</title></programme>
-<programme start="20260525063000 +0000" stop="20260525074500 +0000" channel="68350"><title lang="ka">დოკ. ფილმი</title></programme>
-<programme start="20260525074500 +0000" stop="20260525080000 +0000" channel="68350"><title lang="ka">საქართველოს ისტორიის გაკვეთილები</title></programme>
-<programme start="20260525080000 +0000" stop="20260525094000 +0000" channel="68350"><title lang="ka">LIVE. რეალური პოლიტიკა</title></programme>
-<programme start="20260525094000 +0000" stop="20260525101000 +0000" channel="68350"><title lang="ka">კალათბურთი. სუპერლიგის მიმოხილვა</title></programme>
-<programme start="20260525101000 +0000" stop="20260525105000 +0000" channel="68350"><title lang="ka">რეალური აქცენტებო - პაატა ლომთათიძესთან ერთად</title></programme>
-<programme start="20260525105000 +0000" stop="20260525110000 +0000" channel="68350"><title lang="ka">სტრიმის დაიჯესტი</title></programme>
-<programme start="20260525110000 +0000" stop="20260525121000 +0000" channel="68350"><title lang="ka">საინტერესო ამბები</title></programme>
-<programme start="20260525121000 +0000" stop="20260525125500 +0000" channel="68350"><title lang="ka">დროული დიალოგი - ეკა სეხნიაშვილთან ერთად</title></programme>
-<programme start="20260525125500 +0000" stop="20260525131500 +0000" channel="68350"><title lang="ka">სტრიმი</title></programme>
-<programme start="20260525131500 +0000" stop="20260525140000 +0000" channel="68350"><title lang="ka">ფრაგმენტები - რუსუდან ძნელაძესთან ერთად</title></programme>
-<programme start="20260525140000 +0000" stop="20260525145000 +0000" channel="68350"><title lang="ka">სტუდია &quot;სალტე&quot;</title></programme>
-<programme start="20260525145000 +0000" stop="20260525150000 +0000" channel="68350"><title lang="ka">სტრიმის დაიჯესტი</title></programme>
-<programme start="20260525150000 +0000" stop="20260525170000 +0000" channel="68350"><title lang="ka">LIVE. დიდი რეალური პოლიტიკა - მალხაზ გულაშვილთან ერთად</title></programme>
-<programme start="20260525170000 +0000" stop="20260525173000 +0000" channel="68350"><title lang="ka">შეჰერეზადას ზღაპრები</title></programme>
-<programme start="20260525173000 +0000" stop="20260525175000 +0000" channel="68350"><title lang="ka">მსოფლიო ისტორიის გაკვეთილები</title></programme>
-<programme start="20260525175000 +0000" stop="20260525180000 +0000" channel="68350"><title lang="ka">სტრიმის დაიჯესტი</title></programme>
-<programme start="20260525180000 +0000" stop="20260525185000 +0000" channel="68350"><title lang="ka">სერიალი - გარიყულთა კუნძული(1)</title></programme>
-<programme start="20260525185000 +0000" stop="20260525190000 +0000" channel="68350"><title lang="ka">სტრიმის დაიჯესტი</title></programme>
-<programme start="20260525190000 +0000" stop="20260525195000 +0000" channel="68350"><title lang="ka">დოკ. ფილმი - რჩეული - კუკური მეტრეველი</title></programme>
-<programme start="20260525195000 +0000" stop="20260525195500 +0000" channel="68350"><title lang="ka">სტრიმის დაიჯესტი</title></programme>
-<programme start="20260525195500 +0000" stop="20260525220000 +0000" channel="68350"><title lang="ka">მხ. ფილმი - მაიტა ნასოსი</title></programme>
-<programme start="20260525220000 +0000" stop="20260526040000 +0000" channel="68350"><title lang="ka">FM 92.3 GT RADIO</title></programme>
-<programme start="20260526040000 +0000" stop="20260526042000 +0000" channel="68350"><title lang="ka">მართლმადიდებლური მულტფილმები</title></programme>
-<programme start="20260526042000 +0000" stop="20260526050000 +0000" channel="68350"><title lang="ka">მუსიკალური საუნჯე</title></programme>
-<programme start="20260525051500 +0000" stop="20260525060200 +0000" channel="69350"><title lang="ka">EFC. Лучшие моменты, 1 сезон, 11 эп.</title></programme>
-<programme start="20260525060200 +0000" stop="20260525090900 +0000" channel="69350"><title lang="ka">Смешанные единоборства. LFA 218 в Сан-Кристобаль-де-ла-Лагуна, Испания.</title></programme>
-<programme start="20260525090900 +0000" stop="20260525095600 +0000" channel="69350"><title lang="ka">EFC. Лучшие моменты, 1 сезон, 12 эп.</title></programme>
-<programme start="20260525095600 +0000" stop="20260525104300 +0000" channel="69350"><title lang="ka">EFC. Лучшие моменты, 1 сезон, 13 эп.</title></programme>
-<programme start="20260525104300 +0000" stop="20260525110800 +0000" channel="69350"><title lang="ka">Новости Total Combat.</title></programme>
-<programme start="20260525110800 +0000" stop="20260525115600 +0000" channel="69350"><title lang="ka">Это Total Combat!, 4 сезон, 4 эп.</title></programme>
-<programme start="20260525115600 +0000" stop="20260525124500 +0000" channel="69350"><title lang="ka">Это Total Combat!, 4 сезон, 5 эп.</title></programme>
-<programme start="20260525124500 +0000" stop="20260525143700 +0000" channel="69350"><title lang="ka">Лига Enfusion (Нидерланды): Лучшие моменты. Enfusion 144.</title></programme>
-<programme start="20260525143700 +0000" stop="20260525150300 +0000" channel="69350"><title lang="ka">Шорт-лист, 1 сезон, 21 эп.</title></programme>
-<programme start="20260525150300 +0000" stop="20260525162300 +0000" channel="69350"><title lang="ka">Лига Enfusion (Нидерланды): Лучшие моменты. Enfusion 147.</title></programme>
-<programme start="20260525162300 +0000" stop="20260525164700 +0000" channel="69350"><title lang="ka">Новости Total Combat.</title></programme>
-<programme start="20260525164700 +0000" stop="20260525184500 +0000" channel="69350"><title lang="ka">Смешанные единоборства. LFA 231 в Прайор-Лейке, США.</title></programme>
-<programme start="20260525184500 +0000" stop="20260525211500 +0000" channel="69350"><title lang="ka">Смешанные единоборства, кикбоксинг. SFT Combat 20 в Сан-Паулу, Бразилия.</title></programme>
-<programme start="20260525211500 +0000" stop="20260526003000 +0000" channel="69350"><title lang="ka">Смешанные единоборства, кикбоксинг. SFT Combat 20 в Сан-Паулу, Бразилия.</title></programme>
-<programme start="20260526003000 +0000" stop="20260526011800 +0000" channel="69350"><title lang="ka">Это Total Combat!, 4 сезон, 6 эп.</title></programme>
-<programme start="20260526011800 +0000" stop="20260526020600 +0000" channel="69350"><title lang="ka">EFC. Лучшие моменты, 1 сезон, 19 эп.</title></programme>
-<programme start="20260526020600 +0000" stop="20260526025400 +0000" channel="69350"><title lang="ka">Это Total Combat!, 4 сезон, 7 эп.</title></programme>
-<programme start="20260526025400 +0000" stop="20260526034200 +0000" channel="69350"><title lang="ka">EFC. Лучшие моменты, 1 сезон, 14 эп.</title></programme>
-<programme start="20260526034200 +0000" stop="20260526042900 +0000" channel="69350"><title lang="ka">EFC. Лучшие моменты, 1 сезон, 15 эп.</title></programme>
+<programme start="20260526044500 +0000" stop="20260526051000 +0000" channel="1344"><title lang="ka">В курсе дела, 302 эп.</title></programme>
+<programme start="20260526051000 +0000" stop="20260526054000 +0000" channel="1344"><title lang="ka">Опыт чемпиона, 2 сезон, 10 эп. Перекат.</title></programme>
+<programme start="20260526054000 +0000" stop="20260526061000 +0000" channel="1344"><title lang="ka">Куда податься?, 9 эп.</title></programme>
+<programme start="20260526061000 +0000" stop="20260526064500 +0000" channel="1344"><title lang="ka">Куда податься?, 10 эп.</title></programme>
+<programme start="20260526064500 +0000" stop="20260526071000 +0000" channel="1344"><title lang="ka">Рыбалка со звездочкой, 7 эп. Со дна.</title></programme>
+<programme start="20260526071000 +0000" stop="20260526074500 +0000" channel="1344"><title lang="ka">Рыбалка со звездочкой, 8 эп. До четырнадцати.</title></programme>
+<programme start="20260526074500 +0000" stop="20260526081500 +0000" channel="1344"><title lang="ka">Дикий ручей, 2 сезон, 15 эп. Ручей ручью рознь.</title></programme>
+<programme start="20260526081500 +0000" stop="20260526085000 +0000" channel="1344"><title lang="ka">Дикий ручей, 2 сезон, 16 эп. Переходный период.</title></programme>
+<programme start="20260526085000 +0000" stop="20260526091500 +0000" channel="1344"><title lang="ka">Видеокарта уловистых мест России, 9 сезон, 17 эп. Ловля хищника из подо льда с применением флэшера.</title></programme>
+<programme start="20260526091500 +0000" stop="20260526094500 +0000" channel="1344"><title lang="ka">Видеокарта уловистых мест России, 9 сезон, 18 эп. Ловля окуня и щуки на Нарвском водохранилище.</title></programme>
+<programme start="20260526094500 +0000" stop="20260526101500 +0000" channel="1344"><title lang="ka">Все мы любим рыбалку, 3 сезон, 7 эп. Ловля на донные удочки и поплавок.</title></programme>
+<programme start="20260526101500 +0000" stop="20260526105000 +0000" channel="1344"><title lang="ka">Все мы любим рыбалку, 3 сезон, 8 эп. Рыбалка на мормышку.</title></programme>
+<programme start="20260526105000 +0000" stop="20260526112000 +0000" channel="1344"><title lang="ka">Современный спиннинг, 2 сезон, 9 эп. Казанский ночной судак.</title></programme>
+<programme start="20260526112000 +0000" stop="20260526115000 +0000" channel="1344"><title lang="ka">Современный спиннинг, 2 сезон, 10 эп. Ловля Черемшанского хищника.</title></programme>
+<programme start="20260526115000 +0000" stop="20260526122000 +0000" channel="1344"><title lang="ka">Не за рыбой, а на рыбалку!, 1 сезон, 9 эп. Ловля на слаги с лодки в жару.</title></programme>
+<programme start="20260526122000 +0000" stop="20260526125000 +0000" channel="1344"><title lang="ka">Не за рыбой, а на рыбалку!, 1 сезон, 12 эп. Ловля спиннингом с нахлыстового плотика.</title></programme>
+<programme start="20260526125000 +0000" stop="20260526132500 +0000" channel="1344"><title lang="ka">Рыбалка на Ямале, 1 эп. Встреча в Салехарде.</title></programme>
+<programme start="20260526132500 +0000" stop="20260526135500 +0000" channel="1344"><title lang="ka">Рыбалка на Ямале, 2 эп. На заснеженной Соби.</title></programme>
+<programme start="20260526135500 +0000" stop="20260526142000 +0000" channel="1344"><title lang="ka">Плато Путорана, 1 эп. Хусана.</title></programme>
+<programme start="20260526142000 +0000" stop="20260526145500 +0000" channel="1344"><title lang="ka">Плато Путорана, 2 эп. Водопад.</title></programme>
+<programme start="20260526145500 +0000" stop="20260526152500 +0000" channel="1344"><title lang="ka">Дикий ручей, 1 сезон, 3 эп. Долгие поиски вознаграждаются.</title></programme>
+<programme start="20260526152500 +0000" stop="20260526160500 +0000" channel="1344"><title lang="ka">Дикий ручей, 1 сезон, 4 эп. Кто ищет, тот всегда найдет.</title></programme>
+<programme start="20260526160500 +0000" stop="20260526163000 +0000" channel="1344"><title lang="ka">В курсе дела, 302 эп.</title></programme>
+<programme start="20260526163000 +0000" stop="20260526170000 +0000" channel="1344"><title lang="ka">Легенды Русского севера, 2 сезон, 1 эп. Знакомство с Колой.</title></programme>
+<programme start="20260526170000 +0000" stop="20260526173000 +0000" channel="1344"><title lang="ka">Легенды Русского севера, 2 сезон, 2 эп. Лицензионные участки.</title></programme>
+<programme start="20260526173000 +0000" stop="20260526181500 +0000" channel="1344"><title lang="ka">Рыбалка за рулем, 8 сезон, 19 эп.</title></programme>
+<programme start="20260526181500 +0000" stop="20260526190500 +0000" channel="1344"><title lang="ka">Рыбалка за рулем, 8 сезон, 20 эп.</title></programme>
+<programme start="20260526190500 +0000" stop="20260526193500 +0000" channel="1344"><title lang="ka">Одна на рыбалке, 11 эп.</title></programme>
+<programme start="20260526193500 +0000" stop="20260526200500 +0000" channel="1344"><title lang="ka">Одна на рыбалке, 12 эп.</title></programme>
+<programme start="20260526200500 +0000" stop="20260526203500 +0000" channel="1344"><title lang="ka">Рыбалка налегке, 7 эп. Имитационный мормышинг: часть 3. Нимфы.</title></programme>
+<programme start="20260526203500 +0000" stop="20260526210000 +0000" channel="1344"><title lang="ka">Рыбалка налегке, 8 эп. Микроколебалки - метод подбора.</title></programme>
+<programme start="20260526210000 +0000" stop="20260526212500 +0000" channel="1344"><title lang="ka">По малым рекам с Лобановым, 12 эп. Ловля окуня со льда.</title></programme>
+<programme start="20260526212500 +0000" stop="20260526215500 +0000" channel="1344"><title lang="ka">По малым рекам с Лобановым, 13 эп. Зимняя рыбалка.</title></programme>
+<programme start="20260526215500 +0000" stop="20260526222000 +0000" channel="1344"><title lang="ka">По малым рекам с Лобановым, 14 эп. Ловля на фидер в аномальных погодных условиях.</title></programme>
+<programme start="20260526222000 +0000" stop="20260526224000 +0000" channel="1344"><title lang="ka">Там, где хозяйничают птицы и рыбы, 9 эп. Волшебное место.</title></programme>
+<programme start="20260526224000 +0000" stop="20260526232500 +0000" channel="1344"><title lang="ka">Рыбалка за рулем, 8 сезон, 9 эп.</title></programme>
+<programme start="20260526232500 +0000" stop="20260527000500 +0000" channel="1344"><title lang="ka">Рыбалка за рулем, 8 сезон, 10 эп.</title></programme>
+<programme start="20260527000500 +0000" stop="20260527003000 +0000" channel="1344"><title lang="ka">Рыбалка в Пермском крае, 5 сезон, 3 эп. Рыбалка и пикник.</title></programme>
+<programme start="20260527003000 +0000" stop="20260527005500 +0000" channel="1344"><title lang="ka">Рыбалка в Пермском крае, 5 сезон, 4 эп. Рыбалка в чистом поле.</title></programme>
+<programme start="20260527005500 +0000" stop="20260527012500 +0000" channel="1344"><title lang="ka">Секреты астраханской рыбалки, 5 эп. Ловля белой рыбы с егерем базы &quot;Синяя птица&quot;.</title></programme>
+<programme start="20260527012500 +0000" stop="20260527015000 +0000" channel="1344"><title lang="ka">Секреты астраханской рыбалки, 6 эп. Ловля щуки на раскатах Волги.</title></programme>
+<programme start="20260527015000 +0000" stop="20260527021500 +0000" channel="1344"><title lang="ka">Дальневосточные путешествия, 2 сезон, 3 эп. Охота на &quot;речного леопарда&quot;.</title></programme>
+<programme start="20260527021500 +0000" stop="20260527024500 +0000" channel="1344"><title lang="ka">Дальневосточные путешествия, 2 сезон, 4 эп. За тайменем по диким локациям.</title></programme>
+<programme start="20260527024500 +0000" stop="20260527031000 +0000" channel="1344"><title lang="ka">Едем в Магадан, 1 эп. От Магадана до Кавинской долины.</title></programme>
+<programme start="20260527031000 +0000" stop="20260527033500 +0000" channel="1344"><title lang="ka">Едем в Магадан, 2 эп. Кава-Тауй.</title></programme>
+<programme start="20260527033500 +0000" stop="20260527040500 +0000" channel="1344"><title lang="ka">Легенды Русского севера, 3 сезон, 4 эп. Богатая тундра.</title></programme>
+<programme start="20260527040500 +0000" stop="20260527043000 +0000" channel="1344"><title lang="ka">Легенды Русского севера, 3 сезон, 5 эп. Неуловимая щука.</title></programme>
+<programme start="20260526043000 +0000" stop="20260526050000 +0000" channel="1346"><title lang="ka">გასართობი ვიდეო</title></programme>
+<programme start="20260526050000 +0000" stop="20260526053000 +0000" channel="1346"><title lang="ka">,,საინფორმაციო გამოშვება” ქართულ-აზერბაიჯანულ ენაზე</title></programme>
+<programme start="20260526053000 +0000" stop="20260526060000 +0000" channel="1346"><title lang="ka">გასართობი ვიდეო</title></programme>
+<programme start="20260526060000 +0000" stop="20260526070000 +0000" channel="1346"><title lang="ka">,,საინფორმაციო გამოშვება” ქართულ-აზერბაიჯანულ ენაზე</title></programme>
+<programme start="20260526070000 +0000" stop="20260526073000 +0000" channel="1346"><title lang="ka">,,საინფორმაციო გამოშვება” ქართულ-აზერბაიჯანულ ენაზე</title></programme>
+<programme start="20260526073000 +0000" stop="20260526090000 +0000" channel="1346"><title lang="ka">„დოკუმენტური ფილმები“ &quot;პირველი არხი&quot;</title></programme>
+<programme start="20260526090000 +0000" stop="20260526100000 +0000" channel="1346"><title lang="ka">აგრო სიახლეები</title></programme>
+<programme start="20260526100000 +0000" stop="20260526110000 +0000" channel="1346"><title lang="ka">,,საინფორმაციო გამოშვება” ქართულ-აზერბაიჯანულ ენაზე</title></programme>
+<programme start="20260526110000 +0000" stop="20260526120000 +0000" channel="1346"><title lang="ka">,,საინფორმაციო გამოშვება” ქართულ-აზერბაიჯანულ ენაზე</title></programme>
+<programme start="20260526120000 +0000" stop="20260526130000 +0000" channel="1346"><title lang="ka">,,საინფორმაციო გამოშვება” ქართულ-აზერბაიჯანულ ენაზე</title></programme>
+<programme start="20260526130000 +0000" stop="20260526140000 +0000" channel="1346"><title lang="ka">გასართობი ვიდეო</title></programme>
+<programme start="20260526140000 +0000" stop="20260526150000 +0000" channel="1346"><title lang="ka">თუმოროუ თუდეი</title></programme>
+<programme start="20260526150000 +0000" stop="20260526160000 +0000" channel="1346"><title lang="ka">,,საინფორმაციო გამოშვება” ქართულ-აზერბაიჯანულ ენაზე</title></programme>
+<programme start="20260526160000 +0000" stop="20260526170000 +0000" channel="1346"><title lang="ka">,,საინფორმაციო გამოშვება” ქართულ-აზერბაიჯანულ ენაზე</title></programme>
+<programme start="20260526170000 +0000" stop="20260526180000 +0000" channel="1346"><title lang="ka">მოამბე აზერბაიჯანულ ენაზე</title></programme>
+<programme start="20260526180000 +0000" stop="20260526190000 +0000" channel="1346"><title lang="ka">,,საინფორმაციო გამოშვება” ქართულ-აზერბაიჯანულ ენაზე</title></programme>
+<programme start="20260526190000 +0000" stop="20260527043000 +0000" channel="1346"><title lang="ka">,, ნასტოიაშეე ვრემია“ (,,საღამო“)</title></programme>
+<programme start="20260526050000 +0000" stop="20260526051500 +0000" channel="54000"><title lang="ka">საინფორმაციო გამოშვება ,,news box”</title></programme>
+<programme start="20260526051500 +0000" stop="20260526052000 +0000" channel="54000"><title lang="ka">სტუდია ვაშინგტონი</title></programme>
+<programme start="20260526052000 +0000" stop="20260526053000 +0000" channel="54000"><title lang="ka">სასაცილო ვიდეოები</title></programme>
+<programme start="20260526053000 +0000" stop="20260526061500 +0000" channel="54000"><title lang="ka">ვაშინგტონი დღეს</title></programme>
+<programme start="20260526061500 +0000" stop="20260526064000 +0000" channel="54000"><title lang="ka">არტ 21 კულტურა</title></programme>
+<programme start="20260526064000 +0000" stop="20260526065000 +0000" channel="54000"><title lang="ka">ბუნება</title></programme>
+<programme start="20260526065000 +0000" stop="20260526072000 +0000" channel="54000"><title lang="ka">ხედვა ვაშინგტონიდან</title></programme>
+<programme start="20260526072000 +0000" stop="20260526080000 +0000" channel="54000"><title lang="ka">ბუნება</title></programme>
+<programme start="20260526080000 +0000" stop="20260526090000 +0000" channel="54000"><title lang="ka">ბასტი ბუბუ</title></programme>
+<programme start="20260526090000 +0000" stop="20260526090500 +0000" channel="54000"><title lang="ka">რეალური დრო</title></programme>
+<programme start="20260526090500 +0000" stop="20260526093500 +0000" channel="54000"><title lang="ka">იმერვიზიის მელოდიები</title></programme>
+<programme start="20260526093500 +0000" stop="20260526095000 +0000" channel="54000"><title lang="ka">ბუნება</title></programme>
+<programme start="20260526095000 +0000" stop="20260526101500 +0000" channel="54000"><title lang="ka">იმერვიზიის მელოდიები</title></programme>
+<programme start="20260526101500 +0000" stop="20260526113000 +0000" channel="54000"><title lang="ka">სასაცილო ვიდეოები</title></programme>
+<programme start="20260526113000 +0000" stop="20260526120000 +0000" channel="54000"><title lang="ka">ბასტიბუბუ</title></programme>
+<programme start="20260526120000 +0000" stop="20260526130500 +0000" channel="54000"><title lang="ka">ქალაქები</title></programme>
+<programme start="20260526130500 +0000" stop="20260526132000 +0000" channel="54000"><title lang="ka">სასაცილო ვიდეოები</title></programme>
+<programme start="20260526132000 +0000" stop="20260526133000 +0000" channel="54000"><title lang="ka">ევრო მაქსი</title></programme>
+<programme start="20260526133000 +0000" stop="20260526141500 +0000" channel="54000"><title lang="ka">სპორტი</title></programme>
+<programme start="20260526141500 +0000" stop="20260526142500 +0000" channel="54000"><title lang="ka">იმერვიზიის მელოდიები</title></programme>
+<programme start="20260526142500 +0000" stop="20260526143000 +0000" channel="54000"><title lang="ka">განცხადებები+ტელემაღაზია</title></programme>
+<programme start="20260526143000 +0000" stop="20260526143000 +0000" channel="54000"><title lang="ka">ბუნება</title></programme>
+<programme start="20260526143000 +0000" stop="20260526143500 +0000" channel="54000"><title lang="ka">ვიდრე ხვალ</title></programme>
+<programme start="20260526143500 +0000" stop="20260526150000 +0000" channel="54000"><title lang="ka">საინფორმაციო გამოშვება ,,news box”</title></programme>
+<programme start="20260526150000 +0000" stop="20260526152000 +0000" channel="54000"><title lang="ka">სტუდია ვაშინგტონი</title></programme>
+<programme start="20260526152000 +0000" stop="20260526152500 +0000" channel="54000"><title lang="ka">აგრო სიახლეები</title></programme>
+<programme start="20260526152500 +0000" stop="20260526160000 +0000" channel="54000"><title lang="ka">სტუდია რეს ტელედისკუსიები</title></programme>
+<programme start="20260526160000 +0000" stop="20260526172500 +0000" channel="54000"><title lang="ka">განცხადებები+ტელემაღაზია</title></programme>
+<programme start="20260526172500 +0000" stop="20260526173000 +0000" channel="54000"><title lang="ka">საინფორმაციო გამოშვება ,,News box&apos;&apos;</title></programme>
+<programme start="20260526173000 +0000" stop="20260526174000 +0000" channel="54000"><title lang="ka">სტუდია ვაშინგტონი</title></programme>
+<programme start="20260526174000 +0000" stop="20260526174500 +0000" channel="54000"><title lang="ka">სასაცილო ვიდეოები</title></programme>
+<programme start="20260526174500 +0000" stop="20260526180500 +0000" channel="54000"><title lang="ka">იმერვიზიის მელოდიები</title></programme>
+<programme start="20260526180500 +0000" stop="20260526193000 +0000" channel="54000"><title lang="ka">ტელემაღაზია +განცხადებები</title></programme>
+<programme start="20260526193000 +0000" stop="20260526193500 +0000" channel="54000"><title lang="ka">საინფრომაციო გამოშვება ,,new box&apos;&apos;</title></programme>
+<programme start="20260526193500 +0000" stop="20260526194500 +0000" channel="54000"><title lang="ka">სტუდია ვაშინგტონი</title></programme>
+<programme start="20260526194500 +0000" stop="20260526195000 +0000" channel="54000"><title lang="ka">ბუნება</title></programme>
+<programme start="20260526195000 +0000" stop="20260527033000 +0000" channel="54000"><title lang="ka">კონცერტი</title></programme>
+<programme start="20260527033000 +0000" stop="20260527040000 +0000" channel="54000"><title lang="ka">ბუნება</title></programme>
+<programme start="20260527040000 +0000" stop="20260527050500 +0000" channel="54000"><title lang="ka">იმერვიზიის მელოდიები</title></programme>
+<programme start="20260526060000 +0000" stop="20260526063000 +0000" channel="57000"><title lang="ka">ნამდვილი დრო - გასული კვირა</title></programme>
+<programme start="20260526063000 +0000" stop="20260526070000 +0000" channel="57000"><title lang="ka">არტ 21 - ტელეჟურნალი - დოიჩე ველეს პროდუქცია</title></programme>
+<programme start="20260526070000 +0000" stop="20260526073000 +0000" channel="57000"><title lang="ka">გურიის ახალი ამბები - საინფორმაციო პროგრამა</title></programme>
+<programme start="20260526073000 +0000" stop="20260526081500 +0000" channel="57000"><title lang="ka">სერიალი</title></programme>
+<programme start="20260526081500 +0000" stop="20260526084500 +0000" channel="57000"><title lang="ka">რადიო თავისუფლების შემეცნებითი პროგრამა</title></programme>
+<programme start="20260526084500 +0000" stop="20260526090000 +0000" channel="57000"><title lang="ka">შემეცნებით პროგრამა</title></programme>
+<programme start="20260526090000 +0000" stop="20260526103000 +0000" channel="57000"><title lang="ka">მხატვრული ფილმი</title></programme>
+<programme start="20260526103000 +0000" stop="20260526110000 +0000" channel="57000"><title lang="ka">გურიის ახალი ამბები - საინფორმაციო პროგრამა</title></programme>
+<programme start="20260526110000 +0000" stop="20260526120000 +0000" channel="57000"><title lang="ka">მუსიკა</title></programme>
+<programme start="20260526120000 +0000" stop="20260526133000 +0000" channel="57000"><title lang="ka">მუსიკა</title></programme>
+<programme start="20260526133000 +0000" stop="20260526140000 +0000" channel="57000"><title lang="ka">მუსიკა</title></programme>
+<programme start="20260526140000 +0000" stop="20260526143000 +0000" channel="57000"><title lang="ka">ნამდვილი დრო - მთავარი</title></programme>
+<programme start="20260526143000 +0000" stop="20260526150000 +0000" channel="57000"><title lang="ka">მხიარული ვიდეოები</title></programme>
+<programme start="20260526150000 +0000" stop="20260526154500 +0000" channel="57000"><title lang="ka">კარგ ფორმაში- ტელეჟურნალი - დოიჩე ველეს პროდუქცია</title></programme>
+<programme start="20260526154500 +0000" stop="20260526163000 +0000" channel="57000"><title lang="ka">შემეცნებითი პროგრამა</title></programme>
+<programme start="20260526163000 +0000" stop="20260526164500 +0000" channel="57000"><title lang="ka">გურიის ახალი ამბები - საინფორმაციო პროგრამა</title></programme>
+<programme start="20260526164500 +0000" stop="20260526174500 +0000" channel="57000"><title lang="ka">შემეცნებითი პროგრამა</title></programme>
+<programme start="20260526174500 +0000" stop="20260526190000 +0000" channel="57000"><title lang="ka">შემეცნებითი პროგრამა</title></programme>
+<programme start="20260526190000 +0000" stop="20260526193000 +0000" channel="57000"><title lang="ka">გურიის ახალი ამბები - საინფორმაციო პროგრამა</title></programme>
+<programme start="20260526193000 +0000" stop="20260527040000 +0000" channel="57000"><title lang="ka">მხატვრული ფილმი</title></programme>
+<programme start="20260527040000 +0000" stop="20260527060000 +0000" channel="57000"><title lang="ka">მუსიკა</title></programme>
+<programme start="20260526050000 +0000" stop="20260526051500 +0000" channel="58001"><title lang="ka">დილის იოგა</title></programme>
+<programme start="20260526051500 +0000" stop="20260526054000 +0000" channel="58001"><title lang="ka">ანიმაცია</title></programme>
+<programme start="20260526054000 +0000" stop="20260526060000 +0000" channel="58001"><title lang="ka">დილის აჯაფსანდალი</title></programme>
+<programme start="20260526060000 +0000" stop="20260526070000 +0000" channel="58001"><title lang="ka">დილის აჯაფსანდალი</title></programme>
+<programme start="20260526070000 +0000" stop="20260526070500 +0000" channel="58001"><title lang="ka">დილის აჯაფსანდალი</title></programme>
+<programme start="20260526070500 +0000" stop="20260526072000 +0000" channel="58001"><title lang="ka">სოფლის მაშენებლები</title></programme>
+<programme start="20260526072000 +0000" stop="20260526080000 +0000" channel="58001"><title lang="ka">დილის აჯაფსანდალი</title></programme>
+<programme start="20260526080000 +0000" stop="20260526081500 +0000" channel="58001"><title lang="ka">დილის აჯაფსანდალი</title></programme>
+<programme start="20260526081500 +0000" stop="20260526090000 +0000" channel="58001"><title lang="ka">მაგნიტები</title></programme>
+<programme start="20260526090000 +0000" stop="20260526100000 +0000" channel="58001"><title lang="ka">დილის აჯაფსანდალი</title></programme>
+<programme start="20260526100000 +0000" stop="20260526104000 +0000" channel="58001"><title lang="ka">პოლიტიკური აგორა</title></programme>
+<programme start="20260526104000 +0000" stop="20260526110000 +0000" channel="58001"><title lang="ka">დღის აჯაფსანდალი</title></programme>
+<programme start="20260526110000 +0000" stop="20260526111000 +0000" channel="58001"><title lang="ka">საინფორმაციო გამოშვება</title></programme>
+<programme start="20260526111000 +0000" stop="20260526113500 +0000" channel="58001"><title lang="ka">აუტო შოუ</title></programme>
+<programme start="20260526113500 +0000" stop="20260526120000 +0000" channel="58001"><title lang="ka">დღის აჯაფსანდალი</title></programme>
+<programme start="20260526120000 +0000" stop="20260526130000 +0000" channel="58001"><title lang="ka">დღის აჯაფსანდალი</title></programme>
+<programme start="20260526130000 +0000" stop="20260526140000 +0000" channel="58001"><title lang="ka">ურბან გურუ</title></programme>
+<programme start="20260526140000 +0000" stop="20260526150000 +0000" channel="58001"><title lang="ka">საღამოს აჯაფსანდალი</title></programme>
+<programme start="20260526150000 +0000" stop="20260526154500 +0000" channel="58001"><title lang="ka">ტელეპორტი</title></programme>
+<programme start="20260526154500 +0000" stop="20260526160000 +0000" channel="58001"><title lang="ka">საღამოს აჯაფსანდალი</title></programme>
+<programme start="20260526160000 +0000" stop="20260526170000 +0000" channel="58001"><title lang="ka">საღამოს აჯაფსანდალი</title></programme>
+<programme start="20260526170000 +0000" stop="20260526171000 +0000" channel="58001"><title lang="ka">საინფორმაციო გამოშვება (გამეორება)</title></programme>
+<programme start="20260526171000 +0000" stop="20260526180000 +0000" channel="58001"><title lang="ka">საღამოს აჯაფსანდალი</title></programme>
+<programme start="20260526180000 +0000" stop="20260526181000 +0000" channel="58001"><title lang="ka">ვაფლები</title></programme>
+<programme start="20260526181000 +0000" stop="20260526185000 +0000" channel="58001"><title lang="ka">პოლიტიკური აგორა (გამეორება)</title></programme>
+<programme start="20260526185000 +0000" stop="20260526190000 +0000" channel="58001"><title lang="ka">საღამოს აჯაფსანდალი</title></programme>
+<programme start="20260526190000 +0000" stop="20260526200000 +0000" channel="58001"><title lang="ka">ურბან გურუ (გამეორება)</title></programme>
+<programme start="20260526200000 +0000" stop="20260526210000 +0000" channel="58001"><title lang="ka">ტელეპორტი (გამეორება)</title></programme>
+<programme start="20260526210000 +0000" stop="20260527050000 +0000" channel="58001"><title lang="ka">მუსიკა</title></programme>
+<programme start="20260526050000 +0000" stop="20260526060000 +0000" channel="58004"><title lang="ka">DW kკარგ ფორმაში გლობალ 3000</title></programme>
+<programme start="20260526060000 +0000" stop="20260526073000 +0000" channel="58004"><title lang="ka">აგროგარემო დღეს</title></programme>
+<programme start="20260526073000 +0000" stop="20260526083000 +0000" channel="58004"><title lang="ka">ეკოხედვა</title></programme>
+<programme start="20260526083000 +0000" stop="20260526090000 +0000" channel="58004"><title lang="ka">კვება აგროგარემოში ხაზი</title></programme>
+<programme start="20260526090000 +0000" stop="20260526100000 +0000" channel="58004"><title lang="ka">ეთნოფორი</title></programme>
+<programme start="20260526100000 +0000" stop="20260526110000 +0000" channel="58004"><title lang="ka">აგრო სიახლეები</title></programme>
+<programme start="20260526110000 +0000" stop="20260526120000 +0000" channel="58004"><title lang="ka">აგრო გაკვეთილი</title></programme>
+<programme start="20260526120000 +0000" stop="20260526130000 +0000" channel="58004"><title lang="ka">DW kკარგ ფორმაში გლობალ 3000</title></programme>
+<programme start="20260526130000 +0000" stop="20260526140000 +0000" channel="58004"><title lang="ka">აგროგარემო დღეს</title></programme>
+<programme start="20260526140000 +0000" stop="20260526150000 +0000" channel="58004"><title lang="ka">ეკოხედვა</title></programme>
+<programme start="20260526150000 +0000" stop="20260526160000 +0000" channel="58004"><title lang="ka">კვება აგროგარემოში ხაზი</title></programme>
+<programme start="20260526160000 +0000" stop="20260526170000 +0000" channel="58004"><title lang="ka">ეთნოფორი</title></programme>
+<programme start="20260526170000 +0000" stop="20260526180000 +0000" channel="58004"><title lang="ka">აგრო სიახლეები</title></programme>
+<programme start="20260526180000 +0000" stop="20260526190000 +0000" channel="58004"><title lang="ka">აგრო გაკვეთილი</title></programme>
+<programme start="20260526190000 +0000" stop="20260526200000 +0000" channel="58004"><title lang="ka">DW kკარგ ფორმაში გლობალ 3000</title></programme>
+<programme start="20260526200000 +0000" stop="20260526210000 +0000" channel="58004"><title lang="ka">აგროგარემო დღეს</title></programme>
+<programme start="20260526210000 +0000" stop="20260526220000 +0000" channel="58004"><title lang="ka">ეკოხედვა</title></programme>
+<programme start="20260526220000 +0000" stop="20260526230000 +0000" channel="58004"><title lang="ka">კვება აგროგარემოში ხაზი</title></programme>
+<programme start="20260526230000 +0000" stop="20260527000000 +0000" channel="58004"><title lang="ka">ეთნოფორი</title></programme>
+<programme start="20260527000000 +0000" stop="20260527010000 +0000" channel="58004"><title lang="ka">აგრო სიახლეები</title></programme>
+<programme start="20260527010000 +0000" stop="20260527020000 +0000" channel="58004"><title lang="ka">აგრო გაკვეთილი</title></programme>
+<programme start="20260527020000 +0000" stop="20260527030000 +0000" channel="58004"><title lang="ka">DW kკარგ ფორმაში გლობალ 3000</title></programme>
+<programme start="20260527030000 +0000" stop="20260527040000 +0000" channel="58004"><title lang="ka">აგროგარემო დღეს</title></programme>
+<programme start="20260527040000 +0000" stop="20260527050000 +0000" channel="58004"><title lang="ka">ეკოხედვა</title></programme>
+<programme start="20260526044000 +0000" stop="20260526050000 +0000" channel="58005"><title lang="ka">გორდონ რემზის შოუ</title></programme>
+<programme start="20260526050000 +0000" stop="20260526053000 +0000" channel="58005"><title lang="ka">,,გვეწვიეთ&quot;</title></programme>
+<programme start="20260526053000 +0000" stop="20260526063000 +0000" channel="58005"><title lang="ka">მართე</title></programme>
+<programme start="20260526063000 +0000" stop="20260526070000 +0000" channel="58005"><title lang="ka">ყურადღებით</title></programme>
+<programme start="20260526070000 +0000" stop="20260526073000 +0000" channel="58005"><title lang="ka">ნაკრძალი</title></programme>
+<programme start="20260526073000 +0000" stop="20260526080000 +0000" channel="58005"><title lang="ka">შედეგები/იტოგი</title></programme>
+<programme start="20260526080000 +0000" stop="20260526090000 +0000" channel="58005"><title lang="ka">სათვალე რუსული</title></programme>
+<programme start="20260526090000 +0000" stop="20260526093000 +0000" channel="58005"><title lang="ka">მთავარი</title></programme>
+<programme start="20260526093000 +0000" stop="20260526100000 +0000" channel="58005"><title lang="ka">DW ახალი ამბები</title></programme>
+<programme start="20260526100000 +0000" stop="20260526103000 +0000" channel="58005"><title lang="ka">არტ 21</title></programme>
+<programme start="20260526103000 +0000" stop="20260526120000 +0000" channel="58005"><title lang="ka">ქართული ფილმი</title></programme>
+<programme start="20260526120000 +0000" stop="20260526124500 +0000" channel="58005"><title lang="ka">ნაკრძალი</title></programme>
+<programme start="20260526124500 +0000" stop="20260526130000 +0000" channel="58005"><title lang="ka">არტეფაქტები</title></programme>
+<programme start="20260526130000 +0000" stop="20260526133000 +0000" channel="58005"><title lang="ka">ქართული ფილმი</title></programme>
+<programme start="20260526133000 +0000" stop="20260526140000 +0000" channel="58005"><title lang="ka">ევრომაქსი</title></programme>
+<programme start="20260526140000 +0000" stop="20260526150000 +0000" channel="58005"><title lang="ka">ქართული ფილმი</title></programme>
+<programme start="20260526150000 +0000" stop="20260526154500 +0000" channel="58005"><title lang="ka">სათვალე</title></programme>
+<programme start="20260526154500 +0000" stop="20260526160000 +0000" channel="58005"><title lang="ka">ლოტო 5/35–ოქროს ბურთი</title></programme>
+<programme start="20260526160000 +0000" stop="20260526162500 +0000" channel="58005"><title lang="ka">ტოკ-ნიუსი</title></programme>
+<programme start="20260526162500 +0000" stop="20260526164500 +0000" channel="58005"><title lang="ka">ევრომაქსი</title></programme>
+<programme start="20260526164500 +0000" stop="20260526170000 +0000" channel="58005"><title lang="ka">ლოტო 6/42</title></programme>
+<programme start="20260526170000 +0000" stop="20260526173500 +0000" channel="58005"><title lang="ka">ტოკ-ნიუსი</title></programme>
+<programme start="20260526173500 +0000" stop="20260526180000 +0000" channel="58005"><title lang="ka">აზბუკა ტიურმე</title></programme>
+<programme start="20260526180000 +0000" stop="20260526183000 +0000" channel="58005"><title lang="ka">ტოკ-ნიუსი</title></programme>
+<programme start="20260526183000 +0000" stop="20260526200000 +0000" channel="58005"><title lang="ka">ჰოლივუდის ფილმი</title></programme>
+<programme start="20260526200000 +0000" stop="20260526220000 +0000" channel="58005"><title lang="ka">ჰოლივუდის ფილმი</title></programme>
+<programme start="20260526220000 +0000" stop="20260527000000 +0000" channel="58005"><title lang="ka">ჰოლივუდის ფილმი</title></programme>
+<programme start="20260527000000 +0000" stop="20260527013000 +0000" channel="58005"><title lang="ka">ჰოლივუდის ფილმი</title></programme>
+<programme start="20260527013000 +0000" stop="20260527033000 +0000" channel="58005"><title lang="ka">ჰოლივუდის ფილმი</title></programme>
+<programme start="20260527033000 +0000" stop="20260527040000 +0000" channel="58005"><title lang="ka">იმოგზაურე ამერიკაში</title></programme>
+<programme start="20260527040000 +0000" stop="20260527041000 +0000" channel="58005"><title lang="ka">მულტფილმი</title></programme>
+<programme start="20260527041000 +0000" stop="20260527043000 +0000" channel="58005"><title lang="ka">აგრო სიახლეები</title></programme>
+<programme start="20260526044500 +0000" stop="20260526050000 +0000" channel="58006"><title lang="ka">სპორტი</title></programme>
+<programme start="20260526050000 +0000" stop="20260526051500 +0000" channel="58006"><title lang="ka">ქრონიკა FM</title></programme>
+<programme start="20260526051500 +0000" stop="20260526054500 +0000" channel="58006"><title lang="ka">დილის სტუმარი</title></programme>
+<programme start="20260526054500 +0000" stop="20260526060000 +0000" channel="58006"><title lang="ka">სპორტი</title></programme>
+<programme start="20260526060000 +0000" stop="20260526063000 +0000" channel="58006"><title lang="ka">ქრონიკა FM</title></programme>
+<programme start="20260526063000 +0000" stop="20260526064500 +0000" channel="58006"><title lang="ka">ეკონომიქსი</title></programme>
+<programme start="20260526064500 +0000" stop="20260526070000 +0000" channel="58006"><title lang="ka">სპორტი</title></programme>
+<programme start="20260526070000 +0000" stop="20260526071500 +0000" channel="58006"><title lang="ka">ქრონიკა FM</title></programme>
+<programme start="20260526071500 +0000" stop="20260526074500 +0000" channel="58006"><title lang="ka">დილის სტუმარი</title></programme>
+<programme start="20260526074500 +0000" stop="20260526080000 +0000" channel="58006"><title lang="ka">სპორტი</title></programme>
+<programme start="20260526080000 +0000" stop="20260526081500 +0000" channel="58006"><title lang="ka">ქრონიკა FM</title></programme>
+<programme start="20260526081500 +0000" stop="20260526084500 +0000" channel="58006"><title lang="ka">იმედი დღის არხი</title></programme>
+<programme start="20260526084500 +0000" stop="20260526090000 +0000" channel="58006"><title lang="ka">სპორტი</title></programme>
+<programme start="20260526090000 +0000" stop="20260526091000 +0000" channel="58006"><title lang="ka">ქრონიკა FM</title></programme>
+<programme start="20260526091000 +0000" stop="20260526100000 +0000" channel="58006"><title lang="ka">&quot;ბიზნეს შოუ&quot;</title></programme>
+<programme start="20260526100000 +0000" stop="20260526101500 +0000" channel="58006"><title lang="ka">ქრონიკა FM</title></programme>
+<programme start="20260526101500 +0000" stop="20260526104500 +0000" channel="58006"><title lang="ka">იმედის დღის სტუმარი</title></programme>
+<programme start="20260526104500 +0000" stop="20260526110000 +0000" channel="58006"><title lang="ka">სპორტი</title></programme>
+<programme start="20260526110000 +0000" stop="20260526111500 +0000" channel="58006"><title lang="ka">ქრონიკა FM</title></programme>
+<programme start="20260526111500 +0000" stop="20260526114500 +0000" channel="58006"><title lang="ka">ეკონომიქსი</title></programme>
+<programme start="20260526114500 +0000" stop="20260526120000 +0000" channel="58006"><title lang="ka">სპორტი</title></programme>
+<programme start="20260526120000 +0000" stop="20260526121500 +0000" channel="58006"><title lang="ka">ქრონიკა FM</title></programme>
+<programme start="20260526121500 +0000" stop="20260526124500 +0000" channel="58006"><title lang="ka">გადაცემა &quot;ორი აზრი&quot;</title></programme>
+<programme start="20260526124500 +0000" stop="20260526130000 +0000" channel="58006"><title lang="ka">სპორტი</title></programme>
+<programme start="20260526130000 +0000" stop="20260526131700 +0000" channel="58006"><title lang="ka">ქრონიკა FM</title></programme>
+<programme start="20260526131700 +0000" stop="20260526150000 +0000" channel="58006"><title lang="ka">17/17</title></programme>
+<programme start="20260526150000 +0000" stop="20260526151500 +0000" channel="58006"><title lang="ka">ქრონიკა FM</title></programme>
+<programme start="20260526151500 +0000" stop="20260526154500 +0000" channel="58006"><title lang="ka">იმედის საღამოს არხი</title></programme>
+<programme start="20260526154500 +0000" stop="20260526160000 +0000" channel="58006"><title lang="ka">სპორტი</title></programme>
+<programme start="20260526160000 +0000" stop="20260526161500 +0000" channel="58006"><title lang="ka">ქრონიკა FM</title></programme>
+<programme start="20260526161500 +0000" stop="20260526164500 +0000" channel="58006"><title lang="ka">იმედის საღამოს სტუმარი</title></programme>
+<programme start="20260526164500 +0000" stop="20260526170000 +0000" channel="58006"><title lang="ka">სპორტი</title></programme>
+<programme start="20260526170000 +0000" stop="20260526174500 +0000" channel="58006"><title lang="ka">ქრონიკა FM</title></programme>
+<programme start="20260526174500 +0000" stop="20260526180000 +0000" channel="58006"><title lang="ka">სპორტი</title></programme>
+<programme start="20260526180000 +0000" stop="20260526200000 +0000" channel="58006"><title lang="ka">თოქშოუ &quot;პირისპირ&quot;</title></programme>
+<programme start="20260526200000 +0000" stop="20260526201000 +0000" channel="58006"><title lang="ka">ქრონიკა FM</title></programme>
+<programme start="20260526201000 +0000" stop="20260526203000 +0000" channel="58006"><title lang="ka">აუდიო წიგნები</title></programme>
+<programme start="20260526203000 +0000" stop="20260527040000 +0000" channel="58006"><title lang="ka">მუსიკალური არხი</title></programme>
+<programme start="20260527040000 +0000" stop="20260527041500 +0000" channel="58006"><title lang="ka">ქრონიკა FM</title></programme>
+<programme start="20260527041500 +0000" stop="20260527044500 +0000" channel="58006"><title lang="ka">იმედის დილის არხი</title></programme>
+<programme start="20260526050000 +0000" stop="20260526060000 +0000" channel="59000"><title lang="ka">ვიტამინები</title></programme>
+<programme start="20260526060000 +0000" stop="20260526070000 +0000" channel="59000"><title lang="ka">ორჯერ ორივით მარტივი</title></programme>
+<programme start="20260526070000 +0000" stop="20260526080000 +0000" channel="59000"><title lang="ka">საუკეთესო გოლები</title></programme>
+<programme start="20260526080000 +0000" stop="20260526110000 +0000" channel="59000"><title lang="ka">მელო მანია</title></programme>
+<programme start="20260526110000 +0000" stop="20260526140000 +0000" channel="59000"><title lang="ka">ინტერნეტ ვიდეოები</title></programme>
+<programme start="20260526140000 +0000" stop="20260526160000 +0000" channel="59000"><title lang="ka">ფილმი</title></programme>
+<programme start="20260526160000 +0000" stop="20260526170000 +0000" channel="59000"><title lang="ka">უცნობი ფაქტები</title></programme>
+<programme start="20260526170000 +0000" stop="20260526180000 +0000" channel="59000"><title lang="ka">ორჯერ ორივით მარტივი</title></programme>
+<programme start="20260526180000 +0000" stop="20260526200000 +0000" channel="59000"><title lang="ka">ფილმი</title></programme>
+<programme start="20260526200000 +0000" stop="20260527050000 +0000" channel="59000"><title lang="ka">მელო მანია</title></programme>
+<programme start="20260526195900 +0000" stop="20260526200000 +0000" channel="60000"><title lang="ka">მაუწყებლობა დროებით შეჩერებულია</title></programme>
+<programme start="20260526200000 +0000" stop="20260527195900 +0000" channel="60000"><title lang="ka">მაუწყებლობა დროებით შეჩერებულია</title></programme>
+<programme start="20260526043000 +0000" stop="20260526052000 +0000" channel="61001"><title lang="ka">&quot;Поехали!&quot;.</title></programme>
+<programme start="20260526052000 +0000" stop="20260526063000 +0000" channel="61001"><title lang="ka">&quot;Жизнь своих&quot;.</title></programme>
+<programme start="20260526063000 +0000" stop="20260526070000 +0000" channel="61001"><title lang="ka">Утренний эфир телеканала &quot;Поехали!&quot;.</title></programme>
+<programme start="20260526070000 +0000" stop="20260526075000 +0000" channel="61001"><title lang="ka">&quot;Поехали за талантами!&quot;.</title></programme>
+<programme start="20260526075000 +0000" stop="20260526082500 +0000" channel="61001"><title lang="ka">&quot;Гастрономическое приключение итальянца&quot;.</title></programme>
+<programme start="20260526082500 +0000" stop="20260526090000 +0000" channel="61001"><title lang="ka">&quot;Дневники профессий&quot;.</title></programme>
+<programme start="20260526090000 +0000" stop="20260526093000 +0000" channel="61001"><title lang="ka">Дневной эфир телеканала &quot;Поехали!&quot;.</title></programme>
+<programme start="20260526093000 +0000" stop="20260526103000 +0000" channel="61001"><title lang="ka">&quot;Место гения&quot;.</title></programme>
+<programme start="20260526103000 +0000" stop="20260526113000 +0000" channel="61001"><title lang="ka">&quot;Поехали!&quot;.</title></programme>
+<programme start="20260526113000 +0000" stop="20260526120000 +0000" channel="61001"><title lang="ka">Дневной эфир телеканала &quot;Поехали!&quot;.</title></programme>
+<programme start="20260526120000 +0000" stop="20260526125000 +0000" channel="61001"><title lang="ka">&quot;Два дня в городе&quot;.</title></programme>
+<programme start="20260526125000 +0000" stop="20260526140000 +0000" channel="61001"><title lang="ka">&quot;Поехали за покупками!&quot;.</title></programme>
+<programme start="20260526140000 +0000" stop="20260526143000 +0000" channel="61001"><title lang="ka">Дневной эфир телеканала &quot;Поехали!&quot;.</title></programme>
+<programme start="20260526143000 +0000" stop="20260526150000 +0000" channel="61001"><title lang="ka">&quot;ТуЖур. Дневник двух журналистов&quot;.</title></programme>
+<programme start="20260526153500 +0000" stop="20260526163000 +0000" channel="61001"><title lang="ka">&quot;Поехали!&quot;.</title></programme>
+<programme start="20260526163000 +0000" stop="20260526170000 +0000" channel="61001"><title lang="ka">Вечерний эфир телеканала &quot;Поехали!&quot;.</title></programme>
+<programme start="20260526170000 +0000" stop="20260526175000 +0000" channel="61001"><title lang="ka">&quot;Жизнь своих&quot;.</title></programme>
+<programme start="20260526175000 +0000" stop="20260526190000 +0000" channel="61001"><title lang="ka">&quot;Место гения&quot;.</title></programme>
+<programme start="20260526190000 +0000" stop="20260526193000 +0000" channel="61001"><title lang="ka">Вечерний эфир телеканала &quot;Поехали!&quot;.</title></programme>
+<programme start="20260526193000 +0000" stop="20260526200000 +0000" channel="61001"><title lang="ka">&quot;Гастрономическое приключение итальянца&quot;.</title></programme>
+<programme start="20260526200000 +0000" stop="20260526203500 +0000" channel="61001"><title lang="ka">&quot;Дневники профессий&quot;.</title></programme>
+<programme start="20260526203500 +0000" stop="20260526213000 +0000" channel="61001"><title lang="ka">&quot;Поехали за талантами!&quot;.</title></programme>
+<programme start="20260526213000 +0000" stop="20260526220000 +0000" channel="61001"><title lang="ka">Вечерний эфир телеканала &quot;Поехали!&quot;.</title></programme>
+<programme start="20260526220000 +0000" stop="20260526224500 +0000" channel="61001"><title lang="ka">&quot;Поехали!&quot;.</title></programme>
+<programme start="20260526224500 +0000" stop="20260526233000 +0000" channel="61001"><title lang="ka">&quot;Два дня в городе&quot;.</title></programme>
+<programme start="20260526233000 +0000" stop="20260527000000 +0000" channel="61001"><title lang="ka">&quot;ТуЖур. Дневник двух журналистов&quot;.</title></programme>
+<programme start="20260527000000 +0000" stop="20260527003000 +0000" channel="61001"><title lang="ka">Вечерний эфир телеканала &quot;Поехали!&quot;.</title></programme>
+<programme start="20260527003000 +0000" stop="20260527013000 +0000" channel="61001"><title lang="ka">&quot;Поехали за покупками!&quot;.</title></programme>
+<programme start="20260527013000 +0000" stop="20260527023000 +0000" channel="61001"><title lang="ka">&quot;Жизнь своих&quot;.</title></programme>
+<programme start="20260527023000 +0000" stop="20260527030000 +0000" channel="61001"><title lang="ka">Утренний эфир телеканала &quot;Поехали!&quot;.</title></programme>
+<programme start="20260527030000 +0000" stop="20260527033000 +0000" channel="61001"><title lang="ka">&quot;ТуЖур. Дневник двух журналистов&quot;.</title></programme>
+<programme start="20260527033000 +0000" stop="20260527040000 +0000" channel="61001"><title lang="ka">&quot;Стажёрка&quot;.</title></programme>
+<programme start="20260527040000 +0000" stop="20260527043000 +0000" channel="61001"><title lang="ka">Утренний эфир телеканала &quot;Поехали!&quot;.</title></programme>
+<programme start="20260526060000 +0000" stop="20260526063000 +0000" channel="65001"><title lang="ka">სპექტრის სპეციალური გამოშვება</title></programme>
+<programme start="20260526063000 +0000" stop="20260526064500 +0000" channel="65001"><title lang="ka">დედა ბუნება</title></programme>
+<programme start="20260526064500 +0000" stop="20260526073000 +0000" channel="65001"><title lang="ka">ფარული კამერა</title></programme>
+<programme start="20260526073000 +0000" stop="20260526074500 +0000" channel="65001"><title lang="ka">მულტფილმი</title></programme>
+<programme start="20260526074500 +0000" stop="20260526080000 +0000" channel="65001"><title lang="ka">სამზარეულო</title></programme>
+<programme start="20260526080000 +0000" stop="20260526090000 +0000" channel="65001"><title lang="ka">ამერიკის ხმა</title></programme>
+<programme start="20260526090000 +0000" stop="20260526133000 +0000" channel="65001"><title lang="ka">დღის ეთერი</title></programme>
+<programme start="20260526133000 +0000" stop="20260526140000 +0000" channel="65001"><title lang="ka">შაქრით თუ უშაქროდ</title></programme>
+<programme start="20260526140000 +0000" stop="20260526143000 +0000" channel="65001"><title lang="ka">მულტფილმი</title></programme>
+<programme start="20260526143000 +0000" stop="20260526150000 +0000" channel="65001"><title lang="ka">გლობალ 3000</title></programme>
+<programme start="20260526150000 +0000" stop="20260526151500 +0000" channel="65001"><title lang="ka">სპექტრი</title></programme>
+<programme start="20260526151500 +0000" stop="20260526154500 +0000" channel="65001"><title lang="ka">ლიტერატურული ქრონიკები</title></programme>
+<programme start="20260526154500 +0000" stop="20260526160000 +0000" channel="65001"><title lang="ka">მოკლე ჩანახატები</title></programme>
+<programme start="20260526160000 +0000" stop="20260526170000 +0000" channel="65001"><title lang="ka">თავისუფალი სექტრო</title></programme>
+<programme start="20260526170000 +0000" stop="20260526174000 +0000" channel="65001"><title lang="ka">ეთნოფონდი</title></programme>
+<programme start="20260526174000 +0000" stop="20260526180000 +0000" channel="65001"><title lang="ka">სპორტული ჰაილაითები</title></programme>
+<programme start="20260526180000 +0000" stop="20260526181500 +0000" channel="65001"><title lang="ka">სპექტრი</title></programme>
+<programme start="20260526181500 +0000" stop="20260526183000 +0000" channel="65001"><title lang="ka">სტუდია ვასინგტონი</title></programme>
+<programme start="20260526183000 +0000" stop="20260526184500 +0000" channel="65001"><title lang="ka">ბლიცtime</title></programme>
+<programme start="20260526184500 +0000" stop="20260526193000 +0000" channel="65001"><title lang="ka">რადიო თავისუფლება</title></programme>
+<programme start="20260526193000 +0000" stop="20260526200000 +0000" channel="65001"><title lang="ka">ყოველდღიურად</title></programme>
+<programme start="20260526200000 +0000" stop="20260527060000 +0000" channel="65001"><title lang="ka">ღამის ეთერი</title></programme>
+<programme start="20260526060000 +0000" stop="20260526063000 +0000" channel="66001"><title lang="ka">კურსორი</title></programme>
+<programme start="20260526063000 +0000" stop="20260526080000 +0000" channel="66001"><title lang="ka">ნამდვილი დრო</title></programme>
+<programme start="20260526080000 +0000" stop="20260526084500 +0000" channel="66001"><title lang="ka">აგრო სიახლე</title></programme>
+<programme start="20260526084500 +0000" stop="20260526092000 +0000" channel="66001"><title lang="ka">საქართველოს ისტორია</title></programme>
+<programme start="20260526092000 +0000" stop="20260526110000 +0000" channel="66001"><title lang="ka">მუსიკა</title></programme>
+<programme start="20260526110000 +0000" stop="20260526113000 +0000" channel="66001"><title lang="ka">არტს 21</title></programme>
+<programme start="20260526113000 +0000" stop="20260526121500 +0000" channel="66001"><title lang="ka">სხვა მხარე</title></programme>
+<programme start="20260526121500 +0000" stop="20260526153000 +0000" channel="66001"><title lang="ka">მუსიკა</title></programme>
+<programme start="20260526153000 +0000" stop="20260526160000 +0000" channel="66001"><title lang="ka">ვიდრე ხვალ</title></programme>
+<programme start="20260526160000 +0000" stop="20260526164500 +0000" channel="66001"><title lang="ka">უნივერსია</title></programme>
+<programme start="20260526164500 +0000" stop="20260526180000 +0000" channel="66001"><title lang="ka">მუსიკა</title></programme>
+<programme start="20260526180000 +0000" stop="20260526183000 +0000" channel="66001"><title lang="ka">კურსორი</title></programme>
+<programme start="20260526183000 +0000" stop="20260526190000 +0000" channel="66001"><title lang="ka">ნამდვილი დრო</title></programme>
+<programme start="20260526190000 +0000" stop="20260526195800 +0000" channel="66001"><title lang="ka">მუსიკა</title></programme>
+<programme start="20260526195800 +0000" stop="20260527040000 +0000" channel="66001"><title lang="ka">შესვენება</title></programme>
+<programme start="20260527040000 +0000" stop="20260527060000 +0000" channel="66001"><title lang="ka">მუსიკა</title></programme>
+<programme start="20260526043000 +0000" stop="20260526060000 +0000" channel="68001"><title lang="ka">კონცერტი</title></programme>
+<programme start="20260526060000 +0000" stop="20260526062000 +0000" channel="68001"><title lang="ka">დოკ. ფილმები</title></programme>
+<programme start="20260526062000 +0000" stop="20260526070000 +0000" channel="68001"><title lang="ka">სერიალი უკანასკნელი იანიჩარი</title></programme>
+<programme start="20260526070000 +0000" stop="20260526071500 +0000" channel="68001"><title lang="ka">„ახალი ამბები“</title></programme>
+<programme start="20260526071500 +0000" stop="20260526074000 +0000" channel="68001"><title lang="ka">„სათვალე“</title></programme>
+<programme start="20260526074000 +0000" stop="20260526083000 +0000" channel="68001"><title lang="ka">რელიგია და მეცნიერება</title></programme>
+<programme start="20260526083000 +0000" stop="20260526093000 +0000" channel="68001"><title lang="ka">„პაემანი მუზასთან“</title></programme>
+<programme start="20260526093000 +0000" stop="20260526103000 +0000" channel="68001"><title lang="ka">მუსიკა</title></programme>
+<programme start="20260526103000 +0000" stop="20260526113000 +0000" channel="68001"><title lang="ka">ბუნების კადრები</title></programme>
+<programme start="20260526113000 +0000" stop="20260526120000 +0000" channel="68001"><title lang="ka">ფარული კამერა</title></programme>
+<programme start="20260526120000 +0000" stop="20260526121000 +0000" channel="68001"><title lang="ka">დოკ. ფილმები</title></programme>
+<programme start="20260526121000 +0000" stop="20260526132000 +0000" channel="68001"><title lang="ka">მოდის ტენდენციები</title></programme>
+<programme start="20260526132000 +0000" stop="20260526150000 +0000" channel="68001"><title lang="ka">მუსიკა</title></programme>
+<programme start="20260526150000 +0000" stop="20260526152000 +0000" channel="68001"><title lang="ka">„ახალი ამბები“</title></programme>
+<programme start="20260526152000 +0000" stop="20260526154500 +0000" channel="68001"><title lang="ka">„აგრო სიახლეები“</title></programme>
+<programme start="20260526154500 +0000" stop="20260526163000 +0000" channel="68001"><title lang="ka">სერიალი უკანასკნელი იანიჩარი</title></programme>
+<programme start="20260526163000 +0000" stop="20260526180000 +0000" channel="68001"><title lang="ka">„გაბრიელ ბერის დრო“</title></programme>
+<programme start="20260526180000 +0000" stop="20260526182000 +0000" channel="68001"><title lang="ka">„ახალი ამბები“</title></programme>
+<programme start="20260526182000 +0000" stop="20260526192000 +0000" channel="68001"><title lang="ka">„ფინჯან ყავაზე“</title></programme>
+<programme start="20260526192000 +0000" stop="20260526203000 +0000" channel="68001"><title lang="ka">მხ. ფილმი</title></programme>
+<programme start="20260526203000 +0000" stop="20260527043000 +0000" channel="68001"><title lang="ka">მოდის ტენდენციები</title></programme>
+<programme start="20260526050000 +0000" stop="20260526060000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
+<programme start="20260526060000 +0000" stop="20260526070000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
+<programme start="20260526070000 +0000" stop="20260526080000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
+<programme start="20260526080000 +0000" stop="20260526090000 +0000" channel="68002"><title lang="ka">ამბები დღისით</title></programme>
+<programme start="20260526090000 +0000" stop="20260526100000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
+<programme start="20260526100000 +0000" stop="20260526103000 +0000" channel="68002"><title lang="ka">ამბები დღისით</title></programme>
+<programme start="20260526103000 +0000" stop="20260526110000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
+<programme start="20260526110000 +0000" stop="20260526120000 +0000" channel="68002"><title lang="ka">ამბები დღისით</title></programme>
+<programme start="20260526120000 +0000" stop="20260526130000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
+<programme start="20260526130000 +0000" stop="20260526133000 +0000" channel="68002"><title lang="ka">ამბები დღისით</title></programme>
+<programme start="20260526133000 +0000" stop="20260526140000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
+<programme start="20260526140000 +0000" stop="20260526150000 +0000" channel="68002"><title lang="ka">ამბები ამ საღამოს</title></programme>
+<programme start="20260526150000 +0000" stop="20260526160000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
+<programme start="20260526160000 +0000" stop="20260526170000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
+<programme start="20260526170000 +0000" stop="20260526180000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
+<programme start="20260526180000 +0000" stop="20260526183000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
+<programme start="20260526183000 +0000" stop="20260526190000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
+<programme start="20260526190000 +0000" stop="20260526200000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
+<programme start="20260526200000 +0000" stop="20260526210000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
+<programme start="20260526210000 +0000" stop="20260526220000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
+<programme start="20260526220000 +0000" stop="20260526230000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
+<programme start="20260526230000 +0000" stop="20260527000000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
+<programme start="20260527000000 +0000" stop="20260527010000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
+<programme start="20260527010000 +0000" stop="20260527020000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
+<programme start="20260527020000 +0000" stop="20260527030000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
+<programme start="20260527030000 +0000" stop="20260527040000 +0000" channel="68002"><title lang="ka">&quot;მეგეზინები&quot;</title></programme>
+<programme start="20260527040000 +0000" stop="20260527050000 +0000" channel="68002"><title lang="ka">მსოფლიო ამბები</title></programme>
+<programme start="20260526050000 +0000" stop="20260526050100 +0000" channel="68003"><title lang="ka">ძალოსნობა ლაშა ტალახაძე ოლიმპიადა (Stitched Clip)</title></programme>
+<programme start="20260526050100 +0000" stop="20260526050500 +0000" channel="68003"><title lang="ka">უცნობი-საქათმეში შეპრაულა მელა (რუსთაველი)</title></programme>
+<programme start="20260526050500 +0000" stop="20260526050800 +0000" channel="68003"><title lang="ka">ლეგენდები - ილია დათუნაშვილი</title></programme>
+<programme start="20260526050800 +0000" stop="20260526051000 +0000" channel="68003"><title lang="ka">ლეგენდები - მიხეილ მესხი</title></programme>
+<programme start="20260526051000 +0000" stop="20260526051200 +0000" channel="68003"><title lang="ka">ლეგენდები - სლავა მეტრეველი</title></programme>
+<programme start="20260526051200 +0000" stop="20260526051500 +0000" channel="68003"><title lang="ka">ლეგენდები - კახი ასათიანი</title></programme>
+<programme start="20260526051200 +0000" stop="20260526051500 +0000" channel="68003"><title lang="ka">ლეგენდები - კახი ასათიანი</title></programme>
+<programme start="20260526051500 +0000" stop="20260526082900 +0000" channel="68003"><title lang="ka">GEO-Ch-FS-QUALIF-61-70-79-92-125</title></programme>
+<programme start="20260526051500 +0000" stop="20260526082900 +0000" channel="68003"><title lang="ka">GEO-Ch-FS-QUALIF-61-70-79-92-125</title></programme>
+<programme start="20260526082900 +0000" stop="20260526083400 +0000" channel="68003"><title lang="ka">In This World</title></programme>
+<programme start="20260526082900 +0000" stop="20260526083400 +0000" channel="68003"><title lang="ka">In This World</title></programme>
+<programme start="20260526083400 +0000" stop="20260526083600 +0000" channel="68003"><title lang="ka">ლეგენდები - ვლადიმერ აფციაური</title></programme>
+<programme start="20260526083400 +0000" stop="20260526083600 +0000" channel="68003"><title lang="ka">ლეგენდები - ვლადიმერ აფციაური</title></programme>
+<programme start="20260526083600 +0000" stop="20260526083800 +0000" channel="68003"><title lang="ka">ლეგენდები - ვაჟა კაჭარავა</title></programme>
+<programme start="20260526083600 +0000" stop="20260526083800 +0000" channel="68003"><title lang="ka">ლეგენდები - ვაჟა კაჭარავა</title></programme>
+<programme start="20260526083800 +0000" stop="20260526084100 +0000" channel="68003"><title lang="ka">ლეგენდები - კობა წაქაძე</title></programme>
+<programme start="20260526083800 +0000" stop="20260526084100 +0000" channel="68003"><title lang="ka">ლეგენდები - კობა წაქაძე</title></programme>
+<programme start="20260526084100 +0000" stop="20260526084400 +0000" channel="68003"><title lang="ka">ლეგენდები - ომარ ფხაკაძე</title></programme>
+<programme start="20260526084100 +0000" stop="20260526084400 +0000" channel="68003"><title lang="ka">ლეგენდები - ომარ ფხაკაძე</title></programme>
+<programme start="20260526084400 +0000" stop="20260526090200 +0000" channel="68003"><title lang="ka">სპორტის ანატომია - მარია გროზდევა</title></programme>
+<programme start="20260526084400 +0000" stop="20260526090200 +0000" channel="68003"><title lang="ka">სპორტის ანატომია - მარია გროზდევა</title></programme>
+<programme start="20260526090200 +0000" stop="20260526090700 +0000" channel="68003"><title lang="ka">უცნობი-მომე მამული (რუსთაველი)</title></programme>
+<programme start="20260526090200 +0000" stop="20260526090700 +0000" channel="68003"><title lang="ka">უცნობი-მომე მამული (რუსთაველი)</title></programme>
+<programme start="20260526090700 +0000" stop="20260526105700 +0000" channel="68003"><title lang="ka">ფრენბურთი 2023 ევრ. ჩემპ. W-U17 ROM - GEO</title></programme>
+<programme start="20260526090700 +0000" stop="20260526105700 +0000" channel="68003"><title lang="ka">ფრენბურთი 2023 ევრ. ჩემპ. W-U17 ROM - GEO</title></programme>
+<programme start="20260526105700 +0000" stop="20260526105900 +0000" channel="68003"><title lang="ka">ლეგენდები - ზურაბ ზვიადაური</title></programme>
+<programme start="20260526105700 +0000" stop="20260526105900 +0000" channel="68003"><title lang="ka">ლეგენდები - ზურაბ ზვიადაური</title></programme>
+<programme start="20260526105900 +0000" stop="20260526110200 +0000" channel="68003"><title lang="ka">ლეგენდები - ირაკლი ცირეკიძე</title></programme>
+<programme start="20260526105900 +0000" stop="20260526110200 +0000" channel="68003"><title lang="ka">ლეგენდები - ირაკლი ცირეკიძე</title></programme>
+<programme start="20260526110200 +0000" stop="20260526110500 +0000" channel="68003"><title lang="ka">ლეგენდები - ნესტორ ხერგიანი</title></programme>
+<programme start="20260526110200 +0000" stop="20260526110500 +0000" channel="68003"><title lang="ka">ლეგენდები - ნესტორ ხერგიანი</title></programme>
+<programme start="20260526110500 +0000" stop="20260526110700 +0000" channel="68003"><title lang="ka">ლეგენდები - ლაშა შავდათუაშვილი</title></programme>
+<programme start="20260526110500 +0000" stop="20260526110700 +0000" channel="68003"><title lang="ka">ლეგენდები - ლაშა შავდათუაშვილი</title></programme>
+<programme start="20260526110700 +0000" stop="20260526113000 +0000" channel="68003"><title lang="ka">გიორგი ესაკია time 22.45</title></programme>
+<programme start="20260526110700 +0000" stop="20260526113000 +0000" channel="68003"><title lang="ka">გიორგი ესაკია time 22.45</title></programme>
+<programme start="20260526113000 +0000" stop="20260526130500 +0000" channel="68003"><title lang="ka">ხელბურთი - Men&apos;s U18 EHF Ch. Faroe Islands - Luxembourg</title></programme>
+<programme start="20260526113000 +0000" stop="20260526130500 +0000" channel="68003"><title lang="ka">ხელბურთი - Men&apos;s U18 EHF Ch. Faroe Islands - Luxembourg</title></programme>
+<programme start="20260526130500 +0000" stop="20260526131000 +0000" channel="68003"><title lang="ka">Inside</title></programme>
+<programme start="20260526130500 +0000" stop="20260526131000 +0000" channel="68003"><title lang="ka">Inside</title></programme>
+<programme start="20260526131000 +0000" stop="20260526144200 +0000" channel="68003"><title lang="ka">ხელბურთი - Men&apos;s U18 EHF Ch. Switzerland - FYR Macedonia</title></programme>
+<programme start="20260526131000 +0000" stop="20260526144200 +0000" channel="68003"><title lang="ka">ხელბურთი - Men&apos;s U18 EHF Ch. Switzerland - FYR Macedonia</title></programme>
+<programme start="20260526144200 +0000" stop="20260526144700 +0000" channel="68003"><title lang="ka">უცნობი-ნაძვის ხის შუქები (რუსთაველი)</title></programme>
+<programme start="20260526144200 +0000" stop="20260526144700 +0000" channel="68003"><title lang="ka">უცნობი-ნაძვის ხის შუქები (რუსთაველი)</title></programme>
+<programme start="20260526144700 +0000" stop="20260526145000 +0000" channel="68003"><title lang="ka">ლეგენდები - შოთა ლომიძე</title></programme>
+<programme start="20260526144700 +0000" stop="20260526145000 +0000" channel="68003"><title lang="ka">ლეგენდები - შოთა ლომიძე</title></programme>
+<programme start="20260526145000 +0000" stop="20260526145200 +0000" channel="68003"><title lang="ka">ლეგენდები - რომან რურუა</title></programme>
+<programme start="20260526145000 +0000" stop="20260526145200 +0000" channel="68003"><title lang="ka">ლეგენდები - რომან რურუა</title></programme>
+<programme start="20260526145200 +0000" stop="20260526145400 +0000" channel="68003"><title lang="ka">ლეგენდები - გურამ საღარაძე</title></programme>
+<programme start="20260526145200 +0000" stop="20260526145400 +0000" channel="68003"><title lang="ka">ლეგენდები - გურამ საღარაძე</title></programme>
+<programme start="20260526145400 +0000" stop="20260526145600 +0000" channel="68003"><title lang="ka">ლეგენდები - ვახტანგ ბლაგიძე</title></programme>
+<programme start="20260526145400 +0000" stop="20260526145600 +0000" channel="68003"><title lang="ka">ლეგენდები - ვახტანგ ბლაგიძე</title></programme>
+<programme start="20260526145600 +0000" stop="20260526145900 +0000" channel="68003"><title lang="ka">ლეგენდები - ლევან თედიაშვილი</title></programme>
+<programme start="20260526145600 +0000" stop="20260526145900 +0000" channel="68003"><title lang="ka">ლეგენდები - ლევან თედიაშვილი</title></programme>
+<programme start="20260526145900 +0000" stop="20260526150100 +0000" channel="68003"><title lang="ka">ლეგენდები - ლერი ხაბელოვი</title></programme>
+<programme start="20260526145900 +0000" stop="20260526150100 +0000" channel="68003"><title lang="ka">ლეგენდები - ლერი ხაბელოვი</title></programme>
+<programme start="20260526150100 +0000" stop="20260526155300 +0000" channel="68003"><title lang="ka">სპორტის ანატომია - ილია ბაბუნაშვილი კობა ინასარიძე ილია ნანობაშვილი</title></programme>
+<programme start="20260526150100 +0000" stop="20260526155300 +0000" channel="68003"><title lang="ka">სპორტის ანატომია - ილია ბაბუნაშვილი კობა ინასარიძე ილია ნანობაშვილი</title></programme>
+<programme start="20260526155300 +0000" stop="20260526160000 +0000" channel="68003"><title lang="ka">უცნობი-სირცხვილია (რუსთაველი)</title></programme>
+<programme start="20260526155300 +0000" stop="20260526160000 +0000" channel="68003"><title lang="ka">უცნობი-სირცხვილია (რუსთაველი)</title></programme>
+<programme start="20260526160000 +0000" stop="20260526162800 +0000" channel="68003"><title lang="ka">ძიუდო გიორგი ჭანიშვილთან ერთად - გიორგი ათაბეგაშვილი</title></programme>
+<programme start="20260526160000 +0000" stop="20260526162800 +0000" channel="68003"><title lang="ka">ძიუდო გიორგი ჭანიშვილთან ერთად - გიორგი ათაბეგაშვილი</title></programme>
+<programme start="20260526162800 +0000" stop="20260526163400 +0000" channel="68003"><title lang="ka">In This World</title></programme>
+<programme start="20260526162800 +0000" stop="20260526163400 +0000" channel="68003"><title lang="ka">In This World</title></programme>
+<programme start="20260526163400 +0000" stop="20260527050000 +0000" channel="68003"><title lang="ka">მაგიდის ჩოგბურთი - 2022 მსოფ. ახალ. ტური 19 წლამდე ბიჭები</title></programme>
+<programme start="20260526163400 +0000" stop="20260527050000 +0000" channel="68003"><title lang="ka">მაგიდის ჩოგბურთი - 2022 მსოფ. ახალ. ტური 19 წლამდე ბიჭები</title></programme>
+<programme start="20260526050000 +0000" stop="20260526050500 +0000" channel="68050"><title lang="ka">ლოცვა</title></programme>
+<programme start="20260526050500 +0000" stop="20260526060000 +0000" channel="68050"><title lang="ka">დილის გადაცემები</title></programme>
+<programme start="20260526060000 +0000" stop="20260526070000 +0000" channel="68050"><title lang="ka">ზურაბ კობახიძისა და პაატა შუბითიძის საავტორო გადაცემა (პარასკევის გადაცემის (განმეორებით)</title></programme>
+<programme start="20260526070000 +0000" stop="20260526080000 +0000" channel="68050"><title lang="ka">აკაცუკების ნადიმი (განმეორებით)</title></programme>
+<programme start="20260526080000 +0000" stop="20260526080500 +0000" channel="68050"><title lang="ka">ლოცვა</title></programme>
+<programme start="20260526080500 +0000" stop="20260526090000 +0000" channel="68050"><title lang="ka">ადვოკატ ნიკოლოზ მებაღიშვილის საავტორო გადაცემა (განმეორებით)</title></programme>
+<programme start="20260526090000 +0000" stop="20260526100000 +0000" channel="68050"><title lang="ka">გიორგი ჟორჟოლიანის საავტორო გადაცემა &quot;ერთი ერთზე&quot; (განმეორებით)</title></programme>
+<programme start="20260526100000 +0000" stop="20260526110000 +0000" channel="68050"><title lang="ka">დოკ.ფილმი</title></programme>
+<programme start="20260526110000 +0000" stop="20260526110500 +0000" channel="68050"><title lang="ka">ლოცვა</title></programme>
+<programme start="20260526110500 +0000" stop="20260526140000 +0000" channel="68050"><title lang="ka">მხ.ფილმი</title></programme>
+<programme start="20260526140000 +0000" stop="20260526140500 +0000" channel="68050"><title lang="ka">ლოცვები</title></programme>
+<programme start="20260526140500 +0000" stop="20260526150000 +0000" channel="68050"><title lang="ka">მწერალ ციცი გურიელის საავტორო გადაცემა “სათნოების საათი”</title></programme>
+<programme start="20260526150000 +0000" stop="20260526160000 +0000" channel="68050"><title lang="ka">ვინ რა არის ქართულ პოლიტიკაში&quot; ვახში ჟვანიას საავტორო გადაცემა</title></programme>
+<programme start="20260526160000 +0000" stop="20260526170000 +0000" channel="68050"><title lang="ka">დიტო ჩუბინიძის საავტორო გადაცემა &quot;ქართლის ცხოვრება&quot;</title></programme>
+<programme start="20260526170000 +0000" stop="20260526170500 +0000" channel="68050"><title lang="ka">ლოცვა</title></programme>
+<programme start="20260526170500 +0000" stop="20260526180000 +0000" channel="68050"><title lang="ka">პირდაპირ ეთერში პოლიტიკოს თეიმურაზ შაშიაშვილის საავტორო გადაცემა “მოქმედების დროა”</title></programme>
+<programme start="20260526180000 +0000" stop="20260526190000 +0000" channel="68050"><title lang="ka">ირაკლი ბრეგვაძის საავტორო გადაცემა “წუთისოფელი”</title></programme>
+<programme start="20260526190000 +0000" stop="20260526200000 +0000" channel="68050"><title lang="ka">დოკფილმი</title></programme>
+<programme start="20260526200000 +0000" stop="20260526200500 +0000" channel="68050"><title lang="ka">ლოცვა</title></programme>
+<programme start="20260526200500 +0000" stop="20260526220000 +0000" channel="68050"><title lang="ka">მხ.ფილმი</title></programme>
+<programme start="20260526220000 +0000" stop="20260526230000 +0000" channel="68050"><title lang="ka">პროფესორ კოტე კემულარიას საავტორო გადაცემა “კვირის პოლიტიკური ანალიზი”(განმეორებით)</title></programme>
+<programme start="20260526230000 +0000" stop="20260527000000 +0000" channel="68050"><title lang="ka">უზენაესი საბჭოს დეპუტატის, თენგიზ დიხამინჯიას საავტორო გადაცემა “საქართველო გუშინ.დღეს, ხვალ”(განმეორებით)</title></programme>
+<programme start="20260527000000 +0000" stop="20260527010000 +0000" channel="68050"><title lang="ka">პროფესორ ამბროსი გრიშიკაშვილის საავტორო გადაცემა &quot;ეკონომიკა&quot; (განმეორებით)</title></programme>
+<programme start="20260527010000 +0000" stop="20260527020000 +0000" channel="68050"><title lang="ka">მწერალ ციცი გურიელის საავტორო გადაცემა “სათნოების საათი”</title></programme>
+<programme start="20260527020000 +0000" stop="20260527020500 +0000" channel="68050"><title lang="ka">ლოცვა</title></programme>
+<programme start="20260527020500 +0000" stop="20260527040000 +0000" channel="68050"><title lang="ka">მუსიკალური გადაცემები</title></programme>
+<programme start="20260527040000 +0000" stop="20260527050000 +0000" channel="68050"><title lang="ka">დილის გადაცემები</title></programme>
+<programme start="20260526080000 +0000" stop="20260526080500 +0000" channel="68051"><title lang="ka">არხის გახსნა</title></programme>
+<programme start="20260526080500 +0000" stop="20260526092500 +0000" channel="68051"><title lang="ka">მუნჯი კინოს ოსტატები</title></programme>
+<programme start="20260526092500 +0000" stop="20260526110000 +0000" channel="68051"><title lang="ka">უცნობი ქართული კინო</title></programme>
+<programme start="20260526110000 +0000" stop="20260526120500 +0000" channel="68051"><title lang="ka">კონცერტი</title></programme>
+<programme start="20260526120500 +0000" stop="20260526132000 +0000" channel="68051"><title lang="ka">მუნჯი კინოს ოსტატები</title></programme>
+<programme start="20260526132000 +0000" stop="20260526150000 +0000" channel="68051"><title lang="ka">სტუდენტური ფილმი</title></programme>
+<programme start="20260526150000 +0000" stop="20260526152000 +0000" channel="68051"><title lang="ka">გაიცანი 15 წუთში</title></programme>
+<programme start="20260526152000 +0000" stop="20260526172500 +0000" channel="68051"><title lang="ka">სპექტაკლი</title></programme>
+<programme start="20260526172500 +0000" stop="20260527080000 +0000" channel="68051"><title lang="ka">მსოფლიო კინოს შედევრები</title></programme>
+<programme start="20260526053000 +0000" stop="20260526060000 +0000" channel="68052"><title lang="ka">დოკუმენტური ფილმი</title></programme>
+<programme start="20260526060000 +0000" stop="20260526061000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
+<programme start="20260526061000 +0000" stop="20260526073000 +0000" channel="68052"><title lang="ka">საერთაშორისო მიმოხილვა</title></programme>
+<programme start="20260526073000 +0000" stop="20260526080000 +0000" channel="68052"><title lang="ka">დაცვითი სიტყვები</title></programme>
+<programme start="20260526080000 +0000" stop="20260526081000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
+<programme start="20260526081000 +0000" stop="20260526093000 +0000" channel="68052"><title lang="ka">პოდკასტი</title></programme>
+<programme start="20260526093000 +0000" stop="20260526100000 +0000" channel="68052"><title lang="ka">დაცვითი სიტყვები</title></programme>
+<programme start="20260526100000 +0000" stop="20260526101000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
+<programme start="20260526101000 +0000" stop="20260526113000 +0000" channel="68052"><title lang="ka">თავისუფალი საქართველო</title></programme>
+<programme start="20260526113000 +0000" stop="20260526120000 +0000" channel="68052"><title lang="ka">დაცვითი სიტყვები</title></programme>
+<programme start="20260526120000 +0000" stop="20260526121000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
+<programme start="20260526121000 +0000" stop="20260526133000 +0000" channel="68052"><title lang="ka">საქართველოს ტალღა</title></programme>
+<programme start="20260526133000 +0000" stop="20260526140000 +0000" channel="68052"><title lang="ka">დოკუმენტური ფილმი</title></programme>
+<programme start="20260526140000 +0000" stop="20260526141000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
+<programme start="20260526141000 +0000" stop="20260526153000 +0000" channel="68052"><title lang="ka">საერთაშორისო მიმოხილვა</title></programme>
+<programme start="20260526153000 +0000" stop="20260526160000 +0000" channel="68052"><title lang="ka">დაცვითი სიტყვები</title></programme>
+<programme start="20260526160000 +0000" stop="20260526161000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
+<programme start="20260526161000 +0000" stop="20260526173000 +0000" channel="68052"><title lang="ka">პოდკასტი</title></programme>
+<programme start="20260526173000 +0000" stop="20260526180000 +0000" channel="68052"><title lang="ka">დაცვითი სიტყვები</title></programme>
+<programme start="20260526180000 +0000" stop="20260526181000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
+<programme start="20260526181000 +0000" stop="20260526193000 +0000" channel="68052"><title lang="ka">თავისუფალი საქართველო</title></programme>
+<programme start="20260526193000 +0000" stop="20260526200000 +0000" channel="68052"><title lang="ka">დაცვითი სიტყვები</title></programme>
+<programme start="20260526200000 +0000" stop="20260526201000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
+<programme start="20260526201000 +0000" stop="20260526213000 +0000" channel="68052"><title lang="ka">საქართველოს ტალღა</title></programme>
+<programme start="20260526213000 +0000" stop="20260526220000 +0000" channel="68052"><title lang="ka">დოკუმენტური ფილმი</title></programme>
+<programme start="20260526220000 +0000" stop="20260526221000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
+<programme start="20260526221000 +0000" stop="20260526233000 +0000" channel="68052"><title lang="ka">საერთაშორისო მიმოხილვა</title></programme>
+<programme start="20260526233000 +0000" stop="20260527000000 +0000" channel="68052"><title lang="ka">დაცვითი სიტყვები</title></programme>
+<programme start="20260527000000 +0000" stop="20260527001000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
+<programme start="20260527001000 +0000" stop="20260527013000 +0000" channel="68052"><title lang="ka">პოდკასტი</title></programme>
+<programme start="20260527013000 +0000" stop="20260527020000 +0000" channel="68052"><title lang="ka">დაცვითი სიტყვები</title></programme>
+<programme start="20260527020000 +0000" stop="20260527021000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
+<programme start="20260527021000 +0000" stop="20260527033000 +0000" channel="68052"><title lang="ka">თავისუფალი საქართველო</title></programme>
+<programme start="20260527033000 +0000" stop="20260527040000 +0000" channel="68052"><title lang="ka">დაცვითი სიტყვები</title></programme>
+<programme start="20260527040000 +0000" stop="20260527041000 +0000" channel="68052"><title lang="ka">ახალი ამბები</title></programme>
+<programme start="20260527041000 +0000" stop="20260527053000 +0000" channel="68052"><title lang="ka">საქართველოს ტალღა</title></programme>
+<programme start="20260526050000 +0000" stop="20260526055000 +0000" channel="68350"><title lang="ka">სერიალი - გარიყულთა კუნძული(1)</title></programme>
+<programme start="20260526055000 +0000" stop="20260526060000 +0000" channel="68350"><title lang="ka">სტრიმის დაიჯესტი</title></programme>
+<programme start="20260526060000 +0000" stop="20260526063000 +0000" channel="68350"><title lang="ka">შეჰერეზადას ზღაპრები</title></programme>
+<programme start="20260526063000 +0000" stop="20260526074500 +0000" channel="68350"><title lang="ka">LIVE. საუბრები ფსიქოლოგიაზე და სულიერებაზე (ია)</title></programme>
+<programme start="20260526074500 +0000" stop="20260526080000 +0000" channel="68350"><title lang="ka">ისტორიიის გაკვეთილები - მერაბ კოსტავა</title></programme>
+<programme start="20260526080000 +0000" stop="20260526094000 +0000" channel="68350"><title lang="ka">LIVE. რეალური პოლიტიკა</title></programme>
+<programme start="20260526094000 +0000" stop="20260526101000 +0000" channel="68350"><title lang="ka">საფეხბურთო მიმოხილვა</title></programme>
+<programme start="20260526101000 +0000" stop="20260526105000 +0000" channel="68350"><title lang="ka">რეალური აქცენტები - პაატა ლომთათიძესთან ერთად</title></programme>
+<programme start="20260526105000 +0000" stop="20260526111000 +0000" channel="68350"><title lang="ka">სტრიმის დაიჯესტი</title></programme>
+<programme start="20260526111000 +0000" stop="20260526120000 +0000" channel="68350"><title lang="ka">დოკ. ფილმი</title></programme>
+<programme start="20260526120000 +0000" stop="20260526121000 +0000" channel="68350"><title lang="ka">საინტერესო ამბები</title></programme>
+<programme start="20260526121000 +0000" stop="20260526125500 +0000" channel="68350"><title lang="ka">კავკასიური აქცენტები - მამუკა არეშიძესთან ერთად</title></programme>
+<programme start="20260526125500 +0000" stop="20260526131500 +0000" channel="68350"><title lang="ka">სტრიმი</title></programme>
+<programme start="20260526131500 +0000" stop="20260526140000 +0000" channel="68350"><title lang="ka">დოკ. ფილმი - 26 მაისი</title></programme>
+<programme start="20260526140000 +0000" stop="20260526145000 +0000" channel="68350"><title lang="ka">სალტე</title></programme>
+<programme start="20260526145000 +0000" stop="20260526150000 +0000" channel="68350"><title lang="ka">სტრიმის დაიჯესტი</title></programme>
+<programme start="20260526150000 +0000" stop="20260526170000 +0000" channel="68350"><title lang="ka">რეალური აქცენტები - ია დანელიასთან ერთად</title></programme>
+<programme start="20260526170000 +0000" stop="20260526173000 +0000" channel="68350"><title lang="ka">შეჰერეზადას ზღაპრები</title></programme>
+<programme start="20260526173000 +0000" stop="20260526175000 +0000" channel="68350"><title lang="ka">ისტორიის გაკვეთილები - მითოლოგია</title></programme>
+<programme start="20260526175000 +0000" stop="20260526180000 +0000" channel="68350"><title lang="ka">სტრიმის დაიჯესტი</title></programme>
+<programme start="20260526180000 +0000" stop="20260526185000 +0000" channel="68350"><title lang="ka">სერიალი - გარიყულთა კუნძული(2)</title></programme>
+<programme start="20260526185000 +0000" stop="20260526190000 +0000" channel="68350"><title lang="ka">სტრიმის დაიჯესტი</title></programme>
+<programme start="20260526190000 +0000" stop="20260526195000 +0000" channel="68350"><title lang="ka">დოკ. ფილმი - მერაბ კოსტავა (I ნაწილი)</title></programme>
+<programme start="20260526195000 +0000" stop="20260526200500 +0000" channel="68350"><title lang="ka">სტრიმის დაიჯესტი</title></programme>
+<programme start="20260526200500 +0000" stop="20260526220000 +0000" channel="68350"><title lang="ka">დოკ. ფილმი - მერაბ კოსტავა (II ნაწილი)</title></programme>
+<programme start="20260526220000 +0000" stop="20260527040000 +0000" channel="68350"><title lang="ka">FM 92.3 GT RADIO</title></programme>
+<programme start="20260527040000 +0000" stop="20260527042000 +0000" channel="68350"><title lang="ka">მართლმადიდებლური მულტფილმები</title></programme>
+<programme start="20260527042000 +0000" stop="20260527050000 +0000" channel="68350"><title lang="ka">მუსიკალური საუნჯე</title></programme>
 <programme start="20260526042900 +0000" stop="20260526051800 +0000" channel="69350"><title lang="ka">Это Total Combat!, 3 сезон, 9 эп.</title></programme>
-<programme start="20260525062000 +0000" stop="20260525075500 +0000" channel="71351"><title lang="ka">Х/ф &quot;Болельщицы со стажем&quot;.</title></programme>
-<programme start="20260525075500 +0000" stop="20260525093500 +0000" channel="71351"><title lang="ka">Х/ф &quot;Замерзшая из Майами&quot;.</title></programme>
-<programme start="20260525093500 +0000" stop="20260525110000 +0000" channel="71351"><title lang="ka">Х/ф &quot;Вы умрёте, или мы вернём вам деньги&quot;.</title></programme>
-<programme start="20260525110000 +0000" stop="20260525125000 +0000" channel="71351"><title lang="ka">Х/ф &quot;Железная леди&quot;.</title></programme>
-<programme start="20260525125000 +0000" stop="20260525150000 +0000" channel="71351"><title lang="ka">Х/ф &quot;Сабрина&quot;.</title></programme>
-<programme start="20260525150000 +0000" stop="20260525170000 +0000" channel="71351"><title lang="ka">Х/ф &quot;Первый день моей жизни&quot;.</title></programme>
-<programme start="20260525170000 +0000" stop="20260525175000 +0000" channel="71351"><title lang="ka">Т/с &quot;Валентина, любовь моя&quot;, 41 с.</title></programme>
-<programme start="20260525175000 +0000" stop="20260525184000 +0000" channel="71351"><title lang="ka">Т/с &quot;Валентина, любовь моя&quot;, 42 с.</title></programme>
-<programme start="20260525184000 +0000" stop="20260525190000 +0000" channel="71351"><title lang="ka">Премьера. Т/с &quot;Больница Сент-Винсент&quot;, 2 сезон, 81 с.</title></programme>
-<programme start="20260525190000 +0000" stop="20260525192500 +0000" channel="71351"><title lang="ka">Премьера. Т/с &quot;Больница Сент-Винсент&quot;, 2 сезон, 82 с.</title></programme>
-<programme start="20260525192500 +0000" stop="20260525195000 +0000" channel="71351"><title lang="ka">Премьера. Т/с &quot;Больница Сент-Винсент&quot;, 2 сезон, 83 с.</title></programme>
-<programme start="20260525195000 +0000" stop="20260525201000 +0000" channel="71351"><title lang="ka">Премьера. Т/с &quot;Больница Сент-Винсент&quot;, 2 сезон, 84 с.</title></programme>
-<programme start="20260525201000 +0000" stop="20260525215000 +0000" channel="71351"><title lang="ka">Х/ф &quot;Полночь в Париже&quot;.</title></programme>
-<programme start="20260525215000 +0000" stop="20260525223000 +0000" channel="71351"><title lang="ka">Т/с &quot;Валентина, любовь моя&quot;, 41 с.</title></programme>
-<programme start="20260525223000 +0000" stop="20260525231500 +0000" channel="71351"><title lang="ka">Т/с &quot;Валентина, любовь моя&quot;, 42 с.</title></programme>
-<programme start="20260525231500 +0000" stop="20260525233500 +0000" channel="71351"><title lang="ka">Т/с &quot;Больница Сент-Винсент&quot;, 2 сезон, 81 с.</title></programme>
-<programme start="20260525233500 +0000" stop="20260525235500 +0000" channel="71351"><title lang="ka">Т/с &quot;Больница Сент-Винсент&quot;, 2 сезон, 82 с.</title></programme>
-<programme start="20260525235500 +0000" stop="20260526001500 +0000" channel="71351"><title lang="ka">Т/с &quot;Больница Сент-Винсент&quot;, 2 сезон, 83 с.</title></programme>
-<programme start="20260526001500 +0000" stop="20260526003500 +0000" channel="71351"><title lang="ka">Т/с &quot;Больница Сент-Винсент&quot;, 2 сезон, 84 с.</title></programme>
-<programme start="20260526003500 +0000" stop="20260526021500 +0000" channel="71351"><title lang="ka">Х/ф &quot;Мой лучший любовник&quot;.</title></programme>
-<programme start="20260526021500 +0000" stop="20260526030000 +0000" channel="71351"><title lang="ka">Мой торт - мои правила, 1 сезон, 5 эп.</title></programme>
-<programme start="20260526030000 +0000" stop="20260526044000 +0000" channel="71351"><title lang="ka">Х/ф &quot;Железная леди&quot;.</title></programme>
-<programme start="20260526044000 +0000" stop="20260526050000 +0000" channel="71351"><title lang="ka">Секретные рецепты Мэри Берг, 1 сезон, 18 эп.</title></programme>
-<programme start="20260525045500 +0000" stop="20260525054500 +0000" channel="71352"><title lang="ka">Загадки планеты Земля</title><desc lang="ka">Шесть захватывающих дух явлений, шесть непостижимых тайн. От гигантского цунами, никогда не достигающего суши, до зловещего кроваво-красного озера в Багдаде, растерзанном войной</desc></programme>
-<programme start="20260525054500 +0000" stop="20260525080000 +0000" channel="71352"><title lang="ka">Однажды в Китае</title><desc lang="ka">Конец прошлого столетия. Китайцы пытаются бороться всеми доступными им средствами с расширением американского влияния. Но находятся и такие, которым чужестранная мода, традиции и культура пришлись на руку в их тёмных делишках</desc></programme>
-<programme start="20260525080000 +0000" stop="20260525100000 +0000" channel="71352"><title lang="ka">Однажды в Китае II</title><desc lang="ka">1895 год, Китай. Крайняя националистическая организация &quot;Белый Лотос&quot; устраивает беспорядки во время международной конференции врачей. Трагическая участь ждёт гостей — иностранцев</desc></programme>
-<programme start="20260525100000 +0000" stop="20260525115500 +0000" channel="71352"><title lang="ka">Однажды в Китае 3</title><desc lang="ka">Для участия в турнире мастеров восточных единоборств, знатоков стиля &quot;Танцующий лев&quot;, в Пекин приезжают Вон Фэй-хун, его закадычный приятель-напарник Чун и юная Йе, кузина Фэй-хуна</desc></programme>
-<programme start="20260525115500 +0000" stop="20260525124500 +0000" channel="71352"><title lang="ka">Тяньцзиньская загадка</title><desc lang="ka">Го Дэю способен видеть правду в дыму во время выкуривания трубки. Эту способность он унаследовал от духа реки, а старый шаман передал ему древние знания. Неожиданно парня обвиняют в убийстве...</desc></programme>
-<programme start="20260525124500 +0000" stop="20260525133000 +0000" channel="71352"><title lang="ka">Тяньцзиньская загадка</title><desc lang="ka">Го Дэю способен видеть правду в дыму во время выкуривания трубки. Эту способность он унаследовал от духа реки, а старый шаман передал ему древние знания. Неожиданно парня обвиняют в убийстве...</desc></programme>
-<programme start="20260525133000 +0000" stop="20260525142000 +0000" channel="71352"><title lang="ka">Загадки планеты Земля</title><desc lang="ka">Шесть захватывающих дух явлений, шесть непостижимых тайн. От гигантского цунами, никогда не достигающего суши, до зловещего кроваво-красного озера в Багдаде, растерзанном войной</desc></programme>
-<programme start="20260525142000 +0000" stop="20260525151000 +0000" channel="71352"><title lang="ka">Загадки планеты Земля</title><desc lang="ka">Шесть захватывающих дух явлений, шесть непостижимых тайн. От гигантского цунами, никогда не достигающего суши, до зловещего кроваво-красного озера в Багдаде, растерзанном войной</desc></programme>
-<programme start="20260525151000 +0000" stop="20260525160500 +0000" channel="71352"><title lang="ka">Одиннадцатое тело</title><desc lang="ka">Лишнее тело в морге становится началом мрачного расследования, которое ведёт детектив Айрис. В поисках истины она погружается в пучину загадок</desc></programme>
-<programme start="20260525160500 +0000" stop="20260525170000 +0000" channel="71352"><title lang="ka">Одиннадцатое тело</title><desc lang="ka">Лишнее тело в морге становится началом мрачного расследования, которое ведёт детектив Айрис. В поисках истины она погружается в пучину загадок</desc></programme>
-<programme start="20260525170000 +0000" stop="20260525184000 +0000" channel="71352"><title lang="ka">Остров забвения: Харука и волшебное зеркало</title><desc lang="ka">В поисках старинного маминого зеркала 16-летняя Харука попадает на остров Забвения, где собраны все утраченные вещи и воспоминания людей. В этом волшебном месте она встретит старых и новых друзей, переживёт незабываемое приключение...</desc></programme>
-<programme start="20260525184000 +0000" stop="20260525201500 +0000" channel="71352"><title lang="ka">Громобой</title><desc lang="ka">После трагической гибели дяди Алекса выясняется, что никакой он не банкир, а самый настоящий агент секретной службы М16, боссы которой предлагают Алексу продолжить дело родственника. Владеющий боевыми навыками подросток нехотя соглашается</desc></programme>
-<programme start="20260525201500 +0000" stop="20260525211000 +0000" channel="71352"><title lang="ka">Хемлок Гроув</title><desc lang="ka">События сериала разворачиваются в небольшом американском городке Хемлок Гроув, жители которого находят искусанный труп молодой девушки. Они понимают, что в городе появилась невиданная раньше сила в лице оборотней</desc></programme>
-<programme start="20260525211000 +0000" stop="20260525215500 +0000" channel="71352"><title lang="ka">Хемлок Гроув</title><desc lang="ka">События сериала разворачиваются в небольшом американском городке Хемлок Гроув, жители которого находят искусанный труп молодой девушки. Они понимают, что в городе появилась невиданная раньше сила в лице оборотней</desc></programme>
-<programme start="20260525215500 +0000" stop="20260525224000 +0000" channel="71352"><title lang="ka">Загадки планеты Земля</title><desc lang="ka">Шесть захватывающих дух явлений, шесть непостижимых тайн. От гигантского цунами, никогда не достигающего суши, до зловещего кроваво-красного озера в Багдаде, растерзанном войной</desc></programme>
-<programme start="20260525224000 +0000" stop="20260525232000 +0000" channel="71352"><title lang="ka">Загадки планеты Земля</title><desc lang="ka">Шесть захватывающих дух явлений, шесть непостижимых тайн. От гигантского цунами, никогда не достигающего суши, до зловещего кроваво-красного озера в Багдаде, растерзанном войной</desc></programme>
-<programme start="20260525232000 +0000" stop="20260526002000 +0000" channel="71352"><title lang="ka">Одиннадцатое тело</title><desc lang="ka">Лишнее тело в морге становится началом мрачного расследования, которое ведёт детектив Айрис. В поисках истины она погружается в пучину загадок</desc></programme>
-<programme start="20260526002000 +0000" stop="20260526011500 +0000" channel="71352"><title lang="ka">Одиннадцатое тело</title><desc lang="ka">Лишнее тело в морге становится началом мрачного расследования, которое ведёт детектив Айрис. В поисках истины она погружается в пучину загадок</desc></programme>
-<programme start="20260526011500 +0000" stop="20260526021500 +0000" channel="71352"><title lang="ka">Хемлок Гроув</title><desc lang="ka">События сериала разворачиваются в небольшом американском городке Хемлок Гроув, жители которого находят искусанный труп молодой девушки. Они понимают, что в городе появилась невиданная раньше сила в лице оборотней</desc></programme>
-<programme start="20260526021500 +0000" stop="20260526030000 +0000" channel="71352"><title lang="ka">Хемлок Гроув</title><desc lang="ka">События сериала разворачиваются в небольшом американском городке Хемлок Гроув, жители которого находят искусанный труп молодой девушки. Они понимают, что в городе появилась невиданная раньше сила в лице оборотней</desc></programme>
-<programme start="20260526030000 +0000" stop="20260526032500 +0000" channel="71352"><title lang="ka">Миссии</title><desc lang="ka">Первый пилотируемый полёт на Марс прошёл успешно. В команде только лучшие: первоклассные космонавты и девушка-психолог, отвечающая за психическое здоровье экипажа. Однако при возвращении на Землю что-то пошло не так</desc></programme>
-<programme start="20260526032500 +0000" stop="20260526042000 +0000" channel="71352"><title lang="ka">Одиннадцатое тело</title><desc lang="ka">Лишнее тело в морге становится началом мрачного расследования, которое ведёт детектив Айрис. В поисках истины она погружается в пучину загадок</desc></programme>
-<programme start="20260526042000 +0000" stop="20260526051000 +0000" channel="71352"><title lang="ka">Загадки планеты Земля</title><desc lang="ka">Шесть захватывающих дух явлений, шесть непостижимых тайн. От гигантского цунами, никогда не достигающего суши, до зловещего кроваво-красного озера в Багдаде, растерзанном войной</desc></programme>
-<programme start="20260525050000 +0000" stop="20260525054500 +0000" channel="72350"><title lang="ka">Т/с &quot;Цыплёнок жареный&quot;, 16 с.</title></programme>
-<programme start="20260525054500 +0000" stop="20260525072000 +0000" channel="72350"><title lang="ka">Х/ф &quot;Убийство в Верхней Савойе&quot;.</title></programme>
-<programme start="20260525072000 +0000" stop="20260525091500 +0000" channel="72350"><title lang="ka">Т/с &quot;Ванина Гуарраси&quot;, 2 сезон, 1 с.</title></programme>
-<programme start="20260525091500 +0000" stop="20260525101000 +0000" channel="72350"><title lang="ka">Т/с &quot;Чисто английские убийства&quot;, 16 сезон, 1 с. &quot;Рождество с призраками: часть 1&quot;.</title><desc lang="ka">Детектив. По романам Кэролайн Грэм. Старая, добрая Англия. Утонченные преступления и изысканные преступники. На смену любимым героям Агаты Кристи приходят новые лица. На этот раз самые изощренные преступления виртуозно раскрывает инспектор Барнаби. Почти всё действие происходит в деревнях небольшого, образцово безмятежного графства Мидсомер. Великобритания, 1997. Режиссер: Питер Смит. В ролях: Джон Неттлс, Дэниэл Кэйси, Джон Хопкинс.</desc></programme>
-<programme start="20260525101000 +0000" stop="20260525104500 +0000" channel="72350"><title lang="ka">Т/с &quot;Чисто английские убийства&quot;, 16 сезон, 2 с. &quot;Рождество с призраками: часть 2&quot;.</title><desc lang="ka">Детектив. По романам Кэролайн Грэм. Старая, добрая Англия. Утонченные преступления и изысканные преступники. На смену любимым героям Агаты Кристи приходят новые лица. На этот раз самые изощренные преступления виртуозно раскрывает инспектор Барнаби. Почти всё действие происходит в деревнях небольшого, образцово безмятежного графства Мидсомер. Великобритания, 1997. Режиссер: Питер Смит. В ролях: Джон Неттлс, Дэниэл Кэйси, Джон Хопкинс.</desc></programme>
-<programme start="20260525104500 +0000" stop="20260525112500 +0000" channel="72350"><title lang="ka">Т/с &quot;Библиотекари&quot;, 3 сезон, 9 с. &quot;...и Фатальное расставание&quot;.</title><desc lang="ka">Боевик. Нью-Йорк, США. Внутри обычной городской публичной библиотеки скрывается древний орден, защищающий мир от древних артефактов и магии, способной натворить много бед. Всеми делами здесь заправляет Флинн Карсен. Библиотека является местом, которое существует вне времени и пространства, и она словно живой организм сама решает, кто из мира людей ей нужен. Одной из таких избранных оказалась Ив Бэрд - агент по борьбе с терроризмом, работающая в НАТО. Ей уготована роль хранителя для библиотекаря. Однако Флинн не согласен с таким решением Библиотеки, поскольку привык работать в одиночку. Но вскоре ему приходится изменить свои взгляды, когда появляется угроза в лице таинственного Змеиного братства. Члены этого общества намерены вернуть в мир магию, и для этого им необходимы артефакты, хранящиеся в... США, 2014-. Режиссер: Дин Девлин. В ролях: Ребекка Ромейн, Кристиан Кэйн, Линди Бут.</desc></programme>
-<programme start="20260525112500 +0000" stop="20260525121000 +0000" channel="72350"><title lang="ka">Т/с &quot;Библиотекари&quot;, 3 сезон, 10 с. &quot;...и Гнев хаоса&quot;.</title><desc lang="ka">Боевик. Нью-Йорк, США. Внутри обычной городской публичной библиотеки скрывается древний орден, защищающий мир от древних артефактов и магии, способной натворить много бед. Всеми делами здесь заправляет Флинн Карсен. Библиотека является местом, которое существует вне времени и пространства, и она словно живой организм сама решает, кто из мира людей ей нужен. Одной из таких избранных оказалась Ив Бэрд - агент по борьбе с терроризмом, работающая в НАТО. Ей уготована роль хранителя для библиотекаря. Однако Флинн не согласен с таким решением Библиотеки, поскольку привык работать в одиночку. Но вскоре ему приходится изменить свои взгляды, когда появляется угроза в лице таинственного Змеиного братства. Члены этого общества намерены вернуть в мир магию, и для этого им необходимы артефакты, хранящиеся в... США, 2014-. Режиссер: Дин Девлин. В ролях: Ребекка Ромейн, Кристиан Кэйн, Линди Бут.</desc></programme>
-<programme start="20260525121000 +0000" stop="20260525134000 +0000" channel="72350"><title lang="ka">Х/ф &quot;Убийства в Ла-Рошели&quot;.</title></programme>
-<programme start="20260525134000 +0000" stop="20260525153000 +0000" channel="72350"><title lang="ka">Т/с &quot;Ванина Гуарраси&quot;, 2 сезон, 2 с.</title></programme>
-<programme start="20260525153000 +0000" stop="20260525161000 +0000" channel="72350"><title lang="ka">Т/с &quot;Чисто английские убийства&quot;, 16 сезон, 3 с.</title><desc lang="ka">Детектив. По романам Кэролайн Грэм. Старая, добрая Англия. Утонченные преступления и изысканные преступники. На смену любимым героям Агаты Кристи приходят новые лица. На этот раз самые изощренные преступления виртуозно раскрывает инспектор Барнаби. Почти всё действие происходит в деревнях небольшого, образцово безмятежного графства Мидсомер. Великобритания, 1997. Режиссер: Питер Смит. В ролях: Джон Неттлс, Дэниэл Кэйси, Джон Хопкинс.</desc></programme>
-<programme start="20260525161000 +0000" stop="20260525170000 +0000" channel="72350"><title lang="ka">Т/с &quot;Чисто английские убийства&quot;, 16 сезон, 4 с.</title><desc lang="ka">Детектив. По романам Кэролайн Грэм. Старая, добрая Англия. Утонченные преступления и изысканные преступники. На смену любимым героям Агаты Кристи приходят новые лица. На этот раз самые изощренные преступления виртуозно раскрывает инспектор Барнаби. Почти всё действие происходит в деревнях небольшого, образцово безмятежного графства Мидсомер. Великобритания, 1997. Режиссер: Питер Смит. В ролях: Джон Неттлс, Дэниэл Кэйси, Джон Хопкинс.</desc></programme>
-<programme start="20260525170000 +0000" stop="20260525174000 +0000" channel="72350"><title lang="ka">Т/с &quot;Библиотекари&quot;, 4 сезон, 1 с. &quot;...и Тёмный секрет&quot;.</title><desc lang="ka">Боевик. Нью-Йорк, США. Внутри обычной городской публичной библиотеки скрывается древний орден, защищающий мир от древних артефактов и магии, способной натворить много бед. Всеми делами здесь заправляет Флинн Карсен. Библиотека является местом, которое существует вне времени и пространства, и она словно живой организм сама решает, кто из мира людей ей нужен. Одной из таких избранных оказалась Ив Бэрд - агент по борьбе с терроризмом, работающая в НАТО. Ей уготована роль хранителя для библиотекаря. Однако Флинн не согласен с таким решением Библиотеки, поскольку привык работать в одиночку. Но вскоре ему приходится изменить свои взгляды, когда появляется угроза в лице таинственного Змеиного братства. Члены этого общества намерены вернуть в мир магию, и для этого им необходимы артефакты, хранящиеся в... США, 2014-. Режиссер: Дин Девлин. В ролях: Ребекка Ромейн, Кристиан Кэйн, Линди Бут.</desc></programme>
-<programme start="20260525174000 +0000" stop="20260525182000 +0000" channel="72350"><title lang="ka">Т/с &quot;Библиотекари&quot;, 4 сезон, 2 с. &quot;...и Кража фортуны&quot;.</title><desc lang="ka">Боевик. Нью-Йорк, США. Внутри обычной городской публичной библиотеки скрывается древний орден, защищающий мир от древних артефактов и магии, способной натворить много бед. Всеми делами здесь заправляет Флинн Карсен. Библиотека является местом, которое существует вне времени и пространства, и она словно живой организм сама решает, кто из мира людей ей нужен. Одной из таких избранных оказалась Ив Бэрд - агент по борьбе с терроризмом, работающая в НАТО. Ей уготована роль хранителя для библиотекаря. Однако Флинн не согласен с таким решением Библиотеки, поскольку привык работать в одиночку. Но вскоре ему приходится изменить свои взгляды, когда появляется угроза в лице таинственного Змеиного братства. Члены этого общества намерены вернуть в мир магию, и для этого им необходимы артефакты, хранящиеся в... США, 2014-. Режиссер: Дин Девлин. В ролях: Ребекка Ромейн, Кристиан Кэйн, Линди Бут.</desc></programme>
-<programme start="20260525182000 +0000" stop="20260525192000 +0000" channel="72350"><title lang="ka">Т/с &quot;Операция &quot;Английский квартал&quot;, 1 с.</title></programme>
-<programme start="20260525192000 +0000" stop="20260525201500 +0000" channel="72350"><title lang="ka">Т/с &quot;Операция &quot;Английский квартал&quot;, 2 с.</title></programme>
-<programme start="20260525201500 +0000" stop="20260525215000 +0000" channel="72350"><title lang="ka">Х/ф &quot;Убийства в Ла-Рошели&quot;.</title></programme>
-<programme start="20260525215000 +0000" stop="20260525233500 +0000" channel="72350"><title lang="ka">Т/с &quot;Ванина Гуарраси&quot;, 2 сезон, 2 с.</title></programme>
-<programme start="20260525233500 +0000" stop="20260526002000 +0000" channel="72350"><title lang="ka">Т/с &quot;Чисто английские убийства&quot;, 16 сезон, 3 с.</title><desc lang="ka">Детектив. По романам Кэролайн Грэм. Старая, добрая Англия. Утонченные преступления и изысканные преступники. На смену любимым героям Агаты Кристи приходят новые лица. На этот раз самые изощренные преступления виртуозно раскрывает инспектор Барнаби. Почти всё действие происходит в деревнях небольшого, образцово безмятежного графства Мидсомер. Великобритания, 1997. Режиссер: Питер Смит. В ролях: Джон Неттлс, Дэниэл Кэйси, Джон Хопкинс.</desc></programme>
-<programme start="20260526002000 +0000" stop="20260526011000 +0000" channel="72350"><title lang="ka">Т/с &quot;Чисто английские убийства&quot;, 16 сезон, 4 с.</title><desc lang="ka">Детектив. По романам Кэролайн Грэм. Старая, добрая Англия. Утонченные преступления и изысканные преступники. На смену любимым героям Агаты Кристи приходят новые лица. На этот раз самые изощренные преступления виртуозно раскрывает инспектор Барнаби. Почти всё действие происходит в деревнях небольшого, образцово безмятежного графства Мидсомер. Великобритания, 1997. Режиссер: Питер Смит. В ролях: Джон Неттлс, Дэниэл Кэйси, Джон Хопкинс.</desc></programme>
-<programme start="20260526011000 +0000" stop="20260526015000 +0000" channel="72350"><title lang="ka">Т/с &quot;Библиотекари&quot;, 4 сезон, 1 с. &quot;...и Тёмный секрет&quot;.</title><desc lang="ka">Боевик. Нью-Йорк, США. Внутри обычной городской публичной библиотеки скрывается древний орден, защищающий мир от древних артефактов и магии, способной натворить много бед. Всеми делами здесь заправляет Флинн Карсен. Библиотека является местом, которое существует вне времени и пространства, и она словно живой организм сама решает, кто из мира людей ей нужен. Одной из таких избранных оказалась Ив Бэрд - агент по борьбе с терроризмом, работающая в НАТО. Ей уготована роль хранителя для библиотекаря. Однако Флинн не согласен с таким решением Библиотеки, поскольку привык работать в одиночку. Но вскоре ему приходится изменить свои взгляды, когда появляется угроза в лице таинственного Змеиного братства. Члены этого общества намерены вернуть в мир магию, и для этого им необходимы артефакты, хранящиеся в... США, 2014-. Режиссер: Дин Девлин. В ролях: Ребекка Ромейн, Кристиан Кэйн, Линди Бут.</desc></programme>
-<programme start="20260526015000 +0000" stop="20260526023000 +0000" channel="72350"><title lang="ka">Т/с &quot;Библиотекари&quot;, 4 сезон, 2 с. &quot;...и Кража фортуны&quot;.</title><desc lang="ka">Боевик. Нью-Йорк, США. Внутри обычной городской публичной библиотеки скрывается древний орден, защищающий мир от древних артефактов и магии, способной натворить много бед. Всеми делами здесь заправляет Флинн Карсен. Библиотека является местом, которое существует вне времени и пространства, и она словно живой организм сама решает, кто из мира людей ей нужен. Одной из таких избранных оказалась Ив Бэрд - агент по борьбе с терроризмом, работающая в НАТО. Ей уготована роль хранителя для библиотекаря. Однако Флинн не согласен с таким решением Библиотеки, поскольку привык работать в одиночку. Но вскоре ему приходится изменить свои взгляды, когда появляется угроза в лице таинственного Змеиного братства. Члены этого общества намерены вернуть в мир магию, и для этого им необходимы артефакты, хранящиеся в... США, 2014-. Режиссер: Дин Девлин. В ролях: Ребекка Ромейн, Кристиан Кэйн, Линди Бут.</desc></programme>
-<programme start="20260526023000 +0000" stop="20260526031000 +0000" channel="72350"><title lang="ka">Т/с &quot;Чёрный ящик&quot;, 3 с.</title></programme>
-<programme start="20260526031000 +0000" stop="20260526035500 +0000" channel="72350"><title lang="ka">Т/с &quot;Чёрный ящик&quot;, 4 с.</title></programme>
-<programme start="20260526035500 +0000" stop="20260526045500 +0000" channel="72350"><title lang="ka">Т/с &quot;Операция &quot;Английский квартал&quot;, 1 с.</title></programme>
-<programme start="20260525050000 +0000" stop="20260525070000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">სერია ა: ჯენოა - მილანი</title></programme>
-<programme start="20260525070000 +0000" stop="20260525090000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">პრემიერ ლიგა: ბორნმუთი - მანჩესტერ სიტი</title></programme>
-<programme start="20260525090000 +0000" stop="20260525113000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">პრემიერ ლიგა: კრისტალ პალასი - არსენალი</title></programme>
-<programme start="20260525113000 +0000" stop="20260525140000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">სერია ა: მილანი - კალიარი</title></programme>
-<programme start="20260525140000 +0000" stop="20260525163000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">LIVE. EFL League Two - პლეიოფი: ნოთს ქაუნთი - სოლფორდი (www.setantasports.com)</title></programme>
-<programme start="20260525163000 +0000" stop="20260525183000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">ჩემპიონთა ლიგა: Classic</title></programme>
-<programme start="20260525183000 +0000" stop="20260525210000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">LIVE. ბუნდესლიგის პლეიოფი: პადერბორნი - ვოლფსბურგი (www.setantasports.com)</title></programme>
-<programme start="20260525210000 +0000" stop="20260525230000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">ევროპა ლიგა: ფრაიბურგი - ასტონ ვილა</title></programme>
-<programme start="20260525230000 +0000" stop="20260526000000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">პრემიერ ლიგა: 2025/26 სეზონის მომენტები</title></programme>
-<programme start="20260526000000 +0000" stop="20260526030000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">LIVE. NBA: კლივლენდი - ნიუ იორკი (www.setantasports.com)</title></programme>
-<programme start="20260526030000 +0000" stop="20260526050000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">პრემიერ ლიგა: ტოტენჰემი - ევერტონი</title></programme>
-<programme start="20260525050000 +0000" stop="20260525070000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">პრემიერშიფი: სელტიკი - ჰართსი</title></programme>
-<programme start="20260525070000 +0000" stop="20260525090000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">ბუნდესლიგა: ბაიერნი - კიოლნი</title></programme>
-<programme start="20260525090000 +0000" stop="20260525110000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">ევროლიგა: ფინალი</title></programme>
-<programme start="20260525110000 +0000" stop="20260525130000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">პრემიერ ლიგა: მანჩესტერ სიტი - ასტონ ვილა</title></programme>
-<programme start="20260525130000 +0000" stop="20260525150000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">სერია ა: ტორინო - იუვენტუსი</title></programme>
-<programme start="20260525150000 +0000" stop="20260525170000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">კონფერენს ლიგა: სტრასბური - რაიო ვალეკანო</title></programme>
-<programme start="20260525170000 +0000" stop="20260525180000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">Ligue 1 Icons</title></programme>
-<programme start="20260525180000 +0000" stop="20260525184500 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">სერია ა: Classic</title></programme>
-<programme start="20260525184500 +0000" stop="20260525210000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">სერია ა: რომა - ლაციო</title></programme>
-<programme start="20260525210000 +0000" stop="20260525230000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">ბუნდესლიგა: ჰაიდენჰაიმი - მაინცი</title></programme>
-<programme start="20260525230000 +0000" stop="20260526000000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">Ligue 1 Rivalries</title></programme>
-<programme start="20260526000000 +0000" stop="20260526040000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">LIVE. NHL: მონრეალი - კაროლინა (www.setantasports.com)</title></programme>
-<programme start="20260526040000 +0000" stop="20260526060000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">ლიგა 1: პარიზი - პსჟ</title></programme>
+<programme start="20260526051800 +0000" stop="20260526060700 +0000" channel="69350"><title lang="ka">Это Total Combat!, 3 сезон, 10 эп.</title></programme>
+<programme start="20260526060700 +0000" stop="20260526063100 +0000" channel="69350"><title lang="ka">Новости Total Combat.</title></programme>
+<programme start="20260526063100 +0000" stop="20260526082800 +0000" channel="69350"><title lang="ka">Смешанные единоборства. LFA 231 в Прайор-Лейке, США.</title></programme>
+<programme start="20260526082800 +0000" stop="20260526085500 +0000" channel="69350"><title lang="ka">Шорт-лист, 1 сезон, 21 эп.</title></programme>
+<programme start="20260526085500 +0000" stop="20260526094300 +0000" channel="69350"><title lang="ka">Это Total Combat!, 3 сезон, 11 эп.</title></programme>
+<programme start="20260526094300 +0000" stop="20260526103200 +0000" channel="69350"><title lang="ka">Это Total Combat!, 3 сезон, 12 эп.</title></programme>
+<programme start="20260526103200 +0000" stop="20260526111900 +0000" channel="69350"><title lang="ka">EFC. Лучшие моменты, 1 сезон, 16 эп.</title></programme>
+<programme start="20260526111900 +0000" stop="20260526120700 +0000" channel="69350"><title lang="ka">EFC. Лучшие моменты, 1 сезон, 17 эп.</title></programme>
+<programme start="20260526120700 +0000" stop="20260526123100 +0000" channel="69350"><title lang="ka">Новости Total Combat.</title></programme>
+<programme start="20260526123100 +0000" stop="20260526164600 +0000" channel="69350"><title lang="ka">Смешанные единоборства, кикбоксинг. SFT Outubro Rosa 5 в Сан-Паулу, Бразилия.</title></programme>
+<programme start="20260526164600 +0000" stop="20260526171200 +0000" channel="69350"><title lang="ka">Шорт-лист, 1 сезон, 23 эп.</title></programme>
+<programme start="20260526171200 +0000" stop="20260526185500 +0000" channel="69350"><title lang="ka">Лига Enfusion (Нидерланды): Лучшие моменты. Enfusion 151.</title></programme>
+<programme start="20260526185500 +0000" stop="20260526191300 +0000" channel="69350"><title lang="ka">Лига Enfusion (Нидерланды): Лучшие моменты. Enfusion 158.</title></programme>
+<programme start="20260526191300 +0000" stop="20260526201000 +0000" channel="69350"><title lang="ka">Лига Enfusion (Нидерланды): Лучшие моменты. Enfusion 158.</title></programme>
+<programme start="20260526201000 +0000" stop="20260526203500 +0000" channel="69350"><title lang="ka">Новости Total Combat.</title></programme>
+<programme start="20260526203500 +0000" stop="20260526212300 +0000" channel="69350"><title lang="ka">Это Total Combat!, 4 сезон, 2 эп.</title></programme>
+<programme start="20260526212300 +0000" stop="20260526221200 +0000" channel="69350"><title lang="ka">Это Total Combat!, 4 сезон, 3 эп.</title></programme>
+<programme start="20260526221200 +0000" stop="20260526230000 +0000" channel="69350"><title lang="ka">EFC. Лучшие моменты, 1 сезон, 22 эп.</title></programme>
+<programme start="20260526230000 +0000" stop="20260526234700 +0000" channel="69350"><title lang="ka">EFC. Лучшие моменты, 1 сезон, 23 эп.</title></programme>
+<programme start="20260526234700 +0000" stop="20260527001400 +0000" channel="69350"><title lang="ka">Шорт-лист, 1 сезон, 21 эп.</title></programme>
+<programme start="20260527001400 +0000" stop="20260527010200 +0000" channel="69350"><title lang="ka">Это Total Combat!, 3 сезон, 13 эп.</title></programme>
+<programme start="20260527010200 +0000" stop="20260527015100 +0000" channel="69350"><title lang="ka">Это Total Combat!, 4 сезон, 1 эп.</title></programme>
+<programme start="20260527015100 +0000" stop="20260527023900 +0000" channel="69350"><title lang="ka">EFC. Лучшие моменты, 1 сезон, 24 эп.</title></programme>
+<programme start="20260527023900 +0000" stop="20260527030200 +0000" channel="69350"><title lang="ka">Это Total Combat!, 4 сезон, 4 эп.</title></programme>
+<programme start="20260527030200 +0000" stop="20260527032700 +0000" channel="69350"><title lang="ka">Это Total Combat!, 4 сезон, 4 эп.</title></programme>
+<programme start="20260527032700 +0000" stop="20260527041600 +0000" channel="69350"><title lang="ka">Это Total Combat!, 4 сезон, 5 эп.</title></programme>
+<programme start="20260527041600 +0000" stop="20260527050300 +0000" channel="69350"><title lang="ka">EFC. Лучшие моменты, 1 сезон, 12 эп.</title></programme>
+<programme start="20260526050500 +0000" stop="20260526065000 +0000" channel="71350"><title lang="ka">Т/с &quot;Загадочные убийства Агаты Кристи&quot;, 2 сезон, 12 с. &quot;Убийство на распродаже&quot;.</title></programme>
+<programme start="20260526065000 +0000" stop="20260526091000 +0000" channel="71350"><title lang="ka">Х/ф &quot;К-19&quot;.</title></programme>
+<programme start="20260526091000 +0000" stop="20260526103500 +0000" channel="71350"><title lang="ka">Х/ф &quot;Ограбление казино&quot;.</title></programme>
+<programme start="20260526103500 +0000" stop="20260526112500 +0000" channel="71350"><title lang="ka">Т/с &quot;Не для записи&quot;, 23 с.</title></programme>
+<programme start="20260526112500 +0000" stop="20260526122000 +0000" channel="71350"><title lang="ka">Т/с &quot;Не для записи&quot;, 24 с.</title></programme>
+<programme start="20260526122000 +0000" stop="20260526131000 +0000" channel="71350"><title lang="ka">Криминальная Америка, 1 сезон, 5 эп.</title></programme>
+<programme start="20260526131000 +0000" stop="20260526140000 +0000" channel="71350"><title lang="ka">Криминальная Америка, 1 сезон, 6 эп.</title></programme>
+<programme start="20260526140000 +0000" stop="20260526154000 +0000" channel="71350"><title lang="ka">Т/с &quot;Загадочные убийства Агаты Кристи&quot;, 2 сезон, 13 с. &quot;Смертельная мелодия&quot;.</title></programme>
+<programme start="20260526154000 +0000" stop="20260526172000 +0000" channel="71350"><title lang="ka">Т/с &quot;Загадочные убийства Агаты Кристи&quot;, 2 сезон, 14 с. &quot;Клиника &quot;Сирень&quot;.</title></programme>
+<programme start="20260526172000 +0000" stop="20260526190000 +0000" channel="71350"><title lang="ka">Х/ф &quot;Убийства на острове Рэ&quot;.</title></programme>
+<programme start="20260526190000 +0000" stop="20260526200500 +0000" channel="71350"><title lang="ka">Т/с &quot;Убийство&quot;, 1 сезон, 15 с.</title><desc lang="ka">Детектив. Жестокое убийство молодой девушки влечет за собой затяжное полицейское разбирательство. Детектив Сара Лунд, собиравшаяся вслед за женихом переехать из Дании в Швецию, вынуждена остаться, чтобы расследовать это дело. Первое подозрение падает на кандидата на пост мэра Копенгагена Tроэлса Хартманна. Однако вскоре Сара приходит к выводу, что, несмотря на очевидную связь политика с преступлением, круг подозреваемых, возможно окажется, гораздо шире: ведь убийца мог руководствоваться не только политическими, но и личными мотивами... Дания-Норвегия-Швеция, 2007-2007. Режиссер: Кристоффер Нюхольм. В ролях: Софи Гробёл, Сёрен Маллинг, Ларс Миккельсен.</desc></programme>
+<programme start="20260526200500 +0000" stop="20260526211500 +0000" channel="71350"><title lang="ka">Т/с &quot;Убийство&quot;, 1 сезон, 16 с.</title><desc lang="ka">Детектив. Жестокое убийство молодой девушки влечет за собой затяжное полицейское разбирательство. Детектив Сара Лунд, собиравшаяся вслед за женихом переехать из Дании в Швецию, вынуждена остаться, чтобы расследовать это дело. Первое подозрение падает на кандидата на пост мэра Копенгагена Tроэлса Хартманна. Однако вскоре Сара приходит к выводу, что, несмотря на очевидную связь политика с преступлением, круг подозреваемых, возможно окажется, гораздо шире: ведь убийца мог руководствоваться не только политическими, но и личными мотивами... Дания-Норвегия-Швеция, 2007-2007. Режиссер: Кристоффер Нюхольм. В ролях: Софи Гробёл, Сёрен Маллинг, Ларс Миккельсен.</desc></programme>
+<programme start="20260526211500 +0000" stop="20260526220500 +0000" channel="71350"><title lang="ka">Т/с &quot;Не для записи&quot;, 23 с.</title></programme>
+<programme start="20260526220500 +0000" stop="20260526225500 +0000" channel="71350"><title lang="ka">Т/с &quot;Не для записи&quot;, 24 с.</title></programme>
+<programme start="20260526225500 +0000" stop="20260527002500 +0000" channel="71350"><title lang="ka">Х/ф &quot;Мегрэ и таинственная девушка&quot;.</title></programme>
+<programme start="20260527002500 +0000" stop="20260527023500 +0000" channel="71350"><title lang="ka">Х/ф &quot;К-19&quot;.</title></programme>
+<programme start="20260527023500 +0000" stop="20260527030000 +0000" channel="71350"><title lang="ka">Непобедимые, 17 эп.</title></programme>
+<programme start="20260527030000 +0000" stop="20260527032500 +0000" channel="71350"><title lang="ka">Непобедимые, 19 эп.</title></programme>
+<programme start="20260527032500 +0000" stop="20260527035000 +0000" channel="71350"><title lang="ka">Непобедимые, 20 эп.</title></programme>
+<programme start="20260527035000 +0000" stop="20260527053500 +0000" channel="71350"><title lang="ka">Т/с &quot;Загадочные убийства Агаты Кристи&quot;, 2 сезон, 13 с. &quot;Смертельная мелодия&quot;.</title></programme>
+<programme start="20260526054000 +0000" stop="20260526074000 +0000" channel="ComedyTV.ge@SD"><title lang="ka">მხ/ფ: &quot;უდაბნოს უფლისწული&quot;</title></programme>
+<programme start="20260526074000 +0000" stop="20260526104500 +0000" channel="ComedyTV.ge@SD"><title lang="ka">მხ/ფ: &quot;ავარა&apos;</title></programme>
+<programme start="20260526104500 +0000" stop="20260526123000 +0000" channel="ComedyTV.ge@SD"><title lang="ka">მხ/ფ: &quot; პირველი სისხლი&quot;</title></programme>
+<programme start="20260526123000 +0000" stop="20260526142000 +0000" channel="ComedyTV.ge@SD"><title lang="ka">მხ/ფ: &quot; რემბო 2_პირველი სისხლი II ნაწილი&quot;</title></programme>
+<programme start="20260526142000 +0000" stop="20260526160000 +0000" channel="ComedyTV.ge@SD"><title lang="ka">მხ/ფ: &quot;ადამიანი ორკესტრი&quot;</title></programme>
+<programme start="20260526160000 +0000" stop="20260526170000 +0000" channel="ComedyTV.ge@SD"><title lang="ka">ოჯახობანა</title></programme>
+<programme start="20260526170000 +0000" stop="20260526180000 +0000" channel="ComedyTV.ge@SD"><title lang="ka">გამომწვევი თამაშები</title></programme>
+<programme start="20260526180000 +0000" stop="20260526190000 +0000" channel="ComedyTV.ge@SD"><title lang="ka">გვაჩვენე შენი ხმა</title></programme>
+<programme start="20260526190000 +0000" stop="20260526200000 +0000" channel="ComedyTV.ge@SD"><title lang="ka">სერიალი ,,ნიკა და ლიკა&apos;&apos;</title></programme>
+<programme start="20260526200000 +0000" stop="20260526215000 +0000" channel="ComedyTV.ge@SD"><title lang="ka">მხ/ფ: &quot;უდაბნოს უფლისწული&quot;</title></programme>
+<programme start="20260526215000 +0000" stop="20260527003500 +0000" channel="ComedyTV.ge@SD"><title lang="ka">მხ/ფ: &quot;ავარა&apos;&apos;</title></programme>
+<programme start="20260527003500 +0000" stop="20260527020000 +0000" channel="ComedyTV.ge@SD"><title lang="ka">მხ/ფ: &quot; პირველი სისხლი&quot;</title></programme>
+<programme start="20260527020000 +0000" stop="20260527040000 +0000" channel="ComedyTV.ge@SD"><title lang="ka">მხ/ფ: &quot; რემბო 2_პირველი სისხლი II ნაწილი&quot;</title></programme>
+<programme start="20260527040000 +0000" stop="20260527054000 +0000" channel="ComedyTV.ge@SD"><title lang="ka">მხ/ფ: &quot;შემთხვევითი ქმარი&quot;</title></programme>
+<programme start="20260526050000 +0000" stop="20260526070000 +0000" channel="Formula.ge@SD"><title lang="ka">გაიღვიძე საქართველო</title></programme>
+<programme start="20260526070000 +0000" stop="20260526072500 +0000" channel="Formula.ge@SD"><title lang="ka">ფორმულა 11</title></programme>
+<programme start="20260526072500 +0000" stop="20260526080000 +0000" channel="Formula.ge@SD"><title lang="ka">ყოველდღე</title></programme>
+<programme start="20260526080000 +0000" stop="20260526083000 +0000" channel="Formula.ge@SD"><title lang="ka">ფორმულა 12</title></programme>
+<programme start="20260526083000 +0000" stop="20260526094500 +0000" channel="Formula.ge@SD"><title lang="ka">ყოველდღე</title></programme>
+<programme start="20260526094500 +0000" stop="20260526095000 +0000" channel="Formula.ge@SD"><title lang="ka">ამინდი ფორმულაზე</title></programme>
+<programme start="20260526095000 +0000" stop="20260526100000 +0000" channel="Formula.ge@SD"><title lang="ka">სპორტი ფორმულაზე</title></programme>
+<programme start="20260526100000 +0000" stop="20260526110000 +0000" channel="Formula.ge@SD"><title lang="ka">კომენტარი</title></programme>
+<programme start="20260526110000 +0000" stop="20260526110500 +0000" channel="Formula.ge@SD"><title lang="ka">ამინდი ფორმულაზე</title></programme>
+<programme start="20260526110500 +0000" stop="20260526111000 +0000" channel="Formula.ge@SD"><title lang="ka">სპორტი ფორმულაზე</title></programme>
+<programme start="20260526111000 +0000" stop="20260526122000 +0000" channel="Formula.ge@SD"><title lang="ka">მისმინე</title></programme>
+<programme start="20260526122000 +0000" stop="20260526130000 +0000" channel="Formula.ge@SD"><title lang="ka">ბიზნესი დღეს</title></programme>
+<programme start="20260526130000 +0000" stop="20260526133000 +0000" channel="Formula.ge@SD"><title lang="ka">ფორმულა 5</title></programme>
+<programme start="20260526133000 +0000" stop="20260526133500 +0000" channel="Formula.ge@SD"><title lang="ka">ამინდი ფორმულაზე</title></programme>
+<programme start="20260526133500 +0000" stop="20260526135000 +0000" channel="Formula.ge@SD"><title lang="ka">სპორტი ფორმულაზე</title></programme>
+<programme start="20260526135000 +0000" stop="20260526160000 +0000" channel="Formula.ge@SD"><title lang="ka">პოლიტიკის ფორმულა სოფო ზურაბიანთან ერთად</title></programme>
+<programme start="20260526160000 +0000" stop="20260526174500 +0000" channel="Formula.ge@SD"><title lang="ka">ახალი ფორმულა</title></programme>
+<programme start="20260526174500 +0000" stop="20260526175000 +0000" channel="Formula.ge@SD"><title lang="ka">ამინდი ფორმულაზე</title></programme>
+<programme start="20260526175000 +0000" stop="20260526180000 +0000" channel="Formula.ge@SD"><title lang="ka">სპორტი ფორმულაზე</title></programme>
+<programme start="20260526180000 +0000" stop="20260526193000 +0000" channel="Formula.ge@SD"><title lang="ka">ნამდვილი ამბავი ფორმულაზე</title></programme>
+<programme start="20260526193000 +0000" stop="20260526220000 +0000" channel="Formula.ge@SD"><title lang="ka">ჩემი ცოლის დაქალები</title></programme>
+<programme start="20260526220000 +0000" stop="20260527000000 +0000" channel="Formula.ge@SD"><title lang="ka">მისმინე - ცხელი სკამი</title></programme>
+<programme start="20260527000000 +0000" stop="20260527010000 +0000" channel="Formula.ge@SD"><title lang="ka">გლობალ 3000</title></programme>
+<programme start="20260527010000 +0000" stop="20260527020000 +0000" channel="Formula.ge@SD"><title lang="ka">არტი</title></programme>
+<programme start="20260527020000 +0000" stop="20260527030000 +0000" channel="Formula.ge@SD"><title lang="ka">რეპორტიორი</title></programme>
+<programme start="20260527030000 +0000" stop="20260527040000 +0000" channel="Formula.ge@SD"><title lang="ka">ევროპა ფოკუსში</title></programme>
+<programme start="20260527040000 +0000" stop="20260527050000 +0000" channel="Formula.ge@SD"><title lang="ka">კარგ ფორმაში</title></programme>
+<programme start="20260526050000 +0000" stop="20260526050500 +0000" channel="PosTV.ge@SD"><title lang="ka">საინფორმაციო გამოშვება</title></programme>
+<programme start="20260526050500 +0000" stop="20260526060000 +0000" channel="PosTV.ge@SD"><title lang="ka">პოსტალიონი</title></programme>
+<programme start="20260526060000 +0000" stop="20260526060500 +0000" channel="PosTV.ge@SD"><title lang="ka">საინფორმაციო გამოშვება</title></programme>
+<programme start="20260526060500 +0000" stop="20260526064500 +0000" channel="PosTV.ge@SD"><title lang="ka">პოსტალიონი</title></programme>
+<programme start="20260526064500 +0000" stop="20260526070000 +0000" channel="PosTV.ge@SD"><title lang="ka">საინფორმაციო გამოშვება</title></programme>
+<programme start="20260526070000 +0000" stop="20260526080000 +0000" channel="PosTV.ge@SD"><title lang="ka">დაუმორჩილებელი</title></programme>
+<programme start="20260526080000 +0000" stop="20260526090000 +0000" channel="PosTV.ge@SD"><title lang="ka">დღის პოსტი</title></programme>
+<programme start="20260526090000 +0000" stop="20260526093000 +0000" channel="PosTV.ge@SD"><title lang="ka">საინფორმაციო გამოშვება</title></programme>
+<programme start="20260526093000 +0000" stop="20260526100000 +0000" channel="PosTV.ge@SD"><title lang="ka">ბიზნეს პოსტი</title></programme>
+<programme start="20260526100000 +0000" stop="20260526120000 +0000" channel="PosTV.ge@SD"><title lang="ka">უძღები შვილები</title></programme>
+<programme start="20260526120000 +0000" stop="20260526123000 +0000" channel="PosTV.ge@SD"><title lang="ka">საინფორმაციო გამოშვება</title></programme>
+<programme start="20260526123000 +0000" stop="20260526131000 +0000" channel="PosTV.ge@SD"><title lang="ka">პოლიტიკური პოსტი</title></programme>
+<programme start="20260526131000 +0000" stop="20260526140000 +0000" channel="PosTV.ge@SD"><title lang="ka">კვალი</title></programme>
+<programme start="20260526140000 +0000" stop="20260526140500 +0000" channel="PosTV.ge@SD"><title lang="ka">ახალი ამბები ანონსი</title></programme>
+<programme start="20260526140500 +0000" stop="20260526150000 +0000" channel="PosTV.ge@SD"><title lang="ka">კვალი</title></programme>
+<programme start="20260526150000 +0000" stop="20260526161000 +0000" channel="PosTV.ge@SD"><title lang="ka">საინფორმაციო გამოშვება</title></programme>
+<programme start="20260526161000 +0000" stop="20260526161500 +0000" channel="PosTV.ge@SD"><title lang="ka">გვერდიდან</title></programme>
+<programme start="20260526161500 +0000" stop="20260526171500 +0000" channel="PosTV.ge@SD"><title lang="ka">იმიერ პოლარული ვალსი</title></programme>
+<programme start="20260526171500 +0000" stop="20260526173000 +0000" channel="PosTV.ge@SD"><title lang="ka">ევროკრატია</title></programme>
+<programme start="20260526173000 +0000" stop="20260526182000 +0000" channel="PosTV.ge@SD"><title lang="ka">პოსტ ანალიტიკა</title></programme>
+<programme start="20260526182000 +0000" stop="20260526190000 +0000" channel="PosTV.ge@SD"><title lang="ka">სამნი და კო</title></programme>
+<programme start="20260526190000 +0000" stop="20260526193000 +0000" channel="PosTV.ge@SD"><title lang="ka">სიზმრებზე მონადირე</title></programme>
+<programme start="20260526193000 +0000" stop="20260526210000 +0000" channel="PosTV.ge@SD"><title lang="ka">უძღები შვილები გ/ჩ</title></programme>
+<programme start="20260526210000 +0000" stop="20260526220000 +0000" channel="PosTV.ge@SD"><title lang="ka">დაუმორჩილებელი გ/ჩ</title></programme>
+<programme start="20260526220000 +0000" stop="20260526233000 +0000" channel="PosTV.ge@SD"><title lang="ka">კვალი გ/ჩ</title></programme>
+<programme start="20260526233000 +0000" stop="20260527003000 +0000" channel="PosTV.ge@SD"><title lang="ka">სამმაგი დაცვა გ/ჩ</title></programme>
+<programme start="20260527003000 +0000" stop="20260527015000 +0000" channel="PosTV.ge@SD"><title lang="ka">სამოთხე</title></programme>
+<programme start="20260527015000 +0000" stop="20260527050000 +0000" channel="PosTV.ge@SD"><title lang="ka">მინი სერიალი</title></programme>
+<programme start="20260526050000 +0000" stop="20260526050500 +0000" channel="Rustavi2.ge@SD"><title lang="ka">კურიერი</title></programme>
+<programme start="20260526050500 +0000" stop="20260526060000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">დილამშვიდობისა საქართველო</title></programme>
+<programme start="20260526060000 +0000" stop="20260526061000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">კურიერი</title></programme>
+<programme start="20260526061000 +0000" stop="20260526063000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">ბიზნესი</title></programme>
+<programme start="20260526063000 +0000" stop="20260526080000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">ნუ მიმატოვებ</title></programme>
+<programme start="20260526080000 +0000" stop="20260526083000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">კურიერი</title></programme>
+<programme start="20260526083000 +0000" stop="20260526095000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">სიყვარულის იმედით</title></programme>
+<programme start="20260526095000 +0000" stop="20260526110000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">შუადღე</title></programme>
+<programme start="20260526110000 +0000" stop="20260526115000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">კურიერი</title></programme>
+<programme start="20260526115000 +0000" stop="20260526140000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">ელჩის ქალიშვილი</title></programme>
+<programme start="20260526140000 +0000" stop="20260526144000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">კურიერი</title></programme>
+<programme start="20260526144000 +0000" stop="20260526145000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">სპორტი ლაშა დვალიშვილთან ერთად</title></programme>
+<programme start="20260526145000 +0000" stop="20260526160000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">ერთხელ ჩუქუროვაში</title></programme>
+<programme start="20260526160000 +0000" stop="20260526170000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">დამოუკიდებლობის დღისადმი მიძღვნილი კონცერტი</title></programme>
+<programme start="20260526170000 +0000" stop="20260526180000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">კურიერი</title></programme>
+<programme start="20260526180000 +0000" stop="20260526190000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">საქართველოს ხმა</title></programme>
+<programme start="20260526190000 +0000" stop="20260526200000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">ღალატი და ერთგულება</title></programme>
+<programme start="20260526200000 +0000" stop="20260526220000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">ეზრა</title></programme>
+<programme start="20260526220000 +0000" stop="20260527000000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">იპ მანი 2</title></programme>
+<programme start="20260527000000 +0000" stop="20260527020000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">ელჩის ქალიშვილი</title></programme>
+<programme start="20260527020000 +0000" stop="20260527032500 +0000" channel="Rustavi2.ge@SD"><title lang="ka">ერთხელ ჩუქუროვაში</title></programme>
+<programme start="20260527032500 +0000" stop="20260527040000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">დილამშვიდობისა საქართველო</title></programme>
+<programme start="20260527040000 +0000" stop="20260527040500 +0000" channel="Rustavi2.ge@SD"><title lang="ka">კურიერი</title></programme>
+<programme start="20260527040500 +0000" stop="20260527050000 +0000" channel="Rustavi2.ge@SD"><title lang="ka">დილამშვიდობისა საქართველო</title></programme>
+<programme start="20260526050000 +0000" stop="20260526070000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">სერია ა: ტორინო - იუვენტუსი</title></programme>
+<programme start="20260526070000 +0000" stop="20260526090000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">სერია ა: ვერონა - რომა</title></programme>
+<programme start="20260526090000 +0000" stop="20260526110000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">ბუნდესლიგის პლეიოფი: პადერბორნი - ვოლფსბურგი</title></programme>
+<programme start="20260526110000 +0000" stop="20260526130000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">პრემიერ ლიგა: კრისტალ პალასი - არსენალი</title></programme>
+<programme start="20260526130000 +0000" stop="20260526150000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">სერია ა: ვერონა - რომა</title></programme>
+<programme start="20260526150000 +0000" stop="20260526160000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">ბუნდესლიგა: ტურის მიმოხილვა</title></programme>
+<programme start="20260526160000 +0000" stop="20260526163000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">ლიგა 1: ტურის მიმოხილვა</title></programme>
+<programme start="20260526163000 +0000" stop="20260526184500 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">ჩემპიონთა ლიგა: ბაიერნი - პსჟ</title></programme>
+<programme start="20260526184500 +0000" stop="20260526210000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">LIVE. ლიგა 1-ის პლეიოფი: სენტ ეტიენი - ნიცა (www.setantasports.com)</title></programme>
+<programme start="20260526210000 +0000" stop="20260526220000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">PL Ultimates</title></programme>
+<programme start="20260526220000 +0000" stop="20260527000000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">ჩემპიონთა ლიგა: არსენალი - ატლეტიკო</title></programme>
+<programme start="20260527000000 +0000" stop="20260527030000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">ინგლისის ასოციაციის თასი: ჩელსი - მანჩესტერ სიტი</title></programme>
+<programme start="20260527030000 +0000" stop="20260527050000 +0000" channel="SetantaSportsGeorgia.ge@SD"><title lang="ka">პრემიერ ლიგა: მანჩესტერ სიტი - ასტონ ვილა</title></programme>
+<programme start="20260526060000 +0000" stop="20260526070000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">ლიგა 1: 2025/26 სეზონის მომენტები</title></programme>
+<programme start="20260526070000 +0000" stop="20260526090000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">ევროპა ლიგა: ასტონ ვილა - ნოტინგემი</title></programme>
+<programme start="20260526090000 +0000" stop="20260526120000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">NBA: კლივლენდი - ნიუ იორკი</title></programme>
+<programme start="20260526120000 +0000" stop="20260526140000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">ბუნდესლიგა: ბაიერნი - კიოლნი</title></programme>
+<programme start="20260526140000 +0000" stop="20260526160000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">ჩემპიონთა ლიგა: არსენალი - ატლეტიკო</title></programme>
+<programme start="20260526160000 +0000" stop="20260526180000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">ჩემპიონთა ლიგა: ბაიერნი - პსჟ</title></programme>
+<programme start="20260526180000 +0000" stop="20260526190000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">ბუნდესლიგა: 2025/26 სეზონის მომენტები</title></programme>
+<programme start="20260526190000 +0000" stop="20260526210000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">პრემიერ ლიგა: ტოტენჰემი - ევერტონი</title></programme>
+<programme start="20260526210000 +0000" stop="20260526230000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">ლიგა 1: პარიზი - პსჟ</title></programme>
+<programme start="20260526230000 +0000" stop="20260527010000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">ლიგა 1: ნიცა - მეცი</title></programme>
+<programme start="20260527010000 +0000" stop="20260527040000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">LIVE. NHL: ვეგასი - კოლორადო (www.setantasports.com)</title></programme>
+<programme start="20260527040000 +0000" stop="20260527050000 +0000" channel="SetantaSportsPlusGeorgia.ge@SD"><title lang="ka">ლიგა 1: 2025/26 სეზონის მომენტები</title></programme>
 </tv>
