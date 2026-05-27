@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260526">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260527">
 <channel id="3sat"><display-name>3sat</display-name></channel>
 <channel id="24urm"><display-name>Televizija 24</display-name></channel>
 <channel id="24vesti"><display-name>TV Vijesti</display-name></channel>
@@ -311,66 +311,43 @@
 <channel id="zdf"><display-name>ZDF</display-name></channel>
 <channel id="zdrava"><display-name>Zdrava Televizija</display-name></channel>
 <channel id="zdravatv"><display-name>Zdrava TV</display-name></channel>
-<programme start="20260526011000 +0000" stop="20260526024200 +0000" channel="3sat"><title lang="sl">V kraljestvu srebrnega leva</title><category lang="sl">film</category></programme>
-<programme start="20260526024200 +0000" stop="20260526032600 +0000" channel="3sat"><title lang="sl">Velike mačke Masai Mare</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260526032600 +0000" stop="20260526041000 +0000" channel="3sat"><title lang="sl">Velike mačke Masai Mare</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260526041000 +0000" stop="20260526042000 +0000" channel="3sat"><title lang="sl">Konec programa</title><category lang="sl">ostalo</category></programme>
-<programme start="20260526042000 +0000" stop="20260526050000 +0000" channel="3sat"><title lang="sl">Čas za kulturo</title><category lang="sl">informativni</category></programme>
-<programme start="20260526050000 +0000" stop="20260526053000 +0000" channel="3sat"><title lang="sl">Nano</title><category lang="sl">informativni</category></programme>
-<programme start="20260526053000 +0000" stop="20260526060000 +0000" channel="3sat"><title lang="sl">Alpska panorama</title><category lang="sl">ostalo</category></programme>
-<programme start="20260526060000 +0000" stop="20260526060500 +0000" channel="3sat"><title lang="sl">Čas v sliki</title><category lang="sl">informativni</category></programme>
-<programme start="20260526060500 +0000" stop="20260526063000 +0000" channel="3sat"><title lang="sl">Alpska panorama</title><category lang="sl">ostalo</category></programme>
-<programme start="20260526063000 +0000" stop="20260526063300 +0000" channel="3sat"><title lang="sl">Čas v sliki</title><category lang="sl">informativni</category></programme>
-<programme start="20260526063300 +0000" stop="20260526070000 +0000" channel="3sat"><title lang="sl">Alpska panorama</title><category lang="sl">ostalo</category></programme>
-<programme start="20260526070000 +0000" stop="20260526070500 +0000" channel="3sat"><title lang="sl">Čas v sliki</title><category lang="sl">informativni</category></programme>
-<programme start="20260526070500 +0000" stop="20260526074500 +0000" channel="3sat"><title lang="sl">Čas za kulturo</title><category lang="sl">informativni</category></programme>
-<programme start="20260526074500 +0000" stop="20260526081500 +0000" channel="3sat"><title lang="sl">Nano</title><category lang="sl">informativni</category></programme>
-<programme start="20260526081500 +0000" stop="20260526090000 +0000" channel="3sat"><title lang="sl">Dunajski parki</title><category lang="sl">nadaljevanka-nanizanka</category><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260526090000 +0000" stop="20260526094500 +0000" channel="3sat"><title lang="sl">Dunajski parki</title><category lang="sl">nadaljevanka-nanizanka</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260526094500 +0000" stop="20260526101500 +0000" channel="3sat"><title lang="sl">Jej bolje! - Tarikova divja kuhinja</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.60.0/1</episode-num><episode-num system="onscreen">S01E61</episode-num></programme>
-<programme start="20260526101500 +0000" stop="20260526104500 +0000" channel="3sat"><title lang="sl">Storitve na tnalu</title><category lang="sl">informativni</category></programme>
-<programme start="20260526104500 +0000" stop="20260526111500 +0000" channel="3sat"><title lang="sl">Narava na vrtu</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
-<programme start="20260526111500 +0000" stop="20260526113000 +0000" channel="3sat"><title lang="sl">Morski vrtnar iz Zanzibarja: V raju je veliko dela</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260526113000 +0000" stop="20260526121500 +0000" channel="3sat"><title lang="sl">Na poti</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">3.4.0/1</episode-num><episode-num system="onscreen">S04E05</episode-num></programme>
-<programme start="20260526121500 +0000" stop="20260526125500 +0000" channel="3sat"><title lang="sl">Na poti</title><category lang="sl">nadaljevanka-nanizanka</category><episode-num system="xmltv_ns">0.28.0/1</episode-num><episode-num system="onscreen">S01E29</episode-num></programme>
-<programme start="20260526125500 +0000" stop="20260526134000 +0000" channel="3sat"><title lang="sl">Ekvator: Zemljepisna širina ekstremov</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260526134000 +0000" stop="20260526142000 +0000" channel="3sat"><title lang="sl">Ekvator: Zemljepisna širina ekstremov</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260526142000 +0000" stop="20260526150500 +0000" channel="3sat"><title lang="sl">Ekvator: Zemljepisna širina ekstremov</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
-<programme start="20260526150500 +0000" stop="20260526154500 +0000" channel="3sat"><title lang="sl">Ekvator: Zemljepisna širina ekstremov</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
-<programme start="20260526154500 +0000" stop="20260526163000 +0000" channel="3sat"><title lang="sl">Ekvator: Zemljepisna širina ekstremov</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
-<programme start="20260526163000 +0000" stop="20260526170000 +0000" channel="3sat"><title lang="sl">Nano</title><category lang="sl">informativni</category></programme>
-<programme start="20260526170000 +0000" stop="20260526171800 +0000" channel="3sat"><title lang="sl">Danes</title><category lang="sl">informativni</category></programme>
-<programme start="20260526171800 +0000" stop="20260526172000 +0000" channel="3sat"><title lang="sl">3sat: Vreme</title><category lang="sl">informativni</category></programme>
-<programme start="20260526172000 +0000" stop="20260526180000 +0000" channel="3sat"><title lang="sl">Čas za kulturo</title><category lang="sl">informativni</category></programme>
-<programme start="20260526180000 +0000" stop="20260526181500 +0000" channel="3sat"><title lang="sl">Dnevnik</title><category lang="sl">informativni</category></programme>
-<programme start="20260526181500 +0000" stop="20260526194500 +0000" channel="3sat"><title lang="sl">Kriminal na podeželju: Štajerski strah</title><category lang="sl">film</category></programme>
-<programme start="20260526194500 +0000" stop="20260526200000 +0000" channel="3sat"><title lang="sl">Filmski magazin: Kinokino</title><category lang="sl">informativni</category></programme>
-<programme start="20260526200000 +0000" stop="20260526202500 +0000" channel="3sat"><title lang="sl">Čas v sliki 2</title><category lang="sl">informativni</category></programme>
-<programme start="20260526202500 +0000" stop="20260526211000 +0000" channel="3sat"><title lang="sl">Ljubezen, poželenje in strast – seks v razdeljeni Nemčiji</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260526211000 +0000" stop="20260526215500 +0000" channel="3sat"><title lang="sl">Tabu: Kaj v NDR ni bilo dovoljeno</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260526215500 +0000" stop="20260526223000 +0000" channel="3sat"><title lang="sl">Reporter</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260526223000 +0000" stop="20260526225500 +0000" channel="3sat"><title lang="sl">10 pred 10</title><category lang="sl">informativni</category></programme>
-<programme start="20260526000000 +0000" stop="20260526040000 +0000" channel="arenatv"><title lang="sl">Nočni program</title><category lang="sl">informativni</category></programme>
-<programme start="20260526040000 +0000" stop="20260526050000 +0000" channel="arenatv"><title lang="sl">Nočni program</title><category lang="sl">informativni</category></programme>
-<programme start="20260526050000 +0000" stop="20260526050500 +0000" channel="arenatv"><title lang="sl">TV koledar</title><category lang="sl">informativni</category></programme>
-<programme start="20260526050500 +0000" stop="20260526051000 +0000" channel="arenatv"><title lang="sl">Timmy Kids</title><category lang="sl">otroški-mladinski</category><episode-num system="xmltv_ns">0.202.0/1</episode-num><episode-num system="onscreen">S01E203</episode-num></programme>
-<programme start="20260526051000 +0000" stop="20260526064500 +0000" channel="arenatv"><title lang="sl">Arenina veselica</title><category lang="sl">razvedrilni</category></programme>
-<programme start="20260526064500 +0000" stop="20260526065000 +0000" channel="arenatv"><title lang="sl">TV koledar</title><category lang="sl">informativni</category></programme>
-<programme start="20260526065000 +0000" stop="20260526075000 +0000" channel="arenatv"><title lang="sl">Polka in majolka</title><category lang="sl">razvedrilni</category></programme>
-<programme start="20260526075000 +0000" stop="20260526082000 +0000" channel="arenatv"><title lang="sl">Tomaž Gorec potuje</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260526082000 +0000" stop="20260526092000 +0000" channel="arenatv"><title lang="sl">Zvezdana z gosti</title><category lang="sl">razvedrilni</category></programme>
-<programme start="20260526092000 +0000" stop="20260526102000 +0000" channel="arenatv"><title lang="sl">Festival Guštanj 2018</title><category lang="sl">razvedrilni</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260526102000 +0000" stop="20260526111000 +0000" channel="arenatv"><title lang="sl">Bonanza</title><category lang="sl">nadaljevanka-nanizanka</category><episode-num system="xmltv_ns">0.200.0/1</episode-num><episode-num system="onscreen">S01E201</episode-num></programme>
-<programme start="20260526111000 +0000" stop="20260526120000 +0000" channel="arenatv"><title lang="sl">Hišica v preriji</title><category lang="sl">nadaljevanka-nanizanka</category><episode-num system="xmltv_ns">0.128.0/1</episode-num><episode-num system="onscreen">S01E129</episode-num></programme>
-<programme start="20260526120000 +0000" stop="20260526123000 +0000" channel="arenatv"><title lang="sl">Butik Kapsula</title><category lang="sl">ostalo</category></programme>
-<programme start="20260526123000 +0000" stop="20260526160500 +0000" channel="arenatv"><title lang="sl">Italijanska modna trgovina</title><category lang="sl">ostalo</category></programme>
-<programme start="20260526160500 +0000" stop="20260526163500 +0000" channel="arenatv"><title lang="sl">Več zdravja: MIC Mengeš</title><category lang="sl">informativni</category></programme>
-<programme start="20260526163500 +0000" stop="20260526173500 +0000" channel="arenatv"><title lang="sl">Klepet ob kavi</title><category lang="sl">informativni</category></programme>
-<programme start="20260526173500 +0000" stop="20260526180000 +0000" channel="arenatv"><title lang="sl">Glasbeni vrtiljak</title><category lang="sl">razvedrilni</category></programme>
-<programme start="20260526180000 +0000" stop="20260526190000 +0000" channel="arenatv"><title lang="sl">Eliksir: Terrapromo</title><category lang="sl">ostalo</category></programme>
-<programme start="20260526190000 +0000" stop="20260526195000 +0000" channel="arenatv"><title lang="sl">Hišica v preriji</title><category lang="sl">nadaljevanka-nanizanka</category><episode-num system="xmltv_ns">0.129.0/1</episode-num><episode-num system="onscreen">S01E130</episode-num></programme>
-<programme start="20260526195000 +0000" stop="20260526205000 +0000" channel="arenatv"><title lang="sl">Astrocenter v živo</title><category lang="sl">informativni</category></programme>
-<programme start="20260526205000 +0000" stop="20260526221500 +0000" channel="arenatv"><title lang="sl">Večer glasbe Lojzeta Slaka</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260526221500 +0000" stop="20260526225500 +0000" channel="arenatv"><title lang="sl">Bordel Arena</title><category lang="sl">za odrasle</category></programme>
-<programme start="20260526225500 +0000" stop="20260526231000 +0000" channel="arenatv"><title lang="sl">TV koledar</title><category lang="sl">informativni</category></programme>
+<programme start="20260527002300 +0000" stop="20260527010700 +0000" channel="3sat"><title lang="sl">Ljubezen, poželenje in strast – seks v razdeljeni Nemčiji</title><category lang="sl">dokumentarni</category></programme>
+<programme start="20260527010700 +0000" stop="20260527015200 +0000" channel="3sat"><title lang="sl">Tabu: Kaj v NDR ni bilo dovoljeno</title><category lang="sl">dokumentarni</category></programme>
+<programme start="20260527015200 +0000" stop="20260527024300 +0000" channel="3sat"><title lang="sl">Švicarske hotelske zgodbe</title><category lang="sl">nadaljevanka-nanizanka</category><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20260527024300 +0000" stop="20260527033500 +0000" channel="3sat"><title lang="sl">Švicarske hotelske zgodbe</title><category lang="sl">nadaljevanka-nanizanka</category><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260527033500 +0000" stop="20260527042000 +0000" channel="3sat"><title lang="sl">Čudežna dežela: Piz Beverin</title><category lang="sl">dokumentarni</category></programme>
+<programme start="20260527042000 +0000" stop="20260527050000 +0000" channel="3sat"><title lang="sl">Čas za kulturo</title><category lang="sl">informativni</category></programme>
+<programme start="20260527050000 +0000" stop="20260527053000 +0000" channel="3sat"><title lang="sl">Nano</title><category lang="sl">informativni</category></programme>
+<programme start="20260527053000 +0000" stop="20260527060000 +0000" channel="3sat"><title lang="sl">Alpska panorama</title><category lang="sl">ostalo</category></programme>
+<programme start="20260527060000 +0000" stop="20260527060500 +0000" channel="3sat"><title lang="sl">Čas v sliki</title><category lang="sl">informativni</category></programme>
+<programme start="20260527060500 +0000" stop="20260527063000 +0000" channel="3sat"><title lang="sl">Alpska panorama</title><category lang="sl">ostalo</category></programme>
+<programme start="20260527063000 +0000" stop="20260527063300 +0000" channel="3sat"><title lang="sl">Čas v sliki</title><category lang="sl">informativni</category></programme>
+<programme start="20260527063300 +0000" stop="20260527070000 +0000" channel="3sat"><title lang="sl">Alpska panorama</title><category lang="sl">ostalo</category></programme>
+<programme start="20260527070000 +0000" stop="20260527070500 +0000" channel="3sat"><title lang="sl">Čas v sliki</title><category lang="sl">informativni</category></programme>
+<programme start="20260527070500 +0000" stop="20260527074500 +0000" channel="3sat"><title lang="sl">Čas za kulturo</title><category lang="sl">informativni</category></programme>
+<programme start="20260527074500 +0000" stop="20260527082000 +0000" channel="3sat"><title lang="sl">Nano</title><category lang="sl">informativni</category></programme>
+<programme start="20260527082000 +0000" stop="20260527090000 +0000" channel="3sat"><title lang="sl">Na poti</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">3.4.0/1</episode-num><episode-num system="onscreen">S04E05</episode-num></programme>
+<programme start="20260527090000 +0000" stop="20260527094500 +0000" channel="3sat"><title lang="sl">Na poti</title><category lang="sl">nadaljevanka-nanizanka</category><episode-num system="xmltv_ns">0.28.0/1</episode-num><episode-num system="onscreen">S01E29</episode-num></programme>
+<programme start="20260527094500 +0000" stop="20260527101500 +0000" channel="3sat"><title lang="sl">Kuharske zgodbe: Theresa, die Reben-Retterin</title><category lang="sl">dokumentarni</category></programme>
+<programme start="20260527101500 +0000" stop="20260527104500 +0000" channel="3sat"><title lang="sl">Storitve na tnalu</title><category lang="sl">informativni</category></programme>
+<programme start="20260527104500 +0000" stop="20260527111500 +0000" channel="3sat"><title lang="sl">Prosti čas</title><category lang="sl">informativni</category></programme>
+<programme start="20260527111500 +0000" stop="20260527120000 +0000" channel="3sat"><title lang="sl">Jug Istre: Počitniški raj na hrvaškem Jadranu</title><category lang="sl">dokumentarni</category></programme>
+<programme start="20260527120000 +0000" stop="20260527124500 +0000" channel="3sat"><title lang="sl">Uživajte na Siciliji</title><category lang="sl">dokumentarni</category></programme>
+<programme start="20260527124500 +0000" stop="20260527133000 +0000" channel="3sat"><title lang="sl">Odprava domov: Poletje ob Gardskem jezeru</title><category lang="sl">dokumentarni</category></programme>
+<programme start="20260527133000 +0000" stop="20260527141500 +0000" channel="3sat"><title lang="sl">Odprava domov: Z nočnim vlakom v Benetke</title><category lang="sl">dokumentarni</category></programme>
+<programme start="20260527141500 +0000" stop="20260527150000 +0000" channel="3sat"><title lang="sl">Črna Gora: Od Črnih gora do morja</title><category lang="sl">dokumentarni</category></programme>
+<programme start="20260527150000 +0000" stop="20260527154500 +0000" channel="3sat"><title lang="sl">Kikladi: grški sanjski otoki</title><category lang="sl">dokumentarni</category></programme>
+<programme start="20260527154500 +0000" stop="20260527163000 +0000" channel="3sat"><title lang="sl">Grčija: Odkrivanje otokov v Egejskem morju: Od Mikonosa do Kimolosa</title><category lang="sl">dokumentarni</category></programme>
+<programme start="20260527163000 +0000" stop="20260527170000 +0000" channel="3sat"><title lang="sl">Nano</title><category lang="sl">informativni</category></programme>
+<programme start="20260527170000 +0000" stop="20260527171800 +0000" channel="3sat"><title lang="sl">Danes</title><category lang="sl">informativni</category></programme>
+<programme start="20260527171800 +0000" stop="20260527172000 +0000" channel="3sat"><title lang="sl">3sat: Vreme</title><category lang="sl">informativni</category></programme>
+<programme start="20260527172000 +0000" stop="20260527180000 +0000" channel="3sat"><title lang="sl">Čas za kulturo</title><category lang="sl">informativni</category></programme>
+<programme start="20260527180000 +0000" stop="20260527181500 +0000" channel="3sat"><title lang="sl">Dnevnik</title><category lang="sl">informativni</category></programme>
+<programme start="20260527181500 +0000" stop="20260527193000 +0000" channel="3sat"><title lang="sl">Prepovedane knjige: Kulturni boj v ZDA</title><category lang="sl">dokumentarni</category></programme>
+<programme start="20260527193000 +0000" stop="20260527200000 +0000" channel="3sat"><title lang="sl">Kerala, indijski vrt</title><category lang="sl">dokumentarni</category></programme>
+<programme start="20260527200000 +0000" stop="20260527202500 +0000" channel="3sat"><title lang="sl">Čas v sliki 2</title><category lang="sl">informativni</category></programme>
+<programme start="20260527202500 +0000" stop="20260527220000 +0000" channel="3sat"><title lang="sl">Luč v temni hiši</title><category lang="sl">film</category></programme>
+<programme start="20260527220000 +0000" stop="20260527222500 +0000" channel="3sat"><title lang="sl">10 pred 10</title><category lang="sl">informativni</category></programme>
+<programme start="20260527222500 +0000" stop="20260527232500 +0000" channel="3sat"><title lang="sl">Stöckl.</title><category lang="sl">informativni</category></programme>
+<programme start="20260527232500 +0000" stop="20260527235000 +0000" channel="3sat"><title lang="sl">Prizorišče zločina Južna Gradiščanska – razcvet kriminalk v idili</title><category lang="sl">dokumentarni</category></programme>
 </tv>
