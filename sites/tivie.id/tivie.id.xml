@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260528">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260529">
 <channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png"/></channel>
 <channel id="AXNAsia.sg@Indonesia"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original"/></channel>
 <channel id="beINSports1.qa@Indonesia"><display-name>beIN Sports 1</display-name><icon src="https://i.imgur.com/Vtk2cGI.png"/></channel>
@@ -55,21 +55,20 @@
 <channel id="VTV.id@SD"><display-name>VTV</display-name><icon src="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png"/></channel>
 <channel id="WarnerTVAsia.us@SD"><display-name>Warner TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png"/></channel>
 <channel id="ZeeBioskop.id@SD"><display-name>Zee Bioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/></channel>
-<programme start="20260527170000 +0000" stop="20260527180000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Roland Garros Day 4</title></programme>
-<programme start="20260527180000 +0000" stop="20260527185500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">The UECL Preview Show The Final: Crystal Palace vs Rayo Vallecano</title></programme>
-<programme start="20260527185500 +0000" stop="20260527210000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">UEFA Conference League 2025/26</title></programme>
-<programme start="20260527210000 +0000" stop="20260527220000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">The UECL Review Show The Final: Crystal Palace vs Rayo Vallecano</title></programme>
-<programme start="20260527220000 +0000" stop="20260527223000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Fastzone, Ep. 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
-<programme start="20260527223000 +0000" stop="20260527230500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Highlights CANADIAN GRAND PRIX 2026</title></programme>
-<programme start="20260527230500 +0000" stop="20260527234000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LaLiga Highlights: Matchday 38</title></programme>
-<programme start="20260527234000 +0000" stop="20260528000000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LaLiga Goals Galore Robert Lewandowski</title></programme>
-<programme start="20260528000000 +0000" stop="20260528010000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Ferrari Challenge Highlights Spielberg</title></programme>
-<programme start="20260528010000 +0000" stop="20260528025000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LaLiga 2025/26</title></programme>
-<programme start="20260528025000 +0000" stop="20260528044000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LaLiga 2025/26</title></programme>
-<programme start="20260528044000 +0000" stop="20260528054000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">24-Hr Nurburgring Highlights, Ep. 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260528054000 +0000" stop="20260528061500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LaLiga Highlights: Matchday 38</title></programme>
-<programme start="20260528061500 +0000" stop="20260528062500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LaLiga, Ep. 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260528062500 +0000" stop="20260528082500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LaLiga 2025/26</title></programme>
-<programme start="20260528082500 +0000" stop="20260528085500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">F1 Academy Highlights F1 ACADEMY, ROUND 2 CANADA, 2026</title></programme>
-<programme start="20260528085500 +0000" stop="20260528170000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Roland Garros Day 5</title></programme>
+<programme start="20260528170000 +0000" stop="20260528200000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Roland Garros Day 5</title></programme>
+<programme start="20260528200000 +0000" stop="20260528203000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">AFCON Mini - Mini Match Ivory Coast vs Cameroon</title></programme>
+<programme start="20260528203000 +0000" stop="20260528210000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">AFCON Mini - Mini Match Angola vs Egypt</title></programme>
+<programme start="20260528210000 +0000" stop="20260528220000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">FEI Jumping World Cup Toronto, Ontario</title></programme>
+<programme start="20260528220000 +0000" stop="20260528230000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">MUTV How We Won The UEFA Europa League</title></programme>
+<programme start="20260528230000 +0000" stop="20260529000000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCL Bayern vs Inter (2010/11)</title></programme>
+<programme start="20260529000000 +0000" stop="20260529020000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UEFA Conference League 2025/26</title></programme>
+<programme start="20260529020000 +0000" stop="20260529030000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UEFA Europa/Conference League Highlights</title></programme>
+<programme start="20260529030000 +0000" stop="20260529033000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">The Outdoor Sports Show</title></programme>
+<programme start="20260529033000 +0000" stop="20260529040000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UEFA Champions League Magazine Show</title></programme>
+<programme start="20260529040000 +0000" stop="20260529050000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UEFA Europa/Conference League Highlights</title></programme>
+<programme start="20260529050000 +0000" stop="20260529070000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UEFA Champions League 2025/26</title></programme>
+<programme start="20260529070000 +0000" stop="20260529073000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCL Special Every UCL Goal - Ronaldo &amp; Muller</title></programme>
+<programme start="20260529073000 +0000" stop="20260529080000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UEFA Champions League Magazine Show</title></programme>
+<programme start="20260529080000 +0000" stop="20260529085500 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCL Inter vs Arsenal (2002/03)</title></programme>
+<programme start="20260529085500 +0000" stop="20260529170000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Roland Garros Day 6</title></programme>
 </tv>
