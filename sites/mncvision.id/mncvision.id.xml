@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260529">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260530">
 <channel id="90"><display-name>Hanacaraka TV</display-name></channel>
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/></channel>
 <channel id="AlJazeera.qa@English"><display-name>Al Jazeera English</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png"/></channel>
@@ -213,24 +213,324 @@
 <channel id="VisionPrime.id@SD"><display-name>Vision Prime</display-name><icon src="https://i.imgur.com/dKnWI2O.png"/></channel>
 <channel id="ZeeBioskop.id@SD"><display-name>Zee Bioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/></channel>
 <channel id="ZooMoo.sg@SD"><display-name>Zoomoo</display-name><icon src="https://i.imgur.com/ciTJrnl.png"/></channel>
-<programme start="20260528170000 +0000" stop="20260528180000 +0000" channel="BloombergTV.us@Asia"><title lang="id">Bloomberg: Balance Of Power</title></programme>
-<programme start="20260528180000 +0000" stop="20260528190000 +0000" channel="BloombergTV.us@Asia"><title lang="id">Bloomberg BusinessWeek Daily</title></programme>
-<programme start="20260528190000 +0000" stop="20260528210000 +0000" channel="BloombergTV.us@Asia"><title lang="id">Bloomberg The Close</title></programme>
-<programme start="20260528210000 +0000" stop="20260528220000 +0000" channel="BloombergTV.us@Asia"><title lang="id">Bloomberg: Balance Of Power</title></programme>
-<programme start="20260528220000 +0000" stop="20260528223000 +0000" channel="BloombergTV.us@Asia"><title lang="id">The Deal With Alex And Jason</title></programme>
-<programme start="20260528223000 +0000" stop="20260528230000 +0000" channel="BloombergTV.us@Asia"><title lang="id">The Deal With Alex And Jason</title></programme>
-<programme start="20260528230000 +0000" stop="20260529003000 +0000" channel="BloombergTV.us@Asia"><title lang="id">Bloomberg The Asia Trade</title></programme>
-<programme start="20260529003000 +0000" stop="20260529010000 +0000" channel="BloombergTV.us@Asia"><title lang="id">Bloomberg Tech: Asia</title></programme>
-<programme start="20260529010000 +0000" stop="20260529030000 +0000" channel="BloombergTV.us@Asia"><title lang="id">Bloomberg: The China Show</title></programme>
-<programme start="20260529030000 +0000" stop="20260529040000 +0000" channel="BloombergTV.us@Asia"><title lang="id">Insight With Haslinda Amin</title></programme>
-<programme start="20260529040000 +0000" stop="20260529043000 +0000" channel="BloombergTV.us@Asia"><title lang="id">Bloomberg Primer</title></programme>
-<programme start="20260529043000 +0000" stop="20260529050000 +0000" channel="BloombergTV.us@Asia"><title lang="id">Leaders With Francine Lacqua</title></programme>
-<programme start="20260529050000 +0000" stop="20260529060000 +0000" channel="BloombergTV.us@Asia"><title lang="id">Bloomberg Daybreak: Europe</title></programme>
-<programme start="20260529060000 +0000" stop="20260529080000 +0000" channel="BloombergTV.us@Asia"><title lang="id">Bloomberg: The Opening Trade</title></programme>
-<programme start="20260529080000 +0000" stop="20260529090000 +0000" channel="BloombergTV.us@Asia"><title lang="id">The Pulse With Francine Lacqua</title></programme>
-<programme start="20260529090000 +0000" stop="20260529100000 +0000" channel="BloombergTV.us@Asia"><title lang="id">Bloomberg Brief</title></programme>
-<programme start="20260529100000 +0000" stop="20260529130000 +0000" channel="BloombergTV.us@Asia"><title lang="id">Bloomberg Surveillance</title></programme>
-<programme start="20260529130000 +0000" stop="20260529150000 +0000" channel="BloombergTV.us@Asia"><title lang="id">Bloomberg Open Interest</title></programme>
-<programme start="20260529150000 +0000" stop="20260529160000 +0000" channel="BloombergTV.us@Asia"><title lang="id">Bloomberg Tech</title></programme>
-<programme start="20260529160000 +0000" stop="20260529170000 +0000" channel="BloombergTV.us@Asia"><title lang="id">Bloomberg Real Yield</title></programme>
+<programme start="20260529210000 +0000" stop="20260529213000 +0000" channel="90"><title lang="en">Ge Bams</title></programme>
+<programme start="20260529213000 +0000" stop="20260529223000 +0000" channel="90"><title lang="en">Misteri Gunung Merapi</title></programme>
+<programme start="20260529223000 +0000" stop="20260529230000 +0000" channel="90"><title lang="en">Kaca Benggala</title></programme>
+<programme start="20260529230000 +0000" stop="20260530000000 +0000" channel="90"><title lang="en">Ludruk Humor Kirun</title></programme>
+<programme start="20260530000000 +0000" stop="20260530003000 +0000" channel="90"><title lang="en">Asal Mulane</title></programme>
+<programme start="20260530003000 +0000" stop="20260530010000 +0000" channel="90"><title lang="en">Jan Enak Tenan</title></programme>
+<programme start="20260530010000 +0000" stop="20260530013000 +0000" channel="90"><title lang="en">Ge Bams</title></programme>
+<programme start="20260530013000 +0000" stop="20260530020000 +0000" channel="90"><title lang="en">Pagelaran Budaya Jawi</title></programme>
+<programme start="20260530020000 +0000" stop="20260530023000 +0000" channel="90"><title lang="en">Baskom (Banyumas Komedi)</title></programme>
+<programme start="20260530023000 +0000" stop="20260530030000 +0000" channel="90"><title lang="en">Dagelan Mbah Minto</title></programme>
+<programme start="20260530030000 +0000" stop="20260530033000 +0000" channel="90"><title lang="en">Kaca Benggala</title></programme>
+<programme start="20260530033000 +0000" stop="20260530043000 +0000" channel="90"><title lang="en">Wayang Kampung Sebelah</title></programme>
+<programme start="20260530043000 +0000" stop="20260530053000 +0000" channel="90"><title lang="en">Misteri Gunung Merapi</title></programme>
+<programme start="20260530053000 +0000" stop="20260530063000 +0000" channel="90"><title lang="en">Konco Ngaso</title></programme>
+<programme start="20260530063000 +0000" stop="20260530080000 +0000" channel="90"><title lang="en">Spesial Konser Farel</title></programme>
+<programme start="20260530080000 +0000" stop="20260530090000 +0000" channel="90"><title lang="en">Misteri Sinden</title></programme>
+<programme start="20260530090000 +0000" stop="20260530100000 +0000" channel="90"><title lang="en">Misteri Gunung Merapi</title></programme>
+<programme start="20260530100000 +0000" stop="20260530103000 +0000" channel="90"><title lang="en">Kaca Benggala</title></programme>
+<programme start="20260530103000 +0000" stop="20260530110000 +0000" channel="90"><title lang="en">Jan Enak Tenan</title></programme>
+<programme start="20260530110000 +0000" stop="20260530120000 +0000" channel="90"><title lang="en">Konco Ngaso</title></programme>
+<programme start="20260530120000 +0000" stop="20260530123000 +0000" channel="90"><title lang="en">Asal Mulane</title></programme>
+<programme start="20260530123000 +0000" stop="20260530130000 +0000" channel="90"><title lang="en">Baskom (Banyumas Komedi)</title></programme>
+<programme start="20260530130000 +0000" stop="20260530133000 +0000" channel="90"><title lang="en">Pagelaran Budaya Jawi</title></programme>
+<programme start="20260530133000 +0000" stop="20260530150000 +0000" channel="90"><title lang="en">Spesial Konser Farel</title></programme>
+<programme start="20260530150000 +0000" stop="20260530160000 +0000" channel="90"><title lang="en">Wayang Kampung Sebelah</title></programme>
+<programme start="20260530160000 +0000" stop="20260530210000 +0000" channel="90"><title lang="en">Wayang Kulit Special</title></programme>
+<programme start="20260529170000 +0000" stop="20260529173000 +0000" channel="ABCAustralia.au@SD"><title lang="en">Field To Feast</title></programme>
+<programme start="20260529173000 +0000" stop="20260529183000 +0000" channel="ABCAustralia.au@SD"><title lang="en">The Mission</title></programme>
+<programme start="20260529183000 +0000" stop="20260529190000 +0000" channel="ABCAustralia.au@SD"><title lang="en">Asia News Week</title></programme>
+<programme start="20260529190000 +0000" stop="20260529193000 +0000" channel="ABCAustralia.au@SD"><title lang="en">The World</title></programme>
+<programme start="20260529193000 +0000" stop="20260529201000 +0000" channel="ABCAustralia.au@SD"><title lang="en">Australian Story</title></programme>
+<programme start="20260529201000 +0000" stop="20260529210000 +0000" channel="ABCAustralia.au@SD"><title lang="en">The Matter Of Facts</title></programme>
+<programme start="20260529210000 +0000" stop="20260529220000 +0000" channel="ABCAustralia.au@SD"><title lang="en">Weekend Breakfast</title></programme>
+<programme start="20260529220000 +0000" stop="20260529230000 +0000" channel="ABCAustralia.au@SD"><title lang="en">Weekend Breakfast</title></programme>
+<programme start="20260529230000 +0000" stop="20260530010000 +0000" channel="ABCAustralia.au@SD"><title lang="en">Weekend Breakfast</title></programme>
+<programme start="20260530010000 +0000" stop="20260530020000 +0000" channel="ABCAustralia.au@SD"><title lang="en">The Mission</title></programme>
+<programme start="20260530020000 +0000" stop="20260530023000 +0000" channel="ABCAustralia.au@SD"><title lang="en">ABC News At Noon</title></programme>
+<programme start="20260530023000 +0000" stop="20260530030000 +0000" channel="ABCAustralia.au@SD"><title lang="en">Asia News Week</title></programme>
+<programme start="20260530030000 +0000" stop="20260530060000 +0000" channel="ABCAustralia.au@SD"><title lang="en">AFL: Swans Vs Richmond</title></programme>
+<programme start="20260530060000 +0000" stop="20260530092000 +0000" channel="ABCAustralia.au@SD"><title lang="en">AFL: Lions Vs Fremantle</title></programme>
+<programme start="20260530092000 +0000" stop="20260530122000 +0000" channel="ABCAustralia.au@SD"><title lang="en">AFL: Bulldogs Vs Collingwood</title></programme>
+<programme start="20260530122000 +0000" stop="20260530131000 +0000" channel="ABCAustralia.au@SD"><title lang="en">A Brief History Of Cricket...</title></programme>
+<programme start="20260530131000 +0000" stop="20260530140000 +0000" channel="ABCAustralia.au@SD"><title lang="en">Four Corners</title></programme>
+<programme start="20260530140000 +0000" stop="20260530145000 +0000" channel="ABCAustralia.au@SD"><title lang="en">The Matter Of Facts</title></programme>
+<programme start="20260530145000 +0000" stop="20260530160000 +0000" channel="ABCAustralia.au@SD"><title lang="en">The World This Week</title></programme>
+<programme start="20260530160000 +0000" stop="20260530163000 +0000" channel="ABCAustralia.au@SD"><title lang="en">Asia News Week</title></programme>
+<programme start="20260530163000 +0000" stop="20260530190000 +0000" channel="ABCAustralia.au@SD"><title lang="en">Ambulance Australia</title></programme>
+<programme start="20260529170000 +0000" stop="20260529173000 +0000" channel="AlJazeera.qa@English"><title lang="en">News (L)</title></programme>
+<programme start="20260529173000 +0000" stop="20260529180000 +0000" channel="AlJazeera.qa@English"><title lang="en">Inside Story</title></programme>
+<programme start="20260529180000 +0000" stop="20260529190000 +0000" channel="AlJazeera.qa@English"><title lang="en">NewsHour</title></programme>
+<programme start="20260529190000 +0000" stop="20260529193000 +0000" channel="AlJazeera.qa@English"><title lang="en">News (L)</title></programme>
+<programme start="20260529193000 +0000" stop="20260529200000 +0000" channel="AlJazeera.qa@English"><title lang="en">Counting The Cost</title></programme>
+<programme start="20260529200000 +0000" stop="20260529203000 +0000" channel="AlJazeera.qa@English"><title lang="en">News (L)</title></programme>
+<programme start="20260529203000 +0000" stop="20260529210000 +0000" channel="AlJazeera.qa@English"><title lang="en">Iran, Israel And The Bomb</title></programme>
+<programme start="20260529210000 +0000" stop="20260529220000 +0000" channel="AlJazeera.qa@English"><title lang="en">NewsHour</title></programme>
+<programme start="20260529220000 +0000" stop="20260529230000 +0000" channel="AlJazeera.qa@English"><title lang="en">NewsHour</title></programme>
+<programme start="20260529230000 +0000" stop="20260529233000 +0000" channel="AlJazeera.qa@English"><title lang="en">News (L)</title></programme>
+<programme start="20260529233000 +0000" stop="20260530000000 +0000" channel="AlJazeera.qa@English"><title lang="en">Inside Story</title></programme>
+<programme start="20260530000000 +0000" stop="20260530010000 +0000" channel="AlJazeera.qa@English"><title lang="en">NewsHour</title></programme>
+<programme start="20260530010000 +0000" stop="20260530013000 +0000" channel="AlJazeera.qa@English"><title lang="en">News (L)</title></programme>
+<programme start="20260530013000 +0000" stop="20260530020000 +0000" channel="AlJazeera.qa@English"><title lang="en">101 East: Pawns Of War</title></programme>
+<programme start="20260530020000 +0000" stop="20260530030000 +0000" channel="AlJazeera.qa@English"><title lang="en">NewsHour</title></programme>
+<programme start="20260530030000 +0000" stop="20260530033000 +0000" channel="AlJazeera.qa@English"><title lang="en">News (L)</title></programme>
+<programme start="20260530033000 +0000" stop="20260530040000 +0000" channel="AlJazeera.qa@English"><title lang="en">Business Of War: Remote Control</title></programme>
+<programme start="20260530040000 +0000" stop="20260530043000 +0000" channel="AlJazeera.qa@English"><title lang="en">News (L)</title></programme>
+<programme start="20260530043000 +0000" stop="20260530050000 +0000" channel="AlJazeera.qa@English"><title lang="en">Making Peace: Still Together</title></programme>
+<programme start="20260530050000 +0000" stop="20260530053000 +0000" channel="AlJazeera.qa@English"><title lang="en">News (L)</title></programme>
+<programme start="20260530053000 +0000" stop="20260530060000 +0000" channel="AlJazeera.qa@English"><title lang="en">Inside Story</title></programme>
+<programme start="20260530060000 +0000" stop="20260530063000 +0000" channel="AlJazeera.qa@English"><title lang="en">News (L)</title></programme>
+<programme start="20260530063000 +0000" stop="20260530070000 +0000" channel="AlJazeera.qa@English"><title lang="en">Counting The Cost</title></programme>
+<programme start="20260530070000 +0000" stop="20260530080000 +0000" channel="AlJazeera.qa@English"><title lang="en">NewsHour</title></programme>
+<programme start="20260530080000 +0000" stop="20260530083000 +0000" channel="AlJazeera.qa@English"><title lang="en">News (L)</title></programme>
+<programme start="20260530083000 +0000" stop="20260530090000 +0000" channel="AlJazeera.qa@English"><title lang="en">Iran, Israel And The Bomb</title></programme>
+<programme start="20260530090000 +0000" stop="20260530093000 +0000" channel="AlJazeera.qa@English"><title lang="en">News (L)</title></programme>
+<programme start="20260530093000 +0000" stop="20260530100000 +0000" channel="AlJazeera.qa@English"><title lang="en">Witness: Not In My Name</title></programme>
+<programme start="20260530100000 +0000" stop="20260530110000 +0000" channel="AlJazeera.qa@English"><title lang="en">NewsHour</title></programme>
+<programme start="20260530110000 +0000" stop="20260530113000 +0000" channel="AlJazeera.qa@English"><title lang="en">News (L)</title></programme>
+<programme start="20260530113000 +0000" stop="20260530120000 +0000" channel="AlJazeera.qa@English"><title lang="en">Inside Story</title></programme>
+<programme start="20260530120000 +0000" stop="20260530130000 +0000" channel="AlJazeera.qa@English"><title lang="en">NewsHour</title></programme>
+<programme start="20260530130000 +0000" stop="20260530140000 +0000" channel="AlJazeera.qa@English"><title lang="en">NewsHour</title></programme>
+<programme start="20260530140000 +0000" stop="20260530143000 +0000" channel="AlJazeera.qa@English"><title lang="en">News (L)</title></programme>
+<programme start="20260530143000 +0000" stop="20260530150000 +0000" channel="AlJazeera.qa@English"><title lang="en">Counting The Cost</title></programme>
+<programme start="20260530150000 +0000" stop="20260530160000 +0000" channel="AlJazeera.qa@English"><title lang="en">NewsHour</title></programme>
+<programme start="20260530160000 +0000" stop="20260530163000 +0000" channel="AlJazeera.qa@English"><title lang="en">News (L)</title></programme>
+<programme start="20260530163000 +0000" stop="20260530170000 +0000" channel="AlJazeera.qa@English"><title lang="en">Fault Lines: Rio&apos;s Forever War</title></programme>
+<programme start="20260529170000 +0000" stop="20260529190000 +0000" channel="AlQuranAlKareemTV.sa@SD"><title lang="en">Live From Mekkah</title></programme>
+<programme start="20260529190000 +0000" stop="20260529210000 +0000" channel="AlQuranAlKareemTV.sa@SD"><title lang="en">Live From Mekkah</title></programme>
+<programme start="20260529210000 +0000" stop="20260529230000 +0000" channel="AlQuranAlKareemTV.sa@SD"><title lang="en">Live From Mekkah</title></programme>
+<programme start="20260529230000 +0000" stop="20260530010000 +0000" channel="AlQuranAlKareemTV.sa@SD"><title lang="en">Live From Mekkah</title></programme>
+<programme start="20260530010000 +0000" stop="20260530030000 +0000" channel="AlQuranAlKareemTV.sa@SD"><title lang="en">Live From Mekkah</title></programme>
+<programme start="20260530030000 +0000" stop="20260530050000 +0000" channel="AlQuranAlKareemTV.sa@SD"><title lang="en">Live From Mekkah</title></programme>
+<programme start="20260530050000 +0000" stop="20260530070000 +0000" channel="AlQuranAlKareemTV.sa@SD"><title lang="en">Live From Mekkah</title></programme>
+<programme start="20260530070000 +0000" stop="20260530090000 +0000" channel="AlQuranAlKareemTV.sa@SD"><title lang="en">Live From Mekkah</title></programme>
+<programme start="20260530090000 +0000" stop="20260530110000 +0000" channel="AlQuranAlKareemTV.sa@SD"><title lang="en">Live From Mekkah</title></programme>
+<programme start="20260530110000 +0000" stop="20260530130000 +0000" channel="AlQuranAlKareemTV.sa@SD"><title lang="en">Live From Mekkah</title></programme>
+<programme start="20260530130000 +0000" stop="20260530150000 +0000" channel="AlQuranAlKareemTV.sa@SD"><title lang="en">Live From Mekkah</title></programme>
+<programme start="20260530150000 +0000" stop="20260530170000 +0000" channel="AlQuranAlKareemTV.sa@SD"><title lang="en">Live From Mekkah</title></programme>
+<programme start="20260529170000 +0000" stop="20260529173000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">Fruits Basket S2, Ep 6</title><episode-num system="xmltv_ns">1.5.0/1</episode-num><episode-num system="onscreen">S02E06</episode-num></programme>
+<programme start="20260529173000 +0000" stop="20260529180000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">Fruits Basket S2, Ep 7</title><episode-num system="xmltv_ns">1.6.0/1</episode-num><episode-num system="onscreen">S02E07</episode-num></programme>
+<programme start="20260529180000 +0000" stop="20260529183000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">D.Gray-Man, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20260529183000 +0000" stop="20260529190000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">D.Gray-Man, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20260529190000 +0000" stop="20260529193000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">Grand Blue, Ep 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20260529193000 +0000" stop="20260529200000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">Grand Blue, Ep 8</title><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
+<programme start="20260529200000 +0000" stop="20260529203000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">The Daily Life Of A..., Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20260529203000 +0000" stop="20260529210000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">The Daily Life Of A..., Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260529210000 +0000" stop="20260529213000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">Fruits Basket S2, Ep 6</title><episode-num system="xmltv_ns">1.5.0/1</episode-num><episode-num system="onscreen">S02E06</episode-num></programme>
+<programme start="20260529213000 +0000" stop="20260529220000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">Fruits Basket S2, Ep 7</title><episode-num system="xmltv_ns">1.6.0/1</episode-num><episode-num system="onscreen">S02E07</episode-num></programme>
+<programme start="20260529220000 +0000" stop="20260529223000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">D.Gray-Man, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260529223000 +0000" stop="20260529230000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">D.Gray-Man, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260529230000 +0000" stop="20260529233000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">D.Gray-Man, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260529233000 +0000" stop="20260530000000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">D.Gray-Man, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20260530000000 +0000" stop="20260530003000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">D.Gray-Man, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20260530003000 +0000" stop="20260530010000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">Magic Maker, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260530010000 +0000" stop="20260530013000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">Magic Maker, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260530013000 +0000" stop="20260530020000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">Magic Maker, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260530020000 +0000" stop="20260530023000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">Magic Maker, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20260530023000 +0000" stop="20260530030000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">One Piece: Marineford, Ep 52</title><episode-num system="xmltv_ns">0.51.0/1</episode-num><episode-num system="onscreen">S01E52</episode-num></programme>
+<programme start="20260530030000 +0000" stop="20260530033000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">One Piece: Marineford, Ep 53</title><episode-num system="xmltv_ns">0.52.0/1</episode-num><episode-num system="onscreen">S01E53</episode-num></programme>
+<programme start="20260530033000 +0000" stop="20260530040000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">One Piece: Marineford, Ep 54</title><episode-num system="xmltv_ns">0.53.0/1</episode-num><episode-num system="onscreen">S01E54</episode-num></programme>
+<programme start="20260530040000 +0000" stop="20260530043000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">The Daily Life Of A..., Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20260530043000 +0000" stop="20260530050000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">The Daily Life Of A..., Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260530050000 +0000" stop="20260530053000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">D.Gray-Man, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260530053000 +0000" stop="20260530060000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">D.Gray-Man, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260530060000 +0000" stop="20260530063000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">D.Gray-Man, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260530063000 +0000" stop="20260530070000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">D.Gray-Man, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20260530070000 +0000" stop="20260530073000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">D.Gray-Man, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20260530073000 +0000" stop="20260530080000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">Magic Maker, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260530080000 +0000" stop="20260530083000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">Magic Maker, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260530083000 +0000" stop="20260530085800 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">Magic Maker, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260530085800 +0000" stop="20260530093000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">Magic Maker, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20260530093000 +0000" stop="20260530100000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">Tsukimichi S2, Ep 21</title><episode-num system="xmltv_ns">1.20.0/1</episode-num><episode-num system="onscreen">S02E21</episode-num></programme>
+<programme start="20260530100000 +0000" stop="20260530102800 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">Tsukimichi S2, Ep 22</title><episode-num system="xmltv_ns">1.21.0/1</episode-num><episode-num system="onscreen">S02E22</episode-num></programme>
+<programme start="20260530102800 +0000" stop="20260530110000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">Tsukimichi S2, Ep 23</title><episode-num system="xmltv_ns">1.22.0/1</episode-num><episode-num system="onscreen">S02E23</episode-num></programme>
+<programme start="20260530110000 +0000" stop="20260530113000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">The Daily Life Of A..., Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20260530113000 +0000" stop="20260530120000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">The Daily Life Of A..., Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260530120000 +0000" stop="20260530123000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">One Piece: Marineford, Ep 52</title><episode-num system="xmltv_ns">0.51.0/1</episode-num><episode-num system="onscreen">S01E52</episode-num></programme>
+<programme start="20260530123000 +0000" stop="20260530125800 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">One Piece: Marineford, Ep 53</title><episode-num system="xmltv_ns">0.52.0/1</episode-num><episode-num system="onscreen">S01E53</episode-num></programme>
+<programme start="20260530125800 +0000" stop="20260530133000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">One Piece: Marineford, Ep 54</title><episode-num system="xmltv_ns">0.53.0/1</episode-num><episode-num system="onscreen">S01E54</episode-num></programme>
+<programme start="20260530133000 +0000" stop="20260530140000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">D.Gray-Man, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260530140000 +0000" stop="20260530142800 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">D.Gray-Man, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260530142800 +0000" stop="20260530145800 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">D.Gray-Man, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260530145800 +0000" stop="20260530152800 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">D.Gray-Man, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20260530152800 +0000" stop="20260530160000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">D.Gray-Man, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20260530160000 +0000" stop="20260530163000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">Magic Maker, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260530163000 +0000" stop="20260530170000 +0000" channel="AnimaxAsia.sg@SD"><title lang="en">Magic Maker, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260529183000 +0000" stop="20260529193000 +0000" channel="ANTV.id@SD"><title lang="en">Doctor Vampire</title></programme>
+<programme start="20260529193000 +0000" stop="20260529220000 +0000" channel="ANTV.id@SD"><title lang="en">Paheli</title></programme>
+<programme start="20260529220000 +0000" stop="20260529230000 +0000" channel="ANTV.id@SD"><title lang="en">Hati Ke Hati Bersama Mamah...</title></programme>
+<programme start="20260529230000 +0000" stop="20260530010000 +0000" channel="ANTV.id@SD"><title lang="en">Aini: Malaikat Tak Bersayap</title></programme>
+<programme start="20260530010000 +0000" stop="20260530023000 +0000" channel="ANTV.id@SD"><title lang="en">Cinta Dan Rahasia</title></programme>
+<programme start="20260530023000 +0000" stop="20260530060000 +0000" channel="ANTV.id@SD"><title lang="en">Mucize</title></programme>
+<programme start="20260530060000 +0000" stop="20260530073000 +0000" channel="ANTV.id@SD"><title lang="en">Jhanak</title></programme>
+<programme start="20260530073000 +0000" stop="20260530090000 +0000" channel="ANTV.id@SD"><title lang="en">Sayali</title></programme>
+<programme start="20260530090000 +0000" stop="20260530110000 +0000" channel="ANTV.id@SD"><title lang="en">Teri Meri Doriyaann</title></programme>
+<programme start="20260530110000 +0000" stop="20260530120000 +0000" channel="ANTV.id@SD"><title lang="en">Vasudha</title></programme>
+<programme start="20260530120000 +0000" stop="20260530143000 +0000" channel="ANTV.id@SD"><title lang="en">Begadang</title></programme>
+<programme start="20260530143000 +0000" stop="20260530163000 +0000" channel="ANTV.id@SD"><title lang="en">Mangkujiwo</title></programme>
+<programme start="20260530163000 +0000" stop="20260530180000 +0000" channel="ANTV.id@SD"><title lang="en">Saur Sepuh 4</title></programme>
+<programme start="20260529170000 +0000" stop="20260529180000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Simply K-Pop 2026</title></programme>
+<programme start="20260529180000 +0000" stop="20260529183000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">K-Culture Dive</title></programme>
+<programme start="20260529183000 +0000" stop="20260529190000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Vibe In Action: K-Initiative</title></programme>
+<programme start="20260529190000 +0000" stop="20260529193000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Within The Frame</title></programme>
+<programme start="20260529193000 +0000" stop="20260529195000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Taste Log</title></programme>
+<programme start="20260529195000 +0000" stop="20260529200000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">K-Chat: Conversing In Korean</title></programme>
+<programme start="20260529200000 +0000" stop="20260529203000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Beauty On And Off</title></programme>
+<programme start="20260529203000 +0000" stop="20260529210000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">The Art Of Pairing</title></programme>
+<programme start="20260529210000 +0000" stop="20260529220000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Simply K-Pop 2026</title></programme>
+<programme start="20260529220000 +0000" stop="20260529223000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Regional Tastes: Chungcheong</title></programme>
+<programme start="20260529223000 +0000" stop="20260529230000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Vibe In Action: K-Initiative</title></programme>
+<programme start="20260529230000 +0000" stop="20260529232000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Drawing Diary</title></programme>
+<programme start="20260529232000 +0000" stop="20260529234000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Art And The City</title></programme>
+<programme start="20260529234000 +0000" stop="20260530000000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Korea Travelogue 5</title></programme>
+<programme start="20260530000000 +0000" stop="20260530003000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Trip In Korea</title></programme>
+<programme start="20260530003000 +0000" stop="20260530010000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Seoulscape</title></programme>
+<programme start="20260530010000 +0000" stop="20260530011000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">K-Chat: Travel In Korea</title></programme>
+<programme start="20260530011000 +0000" stop="20260530012000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">K-Chat: Travel In Korea</title></programme>
+<programme start="20260530012000 +0000" stop="20260530013000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">K-Chat: Travel In Korea</title></programme>
+<programme start="20260530013000 +0000" stop="20260530014000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">K-Chat: Travel In Korea</title></programme>
+<programme start="20260530014000 +0000" stop="20260530015000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">K-Chat: Conversing In Korean</title></programme>
+<programme start="20260530015000 +0000" stop="20260530020000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Fishing In The Museum</title></programme>
+<programme start="20260530020000 +0000" stop="20260530023000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">I&apos;m Live</title></programme>
+<programme start="20260530023000 +0000" stop="20260530030000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Beauty On And Off</title></programme>
+<programme start="20260530030000 +0000" stop="20260530033000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Weekly News Highlights</title></programme>
+<programme start="20260530033000 +0000" stop="20260530040000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Home Explorers 2</title></programme>
+<programme start="20260530040000 +0000" stop="20260530042000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Drawing Diary</title></programme>
+<programme start="20260530042000 +0000" stop="20260530044000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Art And The City</title></programme>
+<programme start="20260530044000 +0000" stop="20260530050000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Korea Travelogue 5</title></programme>
+<programme start="20260530050000 +0000" stop="20260530053000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Trip In Korea</title></programme>
+<programme start="20260530053000 +0000" stop="20260530060000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Seoulscape</title></programme>
+<programme start="20260530060000 +0000" stop="20260530070000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Gugak: The Music Of Korea</title></programme>
+<programme start="20260530070000 +0000" stop="20260530073000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">The Art Of Pairing</title></programme>
+<programme start="20260530073000 +0000" stop="20260530080000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Vibe In Action: K-Initiative</title></programme>
+<programme start="20260530080000 +0000" stop="20260530081500 +0000" channel="ArirangWorld.kr@SD"><title lang="en">K-Culture Minutes: K-Now</title></programme>
+<programme start="20260530081500 +0000" stop="20260530083000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">K-Culture Minutes: K-People</title></programme>
+<programme start="20260530083000 +0000" stop="20260530084500 +0000" channel="ArirangWorld.kr@SD"><title lang="en">K-Culture Minutes: K-Story</title></programme>
+<programme start="20260530084500 +0000" stop="20260530090000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">K-Culture Minutes: K-Stage</title></programme>
+<programme start="20260530090000 +0000" stop="20260530093000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Weekly News Highlights</title></programme>
+<programme start="20260530093000 +0000" stop="20260530103000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Simply K-Pop 2026</title></programme>
+<programme start="20260530103000 +0000" stop="20260530110000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Diplomat&apos;s Archive: Hidden</title></programme>
+<programme start="20260530110000 +0000" stop="20260530113000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">I&apos;m Live</title></programme>
+<programme start="20260530113000 +0000" stop="20260530120000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">SmartBiz Accelerators</title></programme>
+<programme start="20260530120000 +0000" stop="20260530123000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Vibe In Action: K-Initiative</title></programme>
+<programme start="20260530123000 +0000" stop="20260530130000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Mystory: Mystery x History</title></programme>
+<programme start="20260530130000 +0000" stop="20260530140000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">PerformArts Reload</title></programme>
+<programme start="20260530140000 +0000" stop="20260530143000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Beauty On And Off</title></programme>
+<programme start="20260530143000 +0000" stop="20260530150000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Peace Insight</title></programme>
+<programme start="20260530150000 +0000" stop="20260530153000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Diplomat&apos;s Archive: Hidden</title></programme>
+<programme start="20260530153000 +0000" stop="20260530160000 +0000" channel="ArirangWorld.kr@SD"><title lang="en">Vibe In Action: K-Initiative</title></programme>
+<programme start="20260529173000 +0000" stop="20260529182000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">FBI: Most Wanted S6, Ep 3</title><episode-num system="xmltv_ns">5.2.0/1</episode-num><episode-num system="onscreen">S06E03</episode-num></programme>
+<programme start="20260529182000 +0000" stop="20260529194000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">The Traitors USA S3, Ep 5</title><episode-num system="xmltv_ns">2.4.0/1</episode-num><episode-num system="onscreen">S03E05</episode-num></programme>
+<programme start="20260529194000 +0000" stop="20260529201000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">Cyril: Simply Magic, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20260529201000 +0000" stop="20260529210500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">Blue Bloods S14, Ep 17</title><episode-num system="xmltv_ns">13.16.0/1</episode-num><episode-num system="onscreen">S14E17</episode-num></programme>
+<programme start="20260529210500 +0000" stop="20260529220000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">S.W.A.T. S8, Ep 12</title><episode-num system="xmltv_ns">7.11.0/1</episode-num><episode-num system="onscreen">S08E12</episode-num></programme>
+<programme start="20260529220000 +0000" stop="20260529224500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">The Rookie: Feds S1, Ep 11</title><episode-num system="xmltv_ns">0.10.0/1</episode-num><episode-num system="onscreen">S01E11</episode-num></programme>
+<programme start="20260529224500 +0000" stop="20260529233500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">The Rookie: Feds S1, Ep 12</title><episode-num system="xmltv_ns">0.11.0/1</episode-num><episode-num system="onscreen">S01E12</episode-num></programme>
+<programme start="20260529233500 +0000" stop="20260530002000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">NCIS: Origins S1, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260530002000 +0000" stop="20260530011500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">NCIS: Origins S1, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20260530011500 +0000" stop="20260530034000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">Jurassic World: Fallen Kingdom</title></programme>
+<programme start="20260530034000 +0000" stop="20260530041000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">Cyril: Simply Magic, Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260530041000 +0000" stop="20260530050500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">Boston Blue S1, Ep 20</title><episode-num system="xmltv_ns">0.19.0/1</episode-num><episode-num system="onscreen">S01E20</episode-num></programme>
+<programme start="20260530050500 +0000" stop="20260530060000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">Coroner S1, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260530060000 +0000" stop="20260530065500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">Elsbeth S3, Ep 14</title><episode-num system="xmltv_ns">2.13.0/1</episode-num><episode-num system="onscreen">S03E14</episode-num></programme>
+<programme start="20260530065500 +0000" stop="20260530075000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">FBI S8, Ep 3</title><episode-num system="xmltv_ns">7.2.0/1</episode-num><episode-num system="onscreen">S08E03</episode-num></programme>
+<programme start="20260530075000 +0000" stop="20260530084500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">Doc S2, Ep 21</title><episode-num system="xmltv_ns">1.20.0/1</episode-num><episode-num system="onscreen">S02E21</episode-num></programme>
+<programme start="20260530084500 +0000" stop="20260530110000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">The Bourne Identity</title></programme>
+<programme start="20260530110000 +0000" stop="20260530115500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">Elsbeth S3, Ep 14</title><episode-num system="xmltv_ns">2.13.0/1</episode-num><episode-num system="onscreen">S03E14</episode-num></programme>
+<programme start="20260530115500 +0000" stop="20260530125000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">NCIS: Sydney S3, Ep 6</title><episode-num system="xmltv_ns">2.5.0/1</episode-num><episode-num system="onscreen">S03E06</episode-num></programme>
+<programme start="20260530125000 +0000" stop="20260530134500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">FBI S8, Ep 3</title><episode-num system="xmltv_ns">7.2.0/1</episode-num><episode-num system="onscreen">S08E03</episode-num></programme>
+<programme start="20260530134500 +0000" stop="20260530144000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">CIA S1, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260530144000 +0000" stop="20260530153000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">The Hunting Party S1, Ep 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20260530153000 +0000" stop="20260530175500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="en">Bullet Train</title></programme>
+<programme start="20260529173000 +0000" stop="20260529182500 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Deadliest Weather S5, Ep 11</title><episode-num system="xmltv_ns">4.10.0/1</episode-num><episode-num system="onscreen">S05E11</episode-num></programme>
+<programme start="20260529182500 +0000" stop="20260529185000 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Food Factory S5, Ep 15</title><episode-num system="xmltv_ns">4.14.0/1</episode-num><episode-num system="onscreen">S05E15</episode-num></programme>
+<programme start="20260529185000 +0000" stop="20260529191500 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Food Factory S5, Ep 16</title><episode-num system="xmltv_ns">4.15.0/1</episode-num><episode-num system="onscreen">S05E16</episode-num></programme>
+<programme start="20260529191500 +0000" stop="20260529201000 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Asia S1, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260529201000 +0000" stop="20260529210000 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Griff&apos;s Canadian Adv. S1, Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260529210000 +0000" stop="20260529220000 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Deadliest Weather S5, Ep 11</title><episode-num system="xmltv_ns">4.10.0/1</episode-num><episode-num system="onscreen">S05E11</episode-num></programme>
+<programme start="20260529220000 +0000" stop="20260529225000 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Sue Perkins&apos; Big Adv. S1, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260529225000 +0000" stop="20260529234500 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Asia S1, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260529234500 +0000" stop="20260530004500 +0000" channel="BBCEarth.uk@Asia"><title lang="en">The Persians: Iran S1, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260530004500 +0000" stop="20260530013000 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Searching For Italy S1, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260530013000 +0000" stop="20260530022500 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Chauquet Wild Catch S1, Ep 8</title><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
+<programme start="20260530022500 +0000" stop="20260530031500 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Sue Perkins&apos; Big Adv. S1, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260530031500 +0000" stop="20260530041000 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Asia S1, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260530041000 +0000" stop="20260530051000 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Inside The Factory S10, Ep 2</title><episode-num system="xmltv_ns">9.1.0/1</episode-num><episode-num system="onscreen">S10E02</episode-num></programme>
+<programme start="20260530051000 +0000" stop="20260530060000 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Searching For Italy S1, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260530060000 +0000" stop="20260530070000 +0000" channel="BBCEarth.uk@Asia"><title lang="en">The Persians: Iran S1, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260530070000 +0000" stop="20260530075000 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Griff&apos;s Canadian Adv. S1, Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260530075000 +0000" stop="20260530084500 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Asia S1, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260530084500 +0000" stop="20260530094000 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Whale With Backshall S1, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20260530094000 +0000" stop="20260530104000 +0000" channel="BBCEarth.uk@Asia"><title lang="en">The Persians: Iran S1, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260530104000 +0000" stop="20260530114000 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Inside The Factory S10, Ep 2</title><episode-num system="xmltv_ns">9.1.0/1</episode-num><episode-num system="onscreen">S10E02</episode-num></programme>
+<programme start="20260530114000 +0000" stop="20260530124000 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Asia S1, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260530124000 +0000" stop="20260530133000 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Griff&apos;s Canadian Adv. S1, Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260530133000 +0000" stop="20260530142500 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Return To The Wild S3, Ep 7</title><episode-num system="xmltv_ns">2.6.0/1</episode-num><episode-num system="onscreen">S03E07</episode-num></programme>
+<programme start="20260530142500 +0000" stop="20260530152500 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Inside The Factory S10, Ep 2</title><episode-num system="xmltv_ns">9.1.0/1</episode-num><episode-num system="onscreen">S10E02</episode-num></programme>
+<programme start="20260530152500 +0000" stop="20260530162500 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Asia S1, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260530162500 +0000" stop="20260530172000 +0000" channel="BBCEarth.uk@Asia"><title lang="en">Sue Perkins&apos; Big Adv. S1, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260529170000 +0000" stop="20260529173000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">World Today With M. Moshiri</title></programme>
+<programme start="20260529173000 +0000" stop="20260529180000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">The Iran War This Week</title></programme>
+<programme start="20260529180000 +0000" stop="20260529183000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">World Today With M. Moshiri</title></programme>
+<programme start="20260529183000 +0000" stop="20260529190000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">World Today With M. Moshiri</title></programme>
+<programme start="20260529190000 +0000" stop="20260529193000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">The Context USA</title></programme>
+<programme start="20260529193000 +0000" stop="20260529200000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">The Context USA</title></programme>
+<programme start="20260529200000 +0000" stop="20260529203000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">The Context</title></programme>
+<programme start="20260529203000 +0000" stop="20260529210000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">The Context</title></programme>
+<programme start="20260529210000 +0000" stop="20260529213000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">BBC World News America</title></programme>
+<programme start="20260529213000 +0000" stop="20260529220000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">Newsnight</title></programme>
+<programme start="20260529220000 +0000" stop="20260529223000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">BBC World News America</title></programme>
+<programme start="20260529223000 +0000" stop="20260529230000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">The President&apos;s Path</title></programme>
+<programme start="20260529230000 +0000" stop="20260529233000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20260529233000 +0000" stop="20260530000000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">Talking Business</title></programme>
+<programme start="20260530000000 +0000" stop="20260530003000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20260530003000 +0000" stop="20260530010000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">Tech Now</title></programme>
+<programme start="20260530010000 +0000" stop="20260530013000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20260530013000 +0000" stop="20260530020000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">R. Khoo&apos;s Kitchen Notebook</title></programme>
+<programme start="20260530020000 +0000" stop="20260530023000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20260530023000 +0000" stop="20260530030000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">Racing On The Edge: The Art</title></programme>
+<programme start="20260530030000 +0000" stop="20260530033000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20260530033000 +0000" stop="20260530040000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">The Media Show</title></programme>
+<programme start="20260530040000 +0000" stop="20260530043000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20260530043000 +0000" stop="20260530050000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">The Travel Show</title></programme>
+<programme start="20260530050000 +0000" stop="20260530053000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20260530053000 +0000" stop="20260530060000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">The Smuggling Business</title></programme>
+<programme start="20260530060000 +0000" stop="20260530063000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20260530063000 +0000" stop="20260530070000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">Tech Now</title></programme>
+<programme start="20260530070000 +0000" stop="20260530073000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20260530073000 +0000" stop="20260530080000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">R. Khoo&apos;s Kitchen Notebook</title></programme>
+<programme start="20260530080000 +0000" stop="20260530090000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20260530090000 +0000" stop="20260530093000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20260530093000 +0000" stop="20260530100000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">Road To Hope With F. Keane</title></programme>
+<programme start="20260530100000 +0000" stop="20260530103000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20260530103000 +0000" stop="20260530110000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">Talking Business</title></programme>
+<programme start="20260530110000 +0000" stop="20260530113000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20260530113000 +0000" stop="20260530120000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">Unspun World With J. Simpson</title></programme>
+<programme start="20260530120000 +0000" stop="20260530123000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20260530123000 +0000" stop="20260530130000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">Discovering The World&apos;s Table</title></programme>
+<programme start="20260530130000 +0000" stop="20260530133000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20260530133000 +0000" stop="20260530140000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">The Smuggling Business</title></programme>
+<programme start="20260530140000 +0000" stop="20260530143000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20260530143000 +0000" stop="20260530150000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">The Media Show</title></programme>
+<programme start="20260530150000 +0000" stop="20260530153000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20260530153000 +0000" stop="20260530160000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">Racing On The Edge: The Art</title></programme>
+<programme start="20260530160000 +0000" stop="20260530170000 +0000" channel="BBCNews.uk@AsiaPacific"><title lang="en">BBC News</title></programme>
+<programme start="20260529174000 +0000" stop="20260529193000 +0000" channel="ONE.sg@SD"><title lang="en">Running Man, Ep 716</title><episode-num system="xmltv_ns">0.715.0/1</episode-num><episode-num system="onscreen">S01E716</episode-num></programme>
+<programme start="20260529193000 +0000" stop="20260529204000 +0000" channel="ONE.sg@SD"><title lang="en">Bad Memory Eraser, Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260529204000 +0000" stop="20260529220000 +0000" channel="ONE.sg@SD"><title lang="en">Numbers, Ep 8</title><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
+<programme start="20260529220000 +0000" stop="20260529232000 +0000" channel="ONE.sg@SD"><title lang="en">Jang Bo Ri Is Here, Ep 49</title><episode-num system="xmltv_ns">0.48.0/1</episode-num><episode-num system="onscreen">S01E49</episode-num></programme>
+<programme start="20260529232000 +0000" stop="20260530004000 +0000" channel="ONE.sg@SD"><title lang="en">Jang Bo Ri Is Here, Ep 50</title><episode-num system="xmltv_ns">0.49.0/1</episode-num><episode-num system="onscreen">S01E50</episode-num></programme>
+<programme start="20260530004000 +0000" stop="20260530020000 +0000" channel="ONE.sg@SD"><title lang="en">Jang Bo Ri Is Here, Ep 51</title><episode-num system="xmltv_ns">0.50.0/1</episode-num><episode-num system="onscreen">S01E51</episode-num></programme>
+<programme start="20260530020000 +0000" stop="20260530034500 +0000" channel="ONE.sg@SD"><title lang="en">Jungle Bob, Ep 8</title><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
+<programme start="20260530034500 +0000" stop="20260530053500 +0000" channel="ONE.sg@SD"><title lang="en">Running Man, Ep 716</title><episode-num system="xmltv_ns">0.715.0/1</episode-num><episode-num system="onscreen">S01E716</episode-num></programme>
+<programme start="20260530053500 +0000" stop="20260530064500 +0000" channel="ONE.sg@SD"><title lang="en">Numbers, Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260530064500 +0000" stop="20260530080000 +0000" channel="ONE.sg@SD"><title lang="en">Numbers, Ep 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20260530080000 +0000" stop="20260530091500 +0000" channel="ONE.sg@SD"><title lang="en">Numbers, Ep 8</title><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
+<programme start="20260530091500 +0000" stop="20260530110000 +0000" channel="ONE.sg@SD"><title lang="en">Adventure By Accident S3, Ep 8</title><episode-num system="xmltv_ns">2.7.0/1</episode-num><episode-num system="onscreen">S03E08</episode-num></programme>
+<programme start="20260530110000 +0000" stop="20260530121500 +0000" channel="ONE.sg@SD"><title lang="en">Great Queen Seondeok, Ep 45</title><episode-num system="xmltv_ns">0.44.0/1</episode-num><episode-num system="onscreen">S01E45</episode-num></programme>
+<programme start="20260530121500 +0000" stop="20260530133000 +0000" channel="ONE.sg@SD"><title lang="en">Great Queen Seondeok, Ep 46</title><episode-num system="xmltv_ns">0.45.0/1</episode-num><episode-num system="onscreen">S01E46</episode-num></programme>
+<programme start="20260530133000 +0000" stop="20260530152000 +0000" channel="ONE.sg@SD"><title lang="en">Running Man, Ep 673</title><episode-num system="xmltv_ns">0.672.0/1</episode-num><episode-num system="onscreen">S01E673</episode-num></programme>
+<programme start="20260530152000 +0000" stop="20260530171500 +0000" channel="ONE.sg@SD"><title lang="en">Running Man, Ep 674</title><episode-num system="xmltv_ns">0.673.0/1</episode-num><episode-num system="onscreen">S01E674</episode-num></programme>
 </tv>
