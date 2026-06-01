@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260531">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260601">
 <channel id="381"><display-name>A&amp;E HD</display-name></channel>
 <channel id="385"><display-name>AXN HD</display-name></channel>
 <channel id="387"><display-name>BABY TV</display-name></channel>
@@ -243,181 +243,578 @@
 <channel id="WarnerChannel.us@Panregional"><display-name>WARNER CHANNEL</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png"/></channel>
 <channel id="WinSports.co@SD"><display-name>WIN SPORTS</display-name><icon src="https://i.imgur.com/DuSSrHV.png"/></channel>
 <channel id="Zoom.co@SD"><display-name>ZOOM TV</display-name><icon src="https://i.imgur.com/euy5zp6.png"/></channel>
-<programme start="20260531050500 +0000" stop="20260531053000 +0000" channel="381"><title lang="es">Quién Da Má$?</title></programme>
-<programme start="20260531053000 +0000" stop="20260531055500 +0000" channel="381"><title lang="es">Quién Da Má$?</title></programme>
-<programme start="20260531055500 +0000" stop="20260531061500 +0000" channel="381"><title lang="es">Quién Da Má$?</title></programme>
-<programme start="20260531061500 +0000" stop="20260531064000 +0000" channel="381"><title lang="es">Quién Da Má$?</title></programme>
-<programme start="20260531064000 +0000" stop="20260531070000 +0000" channel="381"><title lang="es">Quién Da Má$?</title></programme>
-<programme start="20260531070000 +0000" stop="20260531072500 +0000" channel="381"><title lang="es">Quién Da Má$?</title></programme>
-<programme start="20260531072500 +0000" stop="20260531074500 +0000" channel="381"><title lang="es">Quién Da Má$?</title></programme>
-<programme start="20260531074500 +0000" stop="20260531093000 +0000" channel="381"><title lang="es">Elysium</title></programme>
-<programme start="20260531093000 +0000" stop="20260531110000 +0000" channel="381"><title lang="es">Detention</title></programme>
-<programme start="20260531110000 +0000" stop="20260531120000 +0000" channel="381"><title lang="es">Star Trek: Picard</title></programme>
-<programme start="20260531120000 +0000" stop="20260531130000 +0000" channel="381"><title lang="es">Infomerciales</title></programme>
-<programme start="20260531130000 +0000" stop="20260531140000 +0000" channel="381"><title lang="es">Infomerciales</title></programme>
-<programme start="20260531140000 +0000" stop="20260531150000 +0000" channel="381"><title lang="es">Star Trek: Picard</title></programme>
-<programme start="20260531150000 +0000" stop="20260531160000 +0000" channel="381"><title lang="es">Star Trek: Picard</title></programme>
-<programme start="20260531160000 +0000" stop="20260531163000 +0000" channel="381"><title lang="es">Alto! Frontera</title></programme>
-<programme start="20260531163000 +0000" stop="20260531170000 +0000" channel="381"><title lang="es">Alto! Frontera</title></programme>
-<programme start="20260531170000 +0000" stop="20260531173000 +0000" channel="381"><title lang="es">Alto! Frontera Chile</title></programme>
-<programme start="20260531173000 +0000" stop="20260531180000 +0000" channel="381"><title lang="es">Alto! Frontera Chile</title></programme>
-<programme start="20260531180000 +0000" stop="20260531182500 +0000" channel="381"><title lang="es">Cam Alert: Captura Exitosa</title></programme>
-<programme start="20260531182500 +0000" stop="20260531185000 +0000" channel="381"><title lang="es">Cam Alert: Captura Exitosa</title></programme>
-<programme start="20260531185000 +0000" stop="20260531191500 +0000" channel="381"><title lang="es">Cam Alert: Captura Exitosa</title></programme>
-<programme start="20260531191500 +0000" stop="20260531194000 +0000" channel="381"><title lang="es">Cam Alert: Captura Exitosa</title></programme>
-<programme start="20260531194000 +0000" stop="20260531200500 +0000" channel="381"><title lang="es">Cam Alert: Captura Exitosa</title></programme>
-<programme start="20260531200500 +0000" stop="20260531203000 +0000" channel="381"><title lang="es">Patrulla Policial</title></programme>
-<programme start="20260531203000 +0000" stop="20260531205500 +0000" channel="381"><title lang="es">Patrulla Policial</title></programme>
-<programme start="20260531205500 +0000" stop="20260531212000 +0000" channel="381"><title lang="es">Patrulla Policial</title></programme>
-<programme start="20260531212000 +0000" stop="20260531214500 +0000" channel="381"><title lang="es">Patrulla Policial</title></programme>
-<programme start="20260531214500 +0000" stop="20260531221000 +0000" channel="381"><title lang="es">Patrulla Policial</title></programme>
-<programme start="20260531221000 +0000" stop="20260531223500 +0000" channel="381"><title lang="es">Patrulla Policial</title></programme>
-<programme start="20260531223500 +0000" stop="20260601002500 +0000" channel="381"><title lang="es">Elysium</title></programme>
-<programme start="20260601002500 +0000" stop="20260601020000 +0000" channel="381"><title lang="es">Detention</title></programme>
-<programme start="20260601020000 +0000" stop="20260601025000 +0000" channel="381"><title lang="es">El Chapo</title></programme>
-<programme start="20260601025000 +0000" stop="20260601034000 +0000" channel="381"><title lang="es">El Chapo</title></programme>
-<programme start="20260601034000 +0000" stop="20260601043000 +0000" channel="381"><title lang="es">El Chapo</title></programme>
-<programme start="20260601043000 +0000" stop="20260601051500 +0000" channel="381"><title lang="es">El Chapo</title></programme>
-<programme start="20260531043000 +0000" stop="20260531052000 +0000" channel="385"><title lang="es">CSI</title></programme>
-<programme start="20260531052000 +0000" stop="20260531061500 +0000" channel="385"><title lang="es">CSI: NY</title></programme>
-<programme start="20260531061500 +0000" stop="20260531071000 +0000" channel="385"><title lang="es">CSI: NY</title></programme>
-<programme start="20260531071000 +0000" stop="20260531080500 +0000" channel="385"><title lang="es">CSI: NY</title></programme>
-<programme start="20260531080500 +0000" stop="20260531090000 +0000" channel="385"><title lang="es">CSI: NY</title></programme>
-<programme start="20260531090000 +0000" stop="20260531100000 +0000" channel="385"><title lang="es">CSI: NY</title></programme>
-<programme start="20260531100000 +0000" stop="20260531110000 +0000" channel="385"><title lang="es">CSI: NY</title></programme>
-<programme start="20260531110000 +0000" stop="20260531120000 +0000" channel="385"><title lang="es">CSI: NY</title></programme>
-<programme start="20260531120000 +0000" stop="20260531130000 +0000" channel="385"><title lang="es">CSI: NY</title></programme>
-<programme start="20260531130000 +0000" stop="20260531140000 +0000" channel="385"><title lang="es">CSI: NY</title></programme>
-<programme start="20260531140000 +0000" stop="20260531150000 +0000" channel="385"><title lang="es">CSI: NY</title></programme>
-<programme start="20260531150000 +0000" stop="20260531155000 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
-<programme start="20260531155000 +0000" stop="20260531164000 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
-<programme start="20260531164000 +0000" stop="20260531173000 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
-<programme start="20260531173000 +0000" stop="20260531182000 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
-<programme start="20260531182000 +0000" stop="20260531191000 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
-<programme start="20260531191000 +0000" stop="20260531200000 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
-<programme start="20260531200000 +0000" stop="20260531205000 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
-<programme start="20260531205000 +0000" stop="20260531214000 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
-<programme start="20260531214000 +0000" stop="20260531223000 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
-<programme start="20260531223000 +0000" stop="20260531232000 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
-<programme start="20260531232000 +0000" stop="20260601001000 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
-<programme start="20260601001000 +0000" stop="20260601010500 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
-<programme start="20260601010500 +0000" stop="20260601020000 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
-<programme start="20260601020000 +0000" stop="20260601025000 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
-<programme start="20260601025000 +0000" stop="20260601034000 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
-<programme start="20260601034000 +0000" stop="20260601043000 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
-<programme start="20260601043000 +0000" stop="20260601052000 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
-<programme start="20260531050000 +0000" stop="20260531053000 +0000" channel="387"><title lang="es">Dulces Sueños</title></programme>
-<programme start="20260531053000 +0000" stop="20260531060000 +0000" channel="387"><title lang="es">Abrazo De Buenas Noches</title></programme>
-<programme start="20260531060000 +0000" stop="20260531063000 +0000" channel="387"><title lang="es">Noches De Ensueño</title></programme>
-<programme start="20260531063000 +0000" stop="20260531070000 +0000" channel="387"><title lang="es">La Luna Y Las Estrellas</title></programme>
-<programme start="20260531070000 +0000" stop="20260531073000 +0000" channel="387"><title lang="es">Sonidos Relajantes</title></programme>
-<programme start="20260531073000 +0000" stop="20260531080000 +0000" channel="387"><title lang="es">De La Noche Al Día</title></programme>
-<programme start="20260531080000 +0000" stop="20260531083000 +0000" channel="387"><title lang="es">De La Noche Al Día</title></programme>
-<programme start="20260531083000 +0000" stop="20260531090000 +0000" channel="387"><title lang="es">Amanece Y Brilla Con Los Amigos De BabyTV</title></programme>
-<programme start="20260531090000 +0000" stop="20260531093000 +0000" channel="387"><title lang="es">Amanece Y Brilla Con Los Amigos De BabyTV</title></programme>
-<programme start="20260531093000 +0000" stop="20260531100000 +0000" channel="387"><title lang="es">El Momento De Los Buenos Días</title></programme>
-<programme start="20260531100000 +0000" stop="20260531103000 +0000" channel="387"><title lang="es">El Momento De Los Buenos Días</title></programme>
-<programme start="20260531103000 +0000" stop="20260531110000 +0000" channel="387"><title lang="es">Empieza Tu Día Con Los Amigos De BabyTV</title></programme>
-<programme start="20260531110000 +0000" stop="20260531113000 +0000" channel="387"><title lang="es">Tutti Frutti Y Otras Historias</title></programme>
-<programme start="20260531113000 +0000" stop="20260531120000 +0000" channel="387"><title lang="es">La Clase De Teeny Y Tiny</title></programme>
-<programme start="20260531120000 +0000" stop="20260531123000 +0000" channel="387"><title lang="es">La Hora Del Arte, La Actividad Y La Música</title></programme>
-<programme start="20260531123000 +0000" stop="20260531130000 +0000" channel="387"><title lang="es">Los Primeros Descubrimientos Mágicos</title></programme>
-<programme start="20260531130000 +0000" stop="20260531133000 +0000" channel="387"><title lang="es">El Patio De La Imaginación</title></programme>
-<programme start="20260531133000 +0000" stop="20260531140000 +0000" channel="387"><title lang="es">Explorando Con Babyhood</title></programme>
-<programme start="20260531140000 +0000" stop="20260531143000 +0000" channel="387"><title lang="es">Canciones Y Rimas Y Otras Historias</title></programme>
-<programme start="20260531143000 +0000" stop="20260531150000 +0000" channel="387"><title lang="es">A Bailar</title></programme>
-<programme start="20260531150000 +0000" stop="20260531153000 +0000" channel="387"><title lang="es">La Hora Del Arte, La Actividad Y La Música</title></programme>
-<programme start="20260531153000 +0000" stop="20260531160000 +0000" channel="387"><title lang="es">Los Primeros Descubrimientos Mágicos</title></programme>
-<programme start="20260531160000 +0000" stop="20260531163000 +0000" channel="387"><title lang="es">El Patio De La Imaginación</title></programme>
-<programme start="20260531163000 +0000" stop="20260531170000 +0000" channel="387"><title lang="es">Explorando Con Babyhood</title></programme>
-<programme start="20260531170000 +0000" stop="20260531173000 +0000" channel="387"><title lang="es">Ahoy Y Otras Historias</title></programme>
-<programme start="20260531173000 +0000" stop="20260531180000 +0000" channel="387"><title lang="es">Adivina Qué Esconden Las Cartas</title></programme>
-<programme start="20260531180000 +0000" stop="20260531183000 +0000" channel="387"><title lang="es">La Hora Del Arte, La Actividad Y La Música</title></programme>
-<programme start="20260531183000 +0000" stop="20260531190000 +0000" channel="387"><title lang="es">Los Primeros Descubrimientos Mágicos</title></programme>
-<programme start="20260531190000 +0000" stop="20260531193000 +0000" channel="387"><title lang="es">El Patio De La Imaginación</title></programme>
-<programme start="20260531193000 +0000" stop="20260531200000 +0000" channel="387"><title lang="es">Explorando Con Babyhood</title></programme>
-<programme start="20260531200000 +0000" stop="20260531203000 +0000" channel="387"><title lang="es">Descubriendo Con Vegibugs</title></programme>
-<programme start="20260531203000 +0000" stop="20260531210000 +0000" channel="387"><title lang="es">Juega Y Aprende Con Canciones Y Nanas</title></programme>
-<programme start="20260531210000 +0000" stop="20260531213000 +0000" channel="387"><title lang="es">Juegos De Adivinanzas Con Tulli Y Sus Amigos</title></programme>
-<programme start="20260531213000 +0000" stop="20260531220000 +0000" channel="387"><title lang="es">La Hora De La Diversión Y Las Nanas En Familia</title></programme>
-<programme start="20260531220000 +0000" stop="20260531223000 +0000" channel="387"><title lang="es">La Hora De La Diversión Y Las Nanas En Familia</title></programme>
-<programme start="20260531223000 +0000" stop="20260531230000 +0000" channel="387"><title lang="es">La Hora Del Arte, La Actividad Y La Música</title></programme>
-<programme start="20260531230000 +0000" stop="20260531233000 +0000" channel="387"><title lang="es">Música Clásica E Historias Relajantes</title></programme>
-<programme start="20260531233000 +0000" stop="20260601000000 +0000" channel="387"><title lang="es">Cálmate Y Relájate</title></programme>
-<programme start="20260601000000 +0000" stop="20260601003000 +0000" channel="387"><title lang="es">Cálmate Y Relájate</title></programme>
-<programme start="20260601003000 +0000" stop="20260601010000 +0000" channel="387"><title lang="es">Dulces Sueños</title></programme>
-<programme start="20260601010000 +0000" stop="20260601013000 +0000" channel="387"><title lang="es">Dulces Sueños</title></programme>
-<programme start="20260601013000 +0000" stop="20260601020000 +0000" channel="387"><title lang="es">Noches De Ensueño</title></programme>
-<programme start="20260601020000 +0000" stop="20260601023000 +0000" channel="387"><title lang="es">Noches De Ensueño</title></programme>
-<programme start="20260601023000 +0000" stop="20260601030000 +0000" channel="387"><title lang="es">Noches De Ensueño</title></programme>
-<programme start="20260601030000 +0000" stop="20260601033000 +0000" channel="387"><title lang="es">Noches De Ensueño</title></programme>
-<programme start="20260601033000 +0000" stop="20260601040000 +0000" channel="387"><title lang="es">Noches De Ensueño</title></programme>
-<programme start="20260601040000 +0000" stop="20260601043000 +0000" channel="387"><title lang="es">La Luna Y Las Estrellas</title></programme>
-<programme start="20260601043000 +0000" stop="20260601050000 +0000" channel="387"><title lang="es">Las Melodías Nocturnas De BabyTV</title></programme>
+<programme start="20260601051500 +0000" stop="20260601060500 +0000" channel="381"><title lang="es">Secretos De Bunny Ranch</title></programme>
+<programme start="20260601060500 +0000" stop="20260601065500 +0000" channel="381"><title lang="es">Secretos De Bunny Ranch</title></programme>
+<programme start="20260601065500 +0000" stop="20260601074000 +0000" channel="381"><title lang="es">Secretos De Bunny Ranch</title></programme>
+<programme start="20260601074000 +0000" stop="20260601080000 +0000" channel="381"><title lang="es">Patrulla Policial</title></programme>
+<programme start="20260601080000 +0000" stop="20260601093000 +0000" channel="381"><title lang="es">El Asesino De La Cara Feliz</title></programme>
+<programme start="20260601093000 +0000" stop="20260601110000 +0000" channel="381"><title lang="es">Menéndez: Hermanos De Sangre</title></programme>
+<programme start="20260601110000 +0000" stop="20260601112000 +0000" channel="381"><title lang="es">Quién Da Má$?</title></programme>
+<programme start="20260601112000 +0000" stop="20260601114000 +0000" channel="381"><title lang="es">Quién Da Má$?</title></programme>
+<programme start="20260601114000 +0000" stop="20260601120000 +0000" channel="381"><title lang="es">Quién Da Má$?</title></programme>
+<programme start="20260601120000 +0000" stop="20260601130000 +0000" channel="381"><title lang="es">Infomerciales</title></programme>
+<programme start="20260601130000 +0000" stop="20260601140000 +0000" channel="381"><title lang="es">Infomerciales</title></programme>
+<programme start="20260601140000 +0000" stop="20260601142000 +0000" channel="381"><title lang="es">Patrulla Policial</title></programme>
+<programme start="20260601142000 +0000" stop="20260601155000 +0000" channel="381"><title lang="es">Acumuladores Compulsivos</title></programme>
+<programme start="20260601155000 +0000" stop="20260601164000 +0000" channel="381"><title lang="es">Asesinato En El Motel</title></programme>
+<programme start="20260601164000 +0000" stop="20260601173000 +0000" channel="381"><title lang="es">Asesinato En El Motel</title></programme>
+<programme start="20260601173000 +0000" stop="20260601182500 +0000" channel="381"><title lang="es">Asesinato En El Motel</title></programme>
+<programme start="20260601182500 +0000" stop="20260601191500 +0000" channel="381"><title lang="es">Palabra De Asesino</title></programme>
+<programme start="20260601191500 +0000" stop="20260601200500 +0000" channel="381"><title lang="es">Palabra De Asesino</title></programme>
+<programme start="20260601200500 +0000" stop="20260601210000 +0000" channel="381"><title lang="es">Palabra De Asesino</title></programme>
+<programme start="20260601210000 +0000" stop="20260601215500 +0000" channel="381"><title lang="es">Dime Como Me Morí</title></programme>
+<programme start="20260601215500 +0000" stop="20260601224500 +0000" channel="381"><title lang="es">Dime Como Me Morí</title></programme>
+<programme start="20260601224500 +0000" stop="20260601234000 +0000" channel="381"><title lang="es">Dime Como Me Morí</title></programme>
+<programme start="20260601234000 +0000" stop="20260602000000 +0000" channel="381"><title lang="es">Quién Da Má$?</title></programme>
+<programme start="20260602000000 +0000" stop="20260602002500 +0000" channel="381"><title lang="es">Quién Da Má$?</title></programme>
+<programme start="20260602002500 +0000" stop="20260602005000 +0000" channel="381"><title lang="es">Quién Da Má$?</title></programme>
+<programme start="20260602005000 +0000" stop="20260602011500 +0000" channel="381"><title lang="es">Quién Da Má$?</title></programme>
+<programme start="20260602011500 +0000" stop="20260602014000 +0000" channel="381"><title lang="es">Patrulla Policial</title></programme>
+<programme start="20260602014000 +0000" stop="20260602020000 +0000" channel="381"><title lang="es">Patrulla Policial</title></programme>
+<programme start="20260602020000 +0000" stop="20260602022500 +0000" channel="381"><title lang="es">Patrulla Policial</title></programme>
+<programme start="20260602022500 +0000" stop="20260602024500 +0000" channel="381"><title lang="es">Patrulla Policial</title></programme>
+<programme start="20260602024500 +0000" stop="20260602031000 +0000" channel="381"><title lang="es">Ira En El Camino</title></programme>
+<programme start="20260602031000 +0000" stop="20260602033500 +0000" channel="381"><title lang="es">Ira En El Camino</title></programme>
+<programme start="20260602033500 +0000" stop="20260602035500 +0000" channel="381"><title lang="es">Ira En El Camino</title></programme>
+<programme start="20260602035500 +0000" stop="20260602042000 +0000" channel="381"><title lang="es">Ira En El Camino</title></programme>
+<programme start="20260602042000 +0000" stop="20260602044500 +0000" channel="381"><title lang="es">Ira En El Camino</title></programme>
+<programme start="20260602044500 +0000" stop="20260602050500 +0000" channel="381"><title lang="es">Ira En El Camino</title></programme>
+<programme start="20260602050500 +0000" stop="20260602053000 +0000" channel="381"><title lang="es">Ira En El Camino</title></programme>
+<programme start="20260601052000 +0000" stop="20260601061500 +0000" channel="385"><title lang="es">Hawai 5.0</title></programme>
+<programme start="20260601061500 +0000" stop="20260601071000 +0000" channel="385"><title lang="es">Hawai 5.0</title></programme>
+<programme start="20260601071000 +0000" stop="20260601080500 +0000" channel="385"><title lang="es">Hawai 5.0</title></programme>
+<programme start="20260601080500 +0000" stop="20260601090000 +0000" channel="385"><title lang="es">Hawai 5.0</title></programme>
+<programme start="20260601090000 +0000" stop="20260601100000 +0000" channel="385"><title lang="es">Hawai 5.0</title></programme>
+<programme start="20260601100000 +0000" stop="20260601110000 +0000" channel="385"><title lang="es">Hawai 5.0</title></programme>
+<programme start="20260601110000 +0000" stop="20260601120000 +0000" channel="385"><title lang="es">NCIS: Los Ángeles</title></programme>
+<programme start="20260601120000 +0000" stop="20260601130000 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
+<programme start="20260601130000 +0000" stop="20260601140000 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
+<programme start="20260601140000 +0000" stop="20260601150000 +0000" channel="385"><title lang="es">NCIS</title></programme>
+<programme start="20260601150000 +0000" stop="20260601155000 +0000" channel="385"><title lang="es">NCIS</title></programme>
+<programme start="20260601155000 +0000" stop="20260601164000 +0000" channel="385"><title lang="es">Criminal Minds</title></programme>
+<programme start="20260601164000 +0000" stop="20260601173000 +0000" channel="385"><title lang="es">Criminal Minds</title></programme>
+<programme start="20260601173000 +0000" stop="20260601182000 +0000" channel="385"><title lang="es">NCIS: Los Ángeles</title></programme>
+<programme start="20260601182000 +0000" stop="20260601191000 +0000" channel="385"><title lang="es">CSI</title></programme>
+<programme start="20260601191000 +0000" stop="20260601200000 +0000" channel="385"><title lang="es">CSI</title></programme>
+<programme start="20260601200000 +0000" stop="20260601205000 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
+<programme start="20260601205000 +0000" stop="20260601214000 +0000" channel="385"><title lang="es">CSI: Miami</title></programme>
+<programme start="20260601214000 +0000" stop="20260601223000 +0000" channel="385"><title lang="es">Hawai 5.0</title></programme>
+<programme start="20260601223000 +0000" stop="20260601232000 +0000" channel="385"><title lang="es">Hawai 5.0</title></programme>
+<programme start="20260601232000 +0000" stop="20260602001000 +0000" channel="385"><title lang="es">Hawai 5.0</title></programme>
+<programme start="20260602001000 +0000" stop="20260602010500 +0000" channel="385"><title lang="es">Criminal Minds</title></programme>
+<programme start="20260602010500 +0000" stop="20260602020000 +0000" channel="385"><title lang="es">Criminal Minds</title></programme>
+<programme start="20260602020000 +0000" stop="20260602025500 +0000" channel="385"><title lang="es">Criminal Minds</title></programme>
+<programme start="20260602025500 +0000" stop="20260602034500 +0000" channel="385"><title lang="es">Wild Cards</title></programme>
+<programme start="20260602034500 +0000" stop="20260602043500 +0000" channel="385"><title lang="es">Wild Cards</title></programme>
+<programme start="20260602043500 +0000" stop="20260602052500 +0000" channel="385"><title lang="es">CSI</title></programme>
+<programme start="20260602052500 +0000" stop="20260602061500 +0000" channel="385"><title lang="es">Hawai 5.0</title></programme>
 <programme start="20260601050000 +0000" stop="20260601053000 +0000" channel="387"><title lang="es">Dulces Sueños</title></programme>
-<programme start="20260531050000 +0000" stop="20260531110000 +0000" channel="439"><title lang="es">The Hit List</title></programme>
-<programme start="20260531110000 +0000" stop="20260531170000 +0000" channel="439"><title lang="es">The Hit List</title></programme>
-<programme start="20260531170000 +0000" stop="20260531230000 +0000" channel="439"><title lang="es">The Hit List</title></programme>
-<programme start="20260531230000 +0000" stop="20260601050000 +0000" channel="439"><title lang="es">The Hit List</title></programme>
+<programme start="20260601053000 +0000" stop="20260601060000 +0000" channel="387"><title lang="es">Abrazo De Buenas Noches</title></programme>
+<programme start="20260601060000 +0000" stop="20260601063000 +0000" channel="387"><title lang="es">Noches De Ensueño</title></programme>
+<programme start="20260601063000 +0000" stop="20260601070000 +0000" channel="387"><title lang="es">La Luna Y Las Estrellas</title></programme>
+<programme start="20260601070000 +0000" stop="20260601073000 +0000" channel="387"><title lang="es">Sonidos Relajantes</title></programme>
+<programme start="20260601073000 +0000" stop="20260601080000 +0000" channel="387"><title lang="es">De La Noche Al Día</title></programme>
+<programme start="20260601080000 +0000" stop="20260601083000 +0000" channel="387"><title lang="es">De La Noche Al Día</title></programme>
+<programme start="20260601083000 +0000" stop="20260601090000 +0000" channel="387"><title lang="es">Amanece Y Brilla Con Los Amigos De BabyTV</title></programme>
+<programme start="20260601090000 +0000" stop="20260601093000 +0000" channel="387"><title lang="es">Amanece Y Brilla Con Los Amigos De BabyTV</title></programme>
+<programme start="20260601093000 +0000" stop="20260601100000 +0000" channel="387"><title lang="es">El Momento De Los Buenos Días</title></programme>
+<programme start="20260601100000 +0000" stop="20260601103000 +0000" channel="387"><title lang="es">El Momento De Los Buenos Días</title></programme>
+<programme start="20260601103000 +0000" stop="20260601110000 +0000" channel="387"><title lang="es">Empieza Tu Día Con Los Amigos De BabyTV</title></programme>
+<programme start="20260601110000 +0000" stop="20260601113000 +0000" channel="387"><title lang="es">Tutti Frutti Y Otras Historias</title></programme>
+<programme start="20260601113000 +0000" stop="20260601120000 +0000" channel="387"><title lang="es">La Clase De Teeny Y Tiny</title></programme>
+<programme start="20260601120000 +0000" stop="20260601123000 +0000" channel="387"><title lang="es">La Hora Del Arte, La Actividad Y La Música</title></programme>
+<programme start="20260601123000 +0000" stop="20260601130000 +0000" channel="387"><title lang="es">Los Primeros Descubrimientos Mágicos</title></programme>
+<programme start="20260601130000 +0000" stop="20260601133000 +0000" channel="387"><title lang="es">El Patio De La Imaginación</title></programme>
+<programme start="20260601133000 +0000" stop="20260601140000 +0000" channel="387"><title lang="es">Explorando Con Babyhood</title></programme>
+<programme start="20260601140000 +0000" stop="20260601143000 +0000" channel="387"><title lang="es">Canciones Y Rimas Y Otras Historias</title></programme>
+<programme start="20260601143000 +0000" stop="20260601150000 +0000" channel="387"><title lang="es">A Bailar</title></programme>
+<programme start="20260601150000 +0000" stop="20260601153000 +0000" channel="387"><title lang="es">La Hora Del Arte, La Actividad Y La Música</title></programme>
+<programme start="20260601153000 +0000" stop="20260601160000 +0000" channel="387"><title lang="es">Los Primeros Descubrimientos Mágicos</title></programme>
+<programme start="20260601160000 +0000" stop="20260601163000 +0000" channel="387"><title lang="es">El Patio De La Imaginación</title></programme>
+<programme start="20260601163000 +0000" stop="20260601170000 +0000" channel="387"><title lang="es">Explorando Con Babyhood</title></programme>
+<programme start="20260601170000 +0000" stop="20260601173000 +0000" channel="387"><title lang="es">Ahoy Y Otras Historias</title></programme>
+<programme start="20260601173000 +0000" stop="20260601180000 +0000" channel="387"><title lang="es">Adivina Qué Esconden Las Cartas</title></programme>
+<programme start="20260601180000 +0000" stop="20260601183000 +0000" channel="387"><title lang="es">La Hora Del Arte, La Actividad Y La Música</title></programme>
+<programme start="20260601183000 +0000" stop="20260601190000 +0000" channel="387"><title lang="es">Los Primeros Descubrimientos Mágicos</title></programme>
+<programme start="20260601190000 +0000" stop="20260601193000 +0000" channel="387"><title lang="es">El Patio De La Imaginación</title></programme>
+<programme start="20260601193000 +0000" stop="20260601200000 +0000" channel="387"><title lang="es">Explorando Con Babyhood</title></programme>
+<programme start="20260601200000 +0000" stop="20260601203000 +0000" channel="387"><title lang="es">Descubriendo Con Vegibugs</title></programme>
+<programme start="20260601203000 +0000" stop="20260601210000 +0000" channel="387"><title lang="es">Juega Y Aprende Con Canciones Y Nanas</title></programme>
+<programme start="20260601210000 +0000" stop="20260601213000 +0000" channel="387"><title lang="es">Juegos De Adivinanzas Con Tulli Y Sus Amigos</title></programme>
+<programme start="20260601213000 +0000" stop="20260601220000 +0000" channel="387"><title lang="es">La Hora De La Diversión Y Las Nanas En Familia</title></programme>
+<programme start="20260601220000 +0000" stop="20260601223000 +0000" channel="387"><title lang="es">La Hora De La Diversión Y Las Nanas En Familia</title></programme>
+<programme start="20260601223000 +0000" stop="20260601230000 +0000" channel="387"><title lang="es">La Hora Del Arte, La Actividad Y La Música</title></programme>
+<programme start="20260601230000 +0000" stop="20260601233000 +0000" channel="387"><title lang="es">Música Clásica E Historias Relajantes</title></programme>
+<programme start="20260601233000 +0000" stop="20260602000000 +0000" channel="387"><title lang="es">Cálmate Y Relájate</title></programme>
+<programme start="20260602000000 +0000" stop="20260602003000 +0000" channel="387"><title lang="es">Cálmate Y Relájate</title></programme>
+<programme start="20260602003000 +0000" stop="20260602010000 +0000" channel="387"><title lang="es">Dulces Sueños</title></programme>
+<programme start="20260602010000 +0000" stop="20260602013000 +0000" channel="387"><title lang="es">Dulces Sueños</title></programme>
+<programme start="20260602013000 +0000" stop="20260602020000 +0000" channel="387"><title lang="es">Noches De Ensueño</title></programme>
+<programme start="20260602020000 +0000" stop="20260602023000 +0000" channel="387"><title lang="es">Noches De Ensueño</title></programme>
+<programme start="20260602023000 +0000" stop="20260602030000 +0000" channel="387"><title lang="es">Noches De Ensueño</title></programme>
+<programme start="20260602030000 +0000" stop="20260602033000 +0000" channel="387"><title lang="es">Noches De Ensueño</title></programme>
+<programme start="20260602033000 +0000" stop="20260602040000 +0000" channel="387"><title lang="es">Noches De Ensueño</title></programme>
+<programme start="20260602040000 +0000" stop="20260602043000 +0000" channel="387"><title lang="es">La Luna Y Las Estrellas</title></programme>
+<programme start="20260602043000 +0000" stop="20260602050000 +0000" channel="387"><title lang="es">Las Melodías Nocturnas De BabyTV</title></programme>
+<programme start="20260602050000 +0000" stop="20260602053000 +0000" channel="387"><title lang="es">Dulces Sueños</title></programme>
+<programme start="20260601050000 +0000" stop="20260601053000 +0000" channel="388"><title lang="es">Bbc News</title></programme>
+<programme start="20260601053000 +0000" stop="20260601055500 +0000" channel="388"><title lang="es">Business Today</title></programme>
+<programme start="20260601055500 +0000" stop="20260601060000 +0000" channel="388"><title lang="es">Tech Now</title></programme>
+<programme start="20260601060000 +0000" stop="20260601063000 +0000" channel="388"><title lang="es">Bbc News</title></programme>
+<programme start="20260601063000 +0000" stop="20260601065500 +0000" channel="388"><title lang="es">Business Today</title></programme>
+<programme start="20260601065500 +0000" stop="20260601070000 +0000" channel="388"><title lang="es">Tech Now</title></programme>
+<programme start="20260601070000 +0000" stop="20260601073000 +0000" channel="388"><title lang="es">Bbc News</title></programme>
+<programme start="20260601073000 +0000" stop="20260601080000 +0000" channel="388"><title lang="es">Bbc News</title></programme>
+<programme start="20260601080000 +0000" stop="20260601083000 +0000" channel="388"><title lang="es">Bbc News</title></programme>
+<programme start="20260601083000 +0000" stop="20260601085500 +0000" channel="388"><title lang="es">Bbc News</title></programme>
+<programme start="20260601085500 +0000" stop="20260601090000 +0000" channel="388"><title lang="es">Tech Now</title></programme>
+<programme start="20260601090000 +0000" stop="20260601093000 +0000" channel="388"><title lang="es">Bbc News</title></programme>
+<programme start="20260601093000 +0000" stop="20260601100000 +0000" channel="388"><title lang="es">Bbc News</title></programme>
+<programme start="20260601100000 +0000" stop="20260601103000 +0000" channel="388"><title lang="es">Bbc News</title></programme>
+<programme start="20260601103000 +0000" stop="20260601104500 +0000" channel="388"><title lang="es">Business Today</title></programme>
+<programme start="20260601104500 +0000" stop="20260601105500 +0000" channel="388"><title lang="es">Bbc News</title></programme>
+<programme start="20260601105500 +0000" stop="20260601110000 +0000" channel="388"><title lang="es">Tech Now</title></programme>
+<programme start="20260601110000 +0000" stop="20260601113000 +0000" channel="388"><title lang="es">Bbc News Now</title></programme>
+<programme start="20260601113000 +0000" stop="20260601120000 +0000" channel="388"><title lang="es">Bbc News Now</title></programme>
+<programme start="20260601120000 +0000" stop="20260601123000 +0000" channel="388"><title lang="es">Bbc News Now</title></programme>
+<programme start="20260601123000 +0000" stop="20260601125500 +0000" channel="388"><title lang="es">Bbc News Now</title></programme>
+<programme start="20260601125500 +0000" stop="20260601130000 +0000" channel="388"><title lang="es">Tech Now</title></programme>
+<programme start="20260601130000 +0000" stop="20260601133000 +0000" channel="388"><title lang="es">Bbc News Now</title></programme>
+<programme start="20260601133000 +0000" stop="20260601134500 +0000" channel="388"><title lang="es">Business Today</title></programme>
+<programme start="20260601134500 +0000" stop="20260601140000 +0000" channel="388"><title lang="es">Bbc News Now</title></programme>
+<programme start="20260601140000 +0000" stop="20260601143000 +0000" channel="388"><title lang="es">Unspun World With John Simpson</title></programme>
+<programme start="20260601143000 +0000" stop="20260601150000 +0000" channel="388"><title lang="es">Unspun World With John Simpson</title></programme>
+<programme start="20260601150000 +0000" stop="20260601153000 +0000" channel="388"><title lang="es">Unspun World With John Simpson</title></programme>
+<programme start="20260601153000 +0000" stop="20260601154500 +0000" channel="388"><title lang="es">Business Today</title></programme>
+<programme start="20260601154500 +0000" stop="20260601155500 +0000" channel="388"><title lang="es">Unspun World With John Simpson</title></programme>
+<programme start="20260601155500 +0000" stop="20260601160000 +0000" channel="388"><title lang="es">Tech Now</title></programme>
+<programme start="20260601160000 +0000" stop="20260601163000 +0000" channel="388"><title lang="es">Unspun World With John Simpson</title></programme>
+<programme start="20260601163000 +0000" stop="20260601170000 +0000" channel="388"><title lang="es">Focus On Africa</title></programme>
+<programme start="20260601170000 +0000" stop="20260601173000 +0000" channel="388"><title lang="es">The World Today With Maryam Moshiri</title></programme>
+<programme start="20260601173000 +0000" stop="20260601174500 +0000" channel="388"><title lang="es">The Iran War Today</title></programme>
+<programme start="20260601174500 +0000" stop="20260601180000 +0000" channel="388"><title lang="es">The World Today With Maryam Moshiri</title></programme>
+<programme start="20260601180000 +0000" stop="20260601183000 +0000" channel="388"><title lang="es">The World Today With Maryam Moshiri</title></programme>
+<programme start="20260601183000 +0000" stop="20260601185500 +0000" channel="388"><title lang="es">The World Today With Maryam Moshiri</title></programme>
+<programme start="20260601185500 +0000" stop="20260601190000 +0000" channel="388"><title lang="es">Tech Now</title></programme>
+<programme start="20260601190000 +0000" stop="20260601193000 +0000" channel="388"><title lang="es">The Context Usa</title></programme>
+<programme start="20260601193000 +0000" stop="20260601200000 +0000" channel="388"><title lang="es">The Context Usa</title></programme>
+<programme start="20260601200000 +0000" stop="20260601203000 +0000" channel="388"><title lang="es">The Context</title></programme>
+<programme start="20260601203000 +0000" stop="20260601205500 +0000" channel="388"><title lang="es">The Context</title></programme>
+<programme start="20260601205500 +0000" stop="20260601210000 +0000" channel="388"><title lang="es">Tech Now</title></programme>
+<programme start="20260601210000 +0000" stop="20260601213000 +0000" channel="388"><title lang="es">Bbc World News America</title></programme>
+<programme start="20260601213000 +0000" stop="20260601220000 +0000" channel="388"><title lang="es">Bbc World News America</title></programme>
+<programme start="20260601220000 +0000" stop="20260601230000 +0000" channel="388"><title lang="es">Bbc World News America</title></programme>
+<programme start="20260601230000 +0000" stop="20260601233000 +0000" channel="388"><title lang="es">Bbc News</title></programme>
+<programme start="20260601233000 +0000" stop="20260602000000 +0000" channel="388"><title lang="es">Ai Decoded</title></programme>
+<programme start="20260602000000 +0000" stop="20260602003000 +0000" channel="388"><title lang="es">Bbc News</title></programme>
+<programme start="20260602003000 +0000" stop="20260602010000 +0000" channel="388"><title lang="es">Talking Business</title></programme>
+<programme start="20260602010000 +0000" stop="20260602013000 +0000" channel="388"><title lang="es">Newsday</title></programme>
+<programme start="20260602013000 +0000" stop="20260602014500 +0000" channel="388"><title lang="es">Business Today</title></programme>
+<programme start="20260602014500 +0000" stop="20260602020000 +0000" channel="388"><title lang="es">Bbc Sport</title></programme>
+<programme start="20260602020000 +0000" stop="20260602023000 +0000" channel="388"><title lang="es">Newsday</title></programme>
+<programme start="20260602023000 +0000" stop="20260602024500 +0000" channel="388"><title lang="es">Business Today</title></programme>
+<programme start="20260602024500 +0000" stop="20260602030000 +0000" channel="388"><title lang="es">Bbc Sport</title></programme>
+<programme start="20260602030000 +0000" stop="20260602033000 +0000" channel="388"><title lang="es">Newsday</title></programme>
+<programme start="20260602033000 +0000" stop="20260602034500 +0000" channel="388"><title lang="es">Business Today</title></programme>
+<programme start="20260602034500 +0000" stop="20260602040000 +0000" channel="388"><title lang="es">Bbc Sport</title></programme>
+<programme start="20260602040000 +0000" stop="20260602043000 +0000" channel="388"><title lang="es">Bbc News</title></programme>
+<programme start="20260602043000 +0000" stop="20260602050000 +0000" channel="388"><title lang="es">Business Today</title></programme>
+<programme start="20260602050000 +0000" stop="20260602053000 +0000" channel="388"><title lang="es">Bbc News</title></programme>
+<programme start="20260601052300 +0000" stop="20260601053000 +0000" channel="390"><title lang="es">Pocoyó</title></programme>
+<programme start="20260601053000 +0000" stop="20260601053800 +0000" channel="390"><title lang="es">Pocoyó</title></programme>
+<programme start="20260601053800 +0000" stop="20260601054500 +0000" channel="390"><title lang="es">Pocoyo Season 5</title></programme>
+<programme start="20260601054500 +0000" stop="20260601055200 +0000" channel="390"><title lang="es">Pocoyó</title></programme>
+<programme start="20260601055200 +0000" stop="20260601055900 +0000" channel="390"><title lang="es">Pocoyó</title></programme>
+<programme start="20260601055900 +0000" stop="20260601061200 +0000" channel="390"><title lang="es">Blippi</title></programme>
+<programme start="20260601061200 +0000" stop="20260601062500 +0000" channel="390"><title lang="es">Blippi</title></programme>
+<programme start="20260601062500 +0000" stop="20260601062800 +0000" channel="390"><title lang="es">Blippi</title></programme>
+<programme start="20260601062800 +0000" stop="20260601063200 +0000" channel="390"><title lang="es">Blippi</title></programme>
+<programme start="20260601063200 +0000" stop="20260601063500 +0000" channel="390"><title lang="es">Blippi Wonders</title></programme>
+<programme start="20260601063500 +0000" stop="20260601063900 +0000" channel="390"><title lang="es">Blippi</title></programme>
+<programme start="20260601063900 +0000" stop="20260601064200 +0000" channel="390"><title lang="es">Blippi Wonders</title></programme>
+<programme start="20260601064200 +0000" stop="20260601064500 +0000" channel="390"><title lang="es">Blippi</title></programme>
+<programme start="20260601064500 +0000" stop="20260601064900 +0000" channel="390"><title lang="es">Blippi Wonders</title></programme>
+<programme start="20260601064900 +0000" stop="20260601065200 +0000" channel="390"><title lang="es">Blippi Wonders</title></programme>
+<programme start="20260601065200 +0000" stop="20260601065600 +0000" channel="390"><title lang="es">Blippi Wonders</title></programme>
+<programme start="20260601065600 +0000" stop="20260601065900 +0000" channel="390"><title lang="es">Blippi</title></programme>
+<programme start="20260601065900 +0000" stop="20260601071500 +0000" channel="390"><title lang="es">Meekah</title></programme>
+<programme start="20260601071500 +0000" stop="20260601073000 +0000" channel="390"><title lang="es">Meekah</title></programme>
+<programme start="20260601073000 +0000" stop="20260601074300 +0000" channel="390"><title lang="es">Meekah</title></programme>
+<programme start="20260601074300 +0000" stop="20260601080100 +0000" channel="390"><title lang="es">Meekah</title></programme>
+<programme start="20260601080100 +0000" stop="20260601080800 +0000" channel="390"><title lang="es">Grizzy And The Lemmings</title></programme>
+<programme start="20260601080800 +0000" stop="20260601081500 +0000" channel="390"><title lang="es">Grizzy Y The Lemmings</title></programme>
+<programme start="20260601081500 +0000" stop="20260601082200 +0000" channel="390"><title lang="es">Grizzy And The Lemmings</title></programme>
+<programme start="20260601082200 +0000" stop="20260601082900 +0000" channel="390"><title lang="es">Grizzy And The Lemmings</title></programme>
+<programme start="20260601082900 +0000" stop="20260601083700 +0000" channel="390"><title lang="es">Grizzy And The Lemmings</title></programme>
+<programme start="20260601083700 +0000" stop="20260601084400 +0000" channel="390"><title lang="es">Grizzy Y The Lemmings</title></programme>
+<programme start="20260601084400 +0000" stop="20260601085100 +0000" channel="390"><title lang="es">Grizzy And The Lemmings</title></programme>
+<programme start="20260601085100 +0000" stop="20260601085800 +0000" channel="390"><title lang="es">Grizzy Y The Lemmings</title></programme>
+<programme start="20260601085800 +0000" stop="20260601090900 +0000" channel="390"><title lang="es">Hey Fuzzy Yellow</title></programme>
+<programme start="20260601090900 +0000" stop="20260601092000 +0000" channel="390"><title lang="es">Hey Fuzzy Yellow</title></programme>
+<programme start="20260601092000 +0000" stop="20260601093300 +0000" channel="390"><title lang="es">Hey Fuzzy Yellow</title></programme>
+<programme start="20260601093300 +0000" stop="20260601094400 +0000" channel="390"><title lang="es">Hey Fuzzy Yellow</title></programme>
+<programme start="20260601094400 +0000" stop="20260601095500 +0000" channel="390"><title lang="es">Hey Fuzzy Yellow</title></programme>
+<programme start="20260601095500 +0000" stop="20260601095900 +0000" channel="390"><title lang="es">Morphle</title></programme>
+<programme start="20260601095900 +0000" stop="20260601100200 +0000" channel="390"><title lang="es">Morphle</title></programme>
+<programme start="20260601100200 +0000" stop="20260601100500 +0000" channel="390"><title lang="es">Morphle</title></programme>
+<programme start="20260601100500 +0000" stop="20260601100900 +0000" channel="390"><title lang="es">Morphle</title></programme>
+<programme start="20260601100900 +0000" stop="20260601101200 +0000" channel="390"><title lang="es">Morphle</title></programme>
+<programme start="20260601101200 +0000" stop="20260601101600 +0000" channel="390"><title lang="es">Morphle</title></programme>
+<programme start="20260601101600 +0000" stop="20260601101900 +0000" channel="390"><title lang="es">Morphle</title></programme>
+<programme start="20260601101900 +0000" stop="20260601102300 +0000" channel="390"><title lang="es">Morphle</title></programme>
+<programme start="20260601102300 +0000" stop="20260601102700 +0000" channel="390"><title lang="es">Morphle</title></programme>
+<programme start="20260601102700 +0000" stop="20260601103100 +0000" channel="390"><title lang="es">Morphle</title></programme>
+<programme start="20260601103100 +0000" stop="20260601103400 +0000" channel="390"><title lang="es">Morphle</title></programme>
+<programme start="20260601103400 +0000" stop="20260601103800 +0000" channel="390"><title lang="es">Morphle</title></programme>
+<programme start="20260601103800 +0000" stop="20260601104100 +0000" channel="390"><title lang="es">Morphle</title></programme>
+<programme start="20260601104100 +0000" stop="20260601104400 +0000" channel="390"><title lang="es">Morphle</title></programme>
+<programme start="20260601104400 +0000" stop="20260601104800 +0000" channel="390"><title lang="es">Morphle</title></programme>
+<programme start="20260601104800 +0000" stop="20260601105100 +0000" channel="390"><title lang="es">Morphle</title></programme>
+<programme start="20260601105100 +0000" stop="20260601105400 +0000" channel="390"><title lang="es">Morphle</title></programme>
+<programme start="20260601105400 +0000" stop="20260601110000 +0000" channel="390"><title lang="es">Morphle</title></programme>
+<programme start="20260601110000 +0000" stop="20260601110700 +0000" channel="390"><title lang="es">Hey Duggee</title></programme>
+<programme start="20260601110700 +0000" stop="20260601111400 +0000" channel="390"><title lang="es">Hey Duggee</title></programme>
+<programme start="20260601111400 +0000" stop="20260601112100 +0000" channel="390"><title lang="es">Hey Duggee</title></programme>
+<programme start="20260601112100 +0000" stop="20260601112900 +0000" channel="390"><title lang="es">Hey Duggee</title></programme>
+<programme start="20260601112900 +0000" stop="20260601113600 +0000" channel="390"><title lang="es">Hey Duggee</title></programme>
+<programme start="20260601113600 +0000" stop="20260601114800 +0000" channel="390"><title lang="es">Bea Y Sus Bloques</title></programme>
+<programme start="20260601114800 +0000" stop="20260601120100 +0000" channel="390"><title lang="es">Bea Y Sus Bloques</title></programme>
+<programme start="20260601120100 +0000" stop="20260601121300 +0000" channel="390"><title lang="es">Meka Builders</title></programme>
+<programme start="20260601121300 +0000" stop="20260601122600 +0000" channel="390"><title lang="es">Meka Builders</title></programme>
+<programme start="20260601122600 +0000" stop="20260601123300 +0000" channel="390"><title lang="es">La Araña Lucas</title></programme>
+<programme start="20260601123300 +0000" stop="20260601124000 +0000" channel="390"><title lang="es">La Araña Lucas</title></programme>
+<programme start="20260601124000 +0000" stop="20260601124800 +0000" channel="390"><title lang="es">La Araña Lucas</title></programme>
+<programme start="20260601124800 +0000" stop="20260601125500 +0000" channel="390"><title lang="es">La Araña Lucas</title></programme>
+<programme start="20260601125500 +0000" stop="20260601130300 +0000" channel="390"><title lang="es">La Araña Lucas</title></programme>
+<programme start="20260601130300 +0000" stop="20260601131400 +0000" channel="390"><title lang="es">Bugs Y Sus Amigos A La Obra</title></programme>
+<programme start="20260601131400 +0000" stop="20260601132600 +0000" channel="390"><title lang="es">Bugs Y Sus Amigos A La Obra</title></programme>
+<programme start="20260601132600 +0000" stop="20260601133700 +0000" channel="390"><title lang="es">Bugs Y Sus Amigos A La Obra</title></programme>
+<programme start="20260601133700 +0000" stop="20260601134900 +0000" channel="390"><title lang="es">Bugs Y Sus Amigos A La Obra</title></programme>
+<programme start="20260601134900 +0000" stop="20260601135500 +0000" channel="390"><title lang="es">Cuquin</title></programme>
+<programme start="20260601135500 +0000" stop="20260601140100 +0000" channel="390"><title lang="es">Cuquin</title></programme>
+<programme start="20260601140100 +0000" stop="20260601143600 +0000" channel="390"><title lang="es">El Origen Secreto De Los Batwheels</title></programme>
+<programme start="20260601143600 +0000" stop="20260601144700 +0000" channel="390"><title lang="es">Batwheels</title></programme>
+<programme start="20260601144700 +0000" stop="20260601145400 +0000" channel="390"><title lang="es">Mundo Bita Tv Shorts</title></programme>
+<programme start="20260601145400 +0000" stop="20260601150200 +0000" channel="390"><title lang="es">Mundo Bita Tv Shorts</title></programme>
+<programme start="20260601150200 +0000" stop="20260601150900 +0000" channel="390"><title lang="es">Grizzy And The Lemmings</title></programme>
+<programme start="20260601150900 +0000" stop="20260601151600 +0000" channel="390"><title lang="es">Grizzy Y The Lemmings</title></programme>
+<programme start="20260601151600 +0000" stop="20260601152300 +0000" channel="390"><title lang="es">Grizzy And The Lemmings</title></programme>
+<programme start="20260601152300 +0000" stop="20260601153000 +0000" channel="390"><title lang="es">Grizzy Y The Lemmings</title></programme>
+<programme start="20260601153000 +0000" stop="20260601153700 +0000" channel="390"><title lang="es">Grizzy And The Lemmings</title></programme>
+<programme start="20260601153700 +0000" stop="20260601154500 +0000" channel="390"><title lang="es">Grizzy And The Lemmings</title></programme>
+<programme start="20260601154500 +0000" stop="20260601160500 +0000" channel="390"><title lang="es">Blippi</title></programme>
+<programme start="20260601160500 +0000" stop="20260601161200 +0000" channel="390"><title lang="es">Pocoyó</title></programme>
+<programme start="20260601161200 +0000" stop="20260601161900 +0000" channel="390"><title lang="es">Pocoyó</title></programme>
+<programme start="20260601161900 +0000" stop="20260601162600 +0000" channel="390"><title lang="es">Pocoyó</title></programme>
+<programme start="20260601162600 +0000" stop="20260601163300 +0000" channel="390"><title lang="es">Pocoyó</title></programme>
+<programme start="20260601163300 +0000" stop="20260601164600 +0000" channel="390"><title lang="es">Creciendo Con La Gallina Pintadita</title></programme>
+<programme start="20260601164600 +0000" stop="20260601165300 +0000" channel="390"><title lang="es">Mundo Bita Tv Shorts</title></programme>
+<programme start="20260601165300 +0000" stop="20260601170000 +0000" channel="390"><title lang="es">Mundo Bita Tv Shorts</title></programme>
+<programme start="20260601170000 +0000" stop="20260601171100 +0000" channel="390"><title lang="es">Bugs Y Sus Amigos A La Obra</title></programme>
+<programme start="20260601171100 +0000" stop="20260601172200 +0000" channel="390"><title lang="es">Bugs Y Sus Amigos A La Obra</title></programme>
+<programme start="20260601172200 +0000" stop="20260601173400 +0000" channel="390"><title lang="es">Bugs Y Sus Amigos A La Obra</title></programme>
+<programme start="20260601173400 +0000" stop="20260601174500 +0000" channel="390"><title lang="es">Batwheels</title></programme>
+<programme start="20260601174500 +0000" stop="20260601175700 +0000" channel="390"><title lang="es">Batwheels</title></programme>
+<programme start="20260601175700 +0000" stop="20260601180300 +0000" channel="390"><title lang="es">Cuquin</title></programme>
+<programme start="20260601180300 +0000" stop="20260601180900 +0000" channel="390"><title lang="es">Cuquin</title></programme>
+<programme start="20260601180900 +0000" stop="20260601181500 +0000" channel="390"><title lang="es">Cleo Y Cuquín</title></programme>
+<programme start="20260601181500 +0000" stop="20260601183900 +0000" channel="390"><title lang="es">La Casa De Muñecas De Gabby</title></programme>
+<programme start="20260601183900 +0000" stop="20260601185000 +0000" channel="390"><title lang="es">Hey Fuzzy Yellow</title></programme>
+<programme start="20260601185000 +0000" stop="20260601190100 +0000" channel="390"><title lang="es">Hey Fuzzy Yellow</title></programme>
+<programme start="20260601190100 +0000" stop="20260601190800 +0000" channel="390"><title lang="es">Booba</title></programme>
+<programme start="20260601190800 +0000" stop="20260601191500 +0000" channel="390"><title lang="es">Booba</title></programme>
+<programme start="20260601191500 +0000" stop="20260601192300 +0000" channel="390"><title lang="es">La Araña Lucas</title></programme>
+<programme start="20260601192300 +0000" stop="20260601193000 +0000" channel="390"><title lang="es">La Araña Lucas</title></programme>
+<programme start="20260601193000 +0000" stop="20260601193800 +0000" channel="390"><title lang="es">La Araña Lucas</title></programme>
+<programme start="20260601193800 +0000" stop="20260601194500 +0000" channel="390"><title lang="es">La Araña Lucas</title></programme>
+<programme start="20260601194500 +0000" stop="20260601195200 +0000" channel="390"><title lang="es">Pocoyó</title></programme>
+<programme start="20260601195200 +0000" stop="20260601195900 +0000" channel="390"><title lang="es">Pocoyó</title></programme>
+<programme start="20260601195900 +0000" stop="20260601201100 +0000" channel="390"><title lang="es">Bugs Y Sus Amigos A La Obra</title></programme>
+<programme start="20260601201100 +0000" stop="20260601202200 +0000" channel="390"><title lang="es">Bugs Y Sus Amigos A La Obra</title></programme>
+<programme start="20260601202200 +0000" stop="20260601203300 +0000" channel="390"><title lang="es">Bugs Y Sus Amigos A La Obra</title></programme>
+<programme start="20260601203300 +0000" stop="20260601204500 +0000" channel="390"><title lang="es">Batwheels</title></programme>
+<programme start="20260601204500 +0000" stop="20260601205600 +0000" channel="390"><title lang="es">Batwheels</title></programme>
+<programme start="20260601205600 +0000" stop="20260601210300 +0000" channel="390"><title lang="es">Hey Duggee</title></programme>
+<programme start="20260601210300 +0000" stop="20260601211100 +0000" channel="390"><title lang="es">Hey Duggee</title></programme>
+<programme start="20260601211100 +0000" stop="20260601211800 +0000" channel="390"><title lang="es">Hey Duggee</title></programme>
+<programme start="20260601211800 +0000" stop="20260601212500 +0000" channel="390"><title lang="es">Hey Duggee</title></programme>
+<programme start="20260601212500 +0000" stop="20260601213200 +0000" channel="390"><title lang="es">Hey Duggee</title></programme>
+<programme start="20260601213200 +0000" stop="20260601214000 +0000" channel="390"><title lang="es">Minibods</title></programme>
+<programme start="20260601214000 +0000" stop="20260601214800 +0000" channel="390"><title lang="es">Minibods</title></programme>
+<programme start="20260601214800 +0000" stop="20260601215600 +0000" channel="390"><title lang="es">Minibods</title></programme>
+<programme start="20260601215600 +0000" stop="20260601221600 +0000" channel="390"><title lang="es">Blippi</title></programme>
+<programme start="20260601221600 +0000" stop="20260601222300 +0000" channel="390"><title lang="es">Mundo Bita</title></programme>
+<programme start="20260601222300 +0000" stop="20260601223000 +0000" channel="390"><title lang="es">Mundo Bita Tv Shorts</title></programme>
+<programme start="20260601223000 +0000" stop="20260601224200 +0000" channel="390"><title lang="es">Creciendo Con La Gallina Pintadita</title></programme>
+<programme start="20260601224200 +0000" stop="20260601225300 +0000" channel="390"><title lang="es">Hey Fuzzy Yellow</title></programme>
+<programme start="20260601225300 +0000" stop="20260601230500 +0000" channel="390"><title lang="es">Hey Fuzzy Yellow</title></programme>
+<programme start="20260601230500 +0000" stop="20260601231600 +0000" channel="390"><title lang="es">Bugs Y Sus Amigos A La Obra</title></programme>
+<programme start="20260601231600 +0000" stop="20260601232700 +0000" channel="390"><title lang="es">Bugs Y Sus Amigos A La Obra</title></programme>
+<programme start="20260601232700 +0000" stop="20260601234900 +0000" channel="390"><title lang="es">Batwheels</title></programme>
+<programme start="20260601234900 +0000" stop="20260602000000 +0000" channel="390"><title lang="es">Batwheels</title></programme>
+<programme start="20260602000000 +0000" stop="20260602000700 +0000" channel="390"><title lang="es">Mundo Bita Tv Shorts</title></programme>
+<programme start="20260602000700 +0000" stop="20260602001400 +0000" channel="390"><title lang="es">Mundo Bita: Imagínate</title></programme>
+<programme start="20260602001400 +0000" stop="20260602002100 +0000" channel="390"><title lang="es">Pocoyó</title></programme>
+<programme start="20260602002100 +0000" stop="20260602002800 +0000" channel="390"><title lang="es">Pocoyó</title></programme>
+<programme start="20260602002800 +0000" stop="20260602003600 +0000" channel="390"><title lang="es">Pocoyó</title></programme>
+<programme start="20260602003600 +0000" stop="20260602004300 +0000" channel="390"><title lang="es">Pocoyó</title></programme>
+<programme start="20260602004300 +0000" stop="20260602005000 +0000" channel="390"><title lang="es">Pocoyó</title></programme>
+<programme start="20260602005000 +0000" stop="20260602005600 +0000" channel="390"><title lang="es">Cuquin</title></programme>
+<programme start="20260602005600 +0000" stop="20260602010300 +0000" channel="390"><title lang="es">Cuquin</title></programme>
+<programme start="20260602010300 +0000" stop="20260602011100 +0000" channel="390"><title lang="es">Lu Y Sus Amigos</title></programme>
+<programme start="20260602011100 +0000" stop="20260602011900 +0000" channel="390"><title lang="es">Lu Y Sus Amigos</title></programme>
+<programme start="20260602011900 +0000" stop="20260602012700 +0000" channel="390"><title lang="es">Lu Y Sus Amigos</title></programme>
+<programme start="20260602012700 +0000" stop="20260602013500 +0000" channel="390"><title lang="es">Lu Y Sus Amigos</title></programme>
+<programme start="20260602013500 +0000" stop="20260602015800 +0000" channel="390"><title lang="es">La Casa De Muñecas De Gabby</title></programme>
+<programme start="20260602015800 +0000" stop="20260602020900 +0000" channel="390"><title lang="es">Bugs Y Sus Amigos A La Obra</title></programme>
+<programme start="20260602020900 +0000" stop="20260602022100 +0000" channel="390"><title lang="es">Bugs Y Sus Amigos A La Obra</title></programme>
+<programme start="20260602022100 +0000" stop="20260602023300 +0000" channel="390"><title lang="es">Bugs Y Sus Amigos A La Obra</title></programme>
+<programme start="20260602023300 +0000" stop="20260602024400 +0000" channel="390"><title lang="es">Bugs Y Sus Amigos A La Obra</title></programme>
+<programme start="20260602024400 +0000" stop="20260602025600 +0000" channel="390"><title lang="es">Bugs Y Sus Amigos A La Obra</title></programme>
+<programme start="20260602025600 +0000" stop="20260602033000 +0000" channel="390"><title lang="es">El Origen Secreto De Los Batwheels</title></programme>
+<programme start="20260602033000 +0000" stop="20260602034100 +0000" channel="390"><title lang="es">Batwheels</title></programme>
+<programme start="20260602034100 +0000" stop="20260602035300 +0000" channel="390"><title lang="es">Batwheels</title></programme>
+<programme start="20260602035300 +0000" stop="20260602040000 +0000" channel="390"><title lang="es">Lucas La Araña</title></programme>
+<programme start="20260602040000 +0000" stop="20260602040800 +0000" channel="390"><title lang="es">La Araña Lucas</title></programme>
+<programme start="20260602040800 +0000" stop="20260602041500 +0000" channel="390"><title lang="es">La Araña Lucas</title></programme>
+<programme start="20260602041500 +0000" stop="20260602042200 +0000" channel="390"><title lang="es">La Araña Lucas</title></programme>
+<programme start="20260602042200 +0000" stop="20260602043100 +0000" channel="390"><title lang="es">La Araña Lucas</title></programme>
+<programme start="20260602043100 +0000" stop="20260602043800 +0000" channel="390"><title lang="es">La Araña Lucas</title></programme>
+<programme start="20260602043800 +0000" stop="20260602044600 +0000" channel="390"><title lang="es">La Araña Lucas</title></programme>
+<programme start="20260602044600 +0000" stop="20260602045300 +0000" channel="390"><title lang="es">La Araña Lucas</title></programme>
+<programme start="20260602045300 +0000" stop="20260602050000 +0000" channel="390"><title lang="es">La Araña Lucas</title></programme>
+<programme start="20260602050000 +0000" stop="20260602050700 +0000" channel="390"><title lang="es">Pocoyó</title></programme>
+<programme start="20260602050700 +0000" stop="20260602051400 +0000" channel="390"><title lang="es">Pocoyó</title></programme>
+<programme start="20260602051400 +0000" stop="20260602052200 +0000" channel="390"><title lang="es">Pocoyó</title></programme>
+<programme start="20260602052200 +0000" stop="20260602053000 +0000" channel="390"><title lang="es">Pocoyó</title></programme>
+<programme start="20260601050000 +0000" stop="20260601060000 +0000" channel="400"><title lang="es">Los Comediantes De La Noche</title></programme>
+<programme start="20260601060000 +0000" stop="20260601080000 +0000" channel="400"><title lang="es">Quién Mató A Patricia Soler?</title></programme>
+<programme start="20260601080000 +0000" stop="20260601085000 +0000" channel="400"><title lang="es">Noticias RCN</title></programme>
+<programme start="20260601085000 +0000" stop="20260601100000 +0000" channel="400"><title lang="es">Canal RCN</title></programme>
+<programme start="20260601100000 +0000" stop="20260601103000 +0000" channel="400"><title lang="es">La Rosa De Guadalupe</title></programme>
+<programme start="20260601103000 +0000" stop="20260601110000 +0000" channel="400"><title lang="es">Salud Para Todos</title></programme>
+<programme start="20260601110000 +0000" stop="20260601123000 +0000" channel="400"><title lang="es">Noticias RCN</title></programme>
+<programme start="20260601123000 +0000" stop="20260601143000 +0000" channel="400"><title lang="es">Mañana Express</title></programme>
+<programme start="20260601143000 +0000" stop="20260601173000 +0000" channel="400"><title lang="es">Buen Día Colombia</title></programme>
+<programme start="20260601173000 +0000" stop="20260601193000 +0000" channel="400"><title lang="es">Noticias RCN</title></programme>
+<programme start="20260601193000 +0000" stop="20260601210000 +0000" channel="400"><title lang="es">Caso Cerrado</title></programme>
+<programme start="20260601210000 +0000" stop="20260601230000 +0000" channel="400"><title lang="es">Colombia vs. Costa Rica (Previo Despedida Selección)</title></programme>
+<programme start="20260601230000 +0000" stop="20260602010000 +0000" channel="400"><title lang="es">Colombia vs. Costa Rica (Despedida Selección)</title></programme>
+<programme start="20260602010000 +0000" stop="20260602020000 +0000" channel="400"><title lang="es">La Rosa De Guadalupe</title></programme>
+<programme start="20260602020000 +0000" stop="20260602033000 +0000" channel="400"><title lang="es">Pa Quererte</title></programme>
+<programme start="20260602033000 +0000" stop="20260602043000 +0000" channel="400"><title lang="es">Enfermeras</title></programme>
+<programme start="20260602043000 +0000" stop="20260602050000 +0000" channel="400"><title lang="es">Noticias RCN</title></programme>
+<programme start="20260602050000 +0000" stop="20260602053000 +0000" channel="400"><title lang="es">Tu Tele</title></programme>
+<programme start="20260601043000 +0000" stop="20260601061500 +0000" channel="402"><title lang="es">Noches De Premier: Mi Gente Linda Mi Gente Bella</title></programme>
+<programme start="20260601061500 +0000" stop="20260601090000 +0000" channel="402"><title lang="es">También Caerás</title></programme>
+<programme start="20260601090000 +0000" stop="20260601110000 +0000" channel="402"><title lang="es">Canal Caracol</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="402"><title lang="es">Canal Caracol</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="402"><title lang="es">Canal Caracol</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="402"><title lang="es">Canal Caracol</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="402"><title lang="es">Canal Caracol</title></programme>
 <programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="439"><title lang="es">The Hit List</title></programme>
-<programme start="20260531050000 +0000" stop="20260531110000 +0000" channel="440"><title lang="es">Riviera Discotheque</title></programme>
-<programme start="20260531110000 +0000" stop="20260531170000 +0000" channel="440"><title lang="es">Riviera Discotheque</title></programme>
-<programme start="20260531170000 +0000" stop="20260531230000 +0000" channel="440"><title lang="es">Riviera Discotheque</title></programme>
-<programme start="20260531230000 +0000" stop="20260601050000 +0000" channel="440"><title lang="es">Riviera Discotheque</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="439"><title lang="es">The Hit List</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="439"><title lang="es">The Hit List</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="439"><title lang="es">The Hit List</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="439"><title lang="es">The Hit List</title></programme>
 <programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="440"><title lang="es">Riviera Discotheque</title></programme>
-<programme start="20260531050000 +0000" stop="20260531110000 +0000" channel="441"><title lang="es">R n´B Classics</title></programme>
-<programme start="20260531110000 +0000" stop="20260531170000 +0000" channel="441"><title lang="es">R n´B Classics</title></programme>
-<programme start="20260531170000 +0000" stop="20260531230000 +0000" channel="441"><title lang="es">R n´B Classics</title></programme>
-<programme start="20260531230000 +0000" stop="20260601050000 +0000" channel="441"><title lang="es">R n´B Classics</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="440"><title lang="es">Riviera Discotheque</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="440"><title lang="es">Riviera Discotheque</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="440"><title lang="es">Riviera Discotheque</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="440"><title lang="es">Riviera Discotheque</title></programme>
 <programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="441"><title lang="es">R n´B Classics</title></programme>
-<programme start="20260531050000 +0000" stop="20260531110000 +0000" channel="442"><title lang="es">Silver Screen</title></programme>
-<programme start="20260531110000 +0000" stop="20260531170000 +0000" channel="442"><title lang="es">Silver Screen</title></programme>
-<programme start="20260531170000 +0000" stop="20260531230000 +0000" channel="442"><title lang="es">Silver Screen</title></programme>
-<programme start="20260531230000 +0000" stop="20260601050000 +0000" channel="442"><title lang="es">Silver Screen</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="441"><title lang="es">R n´B Classics</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="441"><title lang="es">R n´B Classics</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="441"><title lang="es">R n´B Classics</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="441"><title lang="es">R n´B Classics</title></programme>
 <programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="442"><title lang="es">Silver Screen</title></programme>
-<programme start="20260531050000 +0000" stop="20260531110000 +0000" channel="443"><title lang="es">Instrumental</title></programme>
-<programme start="20260531110000 +0000" stop="20260531170000 +0000" channel="443"><title lang="es">Instrumental</title></programme>
-<programme start="20260531170000 +0000" stop="20260531230000 +0000" channel="443"><title lang="es">Instrumental</title></programme>
-<programme start="20260531230000 +0000" stop="20260601050000 +0000" channel="443"><title lang="es">Instrumental</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="442"><title lang="es">Silver Screen</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="442"><title lang="es">Silver Screen</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="442"><title lang="es">Silver Screen</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="442"><title lang="es">Silver Screen</title></programme>
 <programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="443"><title lang="es">Instrumental</title></programme>
-<programme start="20260531050000 +0000" stop="20260531110000 +0000" channel="444"><title lang="es">Latin Jazz</title></programme>
-<programme start="20260531110000 +0000" stop="20260531170000 +0000" channel="444"><title lang="es">Latin Jazz</title></programme>
-<programme start="20260531170000 +0000" stop="20260531230000 +0000" channel="444"><title lang="es">Latin Jazz</title></programme>
-<programme start="20260531230000 +0000" stop="20260601050000 +0000" channel="444"><title lang="es">Latin Jazz</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="443"><title lang="es">Instrumental</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="443"><title lang="es">Instrumental</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="443"><title lang="es">Instrumental</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="443"><title lang="es">Instrumental</title></programme>
 <programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="444"><title lang="es">Latin Jazz</title></programme>
-<programme start="20260531050000 +0000" stop="20260531110000 +0000" channel="445"><title lang="es">Vintage</title></programme>
-<programme start="20260531110000 +0000" stop="20260531170000 +0000" channel="445"><title lang="es">Vintage</title></programme>
-<programme start="20260531170000 +0000" stop="20260531230000 +0000" channel="445"><title lang="es">Vintage</title></programme>
-<programme start="20260531230000 +0000" stop="20260601050000 +0000" channel="445"><title lang="es">Vintage</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="444"><title lang="es">Latin Jazz</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="444"><title lang="es">Latin Jazz</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="444"><title lang="es">Latin Jazz</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="444"><title lang="es">Latin Jazz</title></programme>
 <programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="445"><title lang="es">Vintage</title></programme>
-<programme start="20260531050000 +0000" stop="20260531110000 +0000" channel="461"><title lang="es">Rock n Roll</title></programme>
-<programme start="20260531110000 +0000" stop="20260531170000 +0000" channel="461"><title lang="es">Rock n Roll</title></programme>
-<programme start="20260531170000 +0000" stop="20260531230000 +0000" channel="461"><title lang="es">Rock n Roll</title></programme>
-<programme start="20260531230000 +0000" stop="20260601050000 +0000" channel="461"><title lang="es">Rock n Roll</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="445"><title lang="es">Vintage</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="445"><title lang="es">Vintage</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="445"><title lang="es">Vintage</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="445"><title lang="es">Vintage</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="446"><title lang="es">Música Brasileira</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="446"><title lang="es">Música Brasileira</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="446"><title lang="es">Música Brasileira</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="446"><title lang="es">Música Brasileira</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="446"><title lang="es">Música Brasileira</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="447"><title lang="es">Carnaval Brasileiro</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="447"><title lang="es">Carnaval Brasileiro</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="447"><title lang="es">Carnaval Brasileiro</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="447"><title lang="es">Carnaval Brasileiro</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="447"><title lang="es">Carnaval Brasileiro</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="448"><title lang="es">Rock And Pop Brasil</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="448"><title lang="es">Rock And Pop Brasil</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="448"><title lang="es">Rock And Pop Brasil</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="448"><title lang="es">Rock And Pop Brasil</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="448"><title lang="es">Rock And Pop Brasil</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="449"><title lang="es">New Age</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="449"><title lang="es">New Age</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="449"><title lang="es">New Age</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="449"><title lang="es">New Age</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="449"><title lang="es">New Age</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="450"><title lang="es">Rock En Español</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="450"><title lang="es">Rock En Español</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="450"><title lang="es">Rock En Español</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="450"><title lang="es">Rock En Español</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="450"><title lang="es">Rock En Español</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="451"><title lang="es">Mexicana</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="451"><title lang="es">Mexicana</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="451"><title lang="es">Mexicana</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="451"><title lang="es">Mexicana</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="451"><title lang="es">Mexicana</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="452"><title lang="es">Power Hits</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="452"><title lang="es">Power Hits</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="452"><title lang="es">Power Hits</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="452"><title lang="es">Power Hits</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="452"><title lang="es">Power Hits</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="453"><title lang="es">Mariachi</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="453"><title lang="es">Mariachi</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="453"><title lang="es">Mariachi</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="453"><title lang="es">Mariachi</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="453"><title lang="es">Mariachi</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="454"><title lang="es">Opera</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="454"><title lang="es">Opera</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="454"><title lang="es">Opera</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="454"><title lang="es">Opera</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="454"><title lang="es">Opera</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="455"><title lang="es">Big Band Swing</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="455"><title lang="es">Big Band Swing</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="455"><title lang="es">Big Band Swing</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="455"><title lang="es">Big Band Swing</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="455"><title lang="es">Big Band Swing</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="456"><title lang="es">Inolvidable</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="456"><title lang="es">Inolvidable</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="456"><title lang="es">Inolvidable</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="456"><title lang="es">Inolvidable</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="456"><title lang="es">Inolvidable</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="457"><title lang="es">Tango</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="457"><title lang="es">Tango</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="457"><title lang="es">Tango</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="457"><title lang="es">Tango</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="457"><title lang="es">Tango</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="458"><title lang="es">World Beat</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="458"><title lang="es">World Beat</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="458"><title lang="es">World Beat</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="458"><title lang="es">World Beat</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="458"><title lang="es">World Beat</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="459"><title lang="es">Sinfónica</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="459"><title lang="es">Sinfónica</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="459"><title lang="es">Sinfónica</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="459"><title lang="es">Sinfónica</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="459"><title lang="es">Sinfónica</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="460"><title lang="es">Italiana</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="460"><title lang="es">Italiana</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="460"><title lang="es">Italiana</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="460"><title lang="es">Italiana</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="460"><title lang="es">Italiana</title></programme>
 <programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="461"><title lang="es">Rock n Roll</title></programme>
-<programme start="20260531050000 +0000" stop="20260531110000 +0000" channel="462"><title lang="es">Del Caribe</title></programme>
-<programme start="20260531110000 +0000" stop="20260531170000 +0000" channel="462"><title lang="es">Del Caribe</title></programme>
-<programme start="20260531170000 +0000" stop="20260531230000 +0000" channel="462"><title lang="es">Del Caribe</title></programme>
-<programme start="20260531230000 +0000" stop="20260601050000 +0000" channel="462"><title lang="es">Del Caribe</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="461"><title lang="es">Rock n Roll</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="461"><title lang="es">Rock n Roll</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="461"><title lang="es">Rock n Roll</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="461"><title lang="es">Rock n Roll</title></programme>
 <programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="462"><title lang="es">Del Caribe</title></programme>
-<programme start="20260531050000 +0000" stop="20260531110000 +0000" channel="463"><title lang="es">De Las Américas</title></programme>
-<programme start="20260531110000 +0000" stop="20260531170000 +0000" channel="463"><title lang="es">De Las Américas</title></programme>
-<programme start="20260531170000 +0000" stop="20260531230000 +0000" channel="463"><title lang="es">De Las Américas</title></programme>
-<programme start="20260531230000 +0000" stop="20260601050000 +0000" channel="463"><title lang="es">De Las Américas</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="462"><title lang="es">Del Caribe</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="462"><title lang="es">Del Caribe</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="462"><title lang="es">Del Caribe</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="462"><title lang="es">Del Caribe</title></programme>
 <programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="463"><title lang="es">De Las Américas</title></programme>
-<programme start="20260531050000 +0000" stop="20260531110000 +0000" channel="464"><title lang="es">Global Gruv</title></programme>
-<programme start="20260531110000 +0000" stop="20260531170000 +0000" channel="464"><title lang="es">Global Gruv</title></programme>
-<programme start="20260531170000 +0000" stop="20260531230000 +0000" channel="464"><title lang="es">Global Gruv</title></programme>
-<programme start="20260531230000 +0000" stop="20260601050000 +0000" channel="464"><title lang="es">Global Gruv</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="463"><title lang="es">De Las Américas</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="463"><title lang="es">De Las Américas</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="463"><title lang="es">De Las Américas</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="463"><title lang="es">De Las Américas</title></programme>
 <programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="464"><title lang="es">Global Gruv</title></programme>
-<programme start="20260531050000 +0000" stop="20260531110000 +0000" channel="465"><title lang="es">Lounge</title></programme>
-<programme start="20260531110000 +0000" stop="20260531170000 +0000" channel="465"><title lang="es">Lounge</title></programme>
-<programme start="20260531170000 +0000" stop="20260531230000 +0000" channel="465"><title lang="es">Lounge</title></programme>
-<programme start="20260531230000 +0000" stop="20260601050000 +0000" channel="465"><title lang="es">Lounge</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="464"><title lang="es">Global Gruv</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="464"><title lang="es">Global Gruv</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="464"><title lang="es">Global Gruv</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="464"><title lang="es">Global Gruv</title></programme>
 <programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="465"><title lang="es">Lounge</title></programme>
-<programme start="20260531050000 +0000" stop="20260531110000 +0000" channel="466"><title lang="es">Blues</title></programme>
-<programme start="20260531110000 +0000" stop="20260531170000 +0000" channel="466"><title lang="es">Blues</title></programme>
-<programme start="20260531170000 +0000" stop="20260531230000 +0000" channel="466"><title lang="es">Blues</title></programme>
-<programme start="20260531230000 +0000" stop="20260601050000 +0000" channel="466"><title lang="es">Blues</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="465"><title lang="es">Lounge</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="465"><title lang="es">Lounge</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="465"><title lang="es">Lounge</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="465"><title lang="es">Lounge</title></programme>
 <programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="466"><title lang="es">Blues</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="466"><title lang="es">Blues</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="466"><title lang="es">Blues</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="466"><title lang="es">Blues</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="466"><title lang="es">Blues</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="467"><title lang="es">Clásica</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="467"><title lang="es">Clásica</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="467"><title lang="es">Clásica</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="467"><title lang="es">Clásica</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="467"><title lang="es">Clásica</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="468"><title lang="es">Contemporánea</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="468"><title lang="es">Contemporánea</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="468"><title lang="es">Contemporánea</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="468"><title lang="es">Contemporánea</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="468"><title lang="es">Contemporánea</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="469"><title lang="es">Urbano</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="469"><title lang="es">Urbano</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="469"><title lang="es">Urbano</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="469"><title lang="es">Urbano</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="469"><title lang="es">Urbano</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="470"><title lang="es">New Wave</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="470"><title lang="es">New Wave</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="470"><title lang="es">New Wave</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="470"><title lang="es">New Wave</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="470"><title lang="es">New Wave</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="471"><title lang="es">Salsa</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="471"><title lang="es">Salsa</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="471"><title lang="es">Salsa</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="471"><title lang="es">Salsa</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="471"><title lang="es">Salsa</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="472"><title lang="es">Retro Disco</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="472"><title lang="es">Retro Disco</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="472"><title lang="es">Retro Disco</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="472"><title lang="es">Retro Disco</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="472"><title lang="es">Retro Disco</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="473"><title lang="es">Latina</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="473"><title lang="es">Latina</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="473"><title lang="es">Latina</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="473"><title lang="es">Latina</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="473"><title lang="es">Latina</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="474"><title lang="es">U.K. Hits</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="474"><title lang="es">U.K. Hits</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="474"><title lang="es">U.K. Hits</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="474"><title lang="es">U.K. Hits</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="474"><title lang="es">U.K. Hits</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="475"><title lang="es">Piano</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="475"><title lang="es">Piano</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="475"><title lang="es">Piano</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="475"><title lang="es">Piano</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="475"><title lang="es">Piano</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="476"><title lang="es">Jazz</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="476"><title lang="es">Jazz</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="476"><title lang="es">Jazz</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="476"><title lang="es">Jazz</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="476"><title lang="es">Jazz</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="477"><title lang="es">Romancero Latino</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="477"><title lang="es">Romancero Latino</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="477"><title lang="es">Romancero Latino</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="477"><title lang="es">Romancero Latino</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="477"><title lang="es">Romancero Latino</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="478"><title lang="es">Alternativa</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="478"><title lang="es">Alternativa</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="478"><title lang="es">Alternativa</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="478"><title lang="es">Alternativa</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="478"><title lang="es">Alternativa</title></programme>
+<programme start="20260601050000 +0000" stop="20260601110000 +0000" channel="479"><title lang="es">90s Hits</title></programme>
+<programme start="20260601110000 +0000" stop="20260601170000 +0000" channel="479"><title lang="es">90s Hits</title></programme>
+<programme start="20260601170000 +0000" stop="20260601230000 +0000" channel="479"><title lang="es">90s Hits</title></programme>
+<programme start="20260601230000 +0000" stop="20260602050000 +0000" channel="479"><title lang="es">90s Hits</title></programme>
+<programme start="20260602050000 +0000" stop="20260602110000 +0000" channel="479"><title lang="es">90s Hits</title></programme>
 </tv>
