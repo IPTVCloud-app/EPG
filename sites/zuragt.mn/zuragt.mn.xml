@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260615">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260616">
 <channel id="AsianBox.mn@SD"><display-name>AsianBox</display-name><icon src="https://i.imgur.com/WAYZSgx.png"/></channel>
 <channel id="BloombergTVMongolia.mn@SD"><display-name>Bloomberg TV MGL</display-name><icon src="https://i.imgur.com/OuogLHx.png"/></channel>
 <channel id="EdutainmentTV.mn@SD"><display-name>Боловсрол ТВ</display-name><icon src="https://i.imgur.com/0m8t3vh.png"/></channel>
@@ -33,439 +33,212 @@
 <channel id="TV8.mn@SD"><display-name>TV8</display-name><icon src="https://i.imgur.com/EguOdxW.png"/></channel>
 <channel id="TV9.mn@SD"><display-name>TV9</display-name><icon src="https://i.imgur.com/QFteAgd.png"/></channel>
 <channel id="UBS.mn@SD"><display-name>UBS-1</display-name><icon src="https://i.imgur.com/dIRMYYd.png"/></channel>
-<programme start="20260614220000 +0000" stop="20260614220500 +0000" channel="AsianBox.mn@SD"><title lang="mn">Энэ долоо хоногт манай дэлгэцнээ</title></programme>
-<programme start="20260614220500 +0000" stop="20260614225000 +0000" channel="AsianBox.mn@SD"><title lang="mn">&quot;Япон хэлний алсын зайн сургалт&quot; №7</title></programme>
-<programme start="20260614225000 +0000" stop="20260614234000 +0000" channel="AsianBox.mn@SD"><title lang="mn">&quot;Солонгос хэлний алсын зайн сургалт&quot; №15 анхан, дунд шат</title></programme>
-<programme start="20260614234000 +0000" stop="20260615010000 +0000" channel="AsianBox.mn@SD"><title lang="mn">&quot;Ахан дүүс&quot; МОАК 9-р анги</title></programme>
-<programme start="20260615010000 +0000" stop="20260615020500 +0000" channel="AsianBox.mn@SD"><title lang="mn">&quot;Хайрын төлөө&quot; ОАК 4-р анги</title></programme>
-<programme start="20260615020500 +0000" stop="20260615031000 +0000" channel="AsianBox.mn@SD"><title lang="mn">&quot;Зочид буудлын эзэн&quot; ОАК 10-р анги</title></programme>
-<programme start="20260615031000 +0000" stop="20260615044000 +0000" channel="AsianBox.mn@SD"><title lang="mn">&quot;Хуанжу гэг&quot; ОАК 2-р бүлгийн 29, 30-р анги</title></programme>
-<programme start="20260615044000 +0000" stop="20260615055000 +0000" channel="AsianBox.mn@SD"><title lang="mn">&quot;Намайг хайрлаач&quot; ОАК 3-р анги</title></programme>
-<programme start="20260615055000 +0000" stop="20260615072000 +0000" channel="AsianBox.mn@SD"><title lang="mn">&quot;Ахан дүүс&quot; МОАК 9-р анги</title></programme>
-<programme start="20260615072000 +0000" stop="20260615094000 +0000" channel="AsianBox.mn@SD"><title lang="mn">&quot;Их хатны домог&quot; ОАК 64-66-р анги</title></programme>
-<programme start="20260615094000 +0000" stop="20260615110000 +0000" channel="AsianBox.mn@SD"><title lang="mn">&quot;Хайрын төлөө&quot; ОАК 5-р анги</title></programme>
-<programme start="20260615110000 +0000" stop="20260615121500 +0000" channel="AsianBox.mn@SD"><title lang="mn">&quot;Зочид буудлын эзэн&quot; ОАК 11-р анги</title></programme>
-<programme start="20260615121500 +0000" stop="20260615135500 +0000" channel="AsianBox.mn@SD"><title lang="mn">&quot;Хуанжу гэг&quot; ОАК 2-р бүлгийн 31, 32-р анги</title></programme>
-<programme start="20260615135500 +0000" stop="20260615151500 +0000" channel="AsianBox.mn@SD"><title lang="mn">&quot;Намайг хайрлаач&quot; ОАК 4-р анги</title></programme>
-<programme start="20260615151500 +0000" stop="20260615163000 +0000" channel="AsianBox.mn@SD"><title lang="mn">&quot;Ахан дүүс&quot; МОАК 10-р анги</title></programme>
-<programme start="20260615163000 +0000" stop="20260615173000 +0000" channel="AsianBox.mn@SD"><title lang="mn">&quot;Зочид буудлын эзэн&quot; ОАК 11-р анги</title></programme>
-<programme start="20260615173000 +0000" stop="20260615190000 +0000" channel="AsianBox.mn@SD"><title lang="mn">&quot;Хуанжу гэг&quot; ОАК 2-р бүлгийн 31, 32-р анги</title></programme>
-<programme start="20260615190000 +0000" stop="20260615193000 +0000" channel="AsianBox.mn@SD"><title lang="mn">Эфир завсарлага</title></programme>
-<programme start="20260615000000 +0000" stop="20260615010000 +0000" channel="C1.mn@SD"><title lang="mn">&quot;Эзел&quot; ОАК 102-р анги /давталт/</title></programme>
-<programme start="20260615010000 +0000" stop="20260615013000 +0000" channel="C1.mn@SD"><title lang="mn">&quot;Бизнесийнамжилт&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615013000 +0000" stop="20260615020000 +0000" channel="C1.mn@SD"><title lang="mn">&quot;Абби Хатчер&quot; 48-р ангиХүүхэлдэйн кино</title></programme>
-<programme start="20260615020000 +0000" stop="20260615030000 +0000" channel="C1.mn@SD"><title lang="mn">&quot;Холбоонымөрдөхтовчоо&quot; ОАК S4 2-р анги /давталт/</title></programme>
-<programme start="20260615030000 +0000" stop="20260615043000 +0000" channel="C1.mn@SD"><title lang="mn">&quot;Бинисэхдуртай&quot; МУСК</title></programme>
-<programme start="20260615043000 +0000" stop="20260615053000 +0000" channel="C1.mn@SD"><title lang="mn">&quot;Гайхамшигтжижигхэнхүмүүс&quot; Шоу S1 №5 /давталт/</title></programme>
-<programme start="20260615053000 +0000" stop="20260615055000 +0000" channel="C1.mn@SD"><title lang="mn">&quot;Моралаш&quot; Хүүхдийнцуврал</title></programme>
-<programme start="20260615055000 +0000" stop="20260615060000 +0000" channel="C1.mn@SD"><title lang="mn">Нүүдэлчдийнөвсоёл</title></programme>
-<programme start="20260615060000 +0000" stop="20260615065000 +0000" channel="C1.mn@SD"><title lang="mn">&quot;Girls&quot; МУСК S3 6-р анги</title></programme>
-<programme start="20260615065000 +0000" stop="20260615070000 +0000" channel="C1.mn@SD"><title lang="mn">Биодокторүзүүлжбайна</title></programme>
-<programme start="20260615070000 +0000" stop="20260615073000 +0000" channel="C1.mn@SD"><title lang="mn">&quot;Бизнесийнамжилт&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615073000 +0000" stop="20260615082000 +0000" channel="C1.mn@SD"><title lang="mn">&quot;Минийэрдэнэ&quot; ХОАК 14-р анги</title></programme>
-<programme start="20260615082000 +0000" stop="20260615091000 +0000" channel="C1.mn@SD"><title lang="mn">&quot;Абби Хатчер&quot; 47,48-р ангиХүүхэлдэйн кино</title></programme>
-<programme start="20260615091000 +0000" stop="20260615100000 +0000" channel="C1.mn@SD"><title lang="mn">&quot;Моралаш&quot; Хүүхдийнцуврал</title></programme>
-<programme start="20260615100000 +0000" stop="20260615110000 +0000" channel="C1.mn@SD"><title lang="mn">&quot;Эзел&quot; ОАК 103-р анги</title></programme>
-<programme start="20260615110000 +0000" stop="20260615111000 +0000" channel="C1.mn@SD"><title lang="mn">C1 Зураглал</title></programme>
-<programme start="20260615111000 +0000" stop="20260615112000 +0000" channel="C1.mn@SD"><title lang="mn">Биодокторүзүүлжбайна</title></programme>
-<programme start="20260615112000 +0000" stop="20260615113000 +0000" channel="C1.mn@SD"><title lang="mn">&quot;Таныэрүүлмэндэд&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615113000 +0000" stop="20260615123000 +0000" channel="C1.mn@SD"><title lang="mn">&quot;Энтони Бурден-Үлмэдэгдэхгазаророн&quot; Баримтат кино 1-р анги</title></programme>
-<programme start="20260615123000 +0000" stop="20260615133000 +0000" channel="C1.mn@SD"><title lang="mn">&quot;Аялалболамьдрал&quot; аялалыннэвтрүүлэг №9 /давталт/</title></programme>
-<programme start="20260615133000 +0000" stop="20260615143000 +0000" channel="C1.mn@SD"><title lang="mn">&quot;Холбоонымөрдөхтовчоо&quot; ОАК S4 3-р анги</title></programme>
-<programme start="20260615143000 +0000" stop="20260615153000 +0000" channel="C1.mn@SD"><title lang="mn">&quot;Эзел&quot; ОАК 103-р анги /давталт/</title></programme>
-<programme start="20260615153000 +0000" stop="20260615160000 +0000" channel="C1.mn@SD"><title lang="mn">Эфирзавсарласан</title></programme>
-<programme start="20260615000000 +0000" stop="20260615003000 +0000" channel="CentralTV.mn@SD"><title lang="mn">Ройтерс мэдээллийн хөтөлбөр /Давталт/</title></programme>
-<programme start="20260615003000 +0000" stop="20260615004500 +0000" channel="CentralTV.mn@SD"><title lang="mn">&quot;Арван хоёр жилийн үлгэр&quot; - Хулгана, Үхэр, Бар /3+/</title></programme>
-<programme start="20260615004500 +0000" stop="20260615010000 +0000" channel="CentralTV.mn@SD"><title lang="mn">&quot;Бяцхан Томчууд&quot; хүүхдийн нэвтрүүлэг /3+/</title></programme>
-<programme start="20260615010000 +0000" stop="20260615014000 +0000" channel="CentralTV.mn@SD"><title lang="mn">&quot;Мөнх өв&quot; баримтат цуврал</title></programme>
-<programme start="20260615014000 +0000" stop="20260615021000 +0000" channel="CentralTV.mn@SD"><title lang="mn">&quot;Сайн уу, Даггий?&quot; хүүхэлдэйн кино /3+/</title></programme>
-<programme start="20260615021000 +0000" stop="20260615030000 +0000" channel="CentralTV.mn@SD"><title lang="mn">ДВ-&quot;Нэг дэлхий&quot; нэвтрүүлэг /Давталт/</title></programme>
-<programme start="20260615030000 +0000" stop="20260615042000 +0000" channel="CentralTV.mn@SD"><title lang="mn">&quot;Диваажингийн шат&quot; ОАК - 4 /Давталт/</title></programme>
-<programme start="20260615042000 +0000" stop="20260615053000 +0000" channel="CentralTV.mn@SD"><title lang="mn">&quot;Том тоо&quot; эдийн засгийн нэвтрүүлэг - 7</title></programme>
-<programme start="20260615053000 +0000" stop="20260615070000 +0000" channel="CentralTV.mn@SD"><title lang="mn">&quot;Eny&apos;s Masterclass&quot; загварын нэвтрүүлэг - 9</title></programme>
-<programme start="20260615070000 +0000" stop="20260615082000 +0000" channel="CentralTV.mn@SD"><title lang="mn">Надаас битгий асуу Монголчуудаас асуу</title></programme>
-<programme start="20260615082000 +0000" stop="20260615090000 +0000" channel="CentralTV.mn@SD"><title lang="mn">&quot;Гайхамшигт Монгол&quot; баримтат цуврал</title></programme>
-<programme start="20260615090000 +0000" stop="20260615093000 +0000" channel="CentralTV.mn@SD"><title lang="mn">Монгол Мазаалай нэвтрүүлэг</title></programme>
-<programme start="20260615093000 +0000" stop="20260615100000 +0000" channel="CentralTV.mn@SD"><title lang="mn">&quot;Лу болон түүний найзууд&quot; хүүхэлдэйн кино - 13,14 /3+/</title></programme>
-<programme start="20260615100000 +0000" stop="20260615110000 +0000" channel="CentralTV.mn@SD"><title lang="mn">Хөдөөгийн сэргэлт</title></programme>
-<programme start="20260615110000 +0000" stop="20260615114000 +0000" channel="CentralTV.mn@SD"><title lang="mn">Ройтерс мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260615114000 +0000" stop="20260615120000 +0000" channel="CentralTV.mn@SD"><title lang="mn">&quot;Never too small&quot; архитектурын нэвтрүүлэг</title></programme>
-<programme start="20260615120000 +0000" stop="20260615130000 +0000" channel="CentralTV.mn@SD"><title lang="mn">&quot;Монголын амт&quot; баримтат цуврал</title></programme>
-<programme start="20260615130000 +0000" stop="20260615143000 +0000" channel="CentralTV.mn@SD"><title lang="mn">&quot;Диваажингийн шат&quot; ОАК - 5</title></programme>
-<programme start="20260615143000 +0000" stop="20260615163000 +0000" channel="CentralTV.mn@SD"><title lang="mn">&quot;Тэнгисийн эрэг дээрх 24/7&quot; болзооны нэвтрүүлэг 2-5 /18+/</title></programme>
-<programme start="20260615163000 +0000" stop="20260615170000 +0000" channel="CentralTV.mn@SD"><title lang="mn">&quot;Улаанбаатарын үдэш&quot; жазз тоглолт</title></programme>
-<programme start="20260615170000 +0000" stop="20260615173000 +0000" channel="CentralTV.mn@SD"><title lang="mn">Эфир завсарласан</title></programme>
-<programme start="20260614230000 +0000" stop="20260615020000 +0000" channel="EcoTV.mn@SD"><title lang="mn">&quot;Hi UB&quot; өглөөний хөтөлбөр</title></programme>
-<programme start="20260615020000 +0000" stop="20260615044500 +0000" channel="EcoTV.mn@SD"><title lang="mn">&quot;Эко хэмнэл&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615044500 +0000" stop="20260615050000 +0000" channel="EcoTV.mn@SD"><title lang="mn">Эко зөвлөгөө</title></programme>
-<programme start="20260615050000 +0000" stop="20260615054500 +0000" channel="EcoTV.mn@SD"><title lang="mn">Баримтат кино</title></programme>
-<programme start="20260615054500 +0000" stop="20260615060000 +0000" channel="EcoTV.mn@SD"><title lang="mn">Нийгэм эрүүл мэнд</title></programme>
-<programme start="20260615060000 +0000" stop="20260615065000 +0000" channel="EcoTV.mn@SD"><title lang="mn">Эко TB цоморлог</title></programme>
-<programme start="20260615065000 +0000" stop="20260615070000 +0000" channel="EcoTV.mn@SD"><title lang="mn">Эко зөвлөгөө</title></programme>
-<programme start="20260615070000 +0000" stop="20260615073000 +0000" channel="EcoTV.mn@SD"><title lang="mn">&quot;Mонгол өв соёл &quot; нэвтрүүлэг</title></programme>
-<programme start="20260615073000 +0000" stop="20260615100000 +0000" channel="EcoTV.mn@SD"><title lang="mn">&quot;Эко хэмнэл&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615100000 +0000" stop="20260615103000 +0000" channel="EcoTV.mn@SD"><title lang="mn">Теле концерт</title></programme>
-<programme start="20260615103000 +0000" stop="20260615110000 +0000" channel="EcoTV.mn@SD"><title lang="mn">Хүүхдийн цаг</title></programme>
-<programme start="20260615110000 +0000" stop="20260615113500 +0000" channel="EcoTV.mn@SD"><title lang="mn">&quot;Хобби&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615113500 +0000" stop="20260615120000 +0000" channel="EcoTV.mn@SD"><title lang="mn">Хүнсний аюулгүй байдлын цаг</title></programme>
-<programme start="20260615120000 +0000" stop="20260615125000 +0000" channel="EcoTV.mn@SD"><title lang="mn">Эко TB цоморлог</title></programme>
-<programme start="20260615125000 +0000" stop="20260615130000 +0000" channel="EcoTV.mn@SD"><title lang="mn">Эко зөвлөгөө</title></programme>
-<programme start="20260615130000 +0000" stop="20260615134500 +0000" channel="EcoTV.mn@SD"><title lang="mn">&quot;Сайн байна уу, Захирал аа&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615134500 +0000" stop="20260615140000 +0000" channel="EcoTV.mn@SD"><title lang="mn">Нийгэм эрүүл мэнд</title></programme>
-<programme start="20260615140000 +0000" stop="20260615141000 +0000" channel="EcoTV.mn@SD"><title lang="mn">Эко зөвлөгөө</title></programme>
-<programme start="20260615141000 +0000" stop="20260615160000 +0000" channel="EcoTV.mn@SD"><title lang="mn">&quot;Давхар цохилт &quot; МУСК</title></programme>
-<programme start="20260615160000 +0000" stop="20260615163000 +0000" channel="EcoTV.mn@SD"><title lang="mn">Сайхан амраарай</title></programme>
-<programme start="20260614215000 +0000" stop="20260614220000 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">Зураглал</title></programme>
-<programme start="20260614220000 +0000" stop="20260614222000 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;Мөнх тунх&quot; хүүхэлдэйн кино VII.1,2-р анги</title></programme>
-<programme start="20260614222000 +0000" stop="20260614224500 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;Гарфилд&quot; хүүхэлдэйн кино I.47,48-р анги</title></programme>
-<programme start="20260614224500 +0000" stop="20260615010000 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">Хөл бөмбөгийн ДАШТ-2026 шууд дамжуулалт Кот-д&apos;Ивуар&amp;Эквадор</title></programme>
-<programme start="20260615010000 +0000" stop="20260615013000 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;Нарны бүжингүүд&quot; хүүхэлдэйн кино IV.19-24-р анги</title></programme>
-<programme start="20260615013000 +0000" stop="20260615020000 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;Пороро ба түүний нөхөд&quot; хүүхэлдэйн кино V.21,22-р анги</title></programme>
-<programme start="20260615020000 +0000" stop="20260615034000 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;Урагшаа У Жа Рюн&quot; ОАК 83,84-р анги</title></programme>
-<programme start="20260615034000 +0000" stop="20260615040000 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;Шинжлэх ухаан&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615040000 +0000" stop="20260615040500 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;4 өнгө&quot; цаг агаарын хөтөлбөр</title></programme>
-<programme start="20260615040500 +0000" stop="20260615050500 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;Мөрдөгч Бош&quot; ОАК III.5-р анги</title></programme>
-<programme start="20260615050500 +0000" stop="20260615060000 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;Art ger-Boodog boys&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615060000 +0000" stop="20260615060500 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;4 өнгө&quot; цаг агаарын хөтөлбөр</title></programme>
-<programme start="20260615060500 +0000" stop="20260615062500 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">Англи хэлний анхан шатны алсын зайн сургалт авиа зүй №7</title></programme>
-<programme start="20260615062500 +0000" stop="20260615064500 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">Англи хэлний анхан шатны алсын зайн сургалт орчуулга №7</title></programme>
-<programme start="20260615064500 +0000" stop="20260615071000 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">Англи хэлний анхан шатны алсын зайн сургалт үгсийн сан №7</title></programme>
-<programme start="20260615071000 +0000" stop="20260615073000 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">Хятад хэлний анхан шатны алсын зайн сургалт №25</title></programme>
-<programme start="20260615073000 +0000" stop="20260615080000 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">Хятад хэлний дунд шатны алсын зайн сургалт №25</title></programme>
-<programme start="20260615080000 +0000" stop="20260615080500 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;4 өнгө&quot; цаг агаарын хөтөлбөр</title></programme>
-<programme start="20260615080500 +0000" stop="20260615091000 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;Бид нэг гэр бүл&quot; ОАК 15-р анги</title></programme>
-<programme start="20260615091000 +0000" stop="20260615093000 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;Мөнх тунх&quot; хүүхэлдэйн кино VII.3,4-р анги</title></programme>
-<programme start="20260615093000 +0000" stop="20260615100000 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;Гарфилд&quot; хүүхэлдэйн кино I.49,50 анги</title></programme>
-<programme start="20260615100000 +0000" stop="20260615100500 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;4 өнгө&quot; цаг агаарын хөтөлбөр</title></programme>
-<programme start="20260615100500 +0000" stop="20260615103000 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;Нарны бүжингүүд&quot; хүүхэлдэйн кино IV.24-26-р анги</title></programme>
-<programme start="20260615103000 +0000" stop="20260615110000 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;Пороро ба түүний нөхөд&quot; хүүхэлдэйн кино V.23,24-р анги</title></programme>
-<programme start="20260615110000 +0000" stop="20260615124000 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;Урагшаа У Жа Рюн&quot; ОАК 85,86-р анги</title></programme>
-<programme start="20260615124000 +0000" stop="20260615140000 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;Оддын гэгээ&quot; ОАК 13-р анги</title></programme>
-<programme start="20260615140000 +0000" stop="20260615150500 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;Мөрдөгч Бош&quot; ОАК III.6-р анги</title></programme>
-<programme start="20260615150500 +0000" stop="20260615161500 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;Бид нэг гэр бүл&quot; ОАК 15-р анги</title></programme>
-<programme start="20260615161500 +0000" stop="20260615171500 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">&quot;Хоёр Ивановынхан&quot; ОАК VI.10,11-р анги</title></programme>
-<programme start="20260615171500 +0000" stop="20260615174500 +0000" channel="EdutainmentTV.mn@SD"><title lang="mn">Эфир завсарлага</title></programme>
-<programme start="20260614220000 +0000" stop="20260614220500 +0000" channel="ETV.mn@SD"><title lang="mn">Үндэсний үйлдвэрлэлээ дэмжицгээе</title></programme>
-<programme start="20260614220500 +0000" stop="20260614230500 +0000" channel="ETV.mn@SD"><title lang="mn">Баримтат кино &quot;Цэнгэг ус&quot;</title></programme>
-<programme start="20260614230500 +0000" stop="20260614235000 +0000" channel="ETV.mn@SD"><title lang="mn">&quot;Бизнесийн эрин&apos;&apos; 23-р анги давталт</title></programme>
-<programme start="20260614235000 +0000" stop="20260615001000 +0000" channel="ETV.mn@SD"><title lang="mn">Монгол Улсын Ерөнхийлөгч У.Хүрэлсүх Монголын анхны Хүнсний үйлдвэр, технологийн паркт ажиллалаа</title></programme>
-<programme start="20260615001000 +0000" stop="20260615005000 +0000" channel="ETV.mn@SD"><title lang="mn">Хошин шог</title></programme>
-<programme start="20260615005000 +0000" stop="20260615011500 +0000" channel="ETV.mn@SD"><title lang="mn">&quot;Баялаг бүтээгч&quot; нэвтрүүлэг Зочин Э.Ануударь</title></programme>
-<programme start="20260615011500 +0000" stop="20260615012500 +0000" channel="ETV.mn@SD"><title lang="mn">&quot;Нана ноно&quot; Балчир насны хүүхдийн дууны цаг</title></programme>
-<programme start="20260615012500 +0000" stop="20260615013500 +0000" channel="ETV.mn@SD"><title lang="mn">Үүргэвчтэй аяллын тэмдэглэл мэдээллийн лавлах 1900-1950</title></programme>
-<programme start="20260615013500 +0000" stop="20260615015500 +0000" channel="ETV.mn@SD"><title lang="mn">&quot;Баялаг бүтээгч&quot; нэвтрүүлэг Зочин Б.Барамсай</title></programme>
-<programme start="20260615015500 +0000" stop="20260615020000 +0000" channel="ETV.mn@SD"><title lang="mn">1950 - Зарын цаг</title></programme>
-<programme start="20260615020000 +0000" stop="20260615024000 +0000" channel="ETV.mn@SD"><title lang="mn">&quot;Кидс күйз&quot; хүүхдэд зориулсан нэвтрүүлэг</title></programme>
-<programme start="20260615024000 +0000" stop="20260615025500 +0000" channel="ETV.mn@SD"><title lang="mn">Үүргэвчтэй аяллын тэмдэглэл мэдээллийн лавлах 1900-1950</title></programme>
-<programme start="20260615025500 +0000" stop="20260615030000 +0000" channel="ETV.mn@SD"><title lang="mn">1950 - Зарын цаг</title></programme>
-<programme start="20260615030000 +0000" stop="20260615032000 +0000" channel="ETV.mn@SD"><title lang="mn">Хүнсний хувьсгал - Эрчимжсэн сүүний ферм</title></programme>
-<programme start="20260615032000 +0000" stop="20260615034000 +0000" channel="ETV.mn@SD"><title lang="mn">&quot;Баялаг бүтээгч&quot; нэвтрүүлэг Зочин Т.Өлзийсайхан</title></programme>
-<programme start="20260615034000 +0000" stop="20260615045500 +0000" channel="ETV.mn@SD"><title lang="mn">Тоглолтын цаг &quot;Морьтон аялгуу 1-р хэсэг&quot;</title></programme>
-<programme start="20260615045500 +0000" stop="20260615050000 +0000" channel="ETV.mn@SD"><title lang="mn">1950 - Зарын цаг</title></programme>
-<programme start="20260615050000 +0000" stop="20260615060000 +0000" channel="ETV.mn@SD"><title lang="mn">&quot;Бизнесийн эрин&apos;&apos; 24-р анги</title></programme>
-<programme start="20260615060000 +0000" stop="20260615062000 +0000" channel="ETV.mn@SD"><title lang="mn">Монгол Улсын Ерөнхийлөгч У.Хүрэлсүх Монголын анхны Хүнсний үйлдвэр, технологийн паркт ажиллалаа</title></programme>
-<programme start="20260615062000 +0000" stop="20260615071000 +0000" channel="ETV.mn@SD"><title lang="mn">&quot;Хайраа хайрла&quot; ОАК 32-р анги давталт</title></programme>
-<programme start="20260615071000 +0000" stop="20260615085000 +0000" channel="ETV.mn@SD"><title lang="mn">Тоглолтын цаг &quot;Ховдын уянга&quot;</title></programme>
-<programme start="20260615085000 +0000" stop="20260615090000 +0000" channel="ETV.mn@SD"><title lang="mn">Хөгжмийн цаг</title></programme>
-<programme start="20260615090000 +0000" stop="20260615092000 +0000" channel="ETV.mn@SD"><title lang="mn">&quot;Баялаг бүтээгч&quot; нэвтрүүлэг Зочин Э.Уранчимэг</title></programme>
-<programme start="20260615092000 +0000" stop="20260615092500 +0000" channel="ETV.mn@SD"><title lang="mn">Бона бордоо үзүүлж байна</title></programme>
-<programme start="20260615092500 +0000" stop="20260615094000 +0000" channel="ETV.mn@SD"><title lang="mn">&quot;Агрофийд&quot; Нэвтрүүлэг</title></programme>
-<programme start="20260615094000 +0000" stop="20260615100000 +0000" channel="ETV.mn@SD"><title lang="mn">&quot;Баялаг бүтээгч&quot; нэвтрүүлэг Зочин Н.Оюунбат</title></programme>
-<programme start="20260615100000 +0000" stop="20260615102000 +0000" channel="ETV.mn@SD"><title lang="mn">&quot;Хүүхэд нэгдүгээрт&quot; хүүхдийн нэвтрүүлэг</title></programme>
-<programme start="20260615102000 +0000" stop="20260615103500 +0000" channel="ETV.mn@SD"><title lang="mn">&quot;Зуузуугийн найзууд&quot; Хүүхэлдэйн кино</title></programme>
-<programme start="20260615103500 +0000" stop="20260615105000 +0000" channel="ETV.mn@SD"><title lang="mn">&quot;Нана ноно&quot; Балчир насны хүүхдийн дууны цаг</title></programme>
-<programme start="20260615105000 +0000" stop="20260615114000 +0000" channel="ETV.mn@SD"><title lang="mn">МУ-ын Ерөнхийлөгчийн ажилласан 122 аж ахуйн нэгж, байгууллага, үндэсний үйлдвэрүүд</title></programme>
-<programme start="20260615114000 +0000" stop="20260615123000 +0000" channel="ETV.mn@SD"><title lang="mn">Мөнхцэлмэг влог Бахрейн улс</title></programme>
-<programme start="20260615123000 +0000" stop="20260615125500 +0000" channel="ETV.mn@SD"><title lang="mn">&quot;Баялаг бүтээгч&quot; нэвтрүүлэг Зочин Э. Ануударь</title></programme>
-<programme start="20260615125500 +0000" stop="20260615132500 +0000" channel="ETV.mn@SD"><title lang="mn">Монгол Улсын Ерөнхийлөгч У.Хүрэлсүх &quot;Хүнсний хувьсгал&quot; үндэсний хөдөлгөөний хүрээнд сүү, сүүн бүтээгдэхүүний салбарын төлөөллүүдтэй уулзлаа</title></programme>
-<programme start="20260615132500 +0000" stop="20260615133000 +0000" channel="ETV.mn@SD"><title lang="mn">Зураглал</title></programme>
-<programme start="20260615133000 +0000" stop="20260615143000 +0000" channel="ETV.mn@SD"><title lang="mn">&quot;Хайраа хайрла&quot; ОАК 33-р анги</title></programme>
-<programme start="20260615143000 +0000" stop="20260615154000 +0000" channel="ETV.mn@SD"><title lang="mn">&quot;Хотын бүсгүй хөдөө нутагт&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615154000 +0000" stop="20260615160000 +0000" channel="ETV.mn@SD"><title lang="mn">Хошин шог</title></programme>
-<programme start="20260615160000 +0000" stop="20260615163000 +0000" channel="ETV.mn@SD"><title lang="mn">Эфир завсарласан</title></programme>
-<programme start="20260615020000 +0000" stop="20260615021000 +0000" channel="mnb-ger-bl"><title lang="mn">“MNB ГЭР БҮЛ” сувгийн хөтөлбөрийн бодлого, агуулга – танилцуулга шторк</title></programme>
-<programme start="20260615021000 +0000" stop="20260615022500 +0000" channel="mnb-ger-bl"><title lang="mn">“Ойн баавгайнууд” хүүхэлдэйн кино 51</title></programme>
-<programme start="20260615022500 +0000" stop="20260615030000 +0000" channel="mnb-ger-bl"><title lang="mn">Зугаатай аялал</title></programme>
-<programme start="20260615030000 +0000" stop="20260615034000 +0000" channel="mnb-ger-bl"><title lang="mn">Зөвлөмж теле хичээл: Орос хэл #1</title></programme>
-<programme start="20260615034000 +0000" stop="20260615043000 +0000" channel="mnb-ger-bl"><title lang="mn">“Амьдралд тавтай морил” Олон ангит уран сайхны кино #20 /давталт/</title></programme>
-<programme start="20260615043000 +0000" stop="20260615052000 +0000" channel="mnb-ger-bl"><title lang="mn">&quot;Хөх тэнгэр&quot; радио</title></programme>
-<programme start="20260615052000 +0000" stop="20260615054000 +0000" channel="mnb-ger-bl"><title lang="mn">Pobocon-2026 #1</title></programme>
-<programme start="20260615054000 +0000" stop="20260615063000 +0000" channel="mnb-ger-bl"><title lang="mn">&quot;Эмээгийн ярьсан түүх буюу хуучин пянзны дуун&quot;</title></programme>
-<programme start="20260615063000 +0000" stop="20260615070000 +0000" channel="mnb-ger-bl"><title lang="mn">Монгол өв соёл: &quot;Чингис хааны бурханчилсан хөрөг&quot;</title></programme>
-<programme start="20260615070000 +0000" stop="20260615074000 +0000" channel="mnb-ger-bl"><title lang="mn">Зөвлөмж теле хичээл: Газарзүй #1</title></programme>
-<programme start="20260615074000 +0000" stop="20260615082000 +0000" channel="mnb-ger-bl"><title lang="mn">&quot;Миний блог&quot; хүүхдийн нэвтрүүлэг</title></programme>
-<programme start="20260615082000 +0000" stop="20260615085000 +0000" channel="mnb-ger-bl"><title lang="mn">Зугаатай аялал</title></programme>
-<programme start="20260615085000 +0000" stop="20260615100000 +0000" channel="mnb-ger-bl"><title lang="mn">&quot;Би бүжиглүүлсээр...&quot; #1</title></programme>
-<programme start="20260615100000 +0000" stop="20260615104000 +0000" channel="mnb-ger-bl"><title lang="mn">Зөвлөмж теле хичээл: Орос хэл #1</title></programme>
-<programme start="20260615104000 +0000" stop="20260615110000 +0000" channel="mnb-ger-bl"><title lang="mn">“Ойн баавгайнууд” хүүхэлдэйн кино 51</title></programme>
-<programme start="20260615110000 +0000" stop="20260615114000 +0000" channel="mnb-ger-bl"><title lang="mn">Зөвлөмж теле хичээл: Газарзүй #1</title></programme>
-<programme start="20260615114000 +0000" stop="20260615120000 +0000" channel="mnb-ger-bl"><title lang="mn">Pobocon-2026 #1</title></programme>
-<programme start="20260615120000 +0000" stop="20260615125000 +0000" channel="mnb-ger-bl"><title lang="mn">&quot;Хөх тэнгэр&quot; радио</title></programme>
-<programme start="20260615125000 +0000" stop="20260615135000 +0000" channel="mnb-ger-bl"><title lang="mn">&quot;Би бүжиглүүлсээр...&quot; #1</title></programme>
-<programme start="20260615135000 +0000" stop="20260615142000 +0000" channel="mnb-ger-bl"><title lang="mn">Монгол өв соёл: &quot;Чингис хааны бурханчилсан хөрөг&quot;</title></programme>
-<programme start="20260615142000 +0000" stop="20260615150000 +0000" channel="mnb-ger-bl"><title lang="mn">“Амьдралд тавтай морил” Олон ангит уран сайхны кино #21</title></programme>
-<programme start="20260615150000 +0000" stop="20260615153000 +0000" channel="mnb-ger-bl"><title lang="mn">Эфир завсарлав</title></programme>
-<programme start="20260614233000 +0000" stop="20260615003000 +0000" channel="MNB.mn@SD"><title lang="mn">“Өглөө” хөтөлбөр</title></programme>
-<programme start="20260615003000 +0000" stop="20260615013000 +0000" channel="MNB.mn@SD"><title lang="mn">Цагийн хүрд мэдээллийн хөтөлбөр /давталт/</title></programme>
-<programme start="20260615013000 +0000" stop="20260615040000 +0000" channel="MNB.mn@SD"><title lang="mn">Хөл бөмбөгийн ДАШТ: Швед-Тунис хэсгийн тоглолт-шууд</title></programme>
-<programme start="20260615040000 +0000" stop="20260615044000 +0000" channel="MNB.mn@SD"><title lang="mn">Монгол Улсын Ерөнхийлөгчийн ивээл дор “Евроазийн их солилцоо: Ирээдүйн боломж, хамтын ажиллагаа” Евроазийн музейн олон улсын анхдугаар чуулган</title></programme>
-<programme start="20260615044000 +0000" stop="20260615070000 +0000" channel="MNB.mn@SD"><title lang="mn">Ерөнхий хяналтын сонсгол: Нийслэлийн 2024-2026 оны төсвийн зарцуулалт, хөрөнгө оруулалтын төслүүдийн хэрэгжилт холбогдох хууль тогтоомжид нийцсэн байдал /шууд/</title></programme>
-<programme start="20260615070000 +0000" stop="20260615080000 +0000" channel="MNB.mn@SD"><title lang="mn">Олон нийтийн цаг /шууд/</title></programme>
-<programme start="20260615080000 +0000" stop="20260615100000 +0000" channel="MNB.mn@SD"><title lang="mn">Ерөнхий хяналтын сонсгол: Нийслэлийн 2024-2026 оны төсвийн зарцуулалт, хөрөнгө оруулалтын төслүүдийн хэрэгжилт холбогдох хууль тогтоомжид нийцсэн байдал /шууд/</title></programme>
-<programme start="20260615100000 +0000" stop="20260615101000 +0000" channel="MNB.mn@SD"><title lang="mn">Хүүхэлдэйн кино: “Ёо Ёо” 32-р анги</title></programme>
-<programme start="20260615101000 +0000" stop="20260615103000 +0000" channel="MNB.mn@SD"><title lang="mn">Сайн байна уу? Дундад орон</title></programme>
-<programme start="20260615103000 +0000" stop="20260615105000 +0000" channel="MNB.mn@SD"><title lang="mn">Даян дэлхийн их хаан Хубилай</title></programme>
-<programme start="20260615105000 +0000" stop="20260615111000 +0000" channel="MNB.mn@SD"><title lang="mn">“Зугаатай аялал” байгаль, танин мэдэхүйн хүүхдийн нэвтрүүлэг #44</title></programme>
-<programme start="20260615111000 +0000" stop="20260615115500 +0000" channel="MNB.mn@SD"><title lang="mn">“Өвөөгийн хайр” ОАМУСК 3-р анги</title></programme>
-<programme start="20260615115500 +0000" stop="20260615120000 +0000" channel="MNB.mn@SD"><title lang="mn">MNB энэ 7 хоногт</title></programme>
-<programme start="20260615120000 +0000" stop="20260615130000 +0000" channel="MNB.mn@SD"><title lang="mn">“Цагийн хүрд” мэдээллийн хөтөлбөр /шууд/</title></programme>
-<programme start="20260615130000 +0000" stop="20260615130500 +0000" channel="MNB.mn@SD"><title lang="mn">MNB энэ 7 хоногт</title></programme>
-<programme start="20260615130500 +0000" stop="20260615132500 +0000" channel="MNB.mn@SD"><title lang="mn">“Монголчууд Австралид” баримтат хөрөг нэвтрүүлэг #16</title></programme>
-<programme start="20260615132500 +0000" stop="20260615140500 +0000" channel="MNB.mn@SD"><title lang="mn">FIFA 2026: &quot;Дэлхийн аваргад хүрэх зам&quot;-5</title></programme>
-<programme start="20260615140500 +0000" stop="20260615143000 +0000" channel="MNB.mn@SD"><title lang="mn">“Амралтын нэг өдөр” олон ангит кино 5-р анги</title></programme>
-<programme start="20260615143000 +0000" stop="20260615153000 +0000" channel="MNB.mn@SD"><title lang="mn">“Гэрэлтэй цонх” үдшийн хөтөлбөр</title></programme>
-<programme start="20260615153000 +0000" stop="20260615160000 +0000" channel="MNB.mn@SD"><title lang="mn">Монгол өв соёл</title></programme>
-<programme start="20260615160000 +0000" stop="20260615163000 +0000" channel="MNB.mn@SD"><title lang="mn">Эфир завсарлав</title></programme>
-<programme start="20260614233000 +0000" stop="20260615003000 +0000" channel="MNBSport.mn@SD"><title lang="mn">Өглөө хөтөлбөр-шууд</title></programme>
-<programme start="20260615003000 +0000" stop="20260615010500 +0000" channel="MNBSport.mn@SD"><title lang="mn">&quot;Олимпын дурсамж&quot; /давталт/ 36м</title></programme>
-<programme start="20260615010500 +0000" stop="20260615013000 +0000" channel="MNBSport.mn@SD"><title lang="mn">Дархан мэх: Монгол улсын заан Г. Баасандорж</title></programme>
-<programme start="20260615013000 +0000" stop="20260615041000 +0000" channel="MNBSport.mn@SD"><title lang="mn">Хөл бөмбөгийн ДАШТ: Швед-Тунис хэсгийн тоглолт-шууд</title></programme>
-<programme start="20260615041000 +0000" stop="20260615045000 +0000" channel="MNBSport.mn@SD"><title lang="mn">FIFA 2026: &quot;Хөл бөмбөгийн түүх&quot; /үүссэн түүх/ дугаар-4</title></programme>
-<programme start="20260615045000 +0000" stop="20260615054500 +0000" channel="MNBSport.mn@SD"><title lang="mn">Спорт хобби: “Барселона” багийн хөгжөөн дэмжигч Н. Түмэнжаргал</title></programme>
-<programme start="20260615054500 +0000" stop="20260615110500 +0000" channel="MNBSport.mn@SD"><title lang="mn">Монголын чөлөөт бөхийн холбооны ерөнхийлөгчийн нэрэмжит “Шилдэг-8” анхдугаар тэмцээн 1-р хэсэг</title></programme>
-<programme start="20260615110500 +0000" stop="20260615121000 +0000" channel="MNBSport.mn@SD"><title lang="mn">Монголын спортын түүх</title></programme>
-<programme start="20260615121000 +0000" stop="20260615124000 +0000" channel="MNBSport.mn@SD"><title lang="mn">Бөхийн хууч</title></programme>
-<programme start="20260615124000 +0000" stop="20260615141000 +0000" channel="MNBSport.mn@SD"><title lang="mn">Ардын хувьсгалын 72 жилийн ойн баяр наадмын тойм /МҮОНТ-ийн “MNB Спорт” сувгийн алтан сан хөмрөгөөс/</title></programme>
-<programme start="20260615141000 +0000" stop="20260615150000 +0000" channel="MNBSport.mn@SD"><title lang="mn">FIFA 2026: &quot;Хөл бөмбөгийн түүх&quot; /үүссэн түүх/ дугаар-5</title></programme>
-<programme start="20260615150000 +0000" stop="20260615153000 +0000" channel="MNBSport.mn@SD"><title lang="mn">Эфир завсарлав</title></programme>
-<programme start="20260615000000 +0000" stop="20260615010000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">Ярих өнцөг нэвтрүүлэг</title></programme>
-<programme start="20260615010000 +0000" stop="20260615012000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">“Төв цэг&quot; 7 хоногийн тойм</title></programme>
-<programme start="20260615012000 +0000" stop="20260615014000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">“Төв цэг&quot; Дэлхийн тойм</title></programme>
-<programme start="20260615014000 +0000" stop="20260615015000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">Баримтат нэвтрүүлэг</title></programme>
-<programme start="20260615015000 +0000" stop="20260615020000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">&quot;Капитал цаг&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615020000 +0000" stop="20260615030000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">&quot;Ярих өнцөг&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615030000 +0000" stop="20260615040000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">Баримтат нэвтрүүлэг</title></programme>
-<programme start="20260615040000 +0000" stop="20260615041000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">&quot;Капитал цаг&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615041000 +0000" stop="20260615050000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">Баримтат нэвтрүүлэг</title></programme>
-<programme start="20260615050000 +0000" stop="20260615060000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">&quot;Ярих өнцөг&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615060000 +0000" stop="20260615062000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">&quot;Капитал ток&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615062000 +0000" stop="20260615070000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">Баримтат нэвтрүүлэг</title></programme>
-<programme start="20260615070000 +0000" stop="20260615080000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">&quot;Ярих өнцөг&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615080000 +0000" stop="20260615083000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">&quot;Капитал ток&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615083000 +0000" stop="20260615090000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">Баримтат нэвтрүүлэг</title></programme>
-<programme start="20260615090000 +0000" stop="20260615092000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">“Төв цэг” Мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260615092000 +0000" stop="20260615100000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">Баримтат нэвтрүүлэг</title></programme>
-<programme start="20260615100000 +0000" stop="20260615110000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">&quot;Ярих өнцөг&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615110000 +0000" stop="20260615120000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">Баримтат нэвтрүүлэг</title></programme>
-<programme start="20260615120000 +0000" stop="20260615122000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">“Төв цэг” Мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260615122000 +0000" stop="20260615132000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">“Ярих өнцөг” нэвтрүүлэг</title></programme>
-<programme start="20260615132000 +0000" stop="20260615135000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">&quot;Капитал ток&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615135000 +0000" stop="20260615140000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">&quot;Капитал цаг&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615140000 +0000" stop="20260615150000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">“Ярих өнцөг” нэвтрүүлэг</title></programme>
-<programme start="20260615150000 +0000" stop="20260615152000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">“Төв цэг” Мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260615152000 +0000" stop="20260615160000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">Баримтат нэвтрүүлэг</title></programme>
-<programme start="20260615160000 +0000" stop="20260615163000 +0000" channel="ParliamentTV.mn@SD"><title lang="mn">ЭФИР ЗАВСАРЛАНА</title></programme>
-<programme start="20260615000000 +0000" stop="20260615010000 +0000" channel="SBN.mn@SD"><title lang="mn">SBN news мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260615010000 +0000" stop="20260615013000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Хамтдаа хийцгээе&quot;12+</title></programme>
-<programme start="20260615013000 +0000" stop="20260615020000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Поль покет&quot; хүүхэлдэйн кино 5-р анги</title></programme>
-<programme start="20260615020000 +0000" stop="20260615024000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Эсгий туургатан&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615024000 +0000" stop="20260615030000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Ляонингийн байгалийн цогцолборт газар&quot;</title></programme>
-<programme start="20260615030000 +0000" stop="20260615040000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Дүнсгэр мөрөн&quot; ООАК-5</title></programme>
-<programme start="20260615040000 +0000" stop="20260615043000 +0000" channel="SBN.mn@SD"><title lang="mn">SBN news мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260615043000 +0000" stop="20260615045000 +0000" channel="SBN.mn@SD"><title lang="mn">Business time</title></programme>
-<programme start="20260615045000 +0000" stop="20260615050000 +0000" channel="SBN.mn@SD"><title lang="mn">Түүхийн хуудаснаа</title></programme>
-<programme start="20260615050000 +0000" stop="20260615060000 +0000" channel="SBN.mn@SD"><title lang="mn">Түүхэн хэлхээ</title></programme>
-<programme start="20260615060000 +0000" stop="20260615063000 +0000" channel="SBN.mn@SD"><title lang="mn">SBN news мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260615063000 +0000" stop="20260615073000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Марашийн хүн&quot; ТОАК-38</title></programme>
-<programme start="20260615073000 +0000" stop="20260615083000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Гоморра&quot; ИОАК 2-6</title></programme>
-<programme start="20260615083000 +0000" stop="20260615090000 +0000" channel="SBN.mn@SD"><title lang="mn">Түүхийн хуудаснаа</title></programme>
-<programme start="20260615090000 +0000" stop="20260615093000 +0000" channel="SBN.mn@SD"><title lang="mn">Business time</title></programme>
-<programme start="20260615093000 +0000" stop="20260615100000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Поль покет&quot; хүүхэлдэйн кино 5-р анги</title></programme>
-<programme start="20260615100000 +0000" stop="20260615103000 +0000" channel="SBN.mn@SD"><title lang="mn">SBN news мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260615103000 +0000" stop="20260615113000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Дүнсгэр мөрөн&quot; ООАК-6</title></programme>
-<programme start="20260615113000 +0000" stop="20260615123000 +0000" channel="SBN.mn@SD"><title lang="mn">Human channel</title></programme>
-<programme start="20260615123000 +0000" stop="20260615133000 +0000" channel="SBN.mn@SD"><title lang="mn">SBN news мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260615133000 +0000" stop="20260615143000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Марашийн хүн&quot; ТОАК-39</title></programme>
-<programme start="20260615143000 +0000" stop="20260615153000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Гоморра&quot; ИОАК 2-7</title></programme>
-<programme start="20260615153000 +0000" stop="20260615160000 +0000" channel="SBN.mn@SD"><title lang="mn">Эфир завсарлага</title></programme>
-<programme start="20260614225500 +0000" stop="20260614230000 +0000" channel="StarTV.mn@SD"><title lang="mn">Стар Телевиз үзүүлж байна</title></programme>
-<programme start="20260614230000 +0000" stop="20260615013000 +0000" channel="StarTV.mn@SD"><title lang="mn">&quot;Good Morning Mongolia Show&quot; өглөөний хөтөлбөр</title></programme>
-<programme start="20260615013000 +0000" stop="20260615014500 +0000" channel="StarTV.mn@SD"><title lang="mn">Миний анхны ярилцлага хүүхдийн нэвтрүүлэг</title></programme>
-<programme start="20260615014500 +0000" stop="20260615020000 +0000" channel="StarTV.mn@SD"><title lang="mn">Бамбарууш хүүхэлдэйн кино 87- 88-р анги</title></programme>
-<programme start="20260615020000 +0000" stop="20260615021500 +0000" channel="StarTV.mn@SD"><title lang="mn">Бяцхан муужгай нохойнууд хүүхэлдэйн кино 25-26-р анги</title></programme>
-<programme start="20260615021500 +0000" stop="20260615023000 +0000" channel="StarTV.mn@SD"><title lang="mn">Сайн уу Багшаа хүүхдийн нэвтрүүлэг</title></programme>
-<programme start="20260615023000 +0000" stop="20260615033000 +0000" channel="StarTV.mn@SD"><title lang="mn">Хайрыг минь өгөөч ОАК 14-р анги</title></programme>
-<programme start="20260615033000 +0000" stop="20260615043000 +0000" channel="StarTV.mn@SD"><title lang="mn">Бидний хайртай амьтан нэвтрүүлэг</title></programme>
-<programme start="20260615043000 +0000" stop="20260615050000 +0000" channel="StarTV.mn@SD"><title lang="mn">Тэр намайг хэр сайн мэдэх вэ? Нэвтрүүлэг</title></programme>
-<programme start="20260615050000 +0000" stop="20260615050500 +0000" channel="StarTV.mn@SD"><title lang="mn">Star Movie нэвтрүүлэг</title></programme>
-<programme start="20260615050500 +0000" stop="20260615071000 +0000" channel="StarTV.mn@SD"><title lang="mn">Гэмт хэргийн хот 4 /The Roundup: Punishment/ УСК</title></programme>
-<programme start="20260615071000 +0000" stop="20260615072500 +0000" channel="StarTV.mn@SD"><title lang="mn">Нүүдэлчдийн өв соёл</title></programme>
-<programme start="20260615072500 +0000" stop="20260615090000 +0000" channel="StarTV.mn@SD"><title lang="mn">Хайртууд ба дарангуйлагч /The lovers and the Despot/ баримтат кино</title></programme>
-<programme start="20260615090000 +0000" stop="20260615091500 +0000" channel="StarTV.mn@SD"><title lang="mn">Миний анхны ярилцлага хүүхдийн нэвтрүүлэг</title></programme>
-<programme start="20260615091500 +0000" stop="20260615093000 +0000" channel="StarTV.mn@SD"><title lang="mn">Бамбарууш хүүхэлдэйн кино 89- 90-р анги</title></programme>
-<programme start="20260615093000 +0000" stop="20260615094500 +0000" channel="StarTV.mn@SD"><title lang="mn">Бяцхан муужгай нохойнууд хүүхэлдэйн кино 27-28-р анги</title></programme>
-<programme start="20260615094500 +0000" stop="20260615100000 +0000" channel="StarTV.mn@SD"><title lang="mn">Сайн уу Багшаа хүүхдийн нэвтрүүлэг</title></programme>
-<programme start="20260615100000 +0000" stop="20260615110000 +0000" channel="StarTV.mn@SD"><title lang="mn">Намайг ээдэг нар ХОАК 34-р анги</title></programme>
-<programme start="20260615110000 +0000" stop="20260615120000 +0000" channel="StarTV.mn@SD"><title lang="mn">Хүслийн жагсаалт подкаст</title></programme>
-<programme start="20260615120000 +0000" stop="20260615130000 +0000" channel="StarTV.mn@SD"><title lang="mn">Хайрыг минь өгөөч ОАК 15-р анги</title></programme>
-<programme start="20260615130000 +0000" stop="20260615142000 +0000" channel="StarTV.mn@SD"><title lang="mn">Family Feud Mongolia шоу нэвтрүүлэг 1-р улирал 1-р дугаар</title></programme>
-<programme start="20260615142000 +0000" stop="20260615145000 +0000" channel="StarTV.mn@SD"><title lang="mn">Star Movie нэвтрүүлэг</title></programme>
-<programme start="20260615145000 +0000" stop="20260615164000 +0000" channel="StarTV.mn@SD"><title lang="mn">Шулмын шивнээ /Whisper of the witch/ УСК</title></programme>
-<programme start="20260615164000 +0000" stop="20260615171000 +0000" channel="StarTV.mn@SD"><title lang="mn">Манай дэлгэцнээ</title></programme>
-<programme start="20260614230000 +0000" stop="20260614230500 +0000" channel="SuldTV.mn@SD"><title lang="mn">Цаг агаар</title></programme>
-<programme start="20260614230500 +0000" stop="20260615010000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Тоглоом бүтээгч&quot; УСК</title></programme>
-<programme start="20260615010000 +0000" stop="20260615013000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Мартаж болохгүй давтах учиргүй түүх&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615013000 +0000" stop="20260615020000 +0000" channel="SuldTV.mn@SD"><title lang="mn">Бизнесийн амжилт</title></programme>
-<programme start="20260615020000 +0000" stop="20260615030000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Сүүлчийн хөлөг онгоц&quot; ОАК V.9-р анги</title></programme>
-<programme start="20260615030000 +0000" stop="20260615033000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Чики&quot; хүүхэлдэйн кино</title></programme>
-<programme start="20260615033000 +0000" stop="20260615040000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Гуталт муурын адал явдал&quot; хүүхэлдэйн кино</title></programme>
-<programme start="20260615040000 +0000" stop="20260615043000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Мэдлэгтэй дэлгэц&quot; нэвтрүүлэг 6+</title></programme>
-<programme start="20260615043000 +0000" stop="20260615050000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Цаг үе&quot; мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260615050000 +0000" stop="20260615054500 +0000" channel="SuldTV.mn@SD"><title lang="mn">FIFA 2026: &quot;Хөлбөмбөгийн түүх&quot;-5</title></programme>
-<programme start="20260615054500 +0000" stop="20260615060000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Хурдан морины түүх&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615060000 +0000" stop="20260615070000 +0000" channel="SuldTV.mn@SD"><title lang="mn">FIFA 2026: &quot;Шүгэл дуугарахын өмнө&quot;-10</title></programme>
-<programme start="20260615070000 +0000" stop="20260615083000 +0000" channel="SuldTV.mn@SD"><title lang="mn">Архангай аймгийн 97 жилийн ойн баяр наадам 1-р хэсэг</title></programme>
-<programme start="20260615083000 +0000" stop="20260615090000 +0000" channel="SuldTV.mn@SD"><title lang="mn">Бизнесийн амжилт</title></programme>
-<programme start="20260615090000 +0000" stop="20260615093000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Сод урлан&quot; хүүхдийн нэвтрүүлэг 3+</title></programme>
-<programme start="20260615093000 +0000" stop="20260615100000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Чики&quot; хүүхэлдэйн кино</title></programme>
-<programme start="20260615100000 +0000" stop="20260615103000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Гуталт муурын адал явдал&quot; хүүхэлдэйн кино</title></programme>
-<programme start="20260615103000 +0000" stop="20260615110000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Мэдлэгтэй дэлгэц&quot; нэвтрүүлэг 6+</title></programme>
-<programme start="20260615110000 +0000" stop="20260615120000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Сүүлчийн хөлөг онгоц&quot; ОАК V бүлэг төгсгөлийн 10-р анги</title></programme>
-<programme start="20260615120000 +0000" stop="20260615123000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Гийнгоо&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615123000 +0000" stop="20260615133000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Өв соёлын хэлхээ&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615133000 +0000" stop="20260615140000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Цаг үе&quot; мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260615140000 +0000" stop="20260615144000 +0000" channel="SuldTV.mn@SD"><title lang="mn">FIFA 2026: &quot;Хөлбөмбөгийн түүх&quot;-6</title></programme>
-<programme start="20260615144000 +0000" stop="20260615164000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Нэвтрүүлэгч&quot; УСК</title></programme>
-<programme start="20260615164000 +0000" stop="20260615171000 +0000" channel="SuldTV.mn@SD"><title lang="mn">Сайхан амраарай</title></programme>
-<programme start="20260614220000 +0000" stop="20260614230000 +0000" channel="TV5.mn@SD"><title lang="mn">&quot;Цаг хөтөлбөр&quot; тойм</title></programme>
-<programme start="20260614230000 +0000" stop="20260614231000 +0000" channel="TV5.mn@SD"><title lang="mn">Өвөг дээдсийн өв соёл</title></programme>
-<programme start="20260614231000 +0000" stop="20260614232000 +0000" channel="TV5.mn@SD"><title lang="mn">Цаг агаарын мэдээ</title></programme>
-<programme start="20260614232000 +0000" stop="20260614233000 +0000" channel="TV5.mn@SD"><title lang="mn">Монгол зурхай</title></programme>
-<programme start="20260614233000 +0000" stop="20260615004500 +0000" channel="TV5.mn@SD"><title lang="mn">&quot;Поли&quot; хүүхэлдэйн кино S1 - 1.2.3-р анги</title></programme>
-<programme start="20260615004500 +0000" stop="20260615005000 +0000" channel="TV5.mn@SD"><title lang="mn">Танд тустай агшин</title></programme>
-<programme start="20260615005000 +0000" stop="20260615005500 +0000" channel="TV5.mn@SD"><title lang="mn">Япон орныг тольдохуй</title></programme>
-<programme start="20260615005500 +0000" stop="20260615010000 +0000" channel="TV5.mn@SD"><title lang="mn">Цаг агаарын мэдээ</title></programme>
-<programme start="20260615010000 +0000" stop="20260615015000 +0000" channel="TV5.mn@SD"><title lang="mn">&quot;Гэгээн өглөө&quot; ярилцлага</title></programme>
-<programme start="20260615015000 +0000" stop="20260615020000 +0000" channel="TV5.mn@SD"><title lang="mn">Цаг агаарын мэдээ</title></programme>
-<programme start="20260615020000 +0000" stop="20260615024000 +0000" channel="TV5.mn@SD"><title lang="mn">Гэгээн эрүүл мэнд</title></programme>
-<programme start="20260615024000 +0000" stop="20260615030000 +0000" channel="TV5.mn@SD"><title lang="mn">Япон орныг тольдохуй</title></programme>
-<programme start="20260615030000 +0000" stop="20260615030500 +0000" channel="TV5.mn@SD"><title lang="mn">Fast 5ive: Mongolia Today</title></programme>
-<programme start="20260615030500 +0000" stop="20260615043000 +0000" channel="TV5.mn@SD"><title lang="mn">&quot;Чамтай байх сайхан&quot; 364.365-р анги ЭОАК</title></programme>
-<programme start="20260615043000 +0000" stop="20260615050000 +0000" channel="TV5.mn@SD"><title lang="mn">&quot;Рийч дэ бьюти&quot; гоо сайхны нэвтрүүлэг</title></programme>
-<programme start="20260615050000 +0000" stop="20260615051000 +0000" channel="TV5.mn@SD"><title lang="mn">Мэдээ</title></programme>
-<programme start="20260615051000 +0000" stop="20260615051500 +0000" channel="TV5.mn@SD"><title lang="mn">Цаг агаарын мэдээ</title></programme>
-<programme start="20260615051500 +0000" stop="20260615053000 +0000" channel="TV5.mn@SD"><title lang="mn">Бизнес мэдээ</title></programme>
-<programme start="20260615053000 +0000" stop="20260615070000 +0000" channel="TV5.mn@SD"><title lang="mn">Түмний эх үзүүлж байна</title></programme>
-<programme start="20260615070000 +0000" stop="20260615071000 +0000" channel="TV5.mn@SD"><title lang="mn">Мэдээ</title></programme>
-<programme start="20260615071000 +0000" stop="20260615080000 +0000" channel="TV5.mn@SD"><title lang="mn">Чак Хак цэнгээнт нэвтрүүлэг</title></programme>
-<programme start="20260615080000 +0000" stop="20260615084000 +0000" channel="TV5.mn@SD"><title lang="mn">Үл тасрах аялгуу - Жолооч дуулж байна</title></programme>
-<programme start="20260615084000 +0000" stop="20260615093000 +0000" channel="TV5.mn@SD"><title lang="mn">Гэгээн Хот подкаст Ц.Мөнгөнчимэг Үл хөдлөх хөрөнгийн агент</title></programme>
-<programme start="20260615093000 +0000" stop="20260615093500 +0000" channel="TV5.mn@SD"><title lang="mn">Цаг агаарын мэдээ</title></programme>
-<programme start="20260615093500 +0000" stop="20260615094000 +0000" channel="TV5.mn@SD"><title lang="mn">Танд тустай агшин</title></programme>
-<programme start="20260615094000 +0000" stop="20260615100000 +0000" channel="TV5.mn@SD"><title lang="mn">&quot;Шидэт харандаа&quot; хүүхдийн баярын тусгай дугаар</title></programme>
-<programme start="20260615100000 +0000" stop="20260615101500 +0000" channel="TV5.mn@SD"><title lang="mn">Хүүхэд бидний өв соёл</title></programme>
-<programme start="20260615101500 +0000" stop="20260615110000 +0000" channel="TV5.mn@SD"><title lang="mn">&quot;Поли&quot; хүүхэлдэйн кино S1 - 4.5.6-р анги</title></programme>
-<programme start="20260615110000 +0000" stop="20260615115000 +0000" channel="TV5.mn@SD"><title lang="mn">Мэдээ</title></programme>
-<programme start="20260615115000 +0000" stop="20260615125500 +0000" channel="TV5.mn@SD"><title lang="mn">&quot;Чамтай байх сайхан&quot; 366.367-р анги ЭОАК</title></programme>
-<programme start="20260615125500 +0000" stop="20260615130000 +0000" channel="TV5.mn@SD"><title lang="mn">Цаг агаарын мэдээ</title></programme>
-<programme start="20260615130000 +0000" stop="20260615140000 +0000" channel="TV5.mn@SD"><title lang="mn">Цаг хөтөлбөр</title></programme>
-<programme start="20260615140000 +0000" stop="20260615155000 +0000" channel="TV5.mn@SD"><title lang="mn">&quot;Салхи эзэгнэгч&quot; УСК</title></programme>
-<programme start="20260615155000 +0000" stop="20260615164000 +0000" channel="TV5.mn@SD"><title lang="mn">&quot;Чамтай байх сайхан&quot; 366.367-р анги ЭОАК</title></programme>
-<programme start="20260615164000 +0000" stop="20260615171000 +0000" channel="TV5.mn@SD"><title lang="mn">Эфир завсарласан</title></programme>
-<programme start="20260615005000 +0000" stop="20260615010000 +0000" channel="tv7"><title lang="mn">TV7 эхлэл</title></programme>
-<programme start="20260615010000 +0000" stop="20260615020000 +0000" channel="tv7"><title lang="mn">&quot;CANIMALS&quot; хүүхэлдэйн кино</title></programme>
-<programme start="20260615020000 +0000" stop="20260615034000 +0000" channel="tv7"><title lang="mn">&quot;Хүүгүй ломбард&quot; МУСК</title></programme>
-<programme start="20260615034000 +0000" stop="20260615040000 +0000" channel="tv7"><title lang="mn">&quot;Хүнсний хувьсал&quot; үзүүлж байна</title></programme>
-<programme start="20260615040000 +0000" stop="20260615044000 +0000" channel="tv7"><title lang="mn">&quot;Монгол: Төрийн далбаа, төрийн дуулал&quot; үзүүлж байна</title></programme>
-<programme start="20260615044000 +0000" stop="20260615070000 +0000" channel="tv7"><title lang="mn">&quot;Том толгойтын романс&quot; МУСК</title></programme>
-<programme start="20260615070000 +0000" stop="20260615073000 +0000" channel="tv7"><title lang="mn">&quot;Хөрөг&quot; нэвтрүүлэг үзүүлж байна</title></programme>
-<programme start="20260615073000 +0000" stop="20260615085000 +0000" channel="tv7"><title lang="mn">&quot;Цогт тайж-1&quot; МУСК</title></programme>
-<programme start="20260615085000 +0000" stop="20260615101000 +0000" channel="tv7"><title lang="mn">&quot;Цогт тайж-2&quot; МУСК</title></programme>
-<programme start="20260615101000 +0000" stop="20260615113000 +0000" channel="tv7"><title lang="mn">&quot;Амиараа бэхэлсэн тусгаар тогтнол&quot; баримтат кино</title></programme>
-<programme start="20260615113000 +0000" stop="20260615122000 +0000" channel="tv7"><title lang="mn">&quot;Учралын баяр&quot; үзүүлж байна</title></programme>
-<programme start="20260615122000 +0000" stop="20260615130000 +0000" channel="tv7"><title lang="mn">Монгол: Төрийн далбаа, төрийн дуулал</title></programme>
-<programme start="20260615130000 +0000" stop="20260615145000 +0000" channel="tv7"><title lang="mn">&quot;Нэхүүл&quot; МУСК</title></programme>
-<programme start="20260615145000 +0000" stop="20260615152000 +0000" channel="tv7"><title lang="mn">TV7 төгсгөл</title></programme>
-<programme start="20260614230000 +0000" stop="20260614230500 +0000" channel="TV8.mn@SD"><title lang="mn">Эфир эхлэл</title></programme>
-<programme start="20260614230500 +0000" stop="20260614232000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Дасгалын цаг&quot;</title></programme>
-<programme start="20260614232000 +0000" stop="20260614234000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Шонн хонь&quot; хүүхэлдэйн кино</title></programme>
-<programme start="20260614234000 +0000" stop="20260615002500 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Толь&quot; мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260615002500 +0000" stop="20260615010000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Хөгжмийн хөтөлбөр&quot;</title></programme>
-<programme start="20260615010000 +0000" stop="20260615013000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Хязгааргүй англи хэл&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615013000 +0000" stop="20260615024500 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;9.9 тэрбумын бүсгүй&quot; СОАК 9-р анги</title></programme>
-<programme start="20260615024500 +0000" stop="20260615032000 +0000" channel="TV8.mn@SD"><title lang="mn">Бизнес амжилт</title></programme>
-<programme start="20260615032000 +0000" stop="20260615034500 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Хөгжмийн хөтөлбөр&quot;</title></programme>
-<programme start="20260615034500 +0000" stop="20260615041500 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Хэнэггүй зомбинууд&quot; хүүхэлдэйн кино</title></programme>
-<programme start="20260615041500 +0000" stop="20260615043500 +0000" channel="TV8.mn@SD"><title lang="mn">“Өв соёлоо дээдэлье” нэвтрүүлэг</title></programme>
-<programme start="20260615043500 +0000" stop="20260615050000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Жүжигчдийн түүх&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615050000 +0000" stop="20260615065000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Хор&quot; УСК</title></programme>
-<programme start="20260615065000 +0000" stop="20260615082500 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Талх өдөр бүрийн гайхамшиг&quot; баримтат кино</title></programme>
-<programme start="20260615082500 +0000" stop="20260615085500 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Хүнсний хувьсгал&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615085500 +0000" stop="20260615090500 +0000" channel="TV8.mn@SD"><title lang="mn">“Цахимд ч найз байя” үндэсний нөлөөллийн аян</title></programme>
-<programme start="20260615090500 +0000" stop="20260615093500 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Хөгжмийн хөтөлбөр&quot;</title></programme>
-<programme start="20260615093500 +0000" stop="20260615101000 +0000" channel="TV8.mn@SD"><title lang="mn">Бизнес амжилт</title></programme>
-<programme start="20260615101000 +0000" stop="20260615113000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;9.9 тэрбумын бүсгүй&quot; СОАК 10-р анги</title></programme>
-<programme start="20260615113000 +0000" stop="20260615123000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Толь&quot; мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260615123000 +0000" stop="20260615124500 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Эмээ, үлгэр яриад өгөөч&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615124500 +0000" stop="20260615131000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Цагаан алт&quot; үндэсний хөдөлгөөн</title></programme>
-<programme start="20260615131000 +0000" stop="20260615133000 +0000" channel="TV8.mn@SD"><title lang="mn">“Өв соёлоо дээдэлье” нэвтрүүлэг</title></programme>
-<programme start="20260615133000 +0000" stop="20260615140000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Арт гэр&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615140000 +0000" stop="20260615161000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Тусгаар тогтносон бүрэн эрх&quot; УСК</title></programme>
-<programme start="20260615161000 +0000" stop="20260615165500 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Толь&quot; мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260615165500 +0000" stop="20260615174500 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Хөгжмийн хөтөлбөр&quot;</title></programme>
-<programme start="20260615174500 +0000" stop="20260615181500 +0000" channel="TV8.mn@SD"><title lang="mn">Эфир хаана</title></programme>
-<programme start="20260614220000 +0000" stop="20260614220500 +0000" channel="TV9.mn@SD"><title lang="mn">Дорнын зурлага</title></programme>
-<programme start="20260614220500 +0000" stop="20260614224500 +0000" channel="TV9.mn@SD"><title lang="mn">Гарц нэвтрүүлэг давталт</title></programme>
-<programme start="20260614224500 +0000" stop="20260614232500 +0000" channel="TV9.mn@SD"><title lang="mn">&quot;Анализ&quot; тойм хөтөлбөр давталт</title></programme>
-<programme start="20260614232500 +0000" stop="20260615010000 +0000" channel="TV9.mn@SD"><title lang="mn">Гарын таван хуруу МУСК</title></programme>
-<programme start="20260615010000 +0000" stop="20260615013000 +0000" channel="TV9.mn@SD"><title lang="mn">Ном хурах цаг</title></programme>
-<programme start="20260615013000 +0000" stop="20260615020000 +0000" channel="TV9.mn@SD"><title lang="mn">Охид МОАК 4-р бүлгийн 1-р анги давталт</title></programme>
-<programme start="20260615020000 +0000" stop="20260615030000 +0000" channel="TV9.mn@SD"><title lang="mn">Тоо юу сүлд үү нэвтрүүлэг</title></programme>
-<programme start="20260615030000 +0000" stop="20260615031000 +0000" channel="TV9.mn@SD"><title lang="mn">Энэ өдөр мэдээ</title></programme>
-<programme start="20260615031000 +0000" stop="20260615040000 +0000" channel="TV9.mn@SD"><title lang="mn">Цэцэгсийн үнэр бразил ОАК 28-р анги давталт</title></programme>
-<programme start="20260615040000 +0000" stop="20260615050000 +0000" channel="TV9.mn@SD"><title lang="mn">Оддын хаан шоу нэвтрүүлэг</title></programme>
-<programme start="20260615050000 +0000" stop="20260615052000 +0000" channel="TV9.mn@SD"><title lang="mn">Дэлхийн мэдээ</title></programme>
-<programme start="20260615052000 +0000" stop="20260615064500 +0000" channel="TV9.mn@SD"><title lang="mn">Миний ахын эхнэр МУСК</title></programme>
-<programme start="20260615064500 +0000" stop="20260615065500 +0000" channel="TV9.mn@SD"><title lang="mn">Үлгэрийн цаг</title></programme>
-<programme start="20260615065500 +0000" stop="20260615070000 +0000" channel="TV9.mn@SD"><title lang="mn">Зураглал</title></programme>
-<programme start="20260615070000 +0000" stop="20260615071000 +0000" channel="TV9.mn@SD"><title lang="mn">Энэ өдөр мэдээ</title></programme>
-<programme start="20260615071000 +0000" stop="20260615084000 +0000" channel="TV9.mn@SD"><title lang="mn">Түмний эх үзүүлж байна: Хурдан морины уралдаан</title></programme>
-<programme start="20260615084000 +0000" stop="20260615090000 +0000" channel="TV9.mn@SD"><title lang="mn">Хүнсний хувьсгал нэвтрүүлэг</title></programme>
-<programme start="20260615090000 +0000" stop="20260615091000 +0000" channel="TV9.mn@SD"><title lang="mn">Энэ өдөр мэдээ</title></programme>
-<programme start="20260615091000 +0000" stop="20260615094000 +0000" channel="TV9.mn@SD"><title lang="mn">Охид МОАК 4-р бүлгийн 2-р анги</title></programme>
-<programme start="20260615094000 +0000" stop="20260615100000 +0000" channel="TV9.mn@SD"><title lang="mn">&quot;УИХ өнгөрсөн долоо хоногт тойм&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615100000 +0000" stop="20260615110000 +0000" channel="TV9.mn@SD"><title lang="mn">&quot;Монгол коммент&quot; нэвтрүүлэг</title></programme>
-<programme start="20260615110000 +0000" stop="20260615122000 +0000" channel="TV9.mn@SD"><title lang="mn">&quot;Энэ өдөр&quot; мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260615122000 +0000" stop="20260615130000 +0000" channel="TV9.mn@SD"><title lang="mn">Таргийн баяр 2026 сугалаат хөтөлбөр</title></programme>
-<programme start="20260615130000 +0000" stop="20260615135000 +0000" channel="TV9.mn@SD"><title lang="mn">Адил хандлага нэвтрүүлэг</title></programme>
-<programme start="20260615135000 +0000" stop="20260615145500 +0000" channel="TV9.mn@SD"><title lang="mn">Цэцэгсийн үнэр бразил ОАК 29-р анги</title></programme>
-<programme start="20260615145500 +0000" stop="20260615164000 +0000" channel="TV9.mn@SD"><title lang="mn">&quot;Зүүдэнд оромгүй явдал&quot; МУСК</title></programme>
-<programme start="20260615164000 +0000" stop="20260615174000 +0000" channel="TV9.mn@SD"><title lang="mn">&quot;Энэ өдөр&quot; мэдээллийн хөтөлбөр давталт</title></programme>
-<programme start="20260615174000 +0000" stop="20260615181000 +0000" channel="TV9.mn@SD"><title lang="mn">Давталтын цаг</title></programme>
-<programme start="20260614220000 +0000" stop="20260614221500 +0000" channel="UBS.mn@SD"><title lang="mn">UBS эхлэл</title></programme>
-<programme start="20260614221500 +0000" stop="20260614230500 +0000" channel="UBS.mn@SD"><title lang="mn">21 НЬЮС орон нутгийн мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260614230500 +0000" stop="20260615000500 +0000" channel="UBS.mn@SD"><title lang="mn">СИТИ НЬЮС мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260615000500 +0000" stop="20260615012000 +0000" channel="UBS.mn@SD"><title lang="mn">Сайн уу УЛААНБААТАР хөтөлбөр</title></programme>
-<programme start="20260615012000 +0000" stop="20260615020000 +0000" channel="UBS.mn@SD"><title lang="mn">Кофе юу? Цай юу?</title></programme>
-<programme start="20260615020000 +0000" stop="20260615022500 +0000" channel="UBS.mn@SD"><title lang="mn">&quot;Хэхэ Панда ба Лута тахиа&quot; Хүүхэлдэйн кино /9,10/</title></programme>
-<programme start="20260615022500 +0000" stop="20260615023000 +0000" channel="UBS.mn@SD"><title lang="mn">Бизнес мэдээ</title></programme>
-<programme start="20260615023000 +0000" stop="20260615034500 +0000" channel="UBS.mn@SD"><title lang="mn">&quot;Дотны найзууд&quot; олон ангит киэо /6/</title></programme>
-<programme start="20260615034500 +0000" stop="20260615040500 +0000" channel="UBS.mn@SD"><title lang="mn">Хүнсний хувьсгал-Монголын анхны хүнсний үйлдвэрлэл,технологийн парк ашиглалтад орлоо</title></programme>
-<programme start="20260615040500 +0000" stop="20260615041000 +0000" channel="UBS.mn@SD"><title lang="mn">EXIT зар сурталчилгаа</title></programme>
-<programme start="20260615041000 +0000" stop="20260615050500 +0000" channel="UBS.mn@SD"><title lang="mn">&quot;Цөхрөшгүй&quot; олон ангит кио /6/</title></programme>
-<programme start="20260615050500 +0000" stop="20260615061500 +0000" channel="UBS.mn@SD"><title lang="mn">Сайн уу УЛААНБААТАР хөтөлбөр</title></programme>
-<programme start="20260615061500 +0000" stop="20260615080500 +0000" channel="UBS.mn@SD"><title lang="mn">&quot;Догшин нударга&quot; Уран сайхны кино</title></programme>
-<programme start="20260615080500 +0000" stop="20260615083000 +0000" channel="UBS.mn@SD"><title lang="mn">&quot;Хэхэ Панда ба Лута тахиа&quot; Хүүхэлдэйн кино /11,12/</title></programme>
-<programme start="20260615083000 +0000" stop="20260615083500 +0000" channel="UBS.mn@SD"><title lang="mn">EXIT зар сурталчилгаа</title></programme>
-<programme start="20260615083500 +0000" stop="20260615085500 +0000" channel="UBS.mn@SD"><title lang="mn">&quot;Өсвөрийн кино бүтээгчдийн уралдаан-2026&quot;</title></programme>
-<programme start="20260615085500 +0000" stop="20260615100500 +0000" channel="UBS.mn@SD"><title lang="mn">&quot;Дотны найзууд&quot; олон ангит киэо /7/</title></programme>
-<programme start="20260615100500 +0000" stop="20260615101500 +0000" channel="UBS.mn@SD"><title lang="mn">Бизнес мэдээ</title></programme>
-<programme start="20260615101500 +0000" stop="20260615111000 +0000" channel="UBS.mn@SD"><title lang="mn">21 НЬЮС орон нутгийн мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260615111000 +0000" stop="20260615113000 +0000" channel="UBS.mn@SD"><title lang="mn">&quot;УИХ -н цаг&quot;</title></programme>
-<programme start="20260615113000 +0000" stop="20260615123500 +0000" channel="UBS.mn@SD"><title lang="mn">СИТИ НЬЮС мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260615123500 +0000" stop="20260615133500 +0000" channel="UBS.mn@SD"><title lang="mn">&quot;Цөхрөшгүй&quot; олон ангит кио /7/</title></programme>
-<programme start="20260615133500 +0000" stop="20260615142500 +0000" channel="UBS.mn@SD"><title lang="mn">&quot;E-Movie&quot;</title></programme>
-<programme start="20260615142500 +0000" stop="20260615151500 +0000" channel="UBS.mn@SD"><title lang="mn">21 НЬЮС орон нутгийн мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260615151500 +0000" stop="20260615161500 +0000" channel="UBS.mn@SD"><title lang="mn">СИТИ НЬЮС мэдээллийн хөтөлбөр</title></programme>
-<programme start="20260615161500 +0000" stop="20260615164500 +0000" channel="UBS.mn@SD"><title lang="mn">UBS завсарлага</title></programme>
+<programme start="20260616000000 +0000" stop="20260616010000 +0000" channel="SBN.mn@SD"><title lang="mn">SBN news мэдээллийн хөтөлбөр</title></programme>
+<programme start="20260616010000 +0000" stop="20260616013000 +0000" channel="SBN.mn@SD"><title lang="mn">Баримтат дэлгэц: Утасгүй хүүхэд нас</title></programme>
+<programme start="20260616013000 +0000" stop="20260616020000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Поль покет&quot; хүүхэлдэйн кино 6-р анги</title></programme>
+<programme start="20260616020000 +0000" stop="20260616024000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Эсгий туургатан&quot; нэвтрүүлэг</title></programme>
+<programme start="20260616024000 +0000" stop="20260616030000 +0000" channel="SBN.mn@SD"><title lang="mn">Инээдмийн толь</title></programme>
+<programme start="20260616030000 +0000" stop="20260616040000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Дүнсгэр мөрөн&quot; ООАК-6</title></programme>
+<programme start="20260616040000 +0000" stop="20260616043000 +0000" channel="SBN.mn@SD"><title lang="mn">SBN news мэдээллийн хөтөлбөр</title></programme>
+<programme start="20260616043000 +0000" stop="20260616045000 +0000" channel="SBN.mn@SD"><title lang="mn">Business time</title></programme>
+<programme start="20260616045000 +0000" stop="20260616050000 +0000" channel="SBN.mn@SD"><title lang="mn">Түүхийн хуудаснаа</title></programme>
+<programme start="20260616050000 +0000" stop="20260616060000 +0000" channel="SBN.mn@SD"><title lang="mn">Human channel</title></programme>
+<programme start="20260616060000 +0000" stop="20260616063000 +0000" channel="SBN.mn@SD"><title lang="mn">SBN news мэдээллийн хөтөлбөр</title></programme>
+<programme start="20260616063000 +0000" stop="20260616073000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Марашийн хүн&quot; ТОАК-39</title></programme>
+<programme start="20260616073000 +0000" stop="20260616083000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Гоморра&quot; ИОАК 2-7</title></programme>
+<programme start="20260616083000 +0000" stop="20260616090000 +0000" channel="SBN.mn@SD"><title lang="mn">Түүхийн хуудаснаа</title></programme>
+<programme start="20260616090000 +0000" stop="20260616093000 +0000" channel="SBN.mn@SD"><title lang="mn">Business time</title></programme>
+<programme start="20260616093000 +0000" stop="20260616100000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Поль покет&quot; хүүхэлдэйн кино 6-р анги</title></programme>
+<programme start="20260616100000 +0000" stop="20260616103000 +0000" channel="SBN.mn@SD"><title lang="mn">SBN news мэдээллийн хөтөлбөр</title></programme>
+<programme start="20260616103000 +0000" stop="20260616113000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Дүнсгэр мөрөн&quot; ООАК-7</title></programme>
+<programme start="20260616113000 +0000" stop="20260616115000 +0000" channel="SBN.mn@SD"><title lang="mn">Нахиа хүүхдийн нэвтрүүлэг 3+</title></programme>
+<programme start="20260616115000 +0000" stop="20260616123000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Бидний бүтээсэн 20 жил&quot;</title></programme>
+<programme start="20260616123000 +0000" stop="20260616133000 +0000" channel="SBN.mn@SD"><title lang="mn">SBN news мэдээллийн хөтөлбөр</title></programme>
+<programme start="20260616133000 +0000" stop="20260616143000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Марашийн хүн&quot; ТОАК-40</title></programme>
+<programme start="20260616143000 +0000" stop="20260616153000 +0000" channel="SBN.mn@SD"><title lang="mn">&quot;Гоморра&quot; ИОАК 2-8</title></programme>
+<programme start="20260616153000 +0000" stop="20260616160000 +0000" channel="SBN.mn@SD"><title lang="mn">Эфир завсарлага</title></programme>
+<programme start="20260615225500 +0000" stop="20260615230000 +0000" channel="StarTV.mn@SD"><title lang="mn">Стар Телевиз үзүүлж байна</title></programme>
+<programme start="20260615230000 +0000" stop="20260616013000 +0000" channel="StarTV.mn@SD"><title lang="mn">&quot;Good Morning Mongolia Show&quot; өглөөний хөтөлбөр</title></programme>
+<programme start="20260616013000 +0000" stop="20260616014500 +0000" channel="StarTV.mn@SD"><title lang="mn">Миний анхны ярилцлага хүүхдийн нэвтрүүлэг</title></programme>
+<programme start="20260616014500 +0000" stop="20260616020000 +0000" channel="StarTV.mn@SD"><title lang="mn">Бамбарууш хүүхэлдэйн кино 89- 90-р анги</title></programme>
+<programme start="20260616020000 +0000" stop="20260616021500 +0000" channel="StarTV.mn@SD"><title lang="mn">Бяцхан муужгай нохойнууд хүүхэлдэйн кино 27-28-р анги</title></programme>
+<programme start="20260616021500 +0000" stop="20260616023000 +0000" channel="StarTV.mn@SD"><title lang="mn">Сайн уу Багшаа хүүхдийн нэвтрүүлэг</title></programme>
+<programme start="20260616023000 +0000" stop="20260616033000 +0000" channel="StarTV.mn@SD"><title lang="mn">Хайрыг минь өгөөч ОАК 15-р анги</title></programme>
+<programme start="20260616033000 +0000" stop="20260616050000 +0000" channel="StarTV.mn@SD"><title lang="mn">Family Feud Mongolia шоу нэвтрүүлэг 1-р улирал 1-р дугаар</title></programme>
+<programme start="20260616050000 +0000" stop="20260616053000 +0000" channel="StarTV.mn@SD"><title lang="mn">Star Movie нэвтрүүлэг</title></programme>
+<programme start="20260616053000 +0000" stop="20260616072000 +0000" channel="StarTV.mn@SD"><title lang="mn">Шулмын шивнээ /Whisper of the witch/ УСК</title></programme>
+<programme start="20260616072000 +0000" stop="20260616082000 +0000" channel="StarTV.mn@SD"><title lang="mn">Хүслийн жагсаалт подкаст</title></programme>
+<programme start="20260616082000 +0000" stop="20260616090000 +0000" channel="StarTV.mn@SD"><title lang="mn">Амьдралын хэв маяг нэвтрүүлэг</title></programme>
+<programme start="20260616090000 +0000" stop="20260616091500 +0000" channel="StarTV.mn@SD"><title lang="mn">Миний анхны ярилцлага хүүхдийн нэвтрүүлэг</title></programme>
+<programme start="20260616091500 +0000" stop="20260616093000 +0000" channel="StarTV.mn@SD"><title lang="mn">Бамбарууш хүүхэлдэйн кино 91-92-р анги</title></programme>
+<programme start="20260616093000 +0000" stop="20260616094500 +0000" channel="StarTV.mn@SD"><title lang="mn">Бяцхан муужгай нохойнууд хүүхэлдэйн кино 29-30-р анги</title></programme>
+<programme start="20260616094500 +0000" stop="20260616100000 +0000" channel="StarTV.mn@SD"><title lang="mn">Сайн уу Багшаа хүүхдийн нэвтрүүлэг</title></programme>
+<programme start="20260616100000 +0000" stop="20260616110000 +0000" channel="StarTV.mn@SD"><title lang="mn">Намайг ээдэг нар ХОАК 35-р анги</title></programme>
+<programme start="20260616110000 +0000" stop="20260616114000 +0000" channel="StarTV.mn@SD"><title lang="mn">Бүтээлч гэр бүл нэвтрүүлэг</title></programme>
+<programme start="20260616114000 +0000" stop="20260616120000 +0000" channel="StarTV.mn@SD"><title lang="mn">Нүүдэлчдийн өв соёл</title></programme>
+<programme start="20260616120000 +0000" stop="20260616130000 +0000" channel="StarTV.mn@SD"><title lang="mn">Хайрыг минь өгөөч ОАК 16-р анги</title></programme>
+<programme start="20260616130000 +0000" stop="20260616140000 +0000" channel="StarTV.mn@SD"><title lang="mn">Аялалын тойрог Москва 3- р хэсэг</title></programme>
+<programme start="20260616140000 +0000" stop="20260616140500 +0000" channel="StarTV.mn@SD"><title lang="mn">Star Movie нэвтрүүлэг</title></programme>
+<programme start="20260616140500 +0000" stop="20260616161000 +0000" channel="StarTV.mn@SD"><title lang="mn">Миний хайрт нохой /My heart puppy/ УСК</title></programme>
+<programme start="20260616161000 +0000" stop="20260616164000 +0000" channel="StarTV.mn@SD"><title lang="mn">Манай дэлгэцнээ</title></programme>
+<programme start="20260615230000 +0000" stop="20260615230500 +0000" channel="SuldTV.mn@SD"><title lang="mn">Цаг агаар</title></programme>
+<programme start="20260615230500 +0000" stop="20260615233000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Чики&quot; хүүхэлдэйн кино</title></programme>
+<programme start="20260615233000 +0000" stop="20260616000000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Гуталт муурын адал явдал&quot; хүүхэлдэйн кино</title></programme>
+<programme start="20260616000000 +0000" stop="20260616003000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Сод урлан&quot; хүүхдийн нэвтрүүлэг 3+</title></programme>
+<programme start="20260616003000 +0000" stop="20260616010000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Цаг үе&quot; мэдээллийн хөтөлбөр</title></programme>
+<programme start="20260616010000 +0000" stop="20260616013000 +0000" channel="SuldTV.mn@SD"><title lang="mn">Бурхантын хурд-2017/Соёолон/</title></programme>
+<programme start="20260616013000 +0000" stop="20260616020000 +0000" channel="SuldTV.mn@SD"><title lang="mn">Бизнесийн амжилт</title></programme>
+<programme start="20260616020000 +0000" stop="20260616030000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Сүүлчийн хөлөг онгоц&quot; ОАК V.10-р анги</title></programme>
+<programme start="20260616030000 +0000" stop="20260616033000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Чики&quot; хүүхэлдэйн кино</title></programme>
+<programme start="20260616033000 +0000" stop="20260616040000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Гуталт муурын адал явдал&quot; хүүхэлдэйн кино</title></programme>
+<programme start="20260616040000 +0000" stop="20260616043000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Мэдлэгтэй дэлгэц&quot; нэвтрүүлэг 6+</title></programme>
+<programme start="20260616043000 +0000" stop="20260616050000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Цаг үе&quot; мэдээллийн хөтөлбөр</title></programme>
+<programme start="20260616050000 +0000" stop="20260616060000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Өв соёлын хэлхээ&quot; нэвтрүүлэг</title></programme>
+<programme start="20260616060000 +0000" stop="20260616064000 +0000" channel="SuldTV.mn@SD"><title lang="mn">FIFA 2026: &quot;Хөлбөмбөгийн түүх&quot;-6</title></programme>
+<programme start="20260616064000 +0000" stop="20260616083000 +0000" channel="SuldTV.mn@SD"><title lang="mn">Архангай аймгийн 97 жилийн ойн баяр наадам 2-р хэсэг</title></programme>
+<programme start="20260616083000 +0000" stop="20260616090000 +0000" channel="SuldTV.mn@SD"><title lang="mn">Бизнесийн амжилт</title></programme>
+<programme start="20260616090000 +0000" stop="20260616093000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Сод урлан&quot; хүүхдийн нэвтрүүлэг 3+</title></programme>
+<programme start="20260616093000 +0000" stop="20260616100000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Чики&quot; хүүхэлдэйн кино</title></programme>
+<programme start="20260616100000 +0000" stop="20260616103000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Гуталт муурын адал явдал&quot; хүүхэлдэйн кино</title></programme>
+<programme start="20260616103000 +0000" stop="20260616110000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Мэдлэгтэй дэлгэц&quot; нэвтрүүлэг 6+</title></programme>
+<programme start="20260616110000 +0000" stop="20260616120000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Куантико бааз&quot; ОАК I.1-р анги</title></programme>
+<programme start="20260616120000 +0000" stop="20260616133000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Миний алт шиг хүүхэд&quot; нэвтрүүлэг</title></programme>
+<programme start="20260616133000 +0000" stop="20260616140000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Цаг үе&quot; мэдээллийн хөтөлбөр</title></programme>
+<programme start="20260616140000 +0000" stop="20260616144500 +0000" channel="SuldTV.mn@SD"><title lang="mn">FIFA 2026: &quot;Дэлхийн аваргад хүрэх зам&quot;-6</title></programme>
+<programme start="20260616144500 +0000" stop="20260616163000 +0000" channel="SuldTV.mn@SD"><title lang="mn">&quot;Чөтгөрүүд&quot; УСК</title></programme>
+<programme start="20260616163000 +0000" stop="20260616170000 +0000" channel="SuldTV.mn@SD"><title lang="mn">Сайхан амраарай</title></programme>
+<programme start="20260615220000 +0000" stop="20260615230000 +0000" channel="TV5.mn@SD"><title lang="mn">Цаг хөтөлбөр</title></programme>
+<programme start="20260615230000 +0000" stop="20260615230500 +0000" channel="TV5.mn@SD"><title lang="mn">Цаг агаарын мэдээ</title></programme>
+<programme start="20260615230500 +0000" stop="20260615231000 +0000" channel="TV5.mn@SD"><title lang="mn">Монгол зурхай</title></programme>
+<programme start="20260615231000 +0000" stop="20260615232500 +0000" channel="TV5.mn@SD"><title lang="mn">Хүүхэд бидний өв соёл</title></programme>
+<programme start="20260615232500 +0000" stop="20260615234500 +0000" channel="TV5.mn@SD"><title lang="mn">Шидэт харандаа</title></programme>
+<programme start="20260615234500 +0000" stop="20260615235000 +0000" channel="TV5.mn@SD"><title lang="mn">Танд тустай агшин</title></programme>
+<programme start="20260615235000 +0000" stop="20260616001000 +0000" channel="TV5.mn@SD"><title lang="mn">Япон орныг тольдохуй</title></programme>
+<programme start="20260616001000 +0000" stop="20260616005500 +0000" channel="TV5.mn@SD"><title lang="mn">&quot;Поли&quot; хүүхэлдэйн кино S1 - 4.5.6-р анги</title></programme>
+<programme start="20260616005500 +0000" stop="20260616010000 +0000" channel="TV5.mn@SD"><title lang="mn">Цаг агаарын мэдээ</title></programme>
+<programme start="20260616010000 +0000" stop="20260616022000 +0000" channel="TV5.mn@SD"><title lang="mn">&quot;Гэгээн өглөө&quot; ярилцлага</title></programme>
+<programme start="20260616022000 +0000" stop="20260616023000 +0000" channel="TV5.mn@SD"><title lang="mn">Цаг агаарын мэдээ</title></programme>
+<programme start="20260616023000 +0000" stop="20260616025000 +0000" channel="TV5.mn@SD"><title lang="mn">Шидэт харандаа</title></programme>
+<programme start="20260616025000 +0000" stop="20260616030000 +0000" channel="TV5.mn@SD"><title lang="mn">Өвөг дээдсийн өв соёл</title></programme>
+<programme start="20260616030000 +0000" stop="20260616030500 +0000" channel="TV5.mn@SD"><title lang="mn">Fast 5ive: Mongolia Today</title></programme>
+<programme start="20260616030500 +0000" stop="20260616043000 +0000" channel="TV5.mn@SD"><title lang="mn">&quot;Чамтай байх сайхан&quot; 366.367-р анги ЭОАК</title></programme>
+<programme start="20260616043000 +0000" stop="20260616050000 +0000" channel="TV5.mn@SD"><title lang="mn">Эрүүл амьдарцгаая - эрүүл мэндийн нэвтрүүлэг</title></programme>
+<programme start="20260616050000 +0000" stop="20260616051000 +0000" channel="TV5.mn@SD"><title lang="mn">Мэдээ</title></programme>
+<programme start="20260616051000 +0000" stop="20260616051500 +0000" channel="TV5.mn@SD"><title lang="mn">Цаг агаарын мэдээ</title></programme>
+<programme start="20260616051500 +0000" stop="20260616053000 +0000" channel="TV5.mn@SD"><title lang="mn">Бизнес мэдээ</title></programme>
+<programme start="20260616053000 +0000" stop="20260616070000 +0000" channel="TV5.mn@SD"><title lang="mn">Түмний эх үзүүлж байна</title></programme>
+<programme start="20260616070000 +0000" stop="20260616070500 +0000" channel="TV5.mn@SD"><title lang="mn">Мэдээ</title></programme>
+<programme start="20260616070500 +0000" stop="20260616071000 +0000" channel="TV5.mn@SD"><title lang="mn">Технологи 360 : Энгийний цаана агуу</title></programme>
+<programme start="20260616071000 +0000" stop="20260616071500 +0000" channel="TV5.mn@SD"><title lang="mn">Цаг агаарын мэдээ</title></programme>
+<programme start="20260616071500 +0000" stop="20260616080000 +0000" channel="TV5.mn@SD"><title lang="mn">Гэгээн боловсрол - Мэргэжил сонголт</title></programme>
+<programme start="20260616080000 +0000" stop="20260616084000 +0000" channel="TV5.mn@SD"><title lang="mn">Үл тасрах аялгуу - Жолооч дуулж байна</title></programme>
+<programme start="20260616084000 +0000" stop="20260616093000 +0000" channel="TV5.mn@SD"><title lang="mn">Гэгээн эрүүл мэнд подкаст</title></programme>
+<programme start="20260616093000 +0000" stop="20260616093500 +0000" channel="TV5.mn@SD"><title lang="mn">Цаг агаарын мэдээ</title></programme>
+<programme start="20260616093500 +0000" stop="20260616094000 +0000" channel="TV5.mn@SD"><title lang="mn">Танд тустай агшин</title></programme>
+<programme start="20260616094000 +0000" stop="20260616100000 +0000" channel="TV5.mn@SD"><title lang="mn">&quot;Шидэт харандаа&quot; хүүхдийн нэвтрүүлэг</title></programme>
+<programme start="20260616100000 +0000" stop="20260616101500 +0000" channel="TV5.mn@SD"><title lang="mn">Хүүхэд бидний өв соёл</title></programme>
+<programme start="20260616101500 +0000" stop="20260616110000 +0000" channel="TV5.mn@SD"><title lang="mn">&quot;Поли&quot; хүүхэлдэйн кино S1 - 7.8.9-р анги</title></programme>
+<programme start="20260616110000 +0000" stop="20260616115000 +0000" channel="TV5.mn@SD"><title lang="mn">Мэдээ</title></programme>
+<programme start="20260616115000 +0000" stop="20260616125500 +0000" channel="TV5.mn@SD"><title lang="mn">&quot;Чамтай байх сайхан&quot; 368.369-р анги ЭОАК</title></programme>
+<programme start="20260616125500 +0000" stop="20260616130000 +0000" channel="TV5.mn@SD"><title lang="mn">Цаг агаарын мэдээ</title></programme>
+<programme start="20260616130000 +0000" stop="20260616140000 +0000" channel="TV5.mn@SD"><title lang="mn">Цаг хөтөлбөр</title></programme>
+<programme start="20260616140000 +0000" stop="20260616155000 +0000" channel="TV5.mn@SD"><title lang="mn">&quot;Өвөө&quot; УСК</title></programme>
+<programme start="20260616155000 +0000" stop="20260616164000 +0000" channel="TV5.mn@SD"><title lang="mn">&quot;Чамтай байх сайхан&quot; 368.369-р анги ЭОАК</title></programme>
+<programme start="20260616164000 +0000" stop="20260616171000 +0000" channel="TV5.mn@SD"><title lang="mn">Эфир завсарласан</title></programme>
+<programme start="20260616004000 +0000" stop="20260616010000 +0000" channel="tv7"><title lang="mn">TV7 эхлэл</title></programme>
+<programme start="20260616010000 +0000" stop="20260616020000 +0000" channel="tv7"><title lang="mn">&quot;CANIMALS&quot; хүүхэлдэйн кино</title></programme>
+<programme start="20260616020000 +0000" stop="20260616042000 +0000" channel="tv7"><title lang="mn">&quot;Том толгойтын романс&quot; МУСК</title></programme>
+<programme start="20260616042000 +0000" stop="20260616044000 +0000" channel="tv7"><title lang="mn">&quot;Хүнсний хувьсал&quot; үзүүлж байна</title></programme>
+<programme start="20260616044000 +0000" stop="20260616061000 +0000" channel="tv7"><title lang="mn">&quot;Амиараа бэхэлсэн тусгаар тогтнол&quot; баримтат кино</title></programme>
+<programme start="20260616061000 +0000" stop="20260616070000 +0000" channel="tv7"><title lang="mn">&quot;Учралын баяр&quot; үзүүлж байна</title></programme>
+<programme start="20260616070000 +0000" stop="20260616074000 +0000" channel="tv7"><title lang="mn">Монгол: Төрийн далбаа, төрийн дуулал</title></programme>
+<programme start="20260616074000 +0000" stop="20260616093000 +0000" channel="tv7"><title lang="mn">&quot;Нэхүүл&quot; МУСК</title></programme>
+<programme start="20260616093000 +0000" stop="20260616100000 +0000" channel="tv7"><title lang="mn">&quot;Хөрөг&quot; нэвтрүүлэг үзүүлж байна</title></programme>
+<programme start="20260616100000 +0000" stop="20260616113000 +0000" channel="tv7"><title lang="mn">&quot;Цогт тайж-1&quot; МУСК</title></programme>
+<programme start="20260616113000 +0000" stop="20260616130000 +0000" channel="tv7"><title lang="mn">&quot;Цогт тайж-2&quot; МУСК</title></programme>
+<programme start="20260616130000 +0000" stop="20260616144000 +0000" channel="tv7"><title lang="mn">&quot;Гэрлэж амжаагүй явна&quot; МУСК</title></programme>
+<programme start="20260616144000 +0000" stop="20260616151000 +0000" channel="tv7"><title lang="mn">TV7 төгсгөл</title></programme>
+<programme start="20260615230000 +0000" stop="20260615230500 +0000" channel="TV8.mn@SD"><title lang="mn">Эфир эхлэл</title></programme>
+<programme start="20260615230500 +0000" stop="20260615232000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Дасгалын цаг&quot;</title></programme>
+<programme start="20260615232000 +0000" stop="20260615234000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Шонн хонь&quot; хүүхэлдэйн кино</title></programme>
+<programme start="20260615234000 +0000" stop="20260616002500 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Толь&quot; мэдээллийн хөтөлбөр</title></programme>
+<programme start="20260616002500 +0000" stop="20260616010000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Хөгжмийн хөтөлбөр&quot;</title></programme>
+<programme start="20260616010000 +0000" stop="20260616013000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Хязгааргүй англи хэл&quot; нэвтрүүлэг</title></programme>
+<programme start="20260616013000 +0000" stop="20260616024500 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;9.9 тэрбумын бүсгүй&quot; СОАК 10-р анги</title></programme>
+<programme start="20260616024500 +0000" stop="20260616032000 +0000" channel="TV8.mn@SD"><title lang="mn">Бизнес амжилт</title></programme>
+<programme start="20260616032000 +0000" stop="20260616035000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Хэнэггүй зомбинууд&quot; хүүхэлдэйн кино</title></programme>
+<programme start="20260616035000 +0000" stop="20260616041500 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Цагаан алт&quot; үндэсний хөдөлгөөн</title></programme>
+<programme start="20260616041500 +0000" stop="20260616043500 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Хөгжмийн хөтөлбөр&quot;</title></programme>
+<programme start="20260616043500 +0000" stop="20260616050000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Найруулагчдын түүх&quot; нэвтрүүлэг</title></programme>
+<programme start="20260616050000 +0000" stop="20260616065000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Тусгаар тогтносон бүрэн эрх&quot; УСК</title></programme>
+<programme start="20260616065000 +0000" stop="20260616083000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Гурван явган аялагч&quot; баримтат кино</title></programme>
+<programme start="20260616083000 +0000" stop="20260616084000 +0000" channel="TV8.mn@SD"><title lang="mn">“Цахимд ч найз байя” үндэсний нөлөөллийн аян</title></programme>
+<programme start="20260616084000 +0000" stop="20260616091000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Хөгжмийн хөтөлбөр&quot;</title></programme>
+<programme start="20260616091000 +0000" stop="20260616093500 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Хязгааргүй англи хэл&quot; нэвтрүүлэг</title></programme>
+<programme start="20260616093500 +0000" stop="20260616101000 +0000" channel="TV8.mn@SD"><title lang="mn">Бизнес амжилт</title></programme>
+<programme start="20260616101000 +0000" stop="20260616113000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;9.9 тэрбумын бүсгүй&quot; СОАК 11-р анги</title></programme>
+<programme start="20260616113000 +0000" stop="20260616123000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Толь&quot; мэдээллийн хөтөлбөр</title></programme>
+<programme start="20260616123000 +0000" stop="20260616124500 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Эмээ, үлгэр яриад өгөөч&quot; нэвтрүүлэг</title></programme>
+<programme start="20260616124500 +0000" stop="20260616130000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Түүх 1 минут&quot; нэвтрүүлэг</title></programme>
+<programme start="20260616130000 +0000" stop="20260616133000 +0000" channel="TV8.mn@SD"><title lang="mn">“Өв соёлоо дээдэлье” нэвтрүүлэг</title></programme>
+<programme start="20260616133000 +0000" stop="20260616140000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Арт гэр&quot; нэвтрүүлэг</title></programme>
+<programme start="20260616140000 +0000" stop="20260616155000 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Би ээж болмоор байна&quot; МУСК</title></programme>
+<programme start="20260616155000 +0000" stop="20260616163500 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Толь&quot; мэдээллийн хөтөлбөр</title></programme>
+<programme start="20260616163500 +0000" stop="20260616172500 +0000" channel="TV8.mn@SD"><title lang="mn">&quot;Хөгжмийн хөтөлбөр&quot;</title></programme>
+<programme start="20260616172500 +0000" stop="20260616175500 +0000" channel="TV8.mn@SD"><title lang="mn">Эфир хаана</title></programme>
+<programme start="20260615220000 +0000" stop="20260615220500 +0000" channel="TV9.mn@SD"><title lang="mn">Дорнын зурлага</title></programme>
+<programme start="20260615220500 +0000" stop="20260615225500 +0000" channel="TV9.mn@SD"><title lang="mn">&quot;Энэ өдөр&quot; мэдээллийн хөтөлбөр давталт</title></programme>
+<programme start="20260615225500 +0000" stop="20260615231000 +0000" channel="TV9.mn@SD"><title lang="mn">Монголчуудын өв соёл</title></programme>
+<programme start="20260615231000 +0000" stop="20260615233000 +0000" channel="TV9.mn@SD"><title lang="mn">Шинжлэх ухаанч хүүхдүүд-&quot;Дүдү&quot;-ийн цаг нэвтрүүлэг</title></programme>
+<programme start="20260615233000 +0000" stop="20260616011500 +0000" channel="TV9.mn@SD"><title lang="mn">Моторын дуу МУСК</title></programme>
+<programme start="20260616011500 +0000" stop="20260616013000 +0000" channel="TV9.mn@SD"><title lang="mn">Ном хурах цаг</title></programme>
+<programme start="20260616013000 +0000" stop="20260616020000 +0000" channel="TV9.mn@SD"><title lang="mn">Охид МОАК 4-р бүлгийн 2-р анги давталт</title></programme>
+<programme start="20260616020000 +0000" stop="20260616030000 +0000" channel="TV9.mn@SD"><title lang="mn">Тоо юу сүлд үү нэвтрүүлэг</title></programme>
+<programme start="20260616030000 +0000" stop="20260616031000 +0000" channel="TV9.mn@SD"><title lang="mn">Энэ өдөр мэдээ</title></programme>
+<programme start="20260616031000 +0000" stop="20260616040000 +0000" channel="TV9.mn@SD"><title lang="mn">Цэцэгсийн үнэр бразил ОАК 29-р анги давталт</title></programme>
+<programme start="20260616040000 +0000" stop="20260616050000 +0000" channel="TV9.mn@SD"><title lang="mn">Оддын хаан шоу нэвтрүүлэг</title></programme>
+<programme start="20260616050000 +0000" stop="20260616052000 +0000" channel="TV9.mn@SD"><title lang="mn">Дэлхийн мэдээ</title></programme>
+<programme start="20260616052000 +0000" stop="20260616070000 +0000" channel="TV9.mn@SD"><title lang="mn">Болсон явдал МУСК</title></programme>
+<programme start="20260616070000 +0000" stop="20260616071000 +0000" channel="TV9.mn@SD"><title lang="mn">Энэ өдөр мэдээ</title></programme>
+<programme start="20260616071000 +0000" stop="20260616084000 +0000" channel="TV9.mn@SD"><title lang="mn">Түмний эх үзүүлж байна: Хурдан морины уралдаан</title></programme>
+<programme start="20260616084000 +0000" stop="20260616090000 +0000" channel="TV9.mn@SD"><title lang="mn">Шинжлэх ухаанч хүүхдүүд-&quot;Дүдү&quot;-ийн цаг нэвтрүүлэг</title></programme>
+<programme start="20260616090000 +0000" stop="20260616091000 +0000" channel="TV9.mn@SD"><title lang="mn">Энэ өдөр мэдээ</title></programme>
+<programme start="20260616091000 +0000" stop="20260616094000 +0000" channel="TV9.mn@SD"><title lang="mn">Охид МОАК 4-р бүлгийн 3-р анги</title></programme>
+<programme start="20260616094000 +0000" stop="20260616100000 +0000" channel="TV9.mn@SD"><title lang="mn">Монголчуудын өв соёл</title></programme>
+<programme start="20260616100000 +0000" stop="20260616110000 +0000" channel="TV9.mn@SD"><title lang="mn">&quot;Монгол коммент&quot; нэвтрүүлэг</title></programme>
+<programme start="20260616110000 +0000" stop="20260616121000 +0000" channel="TV9.mn@SD"><title lang="mn">&quot;Энэ өдөр&quot; мэдээллийн хөтөлбөр</title></programme>
+<programme start="20260616121000 +0000" stop="20260616123000 +0000" channel="TV9.mn@SD"><title lang="mn">Баримтат кино</title></programme>
+<programme start="20260616123000 +0000" stop="20260616133000 +0000" channel="TV9.mn@SD"><title lang="mn">Цэцэгсийн үнэр бразил ОАК 30-р анги</title></programme>
+<programme start="20260616133000 +0000" stop="20260616143000 +0000" channel="TV9.mn@SD"><title lang="mn">Хаан тэнгэрийн &quot;ДОЛООН БУРХАН&quot; одыг газарт буулгаж тахих ёслол</title></programme>
+<programme start="20260616143000 +0000" stop="20260616153000 +0000" channel="TV9.mn@SD"><title lang="mn">&quot;Мөнхөд гэрэлтэх диваажин&quot; бүжгэн жүжиг</title></programme>
+<programme start="20260616153000 +0000" stop="20260616165000 +0000" channel="TV9.mn@SD"><title lang="mn">&quot;Мөнгөн буйл&quot; МУСК</title></programme>
+<programme start="20260616165000 +0000" stop="20260616175000 +0000" channel="TV9.mn@SD"><title lang="mn">&quot;Энэ өдөр&quot; мэдээллийн хөтөлбөр давталт</title></programme>
+<programme start="20260616175000 +0000" stop="20260616182000 +0000" channel="TV9.mn@SD"><title lang="mn">Давталтын цаг</title></programme>
+<programme start="20260615220000 +0000" stop="20260615221500 +0000" channel="UBS.mn@SD"><title lang="mn">UBS эхлэл</title></programme>
+<programme start="20260615221500 +0000" stop="20260615230500 +0000" channel="UBS.mn@SD"><title lang="mn">21 НЬЮС орон нутгийн мэдээллийн хөтөлбөр</title></programme>
+<programme start="20260615230500 +0000" stop="20260616000500 +0000" channel="UBS.mn@SD"><title lang="mn">СИТИ НЬЮС мэдээллийн хөтөлбөр</title></programme>
+<programme start="20260616000500 +0000" stop="20260616012000 +0000" channel="UBS.mn@SD"><title lang="mn">Сайн уу УЛААНБААТАР хөтөлбөр</title></programme>
+<programme start="20260616012000 +0000" stop="20260616020000 +0000" channel="UBS.mn@SD"><title lang="mn">Кофе юу? Цай юу?</title></programme>
+<programme start="20260616020000 +0000" stop="20260616022500 +0000" channel="UBS.mn@SD"><title lang="mn">&quot;Хэхэ Панда ба Лута тахиа&quot; Хүүхэлдэйн кино /11,12/</title></programme>
+<programme start="20260616022500 +0000" stop="20260616023000 +0000" channel="UBS.mn@SD"><title lang="mn">Бизнес мэдээ</title></programme>
+<programme start="20260616023000 +0000" stop="20260616033500 +0000" channel="UBS.mn@SD"><title lang="mn">&quot;Дотны найзууд&quot; олон ангит киэо /7/</title></programme>
+<programme start="20260616033500 +0000" stop="20260616040000 +0000" channel="UBS.mn@SD"><title lang="mn">&quot;Төгөлдөр хүүхэд&quot; хүүхдийн нэвтрүүлэг</title></programme>
+<programme start="20260616040000 +0000" stop="20260616040500 +0000" channel="UBS.mn@SD"><title lang="mn">EXIT зар сурталчилгаа</title></programme>
+<programme start="20260616040500 +0000" stop="20260616050000 +0000" channel="UBS.mn@SD"><title lang="mn">&quot;Цөхрөшгүй&quot; олон ангит кио /7/</title></programme>
+<programme start="20260616050000 +0000" stop="20260616061000 +0000" channel="UBS.mn@SD"><title lang="mn">Сайн уу УЛААНБААТАР хөтөлбөр</title></programme>
+<programme start="20260616061000 +0000" stop="20260616064000 +0000" channel="UBS.mn@SD"><title lang="mn">Fashion and Fitness</title></programme>
+<programme start="20260616064000 +0000" stop="20260616082500 +0000" channel="UBS.mn@SD"><title lang="mn">&quot;Луугийн оролт&quot; Уран сайхны кино</title></programme>
+<programme start="20260616082500 +0000" stop="20260616085000 +0000" channel="UBS.mn@SD"><title lang="mn">&quot;Хэхэ Панда ба Лута тахиа&quot; Хүүхэлдэйн кино /13,14/</title></programme>
+<programme start="20260616085000 +0000" stop="20260616085500 +0000" channel="UBS.mn@SD"><title lang="mn">EXIT зар сурталчилгаа</title></programme>
+<programme start="20260616085500 +0000" stop="20260616091500 +0000" channel="UBS.mn@SD"><title lang="mn">&quot;Өсвөрийн кино бүтээгчдийн уралдаан-2026&quot;</title></programme>
+<programme start="20260616091500 +0000" stop="20260616102500 +0000" channel="UBS.mn@SD"><title lang="mn">&quot;Дотны найзууд&quot; олон ангит киэо /8/</title></programme>
+<programme start="20260616102500 +0000" stop="20260616103000 +0000" channel="UBS.mn@SD"><title lang="mn">Бизнес мэдээ</title></programme>
+<programme start="20260616103000 +0000" stop="20260616113000 +0000" channel="UBS.mn@SD"><title lang="mn">21 НЬЮС орон нутгийн мэдээллийн хөтөлбөр</title></programme>
+<programme start="20260616113000 +0000" stop="20260616123000 +0000" channel="UBS.mn@SD"><title lang="mn">СИТИ НЬЮС мэдээллийн хөтөлбөр</title></programme>
+<programme start="20260616123000 +0000" stop="20260616124500 +0000" channel="UBS.mn@SD"><title lang="mn">UBS энэ 7 хоногт</title></programme>
+<programme start="20260616124500 +0000" stop="20260616134500 +0000" channel="UBS.mn@SD"><title lang="mn">&quot;Цөхрөшгүй&quot; олон ангит кионы төгсгөлийн /8/</title></programme>
+<programme start="20260616134500 +0000" stop="20260616143000 +0000" channel="UBS.mn@SD"><title lang="mn">&quot;Нүүр тулсан ярьцлага&quot;</title></programme>
+<programme start="20260616143000 +0000" stop="20260616152000 +0000" channel="UBS.mn@SD"><title lang="mn">21 НЬЮС орон нутгийн мэдээллийн хөтөлбөр</title></programme>
+<programme start="20260616152000 +0000" stop="20260616162000 +0000" channel="UBS.mn@SD"><title lang="mn">СИТИ НЬЮС мэдээллийн хөтөлбөр</title></programme>
+<programme start="20260616162000 +0000" stop="20260616165000 +0000" channel="UBS.mn@SD"><title lang="mn">UBS завсарлага</title></programme>
 </tv>
