@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260621">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260622">
 <channel id="5"><display-name>Canale 5</display-name><icon src="https://services.tivulaguida.it/uploads/channel/a6b9c3b759485b80a3dc00b4b3b93e1d90fef0c0.png"/></channel>
 <channel id="6"><display-name>Italia 1</display-name><icon src="https://services.tivulaguida.it/uploads/channel/16fb1ac9c0382b4ce19718d4a6ea5aa5e5a141b0.png"/></channel>
 <channel id="11"><display-name>Iris HD</display-name><icon src="https://services.tivulaguida.it/uploads/channel/48843f14ba4fd29c803614b26102b73e7e2ba8b8.png"/></channel>
@@ -79,366 +79,186 @@
 <channel id="RaiMovie.it@SD"><display-name>Rai 5 HD</display-name><icon src="https://services.tivulaguida.it/uploads/channel/2a2bf070969a3e59065ac68e25b629df6c7d65f6.png"/></channel>
 <channel id="Rete4.it@SD"><display-name>Super!</display-name><icon src="https://services.tivulaguida.it/uploads/channel/fa94faff70f63e65baf8a491591a2dc4db5f7ba5.png"/></channel>
 <channel id="RTL1025TV.it@SD"><display-name>Mezzo</display-name><icon src="https://services.tivulaguida.it/uploads/channel/44292586620a2eab9f04289b10796a66876841cd.png"/></channel>
-<programme start="20260620220000 +0000" stop="20260620230000 +0000" channel="71"><title lang="it">Newshour</title><desc lang="it">Telegiornale - Latest news and in-depth analysis from around the world.</desc></programme>
-<programme start="20260620230000 +0000" stop="20260620233000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
-<programme start="20260620233000 +0000" stop="20260621000000 +0000" channel="71"><title lang="it">Inside Story</title><desc lang="it">News - Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc></programme>
-<programme start="20260621000000 +0000" stop="20260621010000 +0000" channel="71"><title lang="it">Newshour</title><desc lang="it">Telegiornale - Latest news and in-depth analysis from around the world.</desc></programme>
-<programme start="20260621010000 +0000" stop="20260621013000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
-<programme start="20260621013000 +0000" stop="20260621020000 +0000" channel="71"><title lang="it">Program to be Announced</title><desc lang="it">Rubrica -</desc></programme>
-<programme start="20260621020000 +0000" stop="20260621030000 +0000" channel="71"><title lang="it">Newshour</title><desc lang="it">Telegiornale - Latest news and in-depth analysis from around the world.</desc></programme>
-<programme start="20260621030000 +0000" stop="20260621033000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
-<programme start="20260621033000 +0000" stop="20260621040000 +0000" channel="71"><title lang="it">101 East</title><desc lang="it">The Rise of India&apos;s Women Cricketers - Documentario - In cricket-obsessed India, the Women&apos;s Premier League is creating life-changing opportunities for hundreds of women in their chosen sport.</desc></programme>
-<programme start="20260621040000 +0000" stop="20260621043000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
-<programme start="20260621043000 +0000" stop="20260621050000 +0000" channel="71"><title lang="it">Fault Lines</title><desc lang="it">Crackdown - News - Fault Lines investigates the Trump administration&apos;s sweeping immigration crackdown, from courthouse arrests to deportations without due process.</desc></programme>
-<programme start="20260621050000 +0000" stop="20260621053000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
-<programme start="20260621053000 +0000" stop="20260621060000 +0000" channel="71"><title lang="it">Inside Story</title><desc lang="it">News - Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc></programme>
-<programme start="20260621060000 +0000" stop="20260621063000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
-<programme start="20260621063000 +0000" stop="20260621070000 +0000" channel="71"><title lang="it">The Listening Post</title><desc lang="it">News - What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc></programme>
-<programme start="20260621070000 +0000" stop="20260621080000 +0000" channel="71"><title lang="it">Newshour</title><desc lang="it">Telegiornale - Latest news and in-depth analysis from around the world.</desc></programme>
-<programme start="20260621080000 +0000" stop="20260621083000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
-<programme start="20260621083000 +0000" stop="20260621090000 +0000" channel="71"><title lang="it">The Bottom Line</title><desc lang="it">News - Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc></programme>
-<programme start="20260621090000 +0000" stop="20260621093000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
-<programme start="20260621093000 +0000" stop="20260621100000 +0000" channel="71"><title lang="it">Counting the Cost</title><desc lang="it">Rubrica - Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc></programme>
-<programme start="20260621100000 +0000" stop="20260621110000 +0000" channel="71"><title lang="it">Newshour</title><desc lang="it">Telegiornale - Latest news and in-depth analysis from around the world.</desc></programme>
-<programme start="20260621110000 +0000" stop="20260621113000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
-<programme start="20260621113000 +0000" stop="20260621120000 +0000" channel="71"><title lang="it">Inside Story</title><desc lang="it">News - Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc></programme>
-<programme start="20260621120000 +0000" stop="20260621130000 +0000" channel="71"><title lang="it">Newshour</title><desc lang="it">Telegiornale - Latest news and in-depth analysis from around the world.</desc></programme>
-<programme start="20260621130000 +0000" stop="20260621140000 +0000" channel="71"><title lang="it">Newshour</title><desc lang="it">Telegiornale - Latest news and in-depth analysis from around the world.</desc></programme>
-<programme start="20260621140000 +0000" stop="20260621143000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
-<programme start="20260621143000 +0000" stop="20260621150000 +0000" channel="71"><title lang="it">The Listening Post</title><desc lang="it">News - What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc></programme>
-<programme start="20260621150000 +0000" stop="20260621160000 +0000" channel="71"><title lang="it">Newshour</title><desc lang="it">Telegiornale - Latest news and in-depth analysis from around the world.</desc></programme>
-<programme start="20260621160000 +0000" stop="20260621163000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
-<programme start="20260621163000 +0000" stop="20260621170000 +0000" channel="71"><title lang="it">101 East</title><desc lang="it">The Rise of India&apos;s Women Cricketers - Documentario - In cricket-obsessed India, the Women&apos;s Premier League is creating life-changing opportunities for hundreds of women in their chosen sport.</desc></programme>
-<programme start="20260621170000 +0000" stop="20260621173000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
-<programme start="20260621173000 +0000" stop="20260621180000 +0000" channel="71"><title lang="it">Inside Story</title><desc lang="it">News - Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc></programme>
-<programme start="20260621180000 +0000" stop="20260621190000 +0000" channel="71"><title lang="it">Newshour</title><desc lang="it">Telegiornale - Latest news and in-depth analysis from around the world.</desc></programme>
-<programme start="20260621190000 +0000" stop="20260621193000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
-<programme start="20260621193000 +0000" stop="20260621200000 +0000" channel="71"><title lang="it">Talk to Al Jazeera</title><desc lang="it">06-15-2026 - News - One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc></programme>
-<programme start="20260621200000 +0000" stop="20260621203000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
-<programme start="20260621203000 +0000" stop="20260621210000 +0000" channel="71"><title lang="it">Reframe</title><desc lang="it">Jason Hickel - News - Varsha Gandikota-Nellutla interviews political economist Jason Hickel on the war on Iran and if it is the latest expression of an extractive global order.</desc></programme>
-<programme start="20260621210000 +0000" stop="20260621220000 +0000" channel="71"><title lang="it">Newshour</title><desc lang="it">Telegiornale - Latest news and in-depth analysis from around the world.</desc></programme>
-<programme start="20260620220000 +0000" stop="20260620221000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
-<programme start="20260620221000 +0000" stop="20260620222000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
-<programme start="20260620222000 +0000" stop="20260620223000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
-<programme start="20260620223000 +0000" stop="20260620224000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
-<programme start="20260620224000 +0000" stop="20260620225000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
-<programme start="20260620225000 +0000" stop="20260620230000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
-<programme start="20260620230000 +0000" stop="20260620231000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
-<programme start="20260620231000 +0000" stop="20260620232000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
-<programme start="20260620232000 +0000" stop="20260620233000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
-<programme start="20260620233000 +0000" stop="20260620234000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
-<programme start="20260620234000 +0000" stop="20260620235000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
-<programme start="20260620235000 +0000" stop="20260621000000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
-<programme start="20260621000000 +0000" stop="20260621001000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
-<programme start="20260621001000 +0000" stop="20260621002000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
-<programme start="20260621002000 +0000" stop="20260621003000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
-<programme start="20260621003000 +0000" stop="20260621004000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
-<programme start="20260621004000 +0000" stop="20260621005000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
-<programme start="20260621005000 +0000" stop="20260621005500 +0000" channel="84"><title lang="it">Simone</title></programme>
-<programme start="20260621005500 +0000" stop="20260621010000 +0000" channel="84"><title lang="it">Simone</title></programme>
-<programme start="20260621010000 +0000" stop="20260621010500 +0000" channel="84"><title lang="it">Simone</title></programme>
-<programme start="20260621010500 +0000" stop="20260621011000 +0000" channel="84"><title lang="it">Simone</title></programme>
-<programme start="20260621011000 +0000" stop="20260621011500 +0000" channel="84"><title lang="it">Simone</title></programme>
-<programme start="20260621011500 +0000" stop="20260621012000 +0000" channel="84"><title lang="it">Simone</title></programme>
-<programme start="20260621012000 +0000" stop="20260621012500 +0000" channel="84"><title lang="it">Simone</title></programme>
-<programme start="20260621012500 +0000" stop="20260621013000 +0000" channel="84"><title lang="it">Simone</title></programme>
-<programme start="20260621013000 +0000" stop="20260621013500 +0000" channel="84"><title lang="it">Simone</title></programme>
-<programme start="20260621013500 +0000" stop="20260621014000 +0000" channel="84"><title lang="it">Simone</title></programme>
-<programme start="20260621014000 +0000" stop="20260621014500 +0000" channel="84"><title lang="it">Simone</title></programme>
-<programme start="20260621014500 +0000" stop="20260621015000 +0000" channel="84"><title lang="it">Simone</title></programme>
-<programme start="20260621015000 +0000" stop="20260621015500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621015500 +0000" stop="20260621020500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621020500 +0000" stop="20260621021000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621021000 +0000" stop="20260621022000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621022000 +0000" stop="20260621022500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621022500 +0000" stop="20260621023500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621023500 +0000" stop="20260621024000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621024000 +0000" stop="20260621025000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621025000 +0000" stop="20260621025500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621025500 +0000" stop="20260621030500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621030500 +0000" stop="20260621031000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621031000 +0000" stop="20260621032000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621032000 +0000" stop="20260621032500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621032500 +0000" stop="20260621033500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621033500 +0000" stop="20260621034000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621034000 +0000" stop="20260621034500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621034500 +0000" stop="20260621035000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621035000 +0000" stop="20260621040000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621040000 +0000" stop="20260621042000 +0000" channel="84"><title lang="it">Tom &amp; Jerry a New York</title></programme>
-<programme start="20260621042000 +0000" stop="20260621042500 +0000" channel="84"><title lang="it">The Tom and Jerry Show</title></programme>
-<programme start="20260621042500 +0000" stop="20260621043000 +0000" channel="84"><title lang="it">The Tom and Jerry Show</title></programme>
-<programme start="20260621043000 +0000" stop="20260621043500 +0000" channel="84"><title lang="it">The Tom and Jerry Show</title></programme>
-<programme start="20260621043500 +0000" stop="20260621044000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621044000 +0000" stop="20260621044500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621044500 +0000" stop="20260621045500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621045500 +0000" stop="20260621051000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
-<programme start="20260621051000 +0000" stop="20260621053500 +0000" channel="84"><title lang="it">La casa delle bambole di Gabby</title></programme>
-<programme start="20260621053500 +0000" stop="20260621055500 +0000" channel="84"><title lang="it">La casa delle bambole di Gabby</title></programme>
-<programme start="20260621055500 +0000" stop="20260621060000 +0000" channel="84"><title lang="it">Hey Duggee - Il Club dei Lupetti</title></programme>
-<programme start="20260621060000 +0000" stop="20260621060500 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621060500 +0000" stop="20260621062000 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621062000 +0000" stop="20260621062500 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621062500 +0000" stop="20260621063000 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621063000 +0000" stop="20260621063500 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621063500 +0000" stop="20260621065000 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621065000 +0000" stop="20260621065500 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621065500 +0000" stop="20260621070000 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621070000 +0000" stop="20260621070500 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621070500 +0000" stop="20260621072000 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621072000 +0000" stop="20260621072500 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621072500 +0000" stop="20260621073000 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621073000 +0000" stop="20260621074500 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621074500 +0000" stop="20260621075000 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621075000 +0000" stop="20260621075500 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621075500 +0000" stop="20260621081000 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621081000 +0000" stop="20260621084000 +0000" channel="84"><title lang="it">Tiny Toons Looniversity</title></programme>
-<programme start="20260621084000 +0000" stop="20260621091000 +0000" channel="84"><title lang="it">Blaze e le megamacchine</title></programme>
-<programme start="20260621091000 +0000" stop="20260621094000 +0000" channel="84"><title lang="it">Blaze e le megamacchine</title></programme>
-<programme start="20260621094000 +0000" stop="20260621101000 +0000" channel="84"><title lang="it">Blaze e le megamacchine</title></programme>
-<programme start="20260621101000 +0000" stop="20260621103500 +0000" channel="84"><title lang="it">La casa delle bambole di Gabby</title></programme>
-<programme start="20260621103500 +0000" stop="20260621110500 +0000" channel="84"><title lang="it">La casa delle bambole di Gabby</title></programme>
-<programme start="20260621110500 +0000" stop="20260621111500 +0000" channel="84"><title lang="it">Bugs Bunny Costruzioni</title></programme>
-<programme start="20260621111500 +0000" stop="20260621113000 +0000" channel="84"><title lang="it">Bugs Bunny Costruzioni</title></programme>
-<programme start="20260621113000 +0000" stop="20260621114500 +0000" channel="84"><title lang="it">Chi ha sfidato Ninna e Matti?</title></programme>
-<programme start="20260621114500 +0000" stop="20260621120500 +0000" channel="84"><title lang="it">Chi ha sfidato Ninna e Matti?</title></programme>
-<programme start="20260621120500 +0000" stop="20260621122000 +0000" channel="84"><title lang="it">Chi ha sfidato Ninna e Matti?</title></programme>
-<programme start="20260621122000 +0000" stop="20260621124000 +0000" channel="84"><title lang="it">Chi ha sfidato Ninna e Matti?</title></programme>
-<programme start="20260621124000 +0000" stop="20260621141000 +0000" channel="84"><title lang="it">Playmobil - Il Film</title></programme>
-<programme start="20260621141000 +0000" stop="20260621144000 +0000" channel="84"><title lang="it">Paw Patrol</title></programme>
-<programme start="20260621144000 +0000" stop="20260621150500 +0000" channel="84"><title lang="it">Paw Patrol</title></programme>
-<programme start="20260621150500 +0000" stop="20260621152500 +0000" channel="84"><title lang="it">Rubble &amp; Crew</title></programme>
-<programme start="20260621152500 +0000" stop="20260621154000 +0000" channel="84"><title lang="it">Rubble &amp; Crew</title></programme>
-<programme start="20260621154000 +0000" stop="20260621160500 +0000" channel="84"><title lang="it">Blaze e le megamacchine</title></programme>
-<programme start="20260621160500 +0000" stop="20260621163000 +0000" channel="84"><title lang="it">Blaze e le megamacchine</title></programme>
-<programme start="20260621163000 +0000" stop="20260621164000 +0000" channel="84"><title lang="it">Batwheels</title></programme>
-<programme start="20260621164000 +0000" stop="20260621165000 +0000" channel="84"><title lang="it">Batwheels</title></programme>
-<programme start="20260621165000 +0000" stop="20260621170500 +0000" channel="84"><title lang="it">Batwheels</title></programme>
-<programme start="20260621170500 +0000" stop="20260621171500 +0000" channel="84"><title lang="it">Batwheels</title></programme>
-<programme start="20260621171500 +0000" stop="20260621173000 +0000" channel="84"><title lang="it">Batwheels</title></programme>
-<programme start="20260621173000 +0000" stop="20260621190500 +0000" channel="84"><title lang="it">Dragon Trainer 2</title></programme>
-<programme start="20260621190500 +0000" stop="20260621191000 +0000" channel="84"><title lang="it">Hey Duggee - Il Club dei Lupetti</title></programme>
-<programme start="20260621191000 +0000" stop="20260621191500 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621191500 +0000" stop="20260621192000 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621192000 +0000" stop="20260621192500 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621192500 +0000" stop="20260621193000 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621193000 +0000" stop="20260621194500 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
-<programme start="20260621194500 +0000" stop="20260621195000 +0000" channel="84"><title lang="it">Grizzy e i Lemming</title></programme>
-<programme start="20260621195000 +0000" stop="20260621195500 +0000" channel="84"><title lang="it">Grizzy e i Lemming</title></programme>
-<programme start="20260621195500 +0000" stop="20260621200000 +0000" channel="84"><title lang="it">Grizzy e i Lemming</title></programme>
-<programme start="20260621200000 +0000" stop="20260621201500 +0000" channel="84"><title lang="it">Grizzy e i Lemming</title></programme>
-<programme start="20260621201500 +0000" stop="20260621202500 +0000" channel="84"><title lang="it">Il Trenino Thomas</title></programme>
-<programme start="20260621202500 +0000" stop="20260621204000 +0000" channel="84"><title lang="it">Il Trenino Thomas</title></programme>
-<programme start="20260621204000 +0000" stop="20260621205000 +0000" channel="84"><title lang="it">Dino Ranch</title></programme>
-<programme start="20260621205000 +0000" stop="20260621210500 +0000" channel="84"><title lang="it">Dino Ranch</title></programme>
-<programme start="20260621210500 +0000" stop="20260621211500 +0000" channel="84"><title lang="it">Dino Ranch</title></programme>
-<programme start="20260621211500 +0000" stop="20260621213500 +0000" channel="84"><title lang="it">Dino Ranch</title></programme>
-<programme start="20260621213500 +0000" stop="20260621214500 +0000" channel="84"><title lang="it">Dino Ranch</title></programme>
-<programme start="20260621214500 +0000" stop="20260621220000 +0000" channel="84"><title lang="it">Dino Ranch</title></programme>
-<programme start="20260620220000 +0000" stop="20260621010000 +0000" channel="157"><title lang="it">La Discoteca Nazionale</title><desc lang="it">La Discoteca Nazionale, lo spazio dance di RTL 102.5. Con Andrea De Sabato.</desc></programme>
-<programme start="20260621010000 +0000" stop="20260621040000 +0000" channel="157"><title lang="it">Ma la notte no</title><desc lang="it">Ma la notte no, il programma del fine settimana di RTL 102.5, per chi ama fare le ore piccole. Con Mauro Corvino, Andrea Tuzio.</desc></programme>
-<programme start="20260621040000 +0000" stop="20260621070000 +0000" channel="157"><title lang="it">Non Stop News (Ven-Dom)</title><desc lang="it">Non stop news. Magazine di informazione di RTL 102.5 a cura della redazione giornalistica. Con Ludovica Marafini, Davide Giacalone.</desc></programme>
-<programme start="20260621070000 +0000" stop="20260621090000 +0000" channel="157"><title lang="it">L&apos;indignato speciale</title><desc lang="it">L&apos;indignato speciale Ã¨ il dibattito della domenica mattina sui temi del momento, con la partecipazione di personaggi della politica, della cultura e del giornalismo. Con Davide Giacalone, Andrea Pamparana, Enrico Galletti, Barbara Sala.</desc></programme>
-<programme start="20260621090000 +0000" stop="20260621110000 +0000" channel="157"><title lang="it">No problem - W l&apos;Italia</title><desc lang="it">No problem - W l&apos;Italia. Pregi, difetti e particolaritÃ  degli italiani raccontati con simpatica ironia. Con Paolo Cavallone, Carlo Elli, Charlie Gnocchi, Carolina Rey.</desc></programme>
-<programme start="20260621110000 +0000" stop="20260621130000 +0000" channel="157"><title lang="it">Autogol Supershow</title><desc lang="it">Con .</desc></programme>
-<programme start="20260621130000 +0000" stop="20260621150000 +0000" channel="157"><title lang="it">Mai visto alla radio</title><desc lang="it">Mai visto alla radio, il programma pomeridiano del weekend di RTL 102.5 con musica e aggiornamenti dal mondo dello sport. Con Andrea Salvati, Tommy Angelini .</desc></programme>
-<programme start="20260621150000 +0000" stop="20260621170000 +0000" channel="157"><title lang="it">Pop around the clock</title><desc lang="it">Pop around the clock. La colonna sonora del fine settimana, dalle 17:00 alle 19:00. Protagonista la migliore musica di RTL 102.5, con un occhio di riguardo allo sport. Con LaMario.</desc></programme>
-<programme start="20260621170000 +0000" stop="20260621190000 +0000" channel="157"><title lang="it">Shaker</title><desc lang="it">Shaker. Tutto il meglio della playlist di RTL 102.5 viene sapientemente shakerato! Ritmo, sound piacevole e aggiornamenti sul calcio ci accompagnano nell&apos;ora dell&apos;aperitivo. Con Giorgia Surina.</desc></programme>
-<programme start="20260621190000 +0000" stop="20260622000000 +0000" channel="157"><title lang="it">Suite 102.5</title><desc lang="it">Suite 102.5. Gli ascoltatori hanno le chiavi della suite piÃ¹ glamour ed elegante della radiofonia. La formula Ã¨ semplice e friendly, con un tocco di ironia e senso dell&apos;umorismo. Con Luisa Carnello, NiccolÃ² Giustini, Martino Migli, Diego Zappone.</desc></programme>
-<programme start="20260620220000 +0000" stop="20260621040000 +0000" channel="230"><title lang="it">Indie, Rap e Trap</title><desc lang="it">- Radio Italia Trend: il primo canale TV interamente dedicato al meglio della musica Indie, rap e trap Made in Italy</desc></programme>
-<programme start="20260621040000 +0000" stop="20260621100000 +0000" channel="230"><title lang="it">Indie, Rap e Trap</title><desc lang="it">- Radio Italia Trend: il primo canale TV interamente dedicato al meglio della musica Indie, rap e trap Made in Italy</desc></programme>
-<programme start="20260621100000 +0000" stop="20260621160000 +0000" channel="230"><title lang="it">Indie, Rap e Trap</title><desc lang="it">- Radio Italia Trend: il primo canale TV interamente dedicato al meglio della musica Indie, rap e trap Made in Italy</desc></programme>
-<programme start="20260621160000 +0000" stop="20260621220000 +0000" channel="230"><title lang="it">Indie, Rap e Trap</title><desc lang="it">- Radio Italia Trend: il primo canale TV interamente dedicato al meglio della musica Indie, rap e trap Made in Italy</desc></programme>
-<programme start="20260620220000 +0000" stop="20260620221500 +0000" channel="247"><title lang="it">L&apos;ESSENTIEL - LE JOURNAL (373)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260620221500 +0000" stop="20260620224100 +0000" channel="247"><title lang="it">LE MONDE DANS TOUS SES ETATS (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260620224100 +0000" stop="20260620224700 +0000" channel="247"><title lang="it">PAS 2 QUARTIER (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260620224700 +0000" stop="20260620225400 +0000" channel="247"><title lang="it">DANS LES HEBDOS (13)</title><desc lang="it">Divers News</desc></programme>
-<programme start="20260620225400 +0000" stop="20260620230000 +0000" channel="247"><title lang="it">LE COUP DE COEUR DU PDA (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260620230000 +0000" stop="20260620231500 +0000" channel="247"><title lang="it">L&apos;EDITION NUIT - LE JOURNAL (451)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260620231500 +0000" stop="20260620233000 +0000" channel="247"><title lang="it">LE JOURNAL DE L&apos;AFRIQUE (180)</title><desc lang="it">Divers News</desc></programme>
-<programme start="20260620233000 +0000" stop="20260620234500 +0000" channel="247"><title lang="it">L&apos;EDITION NUIT - BULLETIN (321)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260620234500 +0000" stop="20260621000000 +0000" channel="247"><title lang="it">OUTRE-MER (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621000000 +0000" stop="20260621001500 +0000" channel="247"><title lang="it">L&apos;EDITION NUIT - LE JOURNAL (452)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621001500 +0000" stop="20260621002200 +0000" channel="247"><title lang="it">LES OBSERVATEURS (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621002200 +0000" stop="20260621003000 +0000" channel="247"><title lang="it">DANS LES HEBDOS (13)</title><desc lang="it">Divers News</desc></programme>
-<programme start="20260621003000 +0000" stop="20260621004500 +0000" channel="247"><title lang="it">L&apos;EDITION NUIT - BULLETIN (322)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621004500 +0000" stop="20260621010000 +0000" channel="247"><title lang="it">A L&apos;AFFICHE (63)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621010000 +0000" stop="20260621011000 +0000" channel="247"><title lang="it">L&apos;EDITION NUIT - LE JOURNAL (453)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621011000 +0000" stop="20260621013000 +0000" channel="247"><title lang="it">ICI L&apos;EUROPE 1 - ON VOUS ECOUTE (13)</title><desc lang="it">Talk Show</desc></programme>
-<programme start="20260621013000 +0000" stop="20260621014000 +0000" channel="247"><title lang="it">L&apos;EDITION NUIT - BULLETIN (323)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621014000 +0000" stop="20260621015600 +0000" channel="247"><title lang="it">LE PARIS DES ARTS (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621015600 +0000" stop="20260621020000 +0000" channel="247"><title lang="it">CULTURE PRIME (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621020000 +0000" stop="20260621021500 +0000" channel="247"><title lang="it">L&apos;EDITION NUIT - LE JOURNAL (454)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621021500 +0000" stop="20260621023000 +0000" channel="247"><title lang="it">UNE SEMAINE EN FRANCE (13)</title><desc lang="it">Divers News</desc></programme>
-<programme start="20260621023000 +0000" stop="20260621024500 +0000" channel="247"><title lang="it">L&apos;EDITION NUIT - BULLETIN (324)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621024500 +0000" stop="20260621030000 +0000" channel="247"><title lang="it">UNE SEMAINE REPORTAGES (13)</title><desc lang="it">Divers News</desc></programme>
-<programme start="20260621030000 +0000" stop="20260621031500 +0000" channel="247"><title lang="it">L&apos;EDITION NUIT - LE JOURNAL (455)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621031500 +0000" stop="20260621033000 +0000" channel="247"><title lang="it">REPORTERS (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621033000 +0000" stop="20260621034500 +0000" channel="247"><title lang="it">L&apos;EDITION NUIT - BULLETIN (325)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621034500 +0000" stop="20260621040000 +0000" channel="247"><title lang="it">LE JOURNAL DE L&apos;AFRIQUE (180)</title><desc lang="it">Divers News</desc></programme>
-<programme start="20260621040000 +0000" stop="20260621041500 +0000" channel="247"><title lang="it">A LA UNE - LE JOURNAL (93)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621041500 +0000" stop="20260621043000 +0000" channel="247"><title lang="it">UNE SEMAINE EN FRANCE (13)</title><desc lang="it">Divers News</desc></programme>
-<programme start="20260621043000 +0000" stop="20260621044500 +0000" channel="247"><title lang="it">A LA UNE - BULLETIN (37)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621044500 +0000" stop="20260621050000 +0000" channel="247"><title lang="it">UNE SEMAINE REPORTAGES (13)</title><desc lang="it">Divers News</desc></programme>
-<programme start="20260621050000 +0000" stop="20260621052200 +0000" channel="247"><title lang="it">A LA UNE - LE JOURNAL (94)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621052200 +0000" stop="20260621053000 +0000" channel="247"><title lang="it">SPORTS WE (51)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621053000 +0000" stop="20260621060000 +0000" channel="247"><title lang="it">A LA UNE - BULLETIN (38)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621060000 +0000" stop="20260621061500 +0000" channel="247"><title lang="it">A LA UNE - LE JOURNAL (95)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621061500 +0000" stop="20260621063000 +0000" channel="247"><title lang="it">LE JT DE LA COUPE DU MONDE (14)</title><desc lang="it">Divers News</desc></programme>
-<programme start="20260621063000 +0000" stop="20260621065700 +0000" channel="247"><title lang="it">AUX AVANT-POSTES (13)</title><desc lang="it">Talk Show</desc></programme>
-<programme start="20260621065700 +0000" stop="20260621070000 +0000" channel="247"><title lang="it">L&apos;INSTANT MOBILE (233)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621070000 +0000" stop="20260621073000 +0000" channel="247"><title lang="it">A LA UNE - LE JOURNAL (96)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621073000 +0000" stop="20260621080000 +0000" channel="247"><title lang="it">A LA UNE - BULLETIN (39)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621080000 +0000" stop="20260621081500 +0000" channel="247"><title lang="it">PARIS DIRECT - LE JOURNAL (263)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621081500 +0000" stop="20260621083000 +0000" channel="247"><title lang="it">A L&apos;AFFICHE (62)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621083000 +0000" stop="20260621084500 +0000" channel="247"><title lang="it">PARIS DIRECT - BULLETIN (142)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621084500 +0000" stop="20260621085100 +0000" channel="247"><title lang="it">PLAN B (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621085100 +0000" stop="20260621090000 +0000" channel="247"><title lang="it">SPORTS WE (52)</title><desc lang="it">Divers News</desc></programme>
-<programme start="20260621090000 +0000" stop="20260621091000 +0000" channel="247"><title lang="it">PARIS DIRECT - LE JOURNAL (264)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621091000 +0000" stop="20260621093000 +0000" channel="247"><title lang="it">ICI L&apos;EUROPE 2 - ON EN DEBAT (13)</title><desc lang="it">Talk Show</desc></programme>
-<programme start="20260621093000 +0000" stop="20260621094000 +0000" channel="247"><title lang="it">PARIS DIRECT - BULLETIN (143)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621094000 +0000" stop="20260621100000 +0000" channel="247"><title lang="it">LEGENDES URBAINES (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621100000 +0000" stop="20260621101500 +0000" channel="247"><title lang="it">PARIS DIRECT - LE JOURNAL (265)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621101500 +0000" stop="20260621105500 +0000" channel="247"><title lang="it">LA SEMAINE DE L&apos;ECO (13)</title><desc lang="it">Talk Show</desc></programme>
-<programme start="20260621105500 +0000" stop="20260621110000 +0000" channel="247"><title lang="it">L&apos;INSTANT MOBILE (234)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621110000 +0000" stop="20260621113000 +0000" channel="247"><title lang="it">LE JOURNAL - L&apos;INFO DU JOUR (98)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621113000 +0000" stop="20260621114500 +0000" channel="247"><title lang="it">PARIS DIRECT - LE JOURNAL (266)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621114500 +0000" stop="20260621120000 +0000" channel="247"><title lang="it">C&apos;EST EN FRANCE (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621120000 +0000" stop="20260621123000 +0000" channel="247"><title lang="it">AUTOUR DU MONDE - LE JOURNAL (374)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621123000 +0000" stop="20260621130000 +0000" channel="247"><title lang="it">LE MONDE DANS TOUS SES ETATS (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621130000 +0000" stop="20260621131000 +0000" channel="247"><title lang="it">AUTOUR DU MONDE - LE JOURNAL (375)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621131000 +0000" stop="20260621133000 +0000" channel="247"><title lang="it">ICI L&apos;EUROPE 1 - ON VOUS ECOUTE (13)</title><desc lang="it">Talk Show</desc></programme>
-<programme start="20260621133000 +0000" stop="20260621134000 +0000" channel="247"><title lang="it">AUTOUR DU MONDE - BULLETIN (128)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621134000 +0000" stop="20260621135600 +0000" channel="247"><title lang="it">LE PARIS DES ARTS (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621135600 +0000" stop="20260621140000 +0000" channel="247"><title lang="it">CULTURE PRIME (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621140000 +0000" stop="20260621141400 +0000" channel="247"><title lang="it">AUTOUR DU MONDE - LE JOURNAL (376)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621141400 +0000" stop="20260621143000 +0000" channel="247"><title lang="it">REPORTERS (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621143000 +0000" stop="20260621144500 +0000" channel="247"><title lang="it">AUTOUR DU MONDE - BULLETIN (129)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621144500 +0000" stop="20260621145200 +0000" channel="247"><title lang="it">LES OBSERVATEURS (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621145200 +0000" stop="20260621150000 +0000" channel="247"><title lang="it">FOCUS (39)</title><desc lang="it">Divers News</desc></programme>
-<programme start="20260621150000 +0000" stop="20260621151500 +0000" channel="247"><title lang="it">AUTOUR DU MONDE - LE JOURNAL (377)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621151500 +0000" stop="20260621153000 +0000" channel="247"><title lang="it">OUTRE-MER (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621153000 +0000" stop="20260621154500 +0000" channel="247"><title lang="it">AUTOUR DU MONDE - BULLETIN (130)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621154500 +0000" stop="20260621160000 +0000" channel="247"><title lang="it">ACTUELLES (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621160000 +0000" stop="20260621161500 +0000" channel="247"><title lang="it">AU COEUR DE L&apos;INFO - LE JOURNAL (58)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621161500 +0000" stop="20260621163000 +0000" channel="247"><title lang="it">A L&apos;AFFICHE (61)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621163000 +0000" stop="20260621164500 +0000" channel="247"><title lang="it">AU COEUR DE L&apos;INFO - BULLETIN (11)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621164500 +0000" stop="20260621170000 +0000" channel="247"><title lang="it">UNE SEMAINE REPORTAGES (13)</title><desc lang="it">Divers News</desc></programme>
-<programme start="20260621170000 +0000" stop="20260621171500 +0000" channel="247"><title lang="it">AU COEUR DE L&apos;INFO - LE JOURNAL (59)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621171500 +0000" stop="20260621172200 +0000" channel="247"><title lang="it">PLAN B (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621172200 +0000" stop="20260621173000 +0000" channel="247"><title lang="it">FOCUS (39)</title><desc lang="it">Divers News</desc></programme>
-<programme start="20260621173000 +0000" stop="20260621174500 +0000" channel="247"><title lang="it">AU COEUR DE L&apos;INFO - BULLETIN (12)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621174500 +0000" stop="20260621180000 +0000" channel="247"><title lang="it">EN TETE A TETE (13)</title><desc lang="it">Talk Show</desc></programme>
-<programme start="20260621180000 +0000" stop="20260621183000 +0000" channel="247"><title lang="it">LE JOURNAL L&apos;INVITE AU COEUR DE L&apos;INFO (39)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621183000 +0000" stop="20260621184500 +0000" channel="247"><title lang="it">AU COEUR DE L&apos;INFO - LE JOURNAL (60)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621184500 +0000" stop="20260621190000 +0000" channel="247"><title lang="it">LE DECRYPTAGE (51)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621190000 +0000" stop="20260621191500 +0000" channel="247"><title lang="it">L&apos;ESSENTIEL - LE JOURNAL (374)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621191500 +0000" stop="20260621192100 +0000" channel="247"><title lang="it">LE DECRYPTAGE (52)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621192100 +0000" stop="20260621193000 +0000" channel="247"><title lang="it">SPORTS DIMANCHE (25)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621193000 +0000" stop="20260621194500 +0000" channel="247"><title lang="it">L&apos;ESSENTIEL POLITIQUE (13)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621194500 +0000" stop="20260621200000 +0000" channel="247"><title lang="it">LE JOURNAL DE L&apos;AFRIQUE (181)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621200000 +0000" stop="20260621201000 +0000" channel="247"><title lang="it">L&apos;ESSENTIEL - LE JOURNAL (375)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621201000 +0000" stop="20260621203000 +0000" channel="247"><title lang="it">BILLET RETOUR (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621203000 +0000" stop="20260621204500 +0000" channel="247"><title lang="it">L&apos;ESSENTIEL - LE JOURNAL (376)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621204500 +0000" stop="20260621210000 +0000" channel="247"><title lang="it">LE JOURNAL DE L&apos;AFRIQUE (182)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621210000 +0000" stop="20260621211000 +0000" channel="247"><title lang="it">L&apos;ESSENTIEL - LE JOURNAL (377)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621211000 +0000" stop="20260621212000 +0000" channel="247"><title lang="it">SPORTS DIMANCHE (26)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621212000 +0000" stop="20260621213000 +0000" channel="247"><title lang="it">LES OBSERVATEURS (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621213000 +0000" stop="20260621214000 +0000" channel="247"><title lang="it">L&apos;ESSENTIEL - BULLETIN (26)</title><desc lang="it">Live News</desc></programme>
-<programme start="20260621214000 +0000" stop="20260621215600 +0000" channel="247"><title lang="it">LE PARIS DES ARTS (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260621215600 +0000" stop="20260621220000 +0000" channel="247"><title lang="it">CULTURE PRIME (13)</title><desc lang="it">Magazine</desc></programme>
-<programme start="20260620220000 +0000" stop="20260620221500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260620221500 +0000" stop="20260620223000 +0000" channel="288"><title lang="it">Approfondimento</title><desc lang="it">Approfondimento - focus su fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260620223000 +0000" stop="20260620233000 +0000" channel="288"><title lang="it">Focus</title><desc lang="it">Fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260620233000 +0000" stop="20260620234500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260620234500 +0000" stop="20260621010000 +0000" channel="288"><title lang="it">Approfondimento</title><desc lang="it">Approfondimento - focus su fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621010000 +0000" stop="20260621011500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621011500 +0000" stop="20260621013000 +0000" channel="288"><title lang="it">Approfondimento</title><desc lang="it">Libri - ultime uscite ed eventi letterari - Rubrica a cura di Giovanni Scandiffio</desc></programme>
-<programme start="20260621013000 +0000" stop="20260621014500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621014500 +0000" stop="20260621020000 +0000" channel="288"><title lang="it">Approfondimento</title><desc lang="it">Approfondimento - focus su fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621020000 +0000" stop="20260621021500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621021500 +0000" stop="20260621023000 +0000" channel="288"><title lang="it">Approfondimento</title><desc lang="it">Approfondimento - focus su fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621023000 +0000" stop="20260621024500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621024500 +0000" stop="20260621030000 +0000" channel="288"><title lang="it">Approfondimento</title><desc lang="it">Approfondimento - focus su fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621030000 +0000" stop="20260621031500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621031500 +0000" stop="20260621033000 +0000" channel="288"><title lang="it">Approfondimento</title><desc lang="it">Approfondimento - focus su fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621033000 +0000" stop="20260621034500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621034500 +0000" stop="20260621040000 +0000" channel="288"><title lang="it">Approfondimento</title><desc lang="it">Approfondimento - focus su fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621040000 +0000" stop="20260621041500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621041500 +0000" stop="20260621043000 +0000" channel="288"><title lang="it">Approfondimento</title><desc lang="it">Approfondimento - focus su fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621043000 +0000" stop="20260621044500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621044500 +0000" stop="20260621050000 +0000" channel="288"><title lang="it">Approfondimento</title><desc lang="it">Approfondimento - focus su fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621050000 +0000" stop="20260621051500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621051500 +0000" stop="20260621053000 +0000" channel="288"><title lang="it">Approfondimento</title><desc lang="it">Approfondimento - focus su fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621053000 +0000" stop="20260621060000 +0000" channel="288"><title lang="it">Passi di speranza</title><desc lang="it">Rubrica a cura della presidenza nazionale Unitalsi. Racconti, testimonianze ed eventi della vita associativa</desc></programme>
-<programme start="20260621060000 +0000" stop="20260621061500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621061500 +0000" stop="20260621063000 +0000" channel="288"><title lang="it">Edicola</title><desc lang="it">Edicola - Rassegna stampa dei quotidiani della Basilicata e Puglia</desc></programme>
-<programme start="20260621063000 +0000" stop="20260621073000 +0000" channel="288"><title lang="it">Live Special</title><desc lang="it">Appuntamento quotidiano in diretta con le principali notizie della Puglia e Basilicata</desc></programme>
-<programme start="20260621073000 +0000" stop="20260621074500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621074500 +0000" stop="20260621080000 +0000" channel="288"><title lang="it">Edicola</title><desc lang="it">Edicola - Rassegna stampa dei quotidiani della Basilicata e Puglia</desc></programme>
-<programme start="20260621080000 +0000" stop="20260621100000 +0000" channel="288"><title lang="it">Live Special</title><desc lang="it">Appuntamento quotidiano in diretta con le principali notizie della Puglia e Basilicata</desc></programme>
-<programme start="20260621100000 +0000" stop="20260621103000 +0000" channel="288"><title lang="it">Passi di speranza</title><desc lang="it">Rubrica a cura della presidenza nazionale Unitalsi. Racconti, testimonianze ed eventi della vita associativa</desc></programme>
-<programme start="20260621103000 +0000" stop="20260621104500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621104500 +0000" stop="20260621110000 +0000" channel="288"><title lang="it">Edicola</title><desc lang="it">Edicola - Rassegna stampa dei quotidiani della Basilicata e Puglia</desc></programme>
-<programme start="20260621110000 +0000" stop="20260621111500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621111500 +0000" stop="20260621113000 +0000" channel="288"><title lang="it">Edicola</title><desc lang="it">Edicola - Rassegna stampa dei quotidiani della Basilicata e Puglia</desc></programme>
-<programme start="20260621113000 +0000" stop="20260621120000 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621120000 +0000" stop="20260621130000 +0000" channel="288"><title lang="it">Focus</title><desc lang="it">Fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621130000 +0000" stop="20260621131500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621131500 +0000" stop="20260621133000 +0000" channel="288"><title lang="it">Approfondimento</title><desc lang="it">Approfondimento - focus su fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621133000 +0000" stop="20260621134500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621134500 +0000" stop="20260621140000 +0000" channel="288"><title lang="it">Edicola</title><desc lang="it">Edicola - Rassegna stampa dei quotidiani della Basilicata e Puglia</desc></programme>
-<programme start="20260621140000 +0000" stop="20260621143000 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621143000 +0000" stop="20260621153000 +0000" channel="288"><title lang="it">Focus</title><desc lang="it">Fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621153000 +0000" stop="20260621154500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621154500 +0000" stop="20260621160000 +0000" channel="288"><title lang="it">Approfondimento</title><desc lang="it">Approfondimento - focus su fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621160000 +0000" stop="20260621161500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621161500 +0000" stop="20260621163000 +0000" channel="288"><title lang="it">Approfondimento</title><desc lang="it">Approfondimento - focus su fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621163000 +0000" stop="20260621164500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621164500 +0000" stop="20260621170000 +0000" channel="288"><title lang="it">Approfondimento</title><desc lang="it">Approfondimento - focus su fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621170000 +0000" stop="20260621171500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621171500 +0000" stop="20260621173000 +0000" channel="288"><title lang="it">Approfondimento</title><desc lang="it">Approfondimento - focus su fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621173000 +0000" stop="20260621174500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621174500 +0000" stop="20260621180000 +0000" channel="288"><title lang="it">Approfondimento</title><desc lang="it">Approfondimento - focus su fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621180000 +0000" stop="20260621190000 +0000" channel="288"><title lang="it">Focus</title><desc lang="it">Fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621190000 +0000" stop="20260621191500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621191500 +0000" stop="20260621193000 +0000" channel="288"><title lang="it">Libri</title><desc lang="it">Libri - ultime uscite ed eventi letterari - Rubrica a cura di Giovanni Scandiffio</desc></programme>
-<programme start="20260621193000 +0000" stop="20260621194500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621194500 +0000" stop="20260621200000 +0000" channel="288"><title lang="it">Approfondimento</title><desc lang="it">Approfondimento - focus su fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621200000 +0000" stop="20260621201500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621201500 +0000" stop="20260621203000 +0000" channel="288"><title lang="it">Approfondimento</title><desc lang="it">Approfondimento - focus su fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621203000 +0000" stop="20260621213000 +0000" channel="288"><title lang="it">Focus</title><desc lang="it">Fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260621213000 +0000" stop="20260621214500 +0000" channel="288"><title lang="it">TG</title><desc lang="it">Telegiornale - L&apos;informazione di Puglia e Basilicata</desc></programme>
-<programme start="20260621214500 +0000" stop="20260621220000 +0000" channel="288"><title lang="it">Approfondimento</title><desc lang="it">Approfondimento - focus su fatti ed eventi di Puglia e Basilicata</desc></programme>
-<programme start="20260620220000 +0000" stop="20260620230000 +0000" channel="289"><title lang="it">Jumping International Le Saut Hermes 20</title><desc lang="it">Welcome to the Le Saut Hermes. A competition like no other that ranks in the highest difficulty at CSI5*. Show jumping riders from all over the world, stallions, ponies and llamas meet in the Grand Palais in France for this awaited moment. They are about to try the unthinkable and write their name on equestrian history.Find out what happens in this competition with a height over 1.60m.</desc></programme>
-<programme start="20260620230000 +0000" stop="20260620233000 +0000" channel="289"><title lang="it">FEI Ride Originals 2024 S5</title><desc lang="it">It takes a deeper look into the equestrian world and explores the fascinating bond between humans and horses across the planet. It s a series of beautifully shot films that is an alternative communication for the FEI focusing on lifestyle, horse culture and more.</desc></programme>
-<programme start="20260620233000 +0000" stop="20260621000000 +0000" channel="289"><title lang="it">FEI Ride Originals 2024 S5</title><desc lang="it">It takes a deeper look into the equestrian world and explores the fascinating bond between humans and horses across the planet. It s a series of beautifully shot films that is an alternative communication for the FEI focusing on lifestyle, horse culture and more.</desc></programme>
-<programme start="20260621000000 +0000" stop="20260621010000 +0000" channel="289"><title lang="it">Sunshine Tour 2020</title><desc lang="it">Welcome to the third week of the Sunshine Tour. We are getting hyped to see what Javier Trenor has prepared for us in the Junta de Andalucia Grand Prix as the CSI4* action begins, and with 400 young horses participating this time, action is secured. This is the last clear round for some riders to qualify for the Young Horse Finals held next week. Are you ready?</desc></programme>
-<programme start="20260621010000 +0000" stop="20260621013000 +0000" channel="289"><title lang="it">FEI Rides Magazine 1</title><desc lang="it">On this weeks RIDE we go behind the scenes with The Devils Horsemen a family run company who have been providing horses &amp; carriages for the film industry for over 30 years, we break down the art of dressage training at Australias Mulawa Performance, and we follow a successful rehabilitation and rehoming story at the Mare &amp; Foal Sanctuary in England.</desc></programme>
-<programme start="20260621013000 +0000" stop="20260621020000 +0000" channel="289"><title lang="it">FEI Rides Magazine 1</title><desc lang="it">On this weeks RIDE were taming some of New Zealands feral Kaimanawa horses with Kiwi adventurer Chloe Phillips Harris, aiming for Tokyo and beyond with young Swiss jumper Bryan Balsiger, and swapping machinery for horses at one of Italys most environmentally friendly vineyards.</desc></programme>
-<programme start="20260621020000 +0000" stop="20260621023000 +0000" channel="289"><title lang="it">Longines Global Champions Tour 2023</title><desc lang="it">Welcome to the worlds most dynamic and exciting equestrian sport circuit. Spanning Asia, Europe and The Americas, the Global Champions events happen at unbeatable venues guaranteeing high octane equestrian sports for fans worldwide. Riders compete in an event where precision, power and elegance are combined in a single spectacular championship.This mesmerising battle takes us around the world to Mexico City, Miami, Shanghai, Paris or B</desc></programme>
-<programme start="20260621023000 +0000" stop="20260621030000 +0000" channel="289"><title lang="it">Global Champions League 2023</title><desc lang="it">Welcome to the Global Champions League. The best championship in team show jumping. Drama and emotion are present all season in the high stakes as top sport and intense rivalry across different continents arises in the pursuit of the GCL championship glory. Top riders compete united for the first time in a show jumping event with star U25 riders. They will have to demonstrate their team spirit, tactics and the strongest combinations to</desc></programme>
-<programme start="20260621030000 +0000" stop="20260621040000 +0000" channel="289"><title lang="it">Polo Rider Cup Competition 2021</title><desc lang="it">In order to advance to the following rounds, Moscow Polo Club will have to face Hamburger Polo Club in this first stage of the Polo Rider Cup 2021. With a 10/12 goals handicap and 5 chukkers, competition between the strongest polo teams in the world is on at the Polo Club de Chantilly. Enjoy the match between Moscow Polo Club and Hamburger Polo Club.</desc></programme>
-<programme start="20260621040000 +0000" stop="20260621050000 +0000" channel="289"><title lang="it">Thai Polo Open 2020</title><desc lang="it">Located in Thailands eastern Gulf coast, Pattaya used to be a quiet fishing village but now has become in a luxury destination for many visitors. From resort hotels, high rise condos or glamourous shopping malls, Pattaya is chosen by people from Bangkok when they want to leave the city and disconnect. And there is no better way of disconnecting from mundane traffic than in The Thai Polo Open Summit Competition, located in the Thai Polo</desc></programme>
-<programme start="20260621050000 +0000" stop="20260621053000 +0000" channel="289"><title lang="it">FEI Eventing Nations Cup 2021</title><desc lang="it">Great Britain might have won the first leg of the FEI Eventing Nations Cup, but Strzegom is a new opportunity for the other teams to shine. Poland has started with a 128.8 team point lead, but Germany is following closely on 135.0. Who will be the winning team?</desc></programme>
-<programme start="20260621053000 +0000" stop="20260621060000 +0000" channel="289"><title lang="it">FEI Eventing Nations Cup 2021</title><desc lang="it">Le Grand Complet, the third leg of the 2021 FEI Eventing Nations Cup series is being celebrated in Le Pin au Haras, Normandy. Known as the Versailles for Horses, it provides a fitting location for spectacular competition. Germany is fresh from victory at Strzegom, but France is not ready to lose in home grounds. How will this leg develop?</desc></programme>
-<programme start="20260621060000 +0000" stop="20260621063000 +0000" channel="289"><title lang="it">FEI Rides Magazine 1</title><desc lang="it">On this weeks RIDE we go behind the scenes with The Devils Horsemen a family run company who have been providing horses &amp; carriages for the film industry for over 30 years, we break down the art of dressage training at Australias Mulawa Performance, and we follow a successful rehabilitation and rehoming story at the Mare &amp; Foal Sanctuary in England.</desc></programme>
-<programme start="20260621063000 +0000" stop="20260621070000 +0000" channel="289"><title lang="it">FEI Rides Magazine 1</title><desc lang="it">On this weeks RIDE were taming some of New Zealands feral Kaimanawa horses with Kiwi adventurer Chloe Phillips Harris, aiming for Tokyo and beyond with young Swiss jumper Bryan Balsiger, and swapping machinery for horses at one of Italys most environmentally friendly vineyards.</desc></programme>
-<programme start="20260621070000 +0000" stop="20260621080000 +0000" channel="289"><title lang="it">Longines FEI Jumping World Cup 2022 2</title></programme>
-<programme start="20260621080000 +0000" stop="20260621090000 +0000" channel="289"><title lang="it">Dressage Season Review 2019 2020</title><desc lang="it">The best action in the dressage world is ready for a comeback in the 2019/2020 edition. Despite current circumstances, we have been able to enjoy some magical moments in dressage across Europe, the Americas and the Pacific. Be part of the best moments of the competitions at the 2019/2020 Dressage World Cup season.</desc></programme>
-<programme start="20260621090000 +0000" stop="20260621100000 +0000" channel="289"><title lang="it">Horse Academy Pro 1</title><desc lang="it">Training is starting at the facilities of Horse Academy Pro. This time we welcome our guest for this episode, Massimo Grossato, the international rider that has recently won the Grand Prix in Rome and is part of the Italian equestrian team. Today we will prepare for the competition, and winners will have an important prize. Check it out!</desc></programme>
-<programme start="20260621100000 +0000" stop="20260621103000 +0000" channel="289"><title lang="it">Longines Global Champions Tour 2023</title><desc lang="it">Welcome to the worlds most dynamic and exciting equestrian sport circuit. Spanning Asia, Europe and The Americas, the Global Champions events happen at unbeatable venues guaranteeing high octane equestrian sports for fans worldwide. Riders compete in an event where precision, power and elegance are combined in a single spectacular championship.This mesmerising battle takes us around the world to Mexico City, Miami, Shanghai, Paris or B</desc></programme>
-<programme start="20260621103000 +0000" stop="20260621110000 +0000" channel="289"><title lang="it">Global Champions League 2023</title><desc lang="it">Welcome to the Global Champions League. The best championship in team show jumping. Drama and emotion are present all season in the high stakes as top sport and intense rivalry across different continents arises in the pursuit of the GCL championship glory. Top riders compete united for the first time in a show jumping event with star U25 riders. They will have to demonstrate their team spirit, tactics and the strongest combinations to</desc></programme>
-<programme start="20260621110000 +0000" stop="20260621113000 +0000" channel="289"><title lang="it">FEI Eventing Nations Cup 2021</title><desc lang="it">Great Britain might have won the first leg of the FEI Eventing Nations Cup, but Strzegom is a new opportunity for the other teams to shine. Poland has started with a 128.8 team point lead, but Germany is following closely on 135.0. Who will be the winning team?</desc></programme>
-<programme start="20260621113000 +0000" stop="20260621120000 +0000" channel="289"><title lang="it">FEI Eventing Nations Cup 2021</title><desc lang="it">Le Grand Complet, the third leg of the 2021 FEI Eventing Nations Cup series is being celebrated in Le Pin au Haras, Normandy. Known as the Versailles for Horses, it provides a fitting location for spectacular competition. Germany is fresh from victory at Strzegom, but France is not ready to lose in home grounds. How will this leg develop?</desc></programme>
-<programme start="20260621120000 +0000" stop="20260621130000 +0000" channel="289"><title lang="it">Longines FEI Jumping World Cup 2022 2</title></programme>
-<programme start="20260621130000 +0000" stop="20260621140000 +0000" channel="289"><title lang="it">Dressage Season Review 2019 2020</title><desc lang="it">The best action in the dressage world is ready for a comeback in the 2019/2020 edition. Despite current circumstances, we have been able to enjoy some magical moments in dressage across Europe, the Americas and the Pacific. Be part of the best moments of the competitions at the 2019/2020 Dressage World Cup season.</desc></programme>
-<programme start="20260621140000 +0000" stop="20260621150000 +0000" channel="289"><title lang="it">Horse Academy Pro 1</title><desc lang="it">Training is starting at the facilities of Horse Academy Pro. This time we welcome our guest for this episode, Massimo Grossato, the international rider that has recently won the Grand Prix in Rome and is part of the Italian equestrian team. Today we will prepare for the competition, and winners will have an important prize. Check it out!</desc></programme>
-<programme start="20260621150000 +0000" stop="20260621153000 +0000" channel="289"><title lang="it">FEI Eventing Nations Cup 2021</title><desc lang="it">Great Britain might have won the first leg of the FEI Eventing Nations Cup, but Strzegom is a new opportunity for the other teams to shine. Poland has started with a 128.8 team point lead, but Germany is following closely on 135.0. Who will be the winning team?</desc></programme>
-<programme start="20260621153000 +0000" stop="20260621160000 +0000" channel="289"><title lang="it">FEI Eventing Nations Cup 2021</title><desc lang="it">Le Grand Complet, the third leg of the 2021 FEI Eventing Nations Cup series is being celebrated in Le Pin au Haras, Normandy. Known as the Versailles for Horses, it provides a fitting location for spectacular competition. Germany is fresh from victory at Strzegom, but France is not ready to lose in home grounds. How will this leg develop?</desc></programme>
-<programme start="20260621160000 +0000" stop="20260621170000 +0000" channel="289"><title lang="it">Polo Rider Cup Competition 2021</title><desc lang="it">In order to advance to the following rounds, Moscow Polo Club will have to face Hamburger Polo Club in this first stage of the Polo Rider Cup 2021. With a 10/12 goals handicap and 5 chukkers, competition between the strongest polo teams in the world is on at the Polo Club de Chantilly. Enjoy the match between Moscow Polo Club and Hamburger Polo Club.</desc></programme>
-<programme start="20260621170000 +0000" stop="20260621180000 +0000" channel="289"><title lang="it">Thai Polo Open 2020</title><desc lang="it">Located in Thailands eastern Gulf coast, Pattaya used to be a quiet fishing village but now has become in a luxury destination for many visitors. From resort hotels, high rise condos or glamourous shopping malls, Pattaya is chosen by people from Bangkok when they want to leave the city and disconnect. And there is no better way of disconnecting from mundane traffic than in The Thai Polo Open Summit Competition, located in the Thai Polo</desc></programme>
-<programme start="20260621180000 +0000" stop="20260621183000 +0000" channel="289"><title lang="it">Longines Global Champions Tour 2022</title><desc lang="it">Welcome to the worlds most dynamic and exciting equestrian sport circuit. Spanning Asia, Europe and The Americas, the Global Champions events happen at unbeatable venues guaranteeing high octane equestrian sports for fans worldwide. Riders compete in an event where precision, power and elegance are combined in a single spectacular championship.This mesmerising battle takes us around the world to Mexico City, Miami, Shanghai, Paris or B</desc></programme>
-<programme start="20260621183000 +0000" stop="20260621190000 +0000" channel="289"><title lang="it">Global Champions League 2022</title><desc lang="it">Welcome to the Global Champions League. The best championship in team show jumping. Drama and emotion are present all season in the high stakes as top sport and intense rivalry across different continents arises in the pursuit of the GCL championship glory. Top riders compete united for the first time in a show jumping event with star U25 riders. They will have to demonstrate their team spirit, tactics and the strongest combinations to</desc></programme>
-<programme start="20260621190000 +0000" stop="20260621210000 +0000" channel="289"><title lang="it">Longines FEI Jumping Nations Cup (Full</title></programme>
-<programme start="20260621210000 +0000" stop="20260621220000 +0000" channel="289"><title lang="it">FISE Awards 2022</title><desc lang="it">The most glamorous event of the Italian Equestrian Sports Federation is approaching: the FISE Awards 2022 return in style to make the celebration of the achievements of the sporting year even more exciting. The appointment is set at the Teatro Centrale with Rudy Zerbi conducting the evening with Carolina Rey. Are you going to miss out?</desc></programme>
+<programme start="20260621220000 +0000" stop="20260621230000 +0000" channel="71"><title lang="it">Newshour</title><desc lang="it">Telegiornale - Latest news and in-depth analysis from around the world.</desc></programme>
+<programme start="20260621230000 +0000" stop="20260621233000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
+<programme start="20260621233000 +0000" stop="20260622000000 +0000" channel="71"><title lang="it">Inside Story</title><desc lang="it">News - Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc></programme>
+<programme start="20260622000000 +0000" stop="20260622010000 +0000" channel="71"><title lang="it">Newshour</title><desc lang="it">Telegiornale - Latest news and in-depth analysis from around the world.</desc></programme>
+<programme start="20260622010000 +0000" stop="20260622013000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
+<programme start="20260622013000 +0000" stop="20260622020000 +0000" channel="71"><title lang="it">The Bottom Line</title><desc lang="it">News - Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc></programme>
+<programme start="20260622020000 +0000" stop="20260622030000 +0000" channel="71"><title lang="it">Newshour</title><desc lang="it">Telegiornale - Latest news and in-depth analysis from around the world.</desc></programme>
+<programme start="20260622030000 +0000" stop="20260622033000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
+<programme start="20260622033000 +0000" stop="20260622040000 +0000" channel="71"><title lang="it">Counting the Cost</title><desc lang="it">Rubrica - Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc></programme>
+<programme start="20260622040000 +0000" stop="20260622043000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
+<programme start="20260622043000 +0000" stop="20260622050000 +0000" channel="71"><title lang="it">101 East</title><desc lang="it">The Rise of India&apos;s Women Cricketers - Documentario - In cricket-obsessed India, the Women&apos;s Premier League is creating life-changing opportunities for hundreds of women in their chosen sport.</desc></programme>
+<programme start="20260622050000 +0000" stop="20260622053000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
+<programme start="20260622053000 +0000" stop="20260622060000 +0000" channel="71"><title lang="it">Inside Story</title><desc lang="it">News - Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc></programme>
+<programme start="20260622060000 +0000" stop="20260622063000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
+<programme start="20260622063000 +0000" stop="20260622070000 +0000" channel="71"><title lang="it">Talk to Al Jazeera</title><desc lang="it">Episode 22062026 - News - One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc></programme>
+<programme start="20260622070000 +0000" stop="20260622080000 +0000" channel="71"><title lang="it">Newshour</title><desc lang="it">Telegiornale - Latest news and in-depth analysis from around the world.</desc></programme>
+<programme start="20260622080000 +0000" stop="20260622083000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
+<programme start="20260622083000 +0000" stop="20260622090000 +0000" channel="71"><title lang="it">Reframe</title><desc lang="it">Jason Hickel - News - Varsha Gandikota-Nellutla interviews political economist Jason Hickel on the war on Iran and if it is the latest expression of an extractive global order.</desc></programme>
+<programme start="20260622090000 +0000" stop="20260622093000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
+<programme start="20260622093000 +0000" stop="20260622100000 +0000" channel="71"><title lang="it">The Listening Post</title><desc lang="it">News - What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc></programme>
+<programme start="20260622100000 +0000" stop="20260622110000 +0000" channel="71"><title lang="it">Newshour</title><desc lang="it">Telegiornale - Latest news and in-depth analysis from around the world.</desc></programme>
+<programme start="20260622110000 +0000" stop="20260622113000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
+<programme start="20260622113000 +0000" stop="20260622120000 +0000" channel="71"><title lang="it">Inside Story</title><desc lang="it">News - Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc></programme>
+<programme start="20260622120000 +0000" stop="20260622130000 +0000" channel="71"><title lang="it">Newshour</title><desc lang="it">Telegiornale - Latest news and in-depth analysis from around the world.</desc></programme>
+<programme start="20260622130000 +0000" stop="20260622140000 +0000" channel="71"><title lang="it">Newshour</title><desc lang="it">Telegiornale - Latest news and in-depth analysis from around the world.</desc></programme>
+<programme start="20260622140000 +0000" stop="20260622143000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
+<programme start="20260622143000 +0000" stop="20260622150000 +0000" channel="71"><title lang="it">Talk to Al Jazeera</title><desc lang="it">Episode 22062026 - News - One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc></programme>
+<programme start="20260622150000 +0000" stop="20260622160000 +0000" channel="71"><title lang="it">Newshour</title><desc lang="it">Telegiornale - Latest news and in-depth analysis from around the world.</desc></programme>
+<programme start="20260622160000 +0000" stop="20260622163000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
+<programme start="20260622163000 +0000" stop="20260622170000 +0000" channel="71"><title lang="it">People and Power</title><desc lang="it">Trapped in Tunisia - News - Caught between two worlds, migrants in Tunisia fight the elements and the authorities as they strive to reach Europe.</desc></programme>
+<programme start="20260622170000 +0000" stop="20260622173000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
+<programme start="20260622173000 +0000" stop="20260622180000 +0000" channel="71"><title lang="it">Inside Story</title><desc lang="it">News - Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc></programme>
+<programme start="20260622180000 +0000" stop="20260622190000 +0000" channel="71"><title lang="it">Newshour</title><desc lang="it">Telegiornale - Latest news and in-depth analysis from around the world.</desc></programme>
+<programme start="20260622190000 +0000" stop="20260622193000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
+<programme start="20260622193000 +0000" stop="20260622200000 +0000" channel="71"><title lang="it">Apocalypse Maybe</title><desc lang="it">This Is Not A Drill - News - Hawaiians respond to a threat of nuclear attack and a survivor tells of coping with the Hiroshima bombing.</desc></programme>
+<programme start="20260622200000 +0000" stop="20260622203000 +0000" channel="71"><title lang="it">News Live</title><desc lang="it">Telegiornale - Up-to-date news and analysis from around the world.</desc></programme>
+<programme start="20260622203000 +0000" stop="20260622210000 +0000" channel="71"><title lang="it">Witness</title><desc lang="it">How to Sue the Klan - Documentario - Inspirational and provocative stories providing a fresh and informative insight into the world&apos;s key events as they impact on the lives of ordinary people.</desc></programme>
+<programme start="20260622210000 +0000" stop="20260622220000 +0000" channel="71"><title lang="it">Newshour</title><desc lang="it">Telegiornale - Latest news and in-depth analysis from around the world.</desc></programme>
+<programme start="20260621220000 +0000" stop="20260621221000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
+<programme start="20260621221000 +0000" stop="20260621222000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
+<programme start="20260621222000 +0000" stop="20260621223000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
+<programme start="20260621223000 +0000" stop="20260621224000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
+<programme start="20260621224000 +0000" stop="20260621225000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
+<programme start="20260621225000 +0000" stop="20260621230000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
+<programme start="20260621230000 +0000" stop="20260621231000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
+<programme start="20260621231000 +0000" stop="20260621232000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
+<programme start="20260621232000 +0000" stop="20260621233000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
+<programme start="20260621233000 +0000" stop="20260621234000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
+<programme start="20260621234000 +0000" stop="20260621235000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
+<programme start="20260621235000 +0000" stop="20260622000000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
+<programme start="20260622000000 +0000" stop="20260622001000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
+<programme start="20260622001000 +0000" stop="20260622002000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
+<programme start="20260622002000 +0000" stop="20260622003000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
+<programme start="20260622003000 +0000" stop="20260622004000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
+<programme start="20260622004000 +0000" stop="20260622005000 +0000" channel="84"><title lang="it">Sam Il Pompiere</title></programme>
+<programme start="20260622005000 +0000" stop="20260622005500 +0000" channel="84"><title lang="it">Simone</title></programme>
+<programme start="20260622005500 +0000" stop="20260622010000 +0000" channel="84"><title lang="it">Simone</title></programme>
+<programme start="20260622010000 +0000" stop="20260622010500 +0000" channel="84"><title lang="it">Simone</title></programme>
+<programme start="20260622010500 +0000" stop="20260622011000 +0000" channel="84"><title lang="it">Simone</title></programme>
+<programme start="20260622011000 +0000" stop="20260622011500 +0000" channel="84"><title lang="it">Simone</title></programme>
+<programme start="20260622011500 +0000" stop="20260622012000 +0000" channel="84"><title lang="it">Simone</title></programme>
+<programme start="20260622012000 +0000" stop="20260622012500 +0000" channel="84"><title lang="it">Simone</title></programme>
+<programme start="20260622012500 +0000" stop="20260622013000 +0000" channel="84"><title lang="it">Simone</title></programme>
+<programme start="20260622013000 +0000" stop="20260622013500 +0000" channel="84"><title lang="it">Simone</title></programme>
+<programme start="20260622013500 +0000" stop="20260622014000 +0000" channel="84"><title lang="it">Simone</title></programme>
+<programme start="20260622014000 +0000" stop="20260622014500 +0000" channel="84"><title lang="it">Simone</title></programme>
+<programme start="20260622014500 +0000" stop="20260622015000 +0000" channel="84"><title lang="it">Simone</title></programme>
+<programme start="20260622015000 +0000" stop="20260622015500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622015500 +0000" stop="20260622020500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622020500 +0000" stop="20260622021000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622021000 +0000" stop="20260622022000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622022000 +0000" stop="20260622022500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622022500 +0000" stop="20260622023500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622023500 +0000" stop="20260622024000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622024000 +0000" stop="20260622025000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622025000 +0000" stop="20260622025500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622025500 +0000" stop="20260622030500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622030500 +0000" stop="20260622031000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622031000 +0000" stop="20260622032000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622032000 +0000" stop="20260622032500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622032500 +0000" stop="20260622033500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622033500 +0000" stop="20260622034000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622034000 +0000" stop="20260622034500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622034500 +0000" stop="20260622035000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622035000 +0000" stop="20260622040000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622040000 +0000" stop="20260622042000 +0000" channel="84"><title lang="it">Tom &amp; Jerry a New York</title></programme>
+<programme start="20260622042000 +0000" stop="20260622042500 +0000" channel="84"><title lang="it">The Tom and Jerry Show</title></programme>
+<programme start="20260622042500 +0000" stop="20260622043000 +0000" channel="84"><title lang="it">The Tom and Jerry Show</title></programme>
+<programme start="20260622043000 +0000" stop="20260622043500 +0000" channel="84"><title lang="it">The Tom and Jerry Show</title></programme>
+<programme start="20260622043500 +0000" stop="20260622044000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622044000 +0000" stop="20260622044500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622044500 +0000" stop="20260622045500 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622045500 +0000" stop="20260622051000 +0000" channel="84"><title lang="it">C&apos;erano una volta...gli oggetti</title></programme>
+<programme start="20260622051000 +0000" stop="20260622053500 +0000" channel="84"><title lang="it">La casa delle bambole di Gabby</title></programme>
+<programme start="20260622053500 +0000" stop="20260622055500 +0000" channel="84"><title lang="it">La casa delle bambole di Gabby</title></programme>
+<programme start="20260622055500 +0000" stop="20260622060000 +0000" channel="84"><title lang="it">Hey Duggee - Il Club dei Lupetti</title></programme>
+<programme start="20260622060000 +0000" stop="20260622060500 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
+<programme start="20260622060500 +0000" stop="20260622062000 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
+<programme start="20260622062000 +0000" stop="20260622062500 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
+<programme start="20260622062500 +0000" stop="20260622063000 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
+<programme start="20260622063000 +0000" stop="20260622063500 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
+<programme start="20260622063500 +0000" stop="20260622064500 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
+<programme start="20260622064500 +0000" stop="20260622070000 +0000" channel="84"><title lang="it">Chi ha sfidato Ninna e Matti?</title></programme>
+<programme start="20260622070000 +0000" stop="20260622072000 +0000" channel="84"><title lang="it">Chi ha sfidato Ninna e Matti?</title></programme>
+<programme start="20260622072000 +0000" stop="20260622074500 +0000" channel="84"><title lang="it">Tiny Toons Looniversity</title></programme>
+<programme start="20260622074500 +0000" stop="20260622081000 +0000" channel="84"><title lang="it">Tiny Toons Looniversity</title></programme>
+<programme start="20260622081000 +0000" stop="20260622084000 +0000" channel="84"><title lang="it">Tiny Toons Looniversity</title></programme>
+<programme start="20260622084000 +0000" stop="20260622091000 +0000" channel="84"><title lang="it">Blaze e le megamacchine</title></programme>
+<programme start="20260622091000 +0000" stop="20260622094000 +0000" channel="84"><title lang="it">Blaze e le megamacchine</title></programme>
+<programme start="20260622094000 +0000" stop="20260622101000 +0000" channel="84"><title lang="it">Blaze e le megamacchine</title></programme>
+<programme start="20260622101000 +0000" stop="20260622103500 +0000" channel="84"><title lang="it">La casa delle bambole di Gabby</title></programme>
+<programme start="20260622103500 +0000" stop="20260622110500 +0000" channel="84"><title lang="it">La casa delle bambole di Gabby</title></programme>
+<programme start="20260622110500 +0000" stop="20260622111500 +0000" channel="84"><title lang="it">Bugs Bunny Costruzioni</title></programme>
+<programme start="20260622111500 +0000" stop="20260622113000 +0000" channel="84"><title lang="it">Bugs Bunny Costruzioni</title></programme>
+<programme start="20260622113000 +0000" stop="20260622114000 +0000" channel="84"><title lang="it">Bugs Bunny Costruzioni</title></programme>
+<programme start="20260622114000 +0000" stop="20260622115000 +0000" channel="84"><title lang="it">Bugs Bunny Costruzioni</title></programme>
+<programme start="20260622115000 +0000" stop="20260622121500 +0000" channel="84"><title lang="it">Tiny Toons Looniversity</title></programme>
+<programme start="20260622121500 +0000" stop="20260622124000 +0000" channel="84"><title lang="it">Tiny Toons Looniversity</title></programme>
+<programme start="20260622124000 +0000" stop="20260622125000 +0000" channel="84"><title lang="it">Talking Tom Heroes: Super Amici</title></programme>
+<programme start="20260622125000 +0000" stop="20260622130500 +0000" channel="84"><title lang="it">Talking Tom Heroes: Super Amici</title></programme>
+<programme start="20260622130500 +0000" stop="20260622131500 +0000" channel="84"><title lang="it">Talking Tom Heroes: Super Amici</title></programme>
+<programme start="20260622131500 +0000" stop="20260622133000 +0000" channel="84"><title lang="it">Talking Tom Heroes: Super Amici</title></programme>
+<programme start="20260622133000 +0000" stop="20260622134000 +0000" channel="84"><title lang="it">Friends: Nuovo Capitolo</title></programme>
+<programme start="20260622134000 +0000" stop="20260622135000 +0000" channel="84"><title lang="it">Friends: Nuovo Capitolo</title></programme>
+<programme start="20260622135000 +0000" stop="20260622141000 +0000" channel="84"><title lang="it">Friends: Nuovo Capitolo</title></programme>
+<programme start="20260622141000 +0000" stop="20260622144000 +0000" channel="84"><title lang="it">Paw Patrol</title></programme>
+<programme start="20260622144000 +0000" stop="20260622150500 +0000" channel="84"><title lang="it">Paw Patrol</title></programme>
+<programme start="20260622150500 +0000" stop="20260622151500 +0000" channel="84"><title lang="it">Rubble &amp; Crew</title></programme>
+<programme start="20260622151500 +0000" stop="20260622154000 +0000" channel="84"><title lang="it">Rubble &amp; Crew</title></programme>
+<programme start="20260622154000 +0000" stop="20260622160500 +0000" channel="84"><title lang="it">Blaze e le megamacchine</title></programme>
+<programme start="20260622160500 +0000" stop="20260622163000 +0000" channel="84"><title lang="it">Blaze e le megamacchine</title></programme>
+<programme start="20260622163000 +0000" stop="20260622164000 +0000" channel="84"><title lang="it">Batwheels</title></programme>
+<programme start="20260622164000 +0000" stop="20260622165500 +0000" channel="84"><title lang="it">Batwheels</title></programme>
+<programme start="20260622165500 +0000" stop="20260622171000 +0000" channel="84"><title lang="it">Chi ha sfidato Ninna e Matti?</title></programme>
+<programme start="20260622171000 +0000" stop="20260622173000 +0000" channel="84"><title lang="it">Chi ha sfidato Ninna e Matti?</title></programme>
+<programme start="20260622173000 +0000" stop="20260622190500 +0000" channel="84"><title lang="it">Dragon Trainer - Il mondo nascosto</title></programme>
+<programme start="20260622190500 +0000" stop="20260622191000 +0000" channel="84"><title lang="it">Hey Duggee - Il Club dei Lupetti</title></programme>
+<programme start="20260622191000 +0000" stop="20260622191500 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
+<programme start="20260622191500 +0000" stop="20260622192000 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
+<programme start="20260622192000 +0000" stop="20260622192500 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
+<programme start="20260622192500 +0000" stop="20260622193000 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
+<programme start="20260622193000 +0000" stop="20260622194500 +0000" channel="84"><title lang="it">Hey Duggee</title></programme>
+<programme start="20260622194500 +0000" stop="20260622195000 +0000" channel="84"><title lang="it">Grizzy e i Lemming</title></programme>
+<programme start="20260622195000 +0000" stop="20260622195500 +0000" channel="84"><title lang="it">Grizzy e i Lemming</title></programme>
+<programme start="20260622195500 +0000" stop="20260622200000 +0000" channel="84"><title lang="it">Grizzy e i Lemming</title></programme>
+<programme start="20260622200000 +0000" stop="20260622201500 +0000" channel="84"><title lang="it">Grizzy e i Lemming</title></programme>
+<programme start="20260622201500 +0000" stop="20260622202500 +0000" channel="84"><title lang="it">Il Trenino Thomas</title></programme>
+<programme start="20260622202500 +0000" stop="20260622204000 +0000" channel="84"><title lang="it">Il Trenino Thomas</title></programme>
+<programme start="20260622204000 +0000" stop="20260622205000 +0000" channel="84"><title lang="it">Dino Ranch</title></programme>
+<programme start="20260622205000 +0000" stop="20260622210500 +0000" channel="84"><title lang="it">Dino Ranch</title></programme>
+<programme start="20260622210500 +0000" stop="20260622211500 +0000" channel="84"><title lang="it">Dino Ranch</title></programme>
+<programme start="20260622211500 +0000" stop="20260622213500 +0000" channel="84"><title lang="it">Dino Ranch</title></programme>
+<programme start="20260622213500 +0000" stop="20260622214500 +0000" channel="84"><title lang="it">Dino Ranch</title></programme>
+<programme start="20260622214500 +0000" stop="20260622220000 +0000" channel="84"><title lang="it">Dino Ranch</title></programme>
+<programme start="20260621220000 +0000" stop="20260622040000 +0000" channel="230"><title lang="it">Indie, Rap e Trap</title><desc lang="it">- Radio Italia Trend: il primo canale TV interamente dedicato al meglio della musica Indie, rap e trap Made in Italy</desc></programme>
+<programme start="20260622040000 +0000" stop="20260622100000 +0000" channel="230"><title lang="it">Indie, Rap e Trap</title><desc lang="it">- Radio Italia Trend: il primo canale TV interamente dedicato al meglio della musica Indie, rap e trap Made in Italy</desc></programme>
+<programme start="20260622100000 +0000" stop="20260622160000 +0000" channel="230"><title lang="it">Indie, Rap e Trap</title><desc lang="it">- Radio Italia Trend: il primo canale TV interamente dedicato al meglio della musica Indie, rap e trap Made in Italy</desc></programme>
+<programme start="20260622160000 +0000" stop="20260622220000 +0000" channel="230"><title lang="it">Indie, Rap e Trap</title><desc lang="it">- Radio Italia Trend: il primo canale TV interamente dedicato al meglio della musica Indie, rap e trap Made in Italy</desc></programme>
+<programme start="20260621220000 +0000" stop="20260621230000 +0000" channel="255"><title lang="it">Francesca Romana &amp; Paolo</title><desc lang="it">Francesca Romana &amp; Paolo</desc></programme>
+<programme start="20260621230000 +0000" stop="20260622000000 +0000" channel="255"><title lang="it">Corrado Trisoglio</title><desc lang="it">Corrado Trisoglio</desc></programme>
+<programme start="20260622000000 +0000" stop="20260622010000 +0000" channel="255"><title lang="it">Corrado Trisoglio</title><desc lang="it">Corrado Trisoglio</desc></programme>
+<programme start="20260622010000 +0000" stop="20260622020000 +0000" channel="255"><title lang="it">Corrado Trisoglio</title><desc lang="it">Corrado Trisoglio</desc></programme>
+<programme start="20260622020000 +0000" stop="20260622030000 +0000" channel="255"><title lang="it">Corrado Trisoglio</title><desc lang="it">Corrado Trisoglio</desc></programme>
+<programme start="20260622030000 +0000" stop="20260622040000 +0000" channel="255"><title lang="it">Melania &amp; Beppe</title><desc lang="it">Melania &amp; Beppe</desc></programme>
+<programme start="20260622040000 +0000" stop="20260622050000 +0000" channel="255"><title lang="it">Melania &amp; Beppe</title><desc lang="it">Melania &amp; Beppe</desc></programme>
+<programme start="20260622050000 +0000" stop="20260622060000 +0000" channel="255"><title lang="it">Tutti Pazzi per RDS</title><desc lang="it">Tutti Pazzi per RDS</desc></programme>
+<programme start="20260622060000 +0000" stop="20260622070000 +0000" channel="255"><title lang="it">Tutti Pazzi per RDS</title><desc lang="it">Tutti Pazzi per RDS</desc></programme>
+<programme start="20260622070000 +0000" stop="20260622080000 +0000" channel="255"><title lang="it">Tutti Pazzi per RDS</title><desc lang="it">Tutti Pazzi per RDS</desc></programme>
+<programme start="20260622080000 +0000" stop="20260622090000 +0000" channel="255"><title lang="it">Anna &amp; Sergio</title><desc lang="it">Anna &amp; Sergio</desc></programme>
+<programme start="20260622090000 +0000" stop="20260622100000 +0000" channel="255"><title lang="it">Anna &amp; Sergio</title><desc lang="it">Anna &amp; Sergio</desc></programme>
+<programme start="20260622100000 +0000" stop="20260622110000 +0000" channel="255"><title lang="it">Petra &amp; Giovanni</title><desc lang="it">Petra &amp; Giovanni</desc></programme>
+<programme start="20260622110000 +0000" stop="20260622120000 +0000" channel="255"><title lang="it">Petra &amp; Giovanni</title><desc lang="it">Petra &amp; Giovanni</desc></programme>
+<programme start="20260622120000 +0000" stop="20260622130000 +0000" channel="255"><title lang="it">Petra &amp; Giovanni</title><desc lang="it">Petra &amp; Giovanni</desc></programme>
+<programme start="20260622130000 +0000" stop="20260622140000 +0000" channel="255"><title lang="it">Roberta &amp; Claudio</title><desc lang="it">Roberta &amp; Claudio</desc></programme>
+<programme start="20260622140000 +0000" stop="20260622150000 +0000" channel="255"><title lang="it">Roberta &amp; Claudio</title><desc lang="it">Roberta &amp; Claudio</desc></programme>
+<programme start="20260622150000 +0000" stop="20260622160000 +0000" channel="255"><title lang="it">Roberta &amp; Claudio</title><desc lang="it">Roberta &amp; Claudio</desc></programme>
+<programme start="20260622160000 +0000" stop="20260622170000 +0000" channel="255"><title lang="it">Roberta &amp; Claudio</title><desc lang="it">Roberta &amp; Claudio</desc></programme>
+<programme start="20260622170000 +0000" stop="20260622180000 +0000" channel="255"><title lang="it">Chiara &amp; Mauro</title><desc lang="it">Chiara &amp; Mauro</desc></programme>
+<programme start="20260622180000 +0000" stop="20260622190000 +0000" channel="255"><title lang="it">Chiara &amp; Mauro</title><desc lang="it">Chiara &amp; Mauro</desc></programme>
+<programme start="20260622190000 +0000" stop="20260622200000 +0000" channel="255"><title lang="it">Chiara &amp; Mauro</title><desc lang="it">Chiara &amp; Mauro</desc></programme>
+<programme start="20260622200000 +0000" stop="20260622210000 +0000" channel="255"><title lang="it">Elisabetta &amp; Renzo</title><desc lang="it">Elisabetta &amp; Renzo</desc></programme>
+<programme start="20260622210000 +0000" stop="20260622220000 +0000" channel="255"><title lang="it">Elisabetta &amp; Renzo</title><desc lang="it">Elisabetta &amp; Renzo</desc></programme>
 </tv>
