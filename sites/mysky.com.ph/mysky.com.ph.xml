@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260622">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260624">
 <channel id="KnowledgeChannel.ph@SD"><display-name>KNOWLEDGE CHANNEL</display-name><icon src="https://i.imgur.com/YrmMWXD.png"/></channel>
 <channel id="CineMo.ph@SD"><display-name>CINEMO!</display-name><icon src="https://i.imgur.com/rGAOD3f.png"/></channel>
 <channel id="KapamilyaChannel.ph@SD"><display-name>KAPAMILYA CHANNEL</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/960px-Kapamilya_Channel_Logo_2020.svg.png"/></channel>
@@ -114,27 +114,40 @@
 <channel id="PremierSports2.ph@SD"><display-name>PREMIER SPORTS 2 HD</display-name><icon src="https://i.imgur.com/UQeXWd2.png"/></channel>
 <channel id="GlobalTrekker.sg@SD"><display-name>GLOBAL TREKKER HD</display-name><icon src="https://i.imgur.com/5nlmJIw.png"/></channel>
 <channel id="LoveNature.ca@SD"><display-name>LOVE NATURE HD</display-name><icon src="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png"/></channel>
-<programme start="20260622050000 +0000" stop="20260622050200 +0000" channel="132"><title lang="en">DW News</title></programme>
-<programme start="20260622050200 +0000" stop="20260622051500 +0000" channel="132"><title lang="en">DW News Focus</title></programme>
-<programme start="20260622051500 +0000" stop="20260622053000 +0000" channel="132"><title lang="en">The Dip</title><desc lang="en">The dust is settling after a new USIran deal but one question still matters when will oil prices feel normal again? Since the war began in late February, markets have been on a rollercoaster. And even with an agreement in place, the damage isnt just politicalits physical.</desc></programme>
-<programme start="20260622053000 +0000" stop="20260622060000 +0000" channel="132"><title lang="en">The 77 Percent</title><desc lang="en">This weeks show explores the push to promote African languages in classrooms, the challenges of changing entrenched systems, and the reallife impact on learners. Is it time to rethink how Africa learns?</desc></programme>
-<programme start="20260622060000 +0000" stop="20260622060200 +0000" channel="132"><title lang="en">DW News</title></programme>
-<programme start="20260622060200 +0000" stop="20260622061500 +0000" channel="132"><title lang="en">DW News Focus</title></programme>
-<programme start="20260622061500 +0000" stop="20260622070000 +0000" channel="132"><title lang="en">DocFilm</title><desc lang="en">On 22 June 1941, the German Wehrmacht launched a war of aggression against the Soviet Union. Under the code name Operation Barbarossa, the campaign aimed to bring the vast country in the east to its knees. Millions of people died as a result.</desc></programme>
-<programme start="20260622070000 +0000" stop="20260622073000 +0000" channel="132"><title lang="en">DW News</title></programme>
-<programme start="20260622073000 +0000" stop="20260622080000 +0000" channel="132"><title lang="en">Global Us</title></programme>
-<programme start="20260622080000 +0000" stop="20260622083000 +0000" channel="132"><title lang="en">DW News</title></programme>
-<programme start="20260622050000 +0000" stop="20260622063000 +0000" channel="167"><title lang="en">ITS SHOWTIME</title></programme>
-<programme start="20260622063000 +0000" stop="20260622071500 +0000" channel="167"><title lang="en">CANT BUY ME LOVE REPLAY</title></programme>
-<programme start="20260622071500 +0000" stop="20260622080000 +0000" channel="167"><title lang="en">HIGH STREET REPLAY</title></programme>
-<programme start="20260622080000 +0000" stop="20260622093000 +0000" channel="167"><title lang="en">KAPAMILYA GOLD HITS</title></programme>
-<programme start="20260622050000 +0000" stop="20260622054500 +0000" channel="181"><title lang="en">Connect the World</title><desc lang="en">Becky Anderson explores diverse perspectives and explains global issues of the day.</desc></programme>
-<programme start="20260622054500 +0000" stop="20260622060000 +0000" channel="181"><title lang="en">World Sport</title><desc lang="en">Daily sports show features major stories and issues making news in the world of sports.</desc></programme>
-<programme start="20260622060000 +0000" stop="20260622070000 +0000" channel="181"><title lang="en">Connect the World</title><desc lang="en">Becky Anderson explores diverse perspectives and explains global issues of the day.</desc></programme>
-<programme start="20260622070000 +0000" stop="20260622080000 +0000" channel="181"><title lang="en">One World</title><desc lang="en">Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc></programme>
-<programme start="20260622080000 +0000" stop="20260622090000 +0000" channel="181"><title lang="en">One World</title><desc lang="en">Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc></programme>
-<programme start="20260622050000 +0000" stop="20260622063000 +0000" channel="A2Z.ph@SD"><title lang="en">Its Showtime</title></programme>
-<programme start="20260622063000 +0000" stop="20260622071500 +0000" channel="A2Z.ph@SD"><title lang="en">Cant Buy Me Love</title></programme>
-<programme start="20260622071500 +0000" stop="20260622080000 +0000" channel="A2Z.ph@SD"><title lang="en">High Street Replay</title></programme>
-<programme start="20260622080000 +0000" stop="20260622093000 +0000" channel="A2Z.ph@SD"><title lang="en">Afternoon Zinema</title></programme>
+<programme start="20260624040000 +0000" stop="20260624043000 +0000" channel="28"><title lang="en">CNN News Central</title><desc lang="en">Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNNs immersive news hub.</desc></programme>
+<programme start="20260624043000 +0000" stop="20260624050000 +0000" channel="28"><title lang="en">World Sport</title><desc lang="en">Daily sports show features major stories and issues making news in the world of sports.</desc></programme>
+<programme start="20260624050000 +0000" stop="20260624054500 +0000" channel="28"><title lang="en">Connect the World</title><desc lang="en">Becky Anderson explores diverse perspectives and explains global issues of the day.</desc></programme>
+<programme start="20260624054500 +0000" stop="20260624060000 +0000" channel="28"><title lang="en">World Sport</title><desc lang="en">Daily sports show features major stories and issues making news in the world of sports.</desc></programme>
+<programme start="20260624060000 +0000" stop="20260624070000 +0000" channel="28"><title lang="en">Connect the World</title><desc lang="en">Becky Anderson explores diverse perspectives and explains global issues of the day.</desc></programme>
+<programme start="20260624070000 +0000" stop="20260624080000 +0000" channel="28"><title lang="en">One World</title><desc lang="en">Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc></programme>
+<programme start="20260624040000 +0000" stop="20260624040200 +0000" channel="132"><title lang="en">DW News</title></programme>
+<programme start="20260624040200 +0000" stop="20260624041500 +0000" channel="132"><title lang="en">DW News Focus</title></programme>
+<programme start="20260624041500 +0000" stop="20260624050000 +0000" channel="132"><title lang="en">DocFilm</title><desc lang="en">On 22 June 1941, the German Wehrmacht launched a war of aggression against the Soviet Union. Under the code name Operation Barbarossa, the campaign aimed to bring the vast country in the east to its knees. Millions of people died as a result.</desc></programme>
+<programme start="20260624050000 +0000" stop="20260624050200 +0000" channel="132"><title lang="en">DW News</title></programme>
+<programme start="20260624050200 +0000" stop="20260624051500 +0000" channel="132"><title lang="en">DW News Focus</title></programme>
+<programme start="20260624051500 +0000" stop="20260624053000 +0000" channel="132"><title lang="en">ENTR</title><desc lang="en">What is it like to play for the worst national football team in the world? While everyone is watching the worldcup, we follow Nicola 26, the only fulltime professional footballer in San Marinos national team, as he prepares for one of the biggest matches in the countrys recent football history.</desc></programme>
+<programme start="20260624053000 +0000" stop="20260624060000 +0000" channel="132"><title lang="en">Eco Africa</title><desc lang="en">Ghanaian singer Wiyaala returns home to the village of Funsi, using her fame to improve sanitation and bring better health to her community. Also An artist in Mali is painting public buses to spread awareness about the climate crisis.</desc></programme>
+<programme start="20260624060000 +0000" stop="20260624060300 +0000" channel="132"><title lang="en">DW News</title></programme>
+<programme start="20260624060300 +0000" stop="20260624070000 +0000" channel="132"><title lang="en">DocFilm</title><desc lang="en">Nikola Tesla, born in 1856 in what is now Croatia, was one of the worlds greatest inventors. He developed numerous innovations in the field of electrical engineering and was granted over 280 patents, many of them in the USA.</desc></programme>
+<programme start="20260624070000 +0000" stop="20260624073000 +0000" channel="132"><title lang="en">DW News</title></programme>
+<programme start="20260624040000 +0000" stop="20260624063000 +0000" channel="167"><title lang="en">ITS SHOWTIME</title></programme>
+<programme start="20260624063000 +0000" stop="20260624071500 +0000" channel="167"><title lang="en">CANT BUY ME LOVE REPLAY</title></programme>
+<programme start="20260624040000 +0000" stop="20260624043000 +0000" channel="181"><title lang="en">CNN News Central</title><desc lang="en">Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNNs immersive news hub.</desc></programme>
+<programme start="20260624043000 +0000" stop="20260624050000 +0000" channel="181"><title lang="en">World Sport</title><desc lang="en">Daily sports show features major stories and issues making news in the world of sports.</desc></programme>
+<programme start="20260624050000 +0000" stop="20260624054500 +0000" channel="181"><title lang="en">Connect the World</title><desc lang="en">Becky Anderson explores diverse perspectives and explains global issues of the day.</desc></programme>
+<programme start="20260624054500 +0000" stop="20260624060000 +0000" channel="181"><title lang="en">World Sport</title><desc lang="en">Daily sports show features major stories and issues making news in the world of sports.</desc></programme>
+<programme start="20260624060000 +0000" stop="20260624070000 +0000" channel="181"><title lang="en">Connect the World</title><desc lang="en">Becky Anderson explores diverse perspectives and explains global issues of the day.</desc></programme>
+<programme start="20260624070000 +0000" stop="20260624080000 +0000" channel="181"><title lang="en">One World</title><desc lang="en">Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc></programme>
+<programme start="20260624040000 +0000" stop="20260624063000 +0000" channel="A2Z.ph@SD"><title lang="en">Its Showtime</title></programme>
+<programme start="20260624063000 +0000" stop="20260624071500 +0000" channel="A2Z.ph@SD"><title lang="en">Cant Buy Me Love</title></programme>
+<programme start="20260624040000 +0000" stop="20260624050000 +0000" channel="CineMo.ph@SD"><title lang="en">OKAY KA FAIRY KO! VIC SOTTO</title></programme>
+<programme start="20260624050000 +0000" stop="20260624070000 +0000" channel="CineMo.ph@SD"><title lang="en">SAGOT KO ANG BUHAY MO JERIC RAVAL</title></programme>
+<programme start="20260624070000 +0000" stop="20260624090000 +0000" channel="CineMo.ph@SD"><title lang="en">IBABAON KITA SA LUPA LITO LAPID</title></programme>
+<programme start="20260624040000 +0000" stop="20260624050000 +0000" channel="JeepneyTV.ph@SD"><title lang="en">PRINSESA NG BANYERA</title></programme>
+<programme start="20260624050000 +0000" stop="20260624060000 +0000" channel="JeepneyTV.ph@SD"><title lang="en">TANGING YAMAN</title></programme>
+<programme start="20260624060000 +0000" stop="20260624063000 +0000" channel="JeepneyTV.ph@SD"><title lang="en">PRECIOUS HEARTS PRESENTS KRISTINE</title></programme>
+<programme start="20260624063000 +0000" stop="20260624070000 +0000" channel="JeepneyTV.ph@SD"><title lang="en">WALANG HANGGAN</title></programme>
+<programme start="20260624070000 +0000" stop="20260624074500 +0000" channel="JeepneyTV.ph@SD"><title lang="en">DARATING ANG UMAGA</title></programme>
+<programme start="20260624040000 +0000" stop="20260624063000 +0000" channel="KapamilyaChannel.ph@SD"><title lang="en">ITS SHOWTIME</title></programme>
+<programme start="20260624063000 +0000" stop="20260624071500 +0000" channel="KapamilyaChannel.ph@SD"><title lang="en">CANT BUY ME LOVE REPLAY</title></programme>
 </tv>
