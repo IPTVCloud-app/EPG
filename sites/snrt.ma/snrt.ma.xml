@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260624">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260625">
 <channel id="AlAoula.ma@SD"><display-name>Al Aoula</display-name><icon src="https://i.imgur.com/nq53d2N.png"/></channel>
 <channel id="LaayouneTV.ma@SD"><display-name>Laâyoune</display-name><icon src="https://i.ibb.co/Q3r5D5d0/image-removebg-preview.png"/></channel>
 <channel id="Arryadia.ma@HD"><display-name>Arryadia</display-name><icon src="https://i.imgur.com/XjzK3gZ.png"/></channel>
@@ -10,9 +10,471 @@
 <channel id="4077"><display-name>Chaine Inter</display-name></channel>
 <channel id="4078"><display-name>Idaât Mohammed Assadiss</display-name></channel>
 <channel id="4079"><display-name>Alidaâ Alamazighia</display-name></channel>
-<programme start="20260623230000 +0000" stop="20260623233000 +0000" channel="LaayouneTV.ma@SD"><title lang="ar">مسلسل الطير الا من فركو 14</title><category lang="ar">مسلسل</category></programme>
-<programme start="20260623233000 +0000" stop="20260624210000 +0000" channel="LaayouneTV.ma@SD"><title lang="ar">أمداح</title></programme>
-<programme start="20260624210000 +0000" stop="20260624213000 +0000" channel="LaayouneTV.ma@SD"><title lang="ar">المائدة الصحراوية</title></programme>
-<programme start="20260624213000 +0000" stop="20260624220000 +0000" channel="LaayouneTV.ma@SD"><title lang="ar">الاخبار الجهوية</title><category lang="ar">أخبار</category></programme>
-<programme start="20260624220000 +0000" stop="20260624230000 +0000" channel="LaayouneTV.ma@SD"><title lang="ar">سهرات ليالي أزوان</title></programme>
+<programme start="20260624230000 +0000" stop="20260624230500 +0000" channel="4076"><title lang="ar">افتتـــــــــــــــــــــــــــــــــــــــــــــــــــــاح الارســـــــــــــــــــــــــــــــــال بالموسيقــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــى المميــــــــــــــــــــــــــــــــــزة + الامــــــــــــــــــــــــــــــــــــــــــــــــــــواج + عـــــرض البرامــــــــــــــــــــــــــــــــــــــــــج</title></programme>
+<programme start="20260624230500 +0000" stop="20260624231000 +0000" channel="4076"><title lang="ar">أغـــنيـــــــــــــــــــــــة مغـــــــــــربية</title></programme>
+<programme start="20260624231000 +0000" stop="20260624231500 +0000" channel="4076"><title lang="ar">للثقافة أخبار</title></programme>
+<programme start="20260624231500 +0000" stop="20260624232000 +0000" channel="4076"><title lang="ar">أغـــنيـــــــــــــــــــــــة مغـــــــــــربية</title></programme>
+<programme start="20260624232000 +0000" stop="20260624233000 +0000" channel="4076"><title lang="ar">مذكرات</title></programme>
+<programme start="20260624233000 +0000" stop="20260625010000 +0000" channel="4076"><title lang="ar">ذكريات عبرت</title></programme>
+<programme start="20260625010000 +0000" stop="20260625020000 +0000" channel="4076"><title lang="ar">قراءات اثيرية</title></programme>
+<programme start="20260625020000 +0000" stop="20260625022000 +0000" channel="4076"><title lang="ar">المســــــــــلسل الإذاعــــــــــــــــــــــــــــــــــــي</title></programme>
+<programme start="20260625022000 +0000" stop="20260625030000 +0000" channel="4076"><title lang="ar">أغانــــــــــــي خالــــــــــــــــــــــــــدة</title></programme>
+<programme start="20260625030000 +0000" stop="20260625033000 +0000" channel="4076"><title lang="ar">عيشة راضية</title></programme>
+<programme start="20260625033000 +0000" stop="20260625034000 +0000" channel="4076"><title lang="ar">الكلمـــــــــــــــــة الطيبــــــــــــــــــــــة</title></programme>
+<programme start="20260625034000 +0000" stop="20260625040000 +0000" channel="4076"><title lang="ar">السماع والمديح</title></programme>
+<programme start="20260625040000 +0000" stop="20260625040000 +0000" channel="4076"><title lang="ar">افتتاح الإرسال بالسلام الملكي</title></programme>
+<programme start="20260625040000 +0000" stop="20260625040500 +0000" channel="4076"><title lang="ar">ختــــــــــــــــــــام الإرســـــــــــــــال</title></programme>
+<programme start="20260625040500 +0000" stop="20260625042000 +0000" channel="4076"><title lang="ar">حصة من الذكر الحكيم</title><category lang="ar">القرآن الكريم</category></programme>
+<programme start="20260625042000 +0000" stop="20260625042500 +0000" channel="4076"><title lang="ar">آفاق إسلامية</title></programme>
+<programme start="20260625042500 +0000" stop="20260625050000 +0000" channel="4076"><title lang="ar">أمداح نبوية وابتهـالات</title></programme>
+<programme start="20260625050000 +0000" stop="20260625050300 +0000" channel="4076"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625050300 +0000" stop="20260625053000 +0000" channel="4076"><title lang="ar">صباح بلادي</title></programme>
+<programme start="20260625053000 +0000" stop="20260625053300 +0000" channel="4076"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625053300 +0000" stop="20260625060000 +0000" channel="4076"><title lang="ar">صباح بلادي (تتمة)</title></programme>
+<programme start="20260625060000 +0000" stop="20260625061000 +0000" channel="4076"><title lang="ar">النشرة الرئيسية</title><category lang="ar">أخبار</category></programme>
+<programme start="20260625061000 +0000" stop="20260625063000 +0000" channel="4076"><title lang="ar">صباح بلادي (تتمة)</title></programme>
+<programme start="20260625063000 +0000" stop="20260625063300 +0000" channel="4076"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625063300 +0000" stop="20260625070000 +0000" channel="4076"><title lang="ar">صباح بلادي (تتمة)</title></programme>
+<programme start="20260625070000 +0000" stop="20260625071000 +0000" channel="4076"><title lang="ar">النشرة الرئيسية</title><category lang="ar">أخبار</category></programme>
+<programme start="20260625071000 +0000" stop="20260625073000 +0000" channel="4076"><title lang="ar">صباح بلادي (تتمة)</title></programme>
+<programme start="20260625073000 +0000" stop="20260625073300 +0000" channel="4076"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625073300 +0000" stop="20260625080000 +0000" channel="4076"><title lang="ar">صباح بلادي (تتمة)</title></programme>
+<programme start="20260625080000 +0000" stop="20260625080300 +0000" channel="4076"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625080300 +0000" stop="20260625090000 +0000" channel="4076"><title lang="ar">اللقاء المفتوح</title></programme>
+<programme start="20260625090000 +0000" stop="20260625090300 +0000" channel="4076"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625090300 +0000" stop="20260625100000 +0000" channel="4076"><title lang="ar">اللقاء المفتوح (تتمة)</title></programme>
+<programme start="20260625100000 +0000" stop="20260625100300 +0000" channel="4076"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625100300 +0000" stop="20260625110000 +0000" channel="4076"><title lang="ar">اللقاء المفتوح (تتمة)</title></programme>
+<programme start="20260625110000 +0000" stop="20260625110300 +0000" channel="4076"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625110300 +0000" stop="20260625120000 +0000" channel="4076"><title lang="ar">حديـــــــــــــث الظهيـــــــــــــــــرة</title></programme>
+<programme start="20260625120000 +0000" stop="20260625121000 +0000" channel="4076"><title lang="ar">النشرة الرئيسية</title><category lang="ar">أخبار</category></programme>
+<programme start="20260625121000 +0000" stop="20260625123000 +0000" channel="4076"><title lang="ar">مختارات غنائية</title></programme>
+<programme start="20260625123000 +0000" stop="20260625130000 +0000" channel="4076"><title lang="ar">من قلب البرلمان</title></programme>
+<programme start="20260625130000 +0000" stop="20260625130300 +0000" channel="4076"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625130300 +0000" stop="20260625140000 +0000" channel="4076"><title lang="ar">أعطيني رأيك</title></programme>
+<programme start="20260625140000 +0000" stop="20260625140300 +0000" channel="4076"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625140300 +0000" stop="20260625150000 +0000" channel="4076"><title lang="ar">أعطيني رأيك (تتمة)</title></programme>
+<programme start="20260625150000 +0000" stop="20260625151500 +0000" channel="4076"><title lang="ar">النشرة الرئيسية</title><category lang="ar">أخبار</category></programme>
+<programme start="20260625151500 +0000" stop="20260625160000 +0000" channel="4076"><title lang="ar">مختارات غنائية</title></programme>
+<programme start="20260625160000 +0000" stop="20260625160300 +0000" channel="4076"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625160300 +0000" stop="20260625170000 +0000" channel="4076"><title lang="ar">طوب اطوال</title></programme>
+<programme start="20260625170000 +0000" stop="20260625170300 +0000" channel="4076"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625170300 +0000" stop="20260625180000 +0000" channel="4076"><title lang="ar">طوب اطوال (تتمة)</title></programme>
+<programme start="20260625180000 +0000" stop="20260625180300 +0000" channel="4076"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625180300 +0000" stop="20260625190000 +0000" channel="4076"><title lang="ar">الحياة الذكية</title></programme>
+<programme start="20260625190000 +0000" stop="20260625192000 +0000" channel="4076"><title lang="ar">النشرة الرئيسية</title><category lang="ar">أخبار</category></programme>
+<programme start="20260625192000 +0000" stop="20260625193000 +0000" channel="4076"><title lang="ar">أغـــنيـــــــــــــــــــــــة مغـــــــــــربية</title></programme>
+<programme start="20260625193000 +0000" stop="20260625200000 +0000" channel="4076"><title lang="ar">المســــــــــلسل الإذاعــــــــــــــــــــــــــــــــــــي</title></programme>
+<programme start="20260625200000 +0000" stop="20260625200300 +0000" channel="4076"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625200300 +0000" stop="20260625210000 +0000" channel="4076"><title lang="ar">ملفات في الواجهة</title></programme>
+<programme start="20260625210000 +0000" stop="20260625210300 +0000" channel="4076"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625210300 +0000" stop="20260625220000 +0000" channel="4076"><title lang="ar">ملفات في الواجهة (تتمة)</title></programme>
+<programme start="20260625220000 +0000" stop="20260625221000 +0000" channel="4076"><title lang="ar">النشرة الرئيسية</title><category lang="ar">أخبار</category></programme>
+<programme start="20260625221000 +0000" stop="20260625221500 +0000" channel="4076"><title lang="ar">النشرة القضائية</title></programme>
+<programme start="20260625221500 +0000" stop="20260625230000 +0000" channel="4076"><title lang="ar">اغاني الملحون والاندلسي</title></programme>
+<programme start="20260624230000 +0000" stop="20260625010000 +0000" channel="4077"><title lang="ar">TENDANCE ET INFLUENCE (إعادة)</title></programme>
+<programme start="20260625010000 +0000" stop="20260625050000 +0000" channel="4077"><title lang="ar">CHAINE INTER CULTURE (إعادة)</title></programme>
+<programme start="20260625050000 +0000" stop="20260625050100 +0000" channel="4077"><title lang="ar">افتتاح الإرسال بالسلام الملكي</title></programme>
+<programme start="20260625050100 +0000" stop="20260625050300 +0000" channel="4077"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625050300 +0000" stop="20260625053000 +0000" channel="4077"><title lang="ar">REVEIL MATINAL</title></programme>
+<programme start="20260625053000 +0000" stop="20260625053300 +0000" channel="4077"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625053300 +0000" stop="20260625060000 +0000" channel="4077"><title lang="ar">Réveil matinal (suite)</title></programme>
+<programme start="20260625060000 +0000" stop="20260625061000 +0000" channel="4077"><title lang="ar">النشرة الإخبارية</title><category lang="ar">أخبار</category></programme>
+<programme start="20260625061000 +0000" stop="20260625061500 +0000" channel="4077"><title lang="ar">INTER MATIN</title></programme>
+<programme start="20260625061500 +0000" stop="20260625061800 +0000" channel="4077"><title lang="ar">دقيقة البيئة</title></programme>
+<programme start="20260625061800 +0000" stop="20260625063000 +0000" channel="4077"><title lang="ar">موسيقى</title></programme>
+<programme start="20260625063000 +0000" stop="20260625063500 +0000" channel="4077"><title lang="ar">الأجندة الثقافية</title></programme>
+<programme start="20260625063500 +0000" stop="20260625064500 +0000" channel="4077"><title lang="ar">موسيقى</title></programme>
+<programme start="20260625064500 +0000" stop="20260625064800 +0000" channel="4077"><title lang="ar">السجل الثقافي &quot;قراءة المزيد&quot;</title></programme>
+<programme start="20260625064800 +0000" stop="20260625070000 +0000" channel="4077"><title lang="ar">موسيقى</title></programme>
+<programme start="20260625070000 +0000" stop="20260625071000 +0000" channel="4077"><title lang="ar">النشرة الإخبارية</title><category lang="ar">أخبار</category></programme>
+<programme start="20260625071000 +0000" stop="20260625071500 +0000" channel="4077"><title lang="ar">موسيقى</title></programme>
+<programme start="20260625071500 +0000" stop="20260625071800 +0000" channel="4077"><title lang="ar">كبسولات الوقاية &quot; Roulez cool&quot;</title></programme>
+<programme start="20260625071800 +0000" stop="20260625072000 +0000" channel="4077"><title lang="ar">موسيقى</title></programme>
+<programme start="20260625072000 +0000" stop="20260625072500 +0000" channel="4077"><title lang="ar">سجل الأحداث &quot;REPERES&quot;</title></programme>
+<programme start="20260625072500 +0000" stop="20260625073000 +0000" channel="4077"><title lang="ar">موعد الإقتصاد</title></programme>
+<programme start="20260625073000 +0000" stop="20260625073300 +0000" channel="4077"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625073300 +0000" stop="20260625074000 +0000" channel="4077"><title lang="ar">موسيقى</title></programme>
+<programme start="20260625074000 +0000" stop="20260625074200 +0000" channel="4077"><title lang="ar">High Tech</title></programme>
+<programme start="20260625074200 +0000" stop="20260625074700 +0000" channel="4077"><title lang="ar">ضيف اليوم</title></programme>
+<programme start="20260625074700 +0000" stop="20260625080000 +0000" channel="4077"><title lang="ar">موسيقى</title></programme>
+<programme start="20260625080000 +0000" stop="20260625080300 +0000" channel="4077"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625080300 +0000" stop="20260625080500 +0000" channel="4077"><title lang="ar">INTERACTIVITE</title></programme>
+<programme start="20260625080500 +0000" stop="20260625083000 +0000" channel="4077"><title lang="ar">باختصار</title></programme>
+<programme start="20260625083000 +0000" stop="20260625090000 +0000" channel="4077"><title lang="ar">التأثير الرقمي</title></programme>
+<programme start="20260625090000 +0000" stop="20260625090300 +0000" channel="4077"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625090300 +0000" stop="20260625093000 +0000" channel="4077"><title lang="ar">فقرة &quot;التالك&quot;</title></programme>
+<programme start="20260625093000 +0000" stop="20260625094500 +0000" channel="4077"><title lang="ar">فقرة &quot;تيك تالك&quot;</title></programme>
+<programme start="20260625094500 +0000" stop="20260625100000 +0000" channel="4077"><title lang="ar">فقرة &quot;لو ريبوندور&quot;</title></programme>
+<programme start="20260625100000 +0000" stop="20260625100300 +0000" channel="4077"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625100300 +0000" stop="20260625103000 +0000" channel="4077"><title lang="ar">فقرة &quot;التالك&quot;</title></programme>
+<programme start="20260625103000 +0000" stop="20260625110000 +0000" channel="4077"><title lang="ar">فقرة &quot;لو ريبوندور&quot;</title></programme>
+<programme start="20260625110000 +0000" stop="20260625110300 +0000" channel="4077"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625110300 +0000" stop="20260625120000 +0000" channel="4077"><title lang="ar">صمد اختار لكم</title></programme>
+<programme start="20260625120000 +0000" stop="20260625120100 +0000" channel="4077"><title lang="ar">LE GRAND FORMAT DE L&apos;INFO</title></programme>
+<programme start="20260625120100 +0000" stop="20260625121400 +0000" channel="4077"><title lang="ar">النشرة الإخبارية بالفرنسية</title><category lang="ar">أخبار</category></programme>
+<programme start="20260625121400 +0000" stop="20260625121500 +0000" channel="4077"><title lang="ar">حالة الطقس</title><category lang="ar">توقعات الطقس</category></programme>
+<programme start="20260625121500 +0000" stop="20260625121600 +0000" channel="4077"><title lang="ar">تذكير بالعناوين</title></programme>
+<programme start="20260625121600 +0000" stop="20260625122200 +0000" channel="4077"><title lang="ar">الأخبار الرياضية</title><category lang="ar">أخبار</category></programme>
+<programme start="20260625122200 +0000" stop="20260625122500 +0000" channel="4077"><title lang="ar">استراحة موسيقية</title></programme>
+<programme start="20260625122500 +0000" stop="20260625124500 +0000" channel="4077"><title lang="ar">الضيف المباشر</title></programme>
+<programme start="20260625124500 +0000" stop="20260625125800 +0000" channel="4077"><title lang="ar">مجلة</title></programme>
+<programme start="20260625125800 +0000" stop="20260625130000 +0000" channel="4077"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625130000 +0000" stop="20260625132000 +0000" channel="4077"><title lang="ar">النشرة الإخبارية بالإسبانية</title></programme>
+<programme start="20260625132000 +0000" stop="20260625132200 +0000" channel="4077"><title lang="ar">حالة الطقس</title></programme>
+<programme start="20260625132200 +0000" stop="20260625132700 +0000" channel="4077"><title lang="ar">كبسولة رياضية</title></programme>
+<programme start="20260625132700 +0000" stop="20260625133100 +0000" channel="4077"><title lang="ar">استراحة موسيقية</title></programme>
+<programme start="20260625133100 +0000" stop="20260625134200 +0000" channel="4077"><title lang="ar">مقابلة</title></programme>
+<programme start="20260625134200 +0000" stop="20260625135500 +0000" channel="4077"><title lang="ar">مجلة</title></programme>
+<programme start="20260625135500 +0000" stop="20260625135800 +0000" channel="4077"><title lang="ar">استراحة موسيقية</title></programme>
+<programme start="20260625135800 +0000" stop="20260625140000 +0000" channel="4077"><title lang="ar">آخر الأخبار</title></programme>
+<programme start="20260625140000 +0000" stop="20260625141900 +0000" channel="4077"><title lang="ar">النشرة الإخبارية بالإنجليزية</title></programme>
+<programme start="20260625141900 +0000" stop="20260625142300 +0000" channel="4077"><title lang="ar">توقعات الطقس</title></programme>
+<programme start="20260625142300 +0000" stop="20260625143300 +0000" channel="4077"><title lang="ar">لقاء اليوم</title></programme>
+<programme start="20260625143300 +0000" stop="20260625143600 +0000" channel="4077"><title lang="ar">استراحة موسيقية</title></programme>
+<programme start="20260625143600 +0000" stop="20260625144000 +0000" channel="4077"><title lang="ar">إرث اليوم</title></programme>
+<programme start="20260625144000 +0000" stop="20260625145400 +0000" channel="4077"><title lang="ar">مجلة</title></programme>
+<programme start="20260625145400 +0000" stop="20260625145700 +0000" channel="4077"><title lang="ar">استراحة موسيقية</title></programme>
+<programme start="20260625145700 +0000" stop="20260625150000 +0000" channel="4077"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625150000 +0000" stop="20260625160000 +0000" channel="4077"><title lang="ar">TENDANCE ET INFLUENCE</title></programme>
+<programme start="20260625160000 +0000" stop="20260625160300 +0000" channel="4077"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625160300 +0000" stop="20260625170000 +0000" channel="4077"><title lang="ar">(تتمة) Tendance et influence</title></programme>
+<programme start="20260625170000 +0000" stop="20260625170300 +0000" channel="4077"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625170300 +0000" stop="20260625180000 +0000" channel="4077"><title lang="ar">CHAINE INTER CULTURE</title></programme>
+<programme start="20260625180000 +0000" stop="20260625180300 +0000" channel="4077"><title lang="ar">موجز إخباري</title></programme>
+<programme start="20260625180300 +0000" stop="20260625190000 +0000" channel="4077"><title lang="ar">Chaine inter culture (تتمة)</title></programme>
+<programme start="20260625190000 +0000" stop="20260625191500 +0000" channel="4077"><title lang="ar">النشرة الإخبارية</title><category lang="ar">أخبار</category></programme>
+<programme start="20260625191500 +0000" stop="20260625200000 +0000" channel="4077"><title lang="ar">صمد اختار لكم</title></programme>
+<programme start="20260625200000 +0000" stop="20260625220000 +0000" channel="4077"><title lang="ar">LIBRE ANTENNE</title></programme>
+<programme start="20260625220000 +0000" stop="20260625221500 +0000" channel="4077"><title lang="ar">النشرة الإخبارية بالعربية</title><category lang="ar">أخبار</category></programme>
+<programme start="20260625221500 +0000" stop="20260625230000 +0000" channel="4077"><title lang="ar">CLUB JAZZ</title></programme>
+<programme start="20260624230000 +0000" stop="20260624232000 +0000" channel="4078"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260624232000 +0000" stop="20260625000000 +0000" channel="4078"><title lang="ar">حصة من الذكر الحكيم</title><category lang="ar">القرآن الكريم</category></programme>
+<programme start="20260625000000 +0000" stop="20260625003000 +0000" channel="4078"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260625003000 +0000" stop="20260625010000 +0000" channel="4078"><title lang="ar">حصة من الذكر الحكيم</title><category lang="ar">القرآن الكريم</category></programme>
+<programme start="20260625010000 +0000" stop="20260625020000 +0000" channel="4078"><title lang="ar">يسألونك/إعادة</title></programme>
+<programme start="20260625020000 +0000" stop="20260625030000 +0000" channel="4078"><title lang="ar">المسيرة القرآنية/إعادة</title><category lang="ar">القرآن الكريم</category></programme>
+<programme start="20260625030000 +0000" stop="20260625031500 +0000" channel="4078"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260625031500 +0000" stop="20260625034500 +0000" channel="4078"><title lang="ar">حصة من من المصحف المرتل الكامل/ إعادة</title><category lang="ar">القرآن الكريم</category></programme>
+<programme start="20260625034500 +0000" stop="20260625040000 +0000" channel="4078"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260625040000 +0000" stop="20260625043000 +0000" channel="4078"><title lang="ar">حصة القرآن الكريم و التفسير</title><category lang="ar">القرآن الكريم</category></programme>
+<programme start="20260625043000 +0000" stop="20260625050000 +0000" channel="4078"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260625050000 +0000" stop="20260625050500 +0000" channel="4078"><title lang="ar">السلام الملكي+ الشعار العام</title></programme>
+<programme start="20260625050500 +0000" stop="20260625053000 +0000" channel="4078"><title lang="ar">قراءة جماعية للحزب الراتب من القرآن الكريم</title><category lang="ar">القرآن الكريم</category></programme>
+<programme start="20260625053000 +0000" stop="20260625060000 +0000" channel="4078"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260625060000 +0000" stop="20260625061000 +0000" channel="4078"><title lang="ar">النشرة الإخبارية نقلا عن الإذاعة الوطنية</title><category lang="ar">أخبار</category></programme>
+<programme start="20260625061000 +0000" stop="20260625063200 +0000" channel="4078"><title lang="ar">دلائل الخيرات</title></programme>
+<programme start="20260625063200 +0000" stop="20260625070000 +0000" channel="4078"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260625070000 +0000" stop="20260625073000 +0000" channel="4078"><title lang="ar">حصة من الذكر الحكيم</title><category lang="ar">القرآن الكريم</category></programme>
+<programme start="20260625073000 +0000" stop="20260625074000 +0000" channel="4078"><title lang="ar">بشرى لنا</title></programme>
+<programme start="20260625074000 +0000" stop="20260625080000 +0000" channel="4078"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260625080000 +0000" stop="20260625090000 +0000" channel="4078"><title lang="ar">المسيرة القرآنية</title><category lang="ar">القرآن الكريم</category></programme>
+<programme start="20260625090000 +0000" stop="20260625110000 +0000" channel="4078"><title lang="ar">مجمع الخير منكم و ليكم- مباشر-</title></programme>
+<programme start="20260625110000 +0000" stop="20260625113000 +0000" channel="4078"><title lang="ar">حصة من الذكر الحكيم</title><category lang="ar">القرآن الكريم</category></programme>
+<programme start="20260625113000 +0000" stop="20260625115000 +0000" channel="4078"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260625115000 +0000" stop="20260625120000 +0000" channel="4078"><title lang="ar">أخلاقنا في ضيافة الرحمن</title></programme>
+<programme start="20260625120000 +0000" stop="20260625123000 +0000" channel="4078"><title lang="ar">حصة من من المصحف المرتل الكامل</title><category lang="ar">القرآن الكريم</category></programme>
+<programme start="20260625123000 +0000" stop="20260625124500 +0000" channel="4078"><title lang="ar">في ظلال الهدي النبوي بالحسانية</title></programme>
+<programme start="20260625124500 +0000" stop="20260625130000 +0000" channel="4078"><title lang="ar">حصة من الذكر الحكيم</title><category lang="ar">القرآن الكريم</category></programme>
+<programme start="20260625130000 +0000" stop="20260625132000 +0000" channel="4078"><title lang="ar">المسلسل الثمتيلي</title></programme>
+<programme start="20260625132000 +0000" stop="20260625133000 +0000" channel="4078"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260625133000 +0000" stop="20260625134000 +0000" channel="4078"><title lang="ar">ومضات حول الثوابت</title></programme>
+<programme start="20260625134000 +0000" stop="20260625140000 +0000" channel="4078"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260625140000 +0000" stop="20260625143000 +0000" channel="4078"><title lang="ar">قراءة جماعية لمرشدات معهد تكوين الأئمة المرشدين و المرشدات</title><category lang="ar">القرآن الكريم</category></programme>
+<programme start="20260625143000 +0000" stop="20260625144500 +0000" channel="4078"><title lang="ar">مذاكرات</title></programme>
+<programme start="20260625144500 +0000" stop="20260625150000 +0000" channel="4078"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260625150000 +0000" stop="20260625153000 +0000" channel="4078"><title lang="ar">إشراقات</title></programme>
+<programme start="20260625153000 +0000" stop="20260625160000 +0000" channel="4078"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260625160000 +0000" stop="20260625164000 +0000" channel="4078"><title lang="ar">المصحف المرتل التعليمي</title></programme>
+<programme start="20260625164000 +0000" stop="20260625170000 +0000" channel="4078"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260625170000 +0000" stop="20260625174500 +0000" channel="4078"><title lang="ar">الكراسي العلمية</title></programme>
+<programme start="20260625174500 +0000" stop="20260625180000 +0000" channel="4078"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260625180000 +0000" stop="20260625190000 +0000" channel="4078"><title lang="ar">يسألونك- مباشر-</title></programme>
+<programme start="20260625190000 +0000" stop="20260625193000 +0000" channel="4078"><title lang="ar">قراءة جماعية للحزب الراتب من القرآن الكريم</title><category lang="ar">القرآن الكريم</category></programme>
+<programme start="20260625193000 +0000" stop="20260625200000 +0000" channel="4078"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260625200000 +0000" stop="20260625203000 +0000" channel="4078"><title lang="ar">الدرس التفاعلي من سلسلة الدروس الحديثية لإذاعة محمد السادس للقرآن الكريم</title></programme>
+<programme start="20260625203000 +0000" stop="20260625210000 +0000" channel="4078"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260625210000 +0000" stop="20260625213000 +0000" channel="4078"><title lang="ar">قراءة جماعية لسورة الكهف لمرشدات معهد تكوين الأئمة المرشدين و المرشدات</title></programme>
+<programme start="20260625213000 +0000" stop="20260625220000 +0000" channel="4078"><title lang="ar">دلائل الخيرات</title></programme>
+<programme start="20260625220000 +0000" stop="20260625223500 +0000" channel="4078"><title lang="ar">الكراسي العلمية/إعادة</title></programme>
+<programme start="20260625223500 +0000" stop="20260625230000 +0000" channel="4078"><title lang="ar">قراءة جماعية لمرشدات معهد تكوين الأئمة المرشدين و المرشدات</title></programme>
+<programme start="20260624230000 +0000" stop="20260624230000 +0000" channel="4079"><title lang="ar">نجوم الغناء</title></programme>
+<programme start="20260624230000 +0000" stop="20260625020000 +0000" channel="4079"><title lang="ar">نجوم الغناء</title></programme>
+<programme start="20260625020000 +0000" stop="20260625020000 +0000" channel="4079"><title lang="ar">حصة دينية وروحانية</title></programme>
+<programme start="20260625020000 +0000" stop="20260625050000 +0000" channel="4079"><title lang="ar">حصة دينية وروحانية</title></programme>
+<programme start="20260625050000 +0000" stop="20260625050000 +0000" channel="4079"><title lang="ar">أنغام الصباح</title></programme>
+<programme start="20260625050000 +0000" stop="20260625055000 +0000" channel="4079"><title lang="ar">أنغام الصباح</title></programme>
+<programme start="20260625055000 +0000" stop="20260625055000 +0000" channel="4079"><title lang="ar">مع الفلاح</title></programme>
+<programme start="20260625055000 +0000" stop="20260625060500 +0000" channel="4079"><title lang="ar">مع الفلاح</title></programme>
+<programme start="20260625060500 +0000" stop="20260625060500 +0000" channel="4079"><title lang="ar">صباح الخير</title></programme>
+<programme start="20260625060500 +0000" stop="20260625061500 +0000" channel="4079"><title lang="ar">صباح الخير</title></programme>
+<programme start="20260625061500 +0000" stop="20260625061500 +0000" channel="4079"><title lang="ar">كبسولة التكنولوجيا</title></programme>
+<programme start="20260625061500 +0000" stop="20260625065500 +0000" channel="4079"><title lang="ar">كبسولة التكنولوجيا</title></programme>
+<programme start="20260625065500 +0000" stop="20260625065500 +0000" channel="4079"><title lang="ar">متغيبون</title></programme>
+<programme start="20260625065500 +0000" stop="20260625070000 +0000" channel="4079"><title lang="ar">متغيبون</title></programme>
+<programme start="20260625070000 +0000" stop="20260625070000 +0000" channel="4079"><title lang="ar">قراءة في الصحف</title></programme>
+<programme start="20260625070000 +0000" stop="20260625071500 +0000" channel="4079"><title lang="ar">قراءة في الصحف</title></programme>
+<programme start="20260625071500 +0000" stop="20260625071500 +0000" channel="4079"><title lang="ar">ضيف الصباح</title></programme>
+<programme start="20260625071500 +0000" stop="20260625073000 +0000" channel="4079"><title lang="ar">ضيف الصباح</title></programme>
+<programme start="20260625073000 +0000" stop="20260625073000 +0000" channel="4079"><title lang="ar">مع الفلاح</title></programme>
+<programme start="20260625073000 +0000" stop="20260625074000 +0000" channel="4079"><title lang="ar">مع الفلاح</title></programme>
+<programme start="20260625074000 +0000" stop="20260625074000 +0000" channel="4079"><title lang="ar">صباح الرياضة</title></programme>
+<programme start="20260625074000 +0000" stop="20260625075500 +0000" channel="4079"><title lang="ar">صباح الرياضة</title></programme>
+<programme start="20260625075500 +0000" stop="20260625075500 +0000" channel="4079"><title lang="ar">صحتي راسمالي</title></programme>
+<programme start="20260625075500 +0000" stop="20260625080000 +0000" channel="4079"><title lang="ar">صحتي راسمالي</title></programme>
+<programme start="20260625080000 +0000" stop="20260625080000 +0000" channel="4079"><title lang="ar">موجز الأخبار</title></programme>
+<programme start="20260625080000 +0000" stop="20260625080500 +0000" channel="4079"><title lang="ar">موجز الأخبار</title></programme>
+<programme start="20260625080500 +0000" stop="20260625080500 +0000" channel="4079"><title lang="ar">كلمة للمرأة</title></programme>
+<programme start="20260625080500 +0000" stop="20260625083100 +0000" channel="4079"><title lang="ar">شؤون أسرية</title></programme>
+<programme start="20260625083100 +0000" stop="20260625083100 +0000" channel="4079"><title lang="ar">نوستالجيا الأغنية الريفية</title></programme>
+<programme start="20260625083100 +0000" stop="20260625090000 +0000" channel="4079"><title lang="ar">نوستالجيا الأغنية الريفية</title></programme>
+<programme start="20260625090000 +0000" stop="20260625090000 +0000" channel="4079"><title lang="ar">لقطات إخبارية</title></programme>
+<programme start="20260625090000 +0000" stop="20260625090500 +0000" channel="4079"><title lang="ar">لقطات إخبارية</title></programme>
+<programme start="20260625090500 +0000" stop="20260625090500 +0000" channel="4079"><title lang="ar">أصداء الريف</title></programme>
+<programme start="20260625090500 +0000" stop="20260625100000 +0000" channel="4079"><title lang="ar">أصداء الريف</title></programme>
+<programme start="20260625100000 +0000" stop="20260625100000 +0000" channel="4079"><title lang="ar">لقطات إخبارية</title></programme>
+<programme start="20260625100000 +0000" stop="20260625100500 +0000" channel="4079"><title lang="ar">لقطات إخبارية</title></programme>
+<programme start="20260625100500 +0000" stop="20260625100500 +0000" channel="4079"><title lang="ar">أصداء الريف</title></programme>
+<programme start="20260625100500 +0000" stop="20260625110000 +0000" channel="4079"><title lang="ar">أصداء الريف</title></programme>
+<programme start="20260625110000 +0000" stop="20260625110000 +0000" channel="4079"><title lang="ar">عناوين النشرة المفصلة</title></programme>
+<programme start="20260625110000 +0000" stop="20260625110500 +0000" channel="4079"><title lang="ar">عناوين النشرة المفصلة</title></programme>
+<programme start="20260625110500 +0000" stop="20260625110500 +0000" channel="4079"><title lang="ar">موسيقى ورياضة</title></programme>
+<programme start="20260625110500 +0000" stop="20260625120000 +0000" channel="4079"><title lang="ar">قضايا للنقاش</title></programme>
+<programme start="20260625120000 +0000" stop="20260625120000 +0000" channel="4079"><title lang="ar">النشرة الإخبارية المفصلة + المجلات الإخبارية</title></programme>
+<programme start="20260625120000 +0000" stop="20260625123000 +0000" channel="4079"><title lang="ar">النشرة الإخبارية المفصلة + المجلات الإخبارية</title></programme>
+<programme start="20260625123000 +0000" stop="20260625123000 +0000" channel="4079"><title lang="ar">نوستالجيا الاغنية الريفية</title></programme>
+<programme start="20260625123000 +0000" stop="20260625130000 +0000" channel="4079"><title lang="ar">نوستالجيا الاغنية الريفية</title></programme>
+<programme start="20260625130000 +0000" stop="20260625130000 +0000" channel="4079"><title lang="ar">موجزالأخبار</title></programme>
+<programme start="20260625130000 +0000" stop="20260625130500 +0000" channel="4079"><title lang="ar">موجزالأخبار</title></programme>
+<programme start="20260625130500 +0000" stop="20260625130500 +0000" channel="4079"><title lang="ar">وجها لوجه</title></programme>
+<programme start="20260625130500 +0000" stop="20260625140000 +0000" channel="4079"><title lang="ar">جسر المحبة</title></programme>
+<programme start="20260625140000 +0000" stop="20260625140000 +0000" channel="4079"><title lang="ar">لقطات إخبارية</title></programme>
+<programme start="20260625140000 +0000" stop="20260625140500 +0000" channel="4079"><title lang="ar">لقطات إخبارية</title></programme>
+<programme start="20260625140500 +0000" stop="20260625140500 +0000" channel="4079"><title lang="ar">فن الأحيدوس</title></programme>
+<programme start="20260625140500 +0000" stop="20260625150000 +0000" channel="4079"><title lang="ar">جسر المحبة</title></programme>
+<programme start="20260625150000 +0000" stop="20260625150000 +0000" channel="4079"><title lang="ar">لقطات إخبارية</title></programme>
+<programme start="20260625150000 +0000" stop="20260625150500 +0000" channel="4079"><title lang="ar">لقطات إخبارية</title></programme>
+<programme start="20260625150500 +0000" stop="20260625150500 +0000" channel="4079"><title lang="ar">نجوم الأطلس</title></programme>
+<programme start="20260625150500 +0000" stop="20260625160000 +0000" channel="4079"><title lang="ar">نجوم الأطلس</title></programme>
+<programme start="20260625160000 +0000" stop="20260625160000 +0000" channel="4079"><title lang="ar">لقطات إخبارية</title></programme>
+<programme start="20260625160000 +0000" stop="20260625160500 +0000" channel="4079"><title lang="ar">لقطات إخبارية</title></programme>
+<programme start="20260625160500 +0000" stop="20260625160500 +0000" channel="4079"><title lang="ar">شعاع الأطلس</title></programme>
+<programme start="20260625160500 +0000" stop="20260625170000 +0000" channel="4079"><title lang="ar">قضايا مجتمعية</title></programme>
+<programme start="20260625170000 +0000" stop="20260625170000 +0000" channel="4079"><title lang="ar">النشرة الإخبارية المفصلة + المجلات الإخبارية</title></programme>
+<programme start="20260625170000 +0000" stop="20260625171500 +0000" channel="4079"><title lang="ar">النشرة الإخبارية المفصلة + المجلات الإخبارية</title></programme>
+<programme start="20260625171500 +0000" stop="20260625172200 +0000" channel="4079"><title lang="ar">طريق السلامة</title></programme>
+<programme start="20260625172200 +0000" stop="20260625173000 +0000" channel="4079"><title lang="ar">طريق السلامة</title></programme>
+<programme start="20260625173000 +0000" stop="20260625173000 +0000" channel="4079"><title lang="ar">نوستالجيا أغنية الأطلس</title></programme>
+<programme start="20260625173000 +0000" stop="20260625180000 +0000" channel="4079"><title lang="ar">نوستالجيا أغنية الأطلس</title></programme>
+<programme start="20260625180000 +0000" stop="20260625180000 +0000" channel="4079"><title lang="ar">موجزالأخبار</title></programme>
+<programme start="20260625180000 +0000" stop="20260625180500 +0000" channel="4079"><title lang="ar">موجزالأخبار</title></programme>
+<programme start="20260625180500 +0000" stop="20260625180500 +0000" channel="4079"><title lang="ar">الرياضة في أسبوع</title></programme>
+<programme start="20260625180500 +0000" stop="20260625183000 +0000" channel="4079"><title lang="ar">بيئتنا النظيفة</title></programme>
+<programme start="20260625183000 +0000" stop="20260625183000 +0000" channel="4079"><title lang="ar">جديد الأغنية السوسية</title></programme>
+<programme start="20260625183000 +0000" stop="20260625190000 +0000" channel="4079"><title lang="ar">جديد الأغنية السوسية</title></programme>
+<programme start="20260625190000 +0000" stop="20260625190000 +0000" channel="4079"><title lang="ar">لقطات إخبارية</title></programme>
+<programme start="20260625190000 +0000" stop="20260625190500 +0000" channel="4079"><title lang="ar">لقطات إخبارية</title></programme>
+<programme start="20260625190500 +0000" stop="20260625190500 +0000" channel="4079"><title lang="ar">صحة المستمع</title></programme>
+<programme start="20260625190500 +0000" stop="20260625200000 +0000" channel="4079"><title lang="ar">شباب 2.0</title></programme>
+<programme start="20260625200000 +0000" stop="20260625200000 +0000" channel="4079"><title lang="ar">لقطات إخبارية</title></programme>
+<programme start="20260625200000 +0000" stop="20260625200500 +0000" channel="4079"><title lang="ar">لقطات إخبارية</title></programme>
+<programme start="20260625200500 +0000" stop="20260625200500 +0000" channel="4079"><title lang="ar">حظوظ</title></programme>
+<programme start="20260625200500 +0000" stop="20260625210000 +0000" channel="4079"><title lang="ar">مساء الخير</title></programme>
+<programme start="20260625210000 +0000" stop="20260625210000 +0000" channel="4079"><title lang="ar">لقطات إخبارية</title></programme>
+<programme start="20260625210000 +0000" stop="20260625210500 +0000" channel="4079"><title lang="ar">لقطات إخبارية</title></programme>
+<programme start="20260625210500 +0000" stop="20260625210500 +0000" channel="4079"><title lang="ar">حظوظ</title></programme>
+<programme start="20260625210500 +0000" stop="20260625220000 +0000" channel="4079"><title lang="ar">مساء الخير</title></programme>
+<programme start="20260625220000 +0000" stop="20260625220000 +0000" channel="4079"><title lang="ar">النشرة الإخبارية المفصلة + المجلات الإخبارية</title></programme>
+<programme start="20260625220000 +0000" stop="20260625221600 +0000" channel="4079"><title lang="ar">النشرة الإخبارية المفصلة + المجلة الإخبارية</title></programme>
+<programme start="20260625221600 +0000" stop="20260625221600 +0000" channel="4079"><title lang="ar">ركن المتغيبين</title></programme>
+<programme start="20260625221600 +0000" stop="20260625222200 +0000" channel="4079"><title lang="ar">ركن المتغيبين</title></programme>
+<programme start="20260625222200 +0000" stop="20260625222200 +0000" channel="4079"><title lang="ar">حماية المستهلك</title></programme>
+<programme start="20260625222200 +0000" stop="20260625223000 +0000" channel="4079"><title lang="ar">حماية المستهلك</title></programme>
+<programme start="20260625223000 +0000" stop="20260625223000 +0000" channel="4079"><title lang="ar">نوستالجيا الأغنية السوسية</title></programme>
+<programme start="20260625223000 +0000" stop="20260625230000 +0000" channel="4079"><title lang="ar">نوستالجيا الأغنية السوسية</title></programme>
+<programme start="20260625000000 +0000" stop="20260625002000 +0000" channel="AlAoula.ma@SD"><title lang="ar">الأخبار</title><category lang="ar">أخبار</category></programme>
+<programme start="20260625002000 +0000" stop="20260625011500 +0000" channel="AlAoula.ma@SD"><title lang="ar">ياقوت و عنبر</title></programme>
+<programme start="20260625011500 +0000" stop="20260625021000 +0000" channel="AlAoula.ma@SD"><title lang="ar">شباب في الواجهة</title></programme>
+<programme start="20260625021000 +0000" stop="20260625030000 +0000" channel="AlAoula.ma@SD"><title lang="ar">حياتي</title></programme>
+<programme start="20260625030000 +0000" stop="20260625033000 +0000" channel="AlAoula.ma@SD"><title lang="ar">وثائقي أمازيغي</title><category lang="ar">وثائقي</category></programme>
+<programme start="20260625033000 +0000" stop="20260625040000 +0000" channel="AlAoula.ma@SD"><title lang="ar">وثائقي أمازيغي</title><category lang="ar">وثائقي</category></programme>
+<programme start="20260625040000 +0000" stop="20260625050000 +0000" channel="AlAoula.ma@SD"><title lang="ar">أنموكار</title></programme>
+<programme start="20260625050000 +0000" stop="20260625060000 +0000" channel="AlAoula.ma@SD"><title lang="ar">أسرتي</title></programme>
+<programme start="20260625060000 +0000" stop="20260625060800 +0000" channel="AlAoula.ma@SD"><title lang="ar">السلام الوطني + القرآن الكريم</title><category lang="ar">القرآن الكريم</category></programme>
+<programme start="20260625060800 +0000" stop="20260625061000 +0000" channel="AlAoula.ma@SD"><title lang="ar">أحوال الطقس</title><category lang="ar">توقعات الطقس</category></programme>
+<programme start="20260625061000 +0000" stop="20260625064000 +0000" channel="AlAoula.ma@SD"><title lang="ar">وثائقي أمازيغي</title><category lang="ar">وثائقي</category></programme>
+<programme start="20260625064000 +0000" stop="20260625071000 +0000" channel="AlAoula.ma@SD"><title lang="ar">وثائقي أمازيغي</title><category lang="ar">وثائقي</category></programme>
+<programme start="20260625071000 +0000" stop="20260625081000 +0000" channel="AlAoula.ma@SD"><title lang="ar">أمالاي</title></programme>
+<programme start="20260625081000 +0000" stop="20260625091000 +0000" channel="AlAoula.ma@SD"><title lang="ar">أنموكار</title></programme>
+<programme start="20260625091000 +0000" stop="20260625100000 +0000" channel="AlAoula.ma@SD"><title lang="ar">حياتي</title></programme>
+<programme start="20260625100000 +0000" stop="20260625105500 +0000" channel="AlAoula.ma@SD"><title lang="ar">أسرتي</title></programme>
+<programme start="20260625105500 +0000" stop="20260625111000 +0000" channel="AlAoula.ma@SD"><title lang="ar">حياة جديدة</title></programme>
+<programme start="20260625111000 +0000" stop="20260625112500 +0000" channel="AlAoula.ma@SD"><title lang="ar">نهار مبروك</title></programme>
+<programme start="20260625112500 +0000" stop="20260625120000 +0000" channel="AlAoula.ma@SD"><title lang="ar">دار الهنا</title></programme>
+<programme start="20260625120000 +0000" stop="20260625122000 +0000" channel="AlAoula.ma@SD"><title lang="ar">الأخبار</title><category lang="ar">أخبار</category></programme>
+<programme start="20260625122000 +0000" stop="20260625123000 +0000" channel="AlAoula.ma@SD"><title lang="ar">أحوال الطقس</title><category lang="ar">توقعات الطقس</category></programme>
+<programme start="20260625123000 +0000" stop="20260625130000 +0000" channel="AlAoula.ma@SD"><title lang="ar">دموع وردة</title></programme>
+<programme start="20260625130000 +0000" stop="20260625132000 +0000" channel="AlAoula.ma@SD"><title lang="ar">الأخبار</title><category lang="ar">أخبار</category></programme>
+<programme start="20260625132000 +0000" stop="20260625134000 +0000" channel="AlAoula.ma@SD"><title lang="ar">الأخبار</title><category lang="ar">أخبار</category></programme>
+<programme start="20260625134000 +0000" stop="20260625145000 +0000" channel="AlAoula.ma@SD"><title lang="ar">صدى الابداع</title></programme>
+<programme start="20260625145000 +0000" stop="20260625152000 +0000" channel="AlAoula.ma@SD"><title lang="ar">بين البارح و اليوم</title></programme>
+<programme start="20260625152000 +0000" stop="20260625173000 +0000" channel="AlAoula.ma@SD"><title lang="ar">موازين</title></programme>
+<programme start="20260625173000 +0000" stop="20260625175000 +0000" channel="AlAoula.ma@SD"><title lang="ar">الأخبار</title><category lang="ar">أخبار</category></programme>
+<programme start="20260625175000 +0000" stop="20260625181000 +0000" channel="AlAoula.ma@SD"><title lang="ar">نهار مبروك</title></programme>
+<programme start="20260625181000 +0000" stop="20260625182000 +0000" channel="AlAoula.ma@SD"><title lang="ar">مرضي ميمتو</title></programme>
+<programme start="20260625182000 +0000" stop="20260625192000 +0000" channel="AlAoula.ma@SD"><title lang="ar">ياقوت و عنبر</title></programme>
+<programme start="20260625192000 +0000" stop="20260625200000 +0000" channel="AlAoula.ma@SD"><title lang="ar">دار الهنا</title></programme>
+<programme start="20260625200000 +0000" stop="20260625205000 +0000" channel="AlAoula.ma@SD"><title lang="ar">الأخبار</title><category lang="ar">أخبار</category></programme>
+<programme start="20260625205000 +0000" stop="20260625210000 +0000" channel="AlAoula.ma@SD"><title lang="ar">أحوال الطقس</title><category lang="ar">توقعات الطقس</category></programme>
+<programme start="20260625210000 +0000" stop="20260625213000 +0000" channel="AlAoula.ma@SD"><title lang="ar">جماعتنا زينة</title></programme>
+<programme start="20260625213000 +0000" stop="20260625230000 +0000" channel="AlAoula.ma@SD"><title lang="ar">موازين</title></programme>
+<programme start="20260624230500 +0000" stop="20260625000000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">مواقع ووقائع</title></programme>
+<programme start="20260625000000 +0000" stop="20260625010000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">أسرتي 2024</title></programme>
+<programme start="20260625010000 +0000" stop="20260625013200 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">نشرات الاخبار المغربية</title></programme>
+<programme start="20260625013200 +0000" stop="20260625022600 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">مغرب اليوم</title></programme>
+<programme start="20260625022600 +0000" stop="20260625030000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">مسرح الأولى| 2022</title></programme>
+<programme start="20260625030000 +0000" stop="20260625033200 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">نشرات الاخبار المغربية</title></programme>
+<programme start="20260625033200 +0000" stop="20260625042700 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">عبقريات مغربية</title></programme>
+<programme start="20260625042700 +0000" stop="20260625050500 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">متاحف المغرب</title></programme>
+<programme start="20260625050500 +0000" stop="20260625054000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">2025 حوارفي الثقافة</title></programme>
+<programme start="20260625054000 +0000" stop="20260625055000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">الصورة تتحدث</title></programme>
+<programme start="20260625055000 +0000" stop="20260625060000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">السلام الوطني + القرآن الكريم</title><category lang="ar">القرآن الكريم</category></programme>
+<programme start="20260625060000 +0000" stop="20260625063000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">نشرات الاخبار المغربية</title></programme>
+<programme start="20260625063000 +0000" stop="20260625065000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">نشرات الاخبار المغربية</title></programme>
+<programme start="20260625065000 +0000" stop="20260625074700 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">أمالاي| 2023</title></programme>
+<programme start="20260625074700 +0000" stop="20260625080000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">الغالية بلادي</title></programme>
+<programme start="20260625080000 +0000" stop="20260625083000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">نشرات الاخبار المغربية</title></programme>
+<programme start="20260625083000 +0000" stop="20260625085200 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">نشرات الاخبار المغربية</title></programme>
+<programme start="20260625085200 +0000" stop="20260625090000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">الصورة تتحدث</title></programme>
+<programme start="20260625090000 +0000" stop="20260625100000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">أسرتي 2024</title></programme>
+<programme start="20260625100000 +0000" stop="20260625110000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">عبق التراث| 2023</title></programme>
+<programme start="20260625110000 +0000" stop="20260625113000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">نشرات الاخبار المغربية</title></programme>
+<programme start="20260625113000 +0000" stop="20260625114700 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">صدى الثقافة</title></programme>
+<programme start="20260625114700 +0000" stop="20260625120000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">من هنا وهناك</title></programme>
+<programme start="20260625120000 +0000" stop="20260625124300 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">نشرات الاخبار المغربية</title></programme>
+<programme start="20260625124300 +0000" stop="20260625130200 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">تقرير المغربية</title></programme>
+<programme start="20260625130200 +0000" stop="20260625140000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">نقطة الى السطر</title></programme>
+<programme start="20260625140000 +0000" stop="20260625142500 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">نشرات الاخبار المغربية</title></programme>
+<programme start="20260625142500 +0000" stop="20260625150000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">وجوه</title></programme>
+<programme start="20260625150000 +0000" stop="20260625152700 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">نشرات الاخبار المغربية</title></programme>
+<programme start="20260625152700 +0000" stop="20260625160000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">2025 حوارفي الثقافة</title></programme>
+<programme start="20260625160000 +0000" stop="20260625163200 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">نشرات الاخبار المغربية</title></programme>
+<programme start="20260625163200 +0000" stop="20260625170000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">صناع الفرجة -2020</title></programme>
+<programme start="20260625170000 +0000" stop="20260625173200 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">نشرات الاخبار المغربية</title></programme>
+<programme start="20260625173200 +0000" stop="20260625175000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">نافدة صحية</title></programme>
+<programme start="20260625175000 +0000" stop="20260625180000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">الصورة تتحدث</title></programme>
+<programme start="20260625180000 +0000" stop="20260625183300 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">نشرات الاخبار المغربية</title></programme>
+<programme start="20260625183300 +0000" stop="20260625193000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">ألف مرحبا| 2019</title></programme>
+<programme start="20260625193000 +0000" stop="20260625200300 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">نشرات الاخبار المغربية</title></programme>
+<programme start="20260625200300 +0000" stop="20260625205000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">أطلس المغرب</title></programme>
+<programme start="20260625205000 +0000" stop="20260625212200 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">الماهدون</title></programme>
+<programme start="20260625212200 +0000" stop="20260625213000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">الصورة تتحدث</title></programme>
+<programme start="20260625213000 +0000" stop="20260625225000 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">نشرات الاخبار المغربية</title></programme>
+<programme start="20260625225000 +0000" stop="20260625230300 +0000" channel="AlMaghribia.ma@SD"><title lang="ar">تقرير المغربية</title></programme>
+<programme start="20260624231500 +0000" stop="20260624234500 +0000" channel="Assadissa.ma@SD"><title lang="ar">في ضيافة الشباب</title></programme>
+<programme start="20260624234500 +0000" stop="20260625010000 +0000" channel="Assadissa.ma@SD"><title lang="ar">ألوان من المديح</title></programme>
+<programme start="20260625010000 +0000" stop="20260625013000 +0000" channel="Assadissa.ma@SD"><title lang="ar">سورة الكهف</title></programme>
+<programme start="20260625013000 +0000" stop="20260625014500 +0000" channel="Assadissa.ma@SD"><title lang="ar">جلسات قرآنية</title></programme>
+<programme start="20260625014500 +0000" stop="20260625020000 +0000" channel="Assadissa.ma@SD"><title lang="ar">الرسم القرآني</title></programme>
+<programme start="20260625020000 +0000" stop="20260625030000 +0000" channel="Assadissa.ma@SD"><title lang="ar">المسيرة القرآنية</title></programme>
+<programme start="20260625030000 +0000" stop="20260625031500 +0000" channel="Assadissa.ma@SD"><title lang="ar">دلائل الخيرات</title></programme>
+<programme start="20260625031500 +0000" stop="20260625034500 +0000" channel="Assadissa.ma@SD"><title lang="ar">القرآن و التفسير للمكي الناصري</title></programme>
+<programme start="20260625034500 +0000" stop="20260625040000 +0000" channel="Assadissa.ma@SD"><title lang="ar">اخلاقنا في ضيافة الرحمان</title></programme>
+<programme start="20260625040000 +0000" stop="20260625041500 +0000" channel="Assadissa.ma@SD"><title lang="ar">تعلق و تخلق</title></programme>
+<programme start="20260625041500 +0000" stop="20260625051500 +0000" channel="Assadissa.ma@SD"><title lang="ar">قراءات قرآنية جماعية -</title></programme>
+<programme start="20260625051500 +0000" stop="20260625060000 +0000" channel="Assadissa.ma@SD"><title lang="ar">الكراسي العلمية</title></programme>
+<programme start="20260625060000 +0000" stop="20260625060000 +0000" channel="Assadissa.ma@SD"><title lang="ar">افتتاح الإرسال + القرآن الكريم + ابتهال+ أوقات الصلاة</title><category lang="ar">القرآن الكريم</category></programme>
+<programme start="20260625060000 +0000" stop="20260625061500 +0000" channel="Assadissa.ma@SD"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260625061500 +0000" stop="20260625063000 +0000" channel="Assadissa.ma@SD"><title lang="ar">من عذب السيرة</title></programme>
+<programme start="20260625063000 +0000" stop="20260625073000 +0000" channel="Assadissa.ma@SD"><title lang="ar">المسيرة القرآنية</title></programme>
+<programme start="20260625073000 +0000" stop="20260625074500 +0000" channel="Assadissa.ma@SD"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260625074500 +0000" stop="20260625081500 +0000" channel="Assadissa.ma@SD"><title lang="ar">القرآن و التفسير للمكي الناصري</title></programme>
+<programme start="20260625081500 +0000" stop="20260625090000 +0000" channel="Assadissa.ma@SD"><title lang="ar">قراءات قرآنية جماعية -</title></programme>
+<programme start="20260625090000 +0000" stop="20260625091500 +0000" channel="Assadissa.ma@SD"><title lang="ar">تعلق و تخلق</title></programme>
+<programme start="20260625091500 +0000" stop="20260625100500 +0000" channel="Assadissa.ma@SD"><title lang="ar">أقرا و أتعلم المستوى الأول</title></programme>
+<programme start="20260625100500 +0000" stop="20260625110000 +0000" channel="Assadissa.ma@SD"><title lang="ar">أقرا و أتعلم المستوى الثاني</title></programme>
+<programme start="20260625110000 +0000" stop="20260625113000 +0000" channel="Assadissa.ma@SD"><title lang="ar">القرآن و التفسير للمكي الناصري</title></programme>
+<programme start="20260625113000 +0000" stop="20260625113500 +0000" channel="Assadissa.ma@SD"><title lang="ar">أسماء الله الحسنى</title></programme>
+<programme start="20260625113500 +0000" stop="20260625120000 +0000" channel="Assadissa.ma@SD"><title lang="ar">قراءات قرآنية جماعية -</title></programme>
+<programme start="20260625120000 +0000" stop="20260625124500 +0000" channel="Assadissa.ma@SD"><title lang="ar">جسور</title></programme>
+<programme start="20260625124500 +0000" stop="20260625130000 +0000" channel="Assadissa.ma@SD"><title lang="ar">قراءات قرآنية فردية للأطفال</title></programme>
+<programme start="20260625130000 +0000" stop="20260625133500 +0000" channel="Assadissa.ma@SD"><title lang="ar">المصحف المرتل التعليمي عبد الرحيم النابلسي</title></programme>
+<programme start="20260625133500 +0000" stop="20260625140000 +0000" channel="Assadissa.ma@SD"><title lang="ar">يسألونك</title></programme>
+<programme start="20260625140000 +0000" stop="20260625143500 +0000" channel="Assadissa.ma@SD"><title lang="ar">المسيرة القرآنية</title></programme>
+<programme start="20260625143500 +0000" stop="20260625145000 +0000" channel="Assadissa.ma@SD"><title lang="ar">دلائل الخيرات</title></programme>
+<programme start="20260625145000 +0000" stop="20260625150500 +0000" channel="Assadissa.ma@SD"><title lang="ar">اخلاقنا في ضيافة الرحمان</title></programme>
+<programme start="20260625150500 +0000" stop="20260625153500 +0000" channel="Assadissa.ma@SD"><title lang="ar">قراءة قرآنية جماعية نسائية</title></programme>
+<programme start="20260625153500 +0000" stop="20260625155000 +0000" channel="Assadissa.ma@SD"><title lang="ar">من عذب السيرة</title></programme>
+<programme start="20260625155000 +0000" stop="20260625160500 +0000" channel="Assadissa.ma@SD"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260625160500 +0000" stop="20260625164500 +0000" channel="Assadissa.ma@SD"><title lang="ar">قراءات قرآنية جماعية -</title></programme>
+<programme start="20260625164500 +0000" stop="20260625171500 +0000" channel="Assadissa.ma@SD"><title lang="ar">الكراسي العلمية</title></programme>
+<programme start="20260625171500 +0000" stop="20260625175000 +0000" channel="Assadissa.ma@SD"><title lang="ar">أقرا و أتعلم المستوى الأول</title></programme>
+<programme start="20260625175000 +0000" stop="20260625183000 +0000" channel="Assadissa.ma@SD"><title lang="ar">أقرا و أتعلم المستوى الثاني</title></programme>
+<programme start="20260625183000 +0000" stop="20260625185000 +0000" channel="Assadissa.ma@SD"><title lang="ar">اخلاقنا في ضيافة الرحمان</title></programme>
+<programme start="20260625185000 +0000" stop="20260625190000 +0000" channel="Assadissa.ma@SD"><title lang="ar">Les constantes Religieuses du Maroc</title></programme>
+<programme start="20260625190000 +0000" stop="20260625193000 +0000" channel="Assadissa.ma@SD"><title lang="ar">في ضيافة الشباب</title></programme>
+<programme start="20260625193000 +0000" stop="20260625200000 +0000" channel="Assadissa.ma@SD"><title lang="ar">المسيرة القرآنية</title></programme>
+<programme start="20260625200000 +0000" stop="20260625201500 +0000" channel="Assadissa.ma@SD"><title lang="ar">وذكر</title></programme>
+<programme start="20260625201500 +0000" stop="20260625203000 +0000" channel="Assadissa.ma@SD"><title lang="ar">جلسات قرآنية</title></programme>
+<programme start="20260625203000 +0000" stop="20260625210000 +0000" channel="Assadissa.ma@SD"><title lang="ar">سورة الكهف</title></programme>
+<programme start="20260625210000 +0000" stop="20260625211500 +0000" channel="Assadissa.ma@SD"><title lang="ar">الرسم القرآني</title></programme>
+<programme start="20260625211500 +0000" stop="20260625214500 +0000" channel="Assadissa.ma@SD"><title lang="ar">قراءة قرآنية جماعية نسائية</title></programme>
+<programme start="20260625214500 +0000" stop="20260625223000 +0000" channel="Assadissa.ma@SD"><title lang="ar">الكراسي العلمية</title></programme>
+<programme start="20260625223000 +0000" stop="20260625224500 +0000" channel="Assadissa.ma@SD"><title lang="ar">أمداح نبوية</title></programme>
+<programme start="20260625224500 +0000" stop="20260625231500 +0000" channel="Assadissa.ma@SD"><title lang="ar">المصحف المرتل التعليمي عبد الرحيم النابلسي</title></programme>
+<programme start="20260625110200 +0000" stop="20260625110500 +0000" channel="Athaqafia.ma@SD"><title lang="ar">حصة من الذكر الحكيم</title><category lang="ar">القرآن الكريم</category></programme>
+<programme start="20260625110500 +0000" stop="20260625115000 +0000" channel="Athaqafia.ma@SD"><title lang="ar">متاحف المغرب</title></programme>
+<programme start="20260625115000 +0000" stop="20260625123000 +0000" channel="Athaqafia.ma@SD"><title lang="ar">اسماء في الذاكرة</title></programme>
+<programme start="20260625123000 +0000" stop="20260625132000 +0000" channel="Athaqafia.ma@SD"><title lang="ar">اشعاع مملكة</title></programme>
+<programme start="20260625132000 +0000" stop="20260625141000 +0000" channel="Athaqafia.ma@SD"><title lang="ar">مبدعون</title></programme>
+<programme start="20260625141000 +0000" stop="20260625144000 +0000" channel="Athaqafia.ma@SD"><title lang="ar">ايكولوجيكا</title></programme>
+<programme start="20260625144000 +0000" stop="20260625152500 +0000" channel="Athaqafia.ma@SD"><title lang="ar">حدائق لها تاريخ</title></programme>
+<programme start="20260625152500 +0000" stop="20260625161500 +0000" channel="Athaqafia.ma@SD"><title lang="ar">كتاب في الذاكرة</title></programme>
+<programme start="20260625161500 +0000" stop="20260625170000 +0000" channel="Athaqafia.ma@SD"><title lang="ar">برنامج خاص</title></programme>
+<programme start="20260625170000 +0000" stop="20260625173000 +0000" channel="Athaqafia.ma@SD"><title lang="ar">زمن الثقافة</title></programme>
+<programme start="20260625173000 +0000" stop="20260625182000 +0000" channel="Athaqafia.ma@SD"><title lang="ar">وثائقيات الثقافية</title></programme>
+<programme start="20260625182000 +0000" stop="20260625191000 +0000" channel="Athaqafia.ma@SD"><title lang="ar">صدى الابداع</title></programme>
+<programme start="20260625191000 +0000" stop="20260625194000 +0000" channel="Athaqafia.ma@SD"><title lang="ar">رؤية</title></programme>
+<programme start="20260625194000 +0000" stop="20260625203000 +0000" channel="Athaqafia.ma@SD"><title lang="ar">مرو من هنا</title></programme>
+<programme start="20260625203000 +0000" stop="20260625210000 +0000" channel="Athaqafia.ma@SD"><title lang="ar">الباحث</title></programme>
+<programme start="20260625210000 +0000" stop="20260625213000 +0000" channel="Athaqafia.ma@SD"><title lang="ar">برنامج خاص</title></programme>
+<programme start="20260625213000 +0000" stop="20260625221000 +0000" channel="Athaqafia.ma@SD"><title lang="ar">أطلس المغرب</title></programme>
+<programme start="20260625221000 +0000" stop="20260625225500 +0000" channel="Athaqafia.ma@SD"><title lang="ar">سيرة و مسار</title></programme>
+<programme start="20260625225500 +0000" stop="20260626110200 +0000" channel="Athaqafia.ma@SD"><title lang="ar">حصة من الذكر الحكيم</title><category lang="ar">القرآن الكريم</category></programme>
+<programme start="20260624230000 +0000" stop="20260624233000 +0000" channel="LaayouneTV.ma@SD"><title lang="ar">أمنير</title></programme>
+<programme start="20260624233000 +0000" stop="20260625210000 +0000" channel="LaayouneTV.ma@SD"><title lang="ar">أمداح</title></programme>
+<programme start="20260625210000 +0000" stop="20260625212300 +0000" channel="LaayouneTV.ma@SD"><title lang="ar">غاب وجاب</title></programme>
+<programme start="20260625212300 +0000" stop="20260625213000 +0000" channel="LaayouneTV.ma@SD"><title lang="ar">أجندة</title></programme>
+<programme start="20260625213000 +0000" stop="20260625220000 +0000" channel="LaayouneTV.ma@SD"><title lang="ar">الاخبار الجهوية</title><category lang="ar">أخبار</category></programme>
+<programme start="20260625220000 +0000" stop="20260625230000 +0000" channel="LaayouneTV.ma@SD"><title lang="ar">الفضاء الرياضي -جديدـ</title></programme>
+<programme start="20260624233000 +0000" stop="20260625000000 +0000" channel="TamazightTV.ma@SD"><title lang="ar">مسلسل</title></programme>
+<programme start="20260625000000 +0000" stop="20260625001500 +0000" channel="TamazightTV.ma@SD"><title lang="ar">لحظة فنية</title></programme>
+<programme start="20260625001500 +0000" stop="20260625004500 +0000" channel="TamazightTV.ma@SD"><title lang="ar">نشرة الاخبار</title></programme>
+<programme start="20260625004500 +0000" stop="20260625004500 +0000" channel="TamazightTV.ma@SD"><title lang="ar">يوميات عبور</title></programme>
+<programme start="20260625004500 +0000" stop="20260625011500 +0000" channel="TamazightTV.ma@SD"><title lang="ar">مسلسل</title></programme>
+<programme start="20260625011500 +0000" stop="20260625110000 +0000" channel="TamazightTV.ma@SD"><title lang="ar">نهاية الارسال</title></programme>
+<programme start="20260625110000 +0000" stop="20260625111000 +0000" channel="TamazightTV.ma@SD"><title lang="ar">افتتاح الإرسال // السلام الملكي // القرآن الكريم</title></programme>
+<programme start="20260625111000 +0000" stop="20260625113000 +0000" channel="TamazightTV.ma@SD"><title lang="ar">البرنامج الديني</title></programme>
+<programme start="20260625113000 +0000" stop="20260625124500 +0000" channel="TamazightTV.ma@SD"><title lang="ar">تاونزا</title></programme>
+<programme start="20260625124500 +0000" stop="20260625130000 +0000" channel="TamazightTV.ma@SD"><title lang="ar">برنامج المسابقات</title></programme>
+<programme start="20260625130000 +0000" stop="20260625133000 +0000" channel="TamazightTV.ma@SD"><title lang="ar">نشرة الاخبار</title></programme>
+<programme start="20260625133000 +0000" stop="20260625140000 +0000" channel="TamazightTV.ma@SD"><title lang="ar">مسلسل</title></programme>
+<programme start="20260625140000 +0000" stop="20260625150000 +0000" channel="TamazightTV.ma@SD"><title lang="ar">وثائقي</title><category lang="ar">وثائقي</category></programme>
+<programme start="20260625150000 +0000" stop="20260625153000 +0000" channel="TamazightTV.ma@SD"><title lang="ar">امرأة من ذهب</title></programme>
+<programme start="20260625153000 +0000" stop="20260625160000 +0000" channel="TamazightTV.ma@SD"><title lang="ar">مسلسل</title></programme>
+<programme start="20260625160000 +0000" stop="20260625163000 +0000" channel="TamazightTV.ma@SD"><title lang="ar">موروث حي</title></programme>
+<programme start="20260625163000 +0000" stop="20260625164500 +0000" channel="TamazightTV.ma@SD"><title lang="ar">انمال ن تمازيغت</title></programme>
+<programme start="20260625164500 +0000" stop="20260625170000 +0000" channel="TamazightTV.ma@SD"><title lang="ar">ازوران</title></programme>
+<programme start="20260625170000 +0000" stop="20260625171500 +0000" channel="TamazightTV.ma@SD"><title lang="ar">الاخبار</title></programme>
+<programme start="20260625171500 +0000" stop="20260625174500 +0000" channel="TamazightTV.ma@SD"><title lang="ar">مسلسل</title></programme>
+<programme start="20260625174500 +0000" stop="20260625184500 +0000" channel="TamazightTV.ma@SD"><title lang="ar">تاونزا</title></programme>
+<programme start="20260625184500 +0000" stop="20260625190000 +0000" channel="TamazightTV.ma@SD"><title lang="ar">ماجيك كود</title></programme>
+<programme start="20260625190000 +0000" stop="20260625193000 +0000" channel="TamazightTV.ma@SD"><title lang="ar">برامج الجالية</title></programme>
+<programme start="20260625193000 +0000" stop="20260625200000 +0000" channel="TamazightTV.ma@SD"><title lang="ar">نشرة الاخبار</title></programme>
+<programme start="20260625200000 +0000" stop="20260625201500 +0000" channel="TamazightTV.ma@SD"><title lang="ar">يوميات عبور</title></programme>
+<programme start="20260625201500 +0000" stop="20260625203000 +0000" channel="TamazightTV.ma@SD"><title lang="ar">لحظة فنية</title></programme>
+<programme start="20260625203000 +0000" stop="20260625210000 +0000" channel="TamazightTV.ma@SD"><title lang="ar">مسلسل</title></programme>
+<programme start="20260625210000 +0000" stop="20260625213000 +0000" channel="TamazightTV.ma@SD"><title lang="ar">تيكليوين</title></programme>
+<programme start="20260625213000 +0000" stop="20260625223000 +0000" channel="TamazightTV.ma@SD"><title lang="ar">علماء وصلحاء</title></programme>
+<programme start="20260625223000 +0000" stop="20260625233000 +0000" channel="TamazightTV.ma@SD"><title lang="ar">سلسلة تلفزية</title></programme>
 </tv>
