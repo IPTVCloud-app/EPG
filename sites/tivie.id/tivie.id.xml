@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260627">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260628">
 <channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png"/></channel>
 <channel id="AXNAsia.sg@Indonesia"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original"/></channel>
 <channel id="beINSports1.qa@Indonesia"><display-name>beIN Sports 1</display-name><icon src="https://i.imgur.com/Vtk2cGI.png"/></channel>
@@ -55,91 +55,53 @@
 <channel id="VTV.id@SD"><display-name>VTV</display-name><icon src="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png"/></channel>
 <channel id="WarnerTVAsia.us@SD"><display-name>Warner TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png"/></channel>
 <channel id="ZeeBioskop.id@SD"><display-name>Zee Bioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/></channel>
-<programme start="20260626170000 +0000" stop="20260626173000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial</title></programme>
-<programme start="20260626173000 +0000" stop="20260626190000 +0000" channel="ANTV.id@SD"><title lang="id">Bioskop Asia</title></programme>
-<programme start="20260626190000 +0000" stop="20260626210000 +0000" channel="ANTV.id@SD"><title lang="id">Mega Bollywood</title></programme>
-<programme start="20260626210000 +0000" stop="20260626220000 +0000" channel="ANTV.id@SD"><title lang="id">Karma Baik</title></programme>
-<programme start="20260626220000 +0000" stop="20260626230000 +0000" channel="ANTV.id@SD"><title lang="id">Hati ke Hati Bersama Mamah Dedeh</title></programme>
-<programme start="20260626230000 +0000" stop="20260627010000 +0000" channel="ANTV.id@SD"><title lang="id">Aini: Malaikat Tak Bersayap</title></programme>
-<programme start="20260627010000 +0000" stop="20260627023000 +0000" channel="ANTV.id@SD"><title lang="id">Bunga Kembar di Tepi Jalan</title></programme>
-<programme start="20260627023000 +0000" stop="20260627060000 +0000" channel="ANTV.id@SD"><title lang="id">Mega Bollywood</title></programme>
-<programme start="20260627060000 +0000" stop="20260627073000 +0000" channel="ANTV.id@SD"><title lang="id">Jhanak</title></programme>
-<programme start="20260627073000 +0000" stop="20260627090000 +0000" channel="ANTV.id@SD"><title lang="id">Sayali</title></programme>
-<programme start="20260627090000 +0000" stop="20260627113000 +0000" channel="ANTV.id@SD"><title lang="id">Teri Meri Doriyaann</title></programme>
-<programme start="20260627113000 +0000" stop="20260627133000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Laga Klasik</title></programme>
-<programme start="20260627133000 +0000" stop="20260627153000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial</title></programme>
-<programme start="20260627153000 +0000" stop="20260627170000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial</title></programme>
-<programme start="20260626170000 +0000" stop="20260626172500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Coroner S1, Ep. 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
-<programme start="20260626172500 +0000" stop="20260626182000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Red Eye S2, Ep. 1</title><episode-num system="xmltv_ns">1.0.0/1</episode-num><episode-num system="onscreen">S02E01</episode-num></programme>
-<programme start="20260626182000 +0000" stop="20260626194000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">The Amazing Race S37, Ep. 1</title><episode-num system="xmltv_ns">36.0.0/1</episode-num><episode-num system="onscreen">S37E01</episode-num></programme>
-<programme start="20260626194000 +0000" stop="20260626201000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Cyril: Simply Magic, Ep. 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
-<programme start="20260626201000 +0000" stop="20260626210500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Hudson &amp; Rex S5, Ep. 19</title><episode-num system="xmltv_ns">4.18.0/1</episode-num><episode-num system="onscreen">S05E19</episode-num></programme>
-<programme start="20260626210500 +0000" stop="20260626220000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Boston Blue, Ep. 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
-<programme start="20260626220000 +0000" stop="20260626225000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">The Rookie: Feds S1, Ep. 19</title><episode-num system="xmltv_ns">0.18.0/1</episode-num><episode-num system="onscreen">S01E19</episode-num></programme>
-<programme start="20260626225000 +0000" stop="20260626233500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">The Rookie: Feds S1, Ep. 20</title><episode-num system="xmltv_ns">0.19.0/1</episode-num><episode-num system="onscreen">S01E20</episode-num></programme>
-<programme start="20260626233500 +0000" stop="20260627002000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">NCIS: Origins S1, Ep. 11</title><episode-num system="xmltv_ns">0.10.0/1</episode-num><episode-num system="onscreen">S01E11</episode-num></programme>
-<programme start="20260627002000 +0000" stop="20260627011500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">NCIS: Origins S1, Ep. 12</title><episode-num system="xmltv_ns">0.11.0/1</episode-num><episode-num system="onscreen">S01E12</episode-num></programme>
-<programme start="20260627011500 +0000" stop="20260627034500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Godzilla Minus One</title></programme>
-<programme start="20260627034500 +0000" stop="20260627044000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Hudson &amp; Rex S7, Ep. 4</title><episode-num system="xmltv_ns">6.3.0/1</episode-num><episode-num system="onscreen">S07E04</episode-num></programme>
-<programme start="20260627044000 +0000" stop="20260627053500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Coroner S1, Ep. 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
-<programme start="20260627053500 +0000" stop="20260627063000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Elsbeth S3, Ep. 18</title><episode-num system="xmltv_ns">2.17.0/1</episode-num><episode-num system="onscreen">S03E18</episode-num></programme>
-<programme start="20260627063000 +0000" stop="20260627072000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">FBI S8, Ep. 7</title><episode-num system="xmltv_ns">7.6.0/1</episode-num><episode-num system="onscreen">S08E07</episode-num></programme>
-<programme start="20260627072000 +0000" stop="20260627081500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">The Rookie S7, Ep. 3</title><episode-num system="xmltv_ns">6.2.0/1</episode-num><episode-num system="onscreen">S07E03</episode-num></programme>
-<programme start="20260627081500 +0000" stop="20260627100500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Anaconda</title></programme>
-<programme start="20260627100500 +0000" stop="20260627110000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">The Rookie S6, Ep. 2</title><episode-num system="xmltv_ns">5.1.0/1</episode-num><episode-num system="onscreen">S06E02</episode-num></programme>
-<programme start="20260627110000 +0000" stop="20260627115500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Elsbeth S3, Ep. 18</title><episode-num system="xmltv_ns">2.17.0/1</episode-num><episode-num system="onscreen">S03E18</episode-num></programme>
-<programme start="20260627115500 +0000" stop="20260627125000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">NCIS: Sydney S3, Ep. 10</title><episode-num system="xmltv_ns">2.9.0/1</episode-num><episode-num system="onscreen">S03E10</episode-num></programme>
-<programme start="20260627125000 +0000" stop="20260627134500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">FBI S8, Ep. 7</title><episode-num system="xmltv_ns">7.6.0/1</episode-num><episode-num system="onscreen">S08E07</episode-num></programme>
-<programme start="20260627134500 +0000" stop="20260627144000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">CIA S1, Ep. 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
-<programme start="20260627144000 +0000" stop="20260627153500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Hudson &amp; Rex S7, Ep. 4</title><episode-num system="xmltv_ns">6.3.0/1</episode-num><episode-num system="onscreen">S07E04</episode-num></programme>
-<programme start="20260627153500 +0000" stop="20260627170000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">The Bourne Legacy</title></programme>
-<programme start="20260626170000 +0000" stop="20260626172000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Porsche Mobil 1 Supercup Practice Spielberg, Austria</title></programme>
-<programme start="20260626172000 +0000" stop="20260626175000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Le Mans Cup Highlights Road to Le Mans</title></programme>
-<programme start="20260626175000 +0000" stop="20260626181000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Chasing the Dream Barcelona, Spain</title></programme>
-<programme start="20260626181000 +0000" stop="20260626191000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Goodwood Highlights Member&apos;s Meeting</title></programme>
-<programme start="20260626191000 +0000" stop="20260626201000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Gran Turismo World Series Highlights Milan</title></programme>
-<programme start="20260626201000 +0000" stop="20260626211000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">European Le Mans Series Le Castellet</title></programme>
-<programme start="20260626211000 +0000" stop="20260626221000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">24 Hours of Le Mans Highlights</title></programme>
-<programme start="20260626221000 +0000" stop="20260626231000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">DTM Highlights Lausitzring</title></programme>
-<programme start="20260626231000 +0000" stop="20260627001000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Practice AUSTRIAN GRAND PRIX 2026 Practice 1</title></programme>
-<programme start="20260627001000 +0000" stop="20260627011000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Practice AUSTRIAN GRAND PRIX 2026 Practice 2</title></programme>
-<programme start="20260627011000 +0000" stop="20260627014500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">ERC Highlights Royal Rally of Scandinavia</title></programme>
-<programme start="20260627014500 +0000" stop="20260627024500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">The F1 Show AUSTRIAN GRAND PRIX 2026</title></programme>
-<programme start="20260627024500 +0000" stop="20260627033000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 3 Championship Practice Spielberg, Austria</title></programme>
-<programme start="20260627033000 +0000" stop="20260627041500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 2 Championship Practice Spielberg, Austria</title></programme>
-<programme start="20260627041500 +0000" stop="20260627050000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Porsche Mobil 1 Supercup Practice Spielberg, Austria</title></programme>
-<programme start="20260627050000 +0000" stop="20260627053000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 3 Championship Qualifying Spielberg, Austria</title></programme>
-<programme start="20260627053000 +0000" stop="20260627060000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 2 Championship Qualifying Spielberg, Austria</title></programme>
-<programme start="20260627060000 +0000" stop="20260627070000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Practice AUSTRIAN GRAND PRIX 2026 Practice 1</title></programme>
-<programme start="20260627070000 +0000" stop="20260627080000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Practice AUSTRIAN GRAND PRIX 2026 Practice 2</title></programme>
-<programme start="20260627080000 +0000" stop="20260627085000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 3 Championship Sprint Spielberg, Austria</title></programme>
-<programme start="20260627085000 +0000" stop="20260627091800 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Fastzone, Ep. 11</title><episode-num system="xmltv_ns">0.10.0/1</episode-num><episode-num system="onscreen">S01E11</episode-num></programme>
-<programme start="20260627091800 +0000" stop="20260627095000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Porsche Mobil 1 Supercup Qualifying Spielberg, Austria</title></programme>
-<programme start="20260627095000 +0000" stop="20260627102500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Going Pro, Ep. 11</title><episode-num system="xmltv_ns">0.10.0/1</episode-num><episode-num system="onscreen">S01E11</episode-num></programme>
-<programme start="20260627102500 +0000" stop="20260627113000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Practice AUSTRIAN GRAND PRIX 2026 Practice 3</title></programme>
-<programme start="20260627113000 +0000" stop="20260627114000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LaLiga Classic Barcelona vs Real Madrid - 2018/19</title></programme>
-<programme start="20260627114000 +0000" stop="20260627121000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Truck Racing Highlights Slovakiaring</title></programme>
-<programme start="20260627121000 +0000" stop="20260627130000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 2 Championship Sprint Spielberg, Austria</title></programme>
-<programme start="20260627130000 +0000" stop="20260627131500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Stars of the Cup Djibril Sow - Switzerland</title></programme>
-<programme start="20260627131500 +0000" stop="20260627135500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Qualifying Pre Show AUSTRIAN GRAND PRIX 2026</title></programme>
-<programme start="20260627135500 +0000" stop="20260627150000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Qualifying AUSTRIAN GRAND PRIX 2026</title></programme>
-<programme start="20260627150000 +0000" stop="20260627160000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Qualifying Post Show AUSTRIAN GRAND PRIX 2026</title></programme>
-<programme start="20260627160000 +0000" stop="20260627163000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Ted&apos;s Qualifying Notebook AUSTRIAN GRAND PRIX 2026</title></programme>
-<programme start="20260627163000 +0000" stop="20260627170000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Junior World Championship South Africa vs Uruguay</title></programme>
-<programme start="20260626170000 +0000" stop="20260626173500 +0000" channel="IMC.id@SD"><title lang="id">Kawin Kontrak</title></programme>
-<programme start="20260626173500 +0000" stop="20260626185000 +0000" channel="IMC.id@SD"><title lang="id">Pulau Hantu 3</title></programme>
-<programme start="20260626185000 +0000" stop="20260626212000 +0000" channel="IMC.id@SD"><title lang="id">Melody Cinta</title></programme>
-<programme start="20260626212000 +0000" stop="20260626224500 +0000" channel="IMC.id@SD"><title lang="id">Pulau Hantu</title></programme>
-<programme start="20260626224500 +0000" stop="20260627002000 +0000" channel="IMC.id@SD"><title lang="id">Senggol-Senggolan</title></programme>
-<programme start="20260627002000 +0000" stop="20260627015000 +0000" channel="IMC.id@SD"><title lang="id">Itu Bisa Diatur</title></programme>
-<programme start="20260627015000 +0000" stop="20260627032500 +0000" channel="IMC.id@SD"><title lang="id">Obama Anak Menteng</title></programme>
-<programme start="20260627032500 +0000" stop="20260627045500 +0000" channel="IMC.id@SD"><title lang="id">Belahan Jiwa</title></programme>
-<programme start="20260627045500 +0000" stop="20260627061500 +0000" channel="IMC.id@SD"><title lang="id">Perempuan-Perempuan Liar</title></programme>
-<programme start="20260627061500 +0000" stop="20260627081000 +0000" channel="IMC.id@SD"><title lang="id">Sang Pencerah</title></programme>
-<programme start="20260627081000 +0000" stop="20260627094500 +0000" channel="IMC.id@SD"><title lang="id">Cinta Tapi Beda</title></programme>
-<programme start="20260627094500 +0000" stop="20260627113000 +0000" channel="IMC.id@SD"><title lang="id">Baby Blues</title></programme>
-<programme start="20260627113000 +0000" stop="20260627130000 +0000" channel="IMC.id@SD"><title lang="id">Pintar Pintar Bodoh</title></programme>
-<programme start="20260627130000 +0000" stop="20260627145000 +0000" channel="IMC.id@SD"><title lang="id">Mangkujiwo</title></programme>
-<programme start="20260627145000 +0000" stop="20260627162500 +0000" channel="IMC.id@SD"><title lang="id">Hantu Juga Selfie</title></programme>
-<programme start="20260627162500 +0000" stop="20260627170000 +0000" channel="IMC.id@SD"><title lang="id">Kawin Kontrak Lagi</title></programme>
+<programme start="20260627170000 +0000" stop="20260627173000 +0000" channel="BTV.id@SD"><title lang="id">Supercar Championship</title></programme>
+<programme start="20260627173000 +0000" stop="20260627183000 +0000" channel="BTV.id@SD"><title lang="id">Mitos Tengah Malam</title></programme>
+<programme start="20260627183000 +0000" stop="20260627193000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20260627193000 +0000" stop="20260627200000 +0000" channel="BTV.id@SD"><title lang="id">Monster Jam</title></programme>
+<programme start="20260627200000 +0000" stop="20260627203000 +0000" channel="BTV.id@SD"><title lang="id">Inside Sailing</title></programme>
+<programme start="20260627203000 +0000" stop="20260627210000 +0000" channel="BTV.id@SD"><title lang="id">Spot-On</title></programme>
+<programme start="20260627210000 +0000" stop="20260627213000 +0000" channel="BTV.id@SD"><title lang="id">Berita Kriminal</title></programme>
+<programme start="20260627213000 +0000" stop="20260627220000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20260627220000 +0000" stop="20260627230000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
+<programme start="20260627230000 +0000" stop="20260628000000 +0000" channel="BTV.id@SD"><title lang="id">Saat Teduh</title></programme>
+<programme start="20260628000000 +0000" stop="20260628003000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20260628003000 +0000" stop="20260628011500 +0000" channel="BTV.id@SD"><title lang="id">Anak Hebat</title></programme>
+<programme start="20260628011500 +0000" stop="20260628014500 +0000" channel="BTV.id@SD"><title lang="id">Kuyliner</title></programme>
+<programme start="20260628014500 +0000" stop="20260628023000 +0000" channel="BTV.id@SD"><title lang="id">Galeri Rasa</title></programme>
+<programme start="20260628023000 +0000" stop="20260628030000 +0000" channel="BTV.id@SD"><title lang="id">Ini Indonesia</title></programme>
+<programme start="20260628030000 +0000" stop="20260628033000 +0000" channel="BTV.id@SD"><title lang="id">Vacation List</title></programme>
+<programme start="20260628033000 +0000" stop="20260628040000 +0000" channel="BTV.id@SD"><title lang="id">Cuan Iki</title></programme>
+<programme start="20260628040000 +0000" stop="20260628053000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Siang</title></programme>
+<programme start="20260628053000 +0000" stop="20260628063000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20260628063000 +0000" stop="20260628070000 +0000" channel="BTV.id@SD"><title lang="id">Monster Jam</title></programme>
+<programme start="20260628070000 +0000" stop="20260628073000 +0000" channel="BTV.id@SD"><title lang="id">Pecah Telur</title></programme>
+<programme start="20260628073000 +0000" stop="20260628080000 +0000" channel="BTV.id@SD"><title lang="id">Meja Redaksi</title></programme>
+<programme start="20260628080000 +0000" stop="20260628083000 +0000" channel="BTV.id@SD"><title lang="id">Berita Kriminal</title></programme>
+<programme start="20260628083000 +0000" stop="20260628100000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20260628100000 +0000" stop="20260628104500 +0000" channel="BTV.id@SD"><title lang="id">Dunia Binatang</title></programme>
+<programme start="20260628104500 +0000" stop="20260628113000 +0000" channel="BTV.id@SD"><title lang="id">Dunia Alam</title></programme>
+<programme start="20260628113000 +0000" stop="20260628120000 +0000" channel="BTV.id@SD"><title lang="id">Persona</title></programme>
+<programme start="20260628120000 +0000" stop="20260628130000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20260628130000 +0000" stop="20260628140000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
+<programme start="20260628140000 +0000" stop="20260628150000 +0000" channel="BTV.id@SD"><title lang="id">Spot-On</title></programme>
+<programme start="20260628150000 +0000" stop="20260628160000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20260628160000 +0000" stop="20260628163000 +0000" channel="BTV.id@SD"><title lang="id">Ekspos</title></programme>
+<programme start="20260628163000 +0000" stop="20260628170000 +0000" channel="BTV.id@SD"><title lang="id">Supercar Championship</title></programme>
+<programme start="20260627170000 +0000" stop="20260627185000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">Mission: Impossible - The Final Reckoning</title></programme>
+<programme start="20260627185000 +0000" stop="20260627192000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">Hollywood on Set, Ep. 1173</title><episode-num system="xmltv_ns">0.1172.0/1</episode-num><episode-num system="onscreen">S01E1173</episode-num></programme>
+<programme start="20260627192000 +0000" stop="20260627220000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">One Battle After Another</title></programme>
+<programme start="20260627220000 +0000" stop="20260628000500 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">Iron Jawed Angels</title></programme>
+<programme start="20260628000500 +0000" stop="20260628015000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">Breslin and Hamill: Deadline Artists</title></programme>
+<programme start="20260628015000 +0000" stop="20260628033500 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">No Reservations</title></programme>
+<programme start="20260628033500 +0000" stop="20260628051500 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">Grey Gardens</title></programme>
+<programme start="20260628051500 +0000" stop="20260628060500 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">The Words That Built America</title></programme>
+<programme start="20260628060500 +0000" stop="20260628080000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">Footloose</title></programme>
+<programme start="20260628080000 +0000" stop="20260628093000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">Einstein and Eddington</title></programme>
+<programme start="20260628093000 +0000" stop="20260628110000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">Ángel Rodríguez</title></programme>
+<programme start="20260628110000 +0000" stop="20260628123000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">Austin Powers: The Spy Who Shagged Me</title></programme>
+<programme start="20260628123000 +0000" stop="20260628140000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">Austin Powers in Goldmember</title></programme>
+<programme start="20260628140000 +0000" stop="20260628144500 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">WHO IS LUIGI MANGIONE?</title></programme>
+<programme start="20260628144500 +0000" stop="20260628164000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">American Made</title></programme>
+<programme start="20260628164000 +0000" stop="20260628170000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">Mountainhead</title></programme>
 </tv>
