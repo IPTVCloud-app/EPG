@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260628">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260629">
 <channel id="B"><display-name>tvb plus</display-name></channel>
 <channel id="TVBNewsChannel.hk@SD"><display-name>tvb news channel</display-name><icon src="https://i.imgur.com/Gwij0Fj.png"/></channel>
 <channel id="Jade.hk@SD"><display-name>jade</display-name><icon src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png"/></channel>
@@ -7,318 +7,350 @@
 <channel id="TVBNewsChannel.hk@SD"><display-name>無綫新聞台</display-name><icon src="https://i.imgur.com/Gwij0Fj.png"/></channel>
 <channel id="Jade.hk@SD"><display-name>翡翠台</display-name><icon src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png"/></channel>
 <channel id="Pearl.hk@SD"><display-name>明珠台</display-name><icon src="https://i.imgur.com/UPdcMkW.png"/></channel>
-<programme start="20260627220000 +0000" stop="20260627232500 +0000" channel="B"><title lang="en">Horse Racing Day (Overseas) - Carreras de las Estrellas Day[Can/Eng][HKJC]</title><desc lang="en">Carreras de las Estrellas Day</desc></programme>
-<programme start="20260627220000 +0000" stop="20260627232500 +0000" channel="B"><title lang="zh">賽馬直擊 - 明星賽馬日[粵/英][馬會]</title><desc lang="zh">明星賽馬日</desc></programme>
-<programme start="20260627232500 +0000" stop="20260627233500 +0000" channel="B"><title lang="en">Own Sweet Home[Can]</title></programme>
-<programme start="20260627232500 +0000" stop="20260627233500 +0000" channel="B"><title lang="zh">愛家人物[粵]</title><desc lang="zh">白鐵信箱於六十、七十年代十分流行，師傅採用白鐵打出咭片盒、相架等多種現代家品，呈現當年懷舊感覺。</desc></programme>
-<programme start="20260627233500 +0000" stop="20260628000000 +0000" channel="B"><title lang="en">I Want To $leep[Can][PG]</title></programme>
-<programme start="20260627233500 +0000" stop="20260628000000 +0000" channel="B"><title lang="zh">我要瞓鬥[粵][PG]</title><desc lang="zh">最後一輪晉級關卡是聽力測試，餘下六組聽到十種動物叫聲後，要靠記憶力順序排出。已出線的「花生友」賽前分析，認為珈詠與黃梓瑋經常背對白有優勢？首回合，有素人組以全對姿態拿下一席，某藝人隊竟只答對一個！踏入次回合，五隊只能活一隊，各組調整策略，有人成功carry豬隊友晉級。出線十組各獲發十萬「獎金」，主持六號、曾比特提到在之後的比賽過程中，獎金有機會增加或減少？為讓大家專心瞓鬥，節目組勒令大家交出手機。</desc></programme>
-<programme start="20260628000000 +0000" stop="20260628003000 +0000" channel="B"><title lang="en">I Want To $leep[Can][PG]</title></programme>
-<programme start="20260628000000 +0000" stop="20260628003000 +0000" channel="B"><title lang="zh">我要瞓鬥[粵][PG]</title><desc lang="zh">第一餐放飯時間，十隊瞓鬥師要於兩道佳餚選一款，卻疑心重重，認為節目組有古怪；若思與美貽還問可否不吃？食飽後可享一小時自由活動，吹水、休息、擾敵各有策略。飯氣攻心還要上課學習，期間講出暗題而不被「老師」發現，更可獲加幣獎勵。食品科學、睡眠心理學、玄學課堂輪住上，學生們設法滲入暗題，有人卻突然問老師何時生日，難怪被叮揭破；劉頌鵬則被同事們圍攻而失敗告終？迎接突擊測驗試卷，最高分一隊可逃過扣一萬幣懲罰！</desc></programme>
-<programme start="20260628003000 +0000" stop="20260628012500 +0000" channel="B"><title lang="en">Animaring[Can/Jap]</title></programme>
-<programme start="20260628003000 +0000" stop="20260628012500 +0000" channel="B"><title lang="zh">PET PET 觀察團[粵/日]</title><desc lang="zh">以觀察貓狗為主題的綜藝節目，捕捉牠們可愛的一舉一動！</desc></programme>
-<programme start="20260628012500 +0000" stop="20260628021500 +0000" channel="B"><title lang="en">Welcome to Our Treatment Room (IX)[Can/Jap]</title></programme>
-<programme start="20260628012500 +0000" stop="20260628021500 +0000" channel="B"><title lang="zh">幫緊你醫緊你[粵/日]</title><desc lang="zh">當我們生病或受傷的時候，最希望有一個可靠的醫生提供意見，節目請來多個醫生，向觀眾講解各種疾病的治療方法、奇難雜症的問與答等等，助你擁有健康人生。</desc></programme>
-<programme start="20260628021500 +0000" stop="20260628023000 +0000" channel="B"><title lang="en">Prudential Presents:Yes, Boss.[Can][PG]</title></programme>
-<programme start="20260628021500 +0000" stop="20260628023000 +0000" channel="B"><title lang="zh">保誠精選「寵愛寶」呈獻：社畜求生101[粵][PG]</title><desc lang="zh">TVB A.I.生成動畫《社畜求生101》故事簡介：警方臥底喵喵阿星為追查離奇失蹤案，潛入「獅人公司」偽裝成普通職員，試圖接近獅子總裁，搜集其犯罪證據。然而，一向智勇雙全的阿星卻完全不懂上班模式，屢屢犯錯，險些被趕出公司。在搭檔肥狗阿花的職場指導下，阿星逐漸領悟社畜求生法則，最終能否步步高升，拉倒獅子王？又能否揭開背後的黑暗真相？</desc></programme>
-<programme start="20260628023000 +0000" stop="20260628030000 +0000" channel="B"><title lang="en">AI Masters Series[Can]</title></programme>
-<programme start="20260628023000 +0000" stop="20260628030000 +0000" channel="B"><title lang="zh">AI大講堂[粵]</title></programme>
-<programme start="20260628030000 +0000" stop="20260628033000 +0000" channel="B"><title lang="en">Gourmet Express[Can]</title></programme>
-<programme start="20260628030000 +0000" stop="20260628033000 +0000" channel="B"><title lang="zh">美食新聞報道[粵]</title><desc lang="zh">陳國強師傅帶暉哥品嚐新加坡南洋風味粵菜。生蠔前菜層次豐富；特色拼盤集齊冷盤、點心、燒味及小炒，包括凍花蟹、菠菜蝦餃、避風塘生蠔等佳餚，驚喜滿載；火焰雪花骨製作工序繁複，蜜汁與椰絲相得益彰，肉質鮮嫩。施焯日帶陳曉彤享用地道泰菜，包括「泰惹味」醉貓炒河、足料蟹肉奄列、酥脆煎蠔餅，以及秘製椰漿芒果糯米飯，味道正宗。施焯日再造訪雞髀專門店，試吃三款大雞髀，包括生炸、沙薑及滷水，各具特色，但同樣肉嫩多汁。</desc></programme>
-<programme start="20260628033000 +0000" stop="20260628040000 +0000" channel="B"><title lang="en">Gourmet Express[Can]</title></programme>
-<programme start="20260628033000 +0000" stop="20260628040000 +0000" channel="B"><title lang="zh">美食新聞報道[粵]</title><desc lang="zh">陳國強師傅帶暉哥造訪新加坡的老字號潮州餐廳，細嚐地道佳餚。墨魚丸魚麵真材實料、鮮味十足；酸梅鹹菜蒸鯧魚鹹酸與鮮味交融，滋味獨特；溏心鮑魚選用澳洲青邊鮑，軟腍入味，滋味無窮。陳師傅並示範每道菜式的正宗吃法。施焯日、倪嘉雯繼續發掘坪洲美食，走訪永興街一帶多間特色小店，遍嚐鑊氣十足的炒通粉、坊間少見的柚子西多士、食材新鮮的手工薄餅、香脆的南乳芝麻餅，以及口感軟糯的南瓜甜茶粿及雞屎藤茶粿，令人回味。</desc></programme>
-<programme start="20260628040000 +0000" stop="20260628050000 +0000" channel="B"><title lang="en">All The Bless[Can][PG]</title></programme>
-<programme start="20260628040000 +0000" stop="20260628050000 +0000" channel="B"><title lang="zh">師傅點算[粵][PG]</title><desc lang="zh">睡夢中見到先人？嘉寶師傅認為，背後必有原因。嘉寶師傅提到，曾有一個家庭，子女都接獲離世母親託夢，只因其中一名兒子向母親借過錢，至她死後仍未歸還？曾經有人因為發過一個夢，得到啟示，並往找In師傅訴說，最終獲In師傅收其為徒？另外，In早前到訪台灣的指南宮，而據傳在該處過夜或可得到呂祖託夢給予啟示？裸泳老師則指出部份人士「懂得」控制夢境，如想做到這樣的境界，她提議第一步是撰寫「夢日記」！</desc></programme>
-<programme start="20260628050000 +0000" stop="20260628053000 +0000" channel="B"><title lang="en">Kingdom of Ingredients (XIX)[Can/Jap]</title></programme>
-<programme start="20260628050000 +0000" stop="20260628053000 +0000" channel="B"><title lang="zh">食彩王國[粵/日]</title><desc lang="zh">《食彩王國》將會介紹不同食材，從多個角度剖析各種食物素材背後的營養價值、傳統文化及歷史，料理達人更會運用其巧手，將外表平平無奇的食材烹調成令人垂涎三尺的美食！</desc></programme>
-<programme start="20260628053000 +0000" stop="20260628060000 +0000" channel="B"><title lang="en">Kingdom of Ingredients (XIX)[Can/Jap]</title></programme>
-<programme start="20260628053000 +0000" stop="20260628060000 +0000" channel="B"><title lang="zh">食彩王國[粵/日]</title><desc lang="zh">《食彩王國》將會介紹不同食材，從多個角度剖析各種食物素材背後的營養價值、傳統文化及歷史，料理達人更會運用其巧手，將外表平平無奇的食材烹調成令人垂涎三尺的美食！</desc></programme>
-<programme start="20260628060000 +0000" stop="20260628070000 +0000" channel="B"><title lang="en">Welcome to Our Treatment Room (IX)[Can/Jap]</title></programme>
-<programme start="20260628060000 +0000" stop="20260628070000 +0000" channel="B"><title lang="zh">幫緊你醫緊你[粵/日]</title><desc lang="zh">當我們生病或受傷的時候，最希望有一個可靠的醫生提供意見，節目請來多個醫生，向觀眾講解各種疾病的治療方法、奇難雜症的問與答等等，助你擁有健康人生。</desc></programme>
-<programme start="20260628070000 +0000" stop="20260628073000 +0000" channel="B"><title lang="en">Mindfulness Sleep[Can]</title></programme>
-<programme start="20260628070000 +0000" stop="20260628073000 +0000" channel="B"><title lang="zh">夢中·情·人[粵]</title><desc lang="zh">以探索夢境為主題的清談節目，邀請了精神科醫生、心理學家、占卜師、催眠師及解夢師等各範疇的專家，從不同角度認識夢境。每集更會有嘉賓或觀眾提供真實個案，分析夢境內容，解開其夢境之謎。</desc></programme>
-<programme start="20260628073000 +0000" stop="20260628080000 +0000" channel="B"><title lang="en">Open Book[Can][PG]</title></programme>
-<programme start="20260628073000 +0000" stop="20260628080000 +0000" channel="B"><title lang="zh">開卷[粵][PG]</title><desc lang="zh">Patrick Sir推介一本名著，作者透過走訪「解離性身份障礙症」患者及其身邊人，揭示蘊藏當事人內心的廿四個人格。內容令人匪夷所思、引人入勝，書本的後續發展卻未如人意，還惹來爭議？眾主持接着輪流介紹可以提升個人吸引力的讀物，箇中提及的溝通視覺，對吸引韻婷注意好使得？泳芍與韻婷帶來的書籍，分別教人了解自己以及灑脫做人的道理。毓麟特別推介一本幽默感食譜給男讀者，正結合了女生眼中的兩大「加分準則」。</desc></programme>
-<programme start="20260628080000 +0000" stop="20260628083000 +0000" channel="B"><title lang="en">Ma Pak Leung Lingzhi Capsules Presents :Vital Lifeline[Can]</title></programme>
-<programme start="20260628080000 +0000" stop="20260628083000 +0000" channel="B"><title lang="zh">馬百良六寶靈芝呈獻 :最強生命線[粵]</title><desc lang="zh">IgA腎炎是一種原發性腎炎，由免疫系統產生異常的IgA抗體積聚於腎小球，引發炎症，損害腎臟過濾功能。患者早期症狀隱匿，常見血尿和蛋白尿，確診往往需要腎穿刺。此病在亞洲發病率偏高，一旦確診，腎臟受損難以逆轉，患者需要長期服藥。</desc></programme>
-<programme start="20260628083000 +0000" stop="20260628092000 +0000" channel="B"><title lang="en">Animaring[Can/Jap]</title></programme>
-<programme start="20260628083000 +0000" stop="20260628092000 +0000" channel="B"><title lang="zh">PET PET 觀察團[粵/日]</title><desc lang="zh">以觀察貓狗為主題的綜藝節目，捕捉牠們可愛的一舉一動！</desc></programme>
-<programme start="20260628092000 +0000" stop="20260628095000 +0000" channel="B"><title lang="en">Big Big Home[Can]</title></programme>
-<programme start="20260628092000 +0000" stop="20260628095000 +0000" channel="B"><title lang="zh">大夢想家[粵]</title><desc lang="zh">有港人放棄高薪厚職移居台灣，還在宜蘭覓得夢想家兼民宿生意。三層獨棟別墅佔地一萬八千呎，四周被農田環繞，讓人遠離繁囂！大屋設計顯心思，多片落地玻璃大大增加採光、空間感，散步樓梯建築、親子主題房又有甚麼特色？畫家夫婦在新北淡水打造藝術之家，將畫廊元素融入客廳，展示心愛藝術品。台北信義區逾一萬呎豪宅極盡氣派，天台更可遠望101大樓。主持譚凱螢還到華山參觀採用雙主人房設計的三房示範單位，買樓竟送早餐服務？</desc></programme>
-<programme start="20260628095000 +0000" stop="20260628102000 +0000" channel="B"><title lang="en">Eyes On Concern Groups[Can]</title></programme>
-<programme start="20260628095000 +0000" stop="20260628102000 +0000" channel="B"><title lang="zh">關注關注組[粵]</title><desc lang="zh">這次齊齊關注蛋糕話題，十郎開心分享喜歡的口味，怎料被女主持們同聲嫌棄？嘉雯偏愛「過江龍」千層蛋糕名店，慧儀卻覺得不好吃？上網買蛋糕近年甚為流行，更可要求製作個人專屬的款式，但慧儀、俊其各有不快經歷，美貽還甘付天價收費！焯日、景行隨導師學整餅，分工合作炮製「J2」標誌蛋糕。打拂蛋白步驟，導師卻嫌兩男過份溫柔？焯日為蛋糕唧忌廉時被要求重做，於是帶同導師回大本營時要求眾拍檔即席試做，誰人的表現最好？</desc></programme>
-<programme start="20260628102000 +0000" stop="20260628105000 +0000" channel="B"><title lang="en">Mind Mind Tell Me Mind[Can]</title></programme>
-<programme start="20260628102000 +0000" stop="20260628105000 +0000" channel="B"><title lang="zh">窺心事[粵]</title><desc lang="zh">戀愛路上，最忌遇上「花心蘿蔔」，對方卻可能是因為缺乏愛？廖慧儀、施焯日、吳兆麟分別被主持黃紫恩帶到公園等候拍攝，期間巧遇「紫恩的好友」要求合照並相約用膳，三位嘉賓們會有甚麼反應？從擇偶條件可看出閣下可有花心的傾向？寫下三位你欣賞而來自不同年齡層的異性名字，以及其十個優點，張傳義博士隨即分析嘉賓們對愛情的期盼、心態。花心其實未必是一個負面標籤，都要視乎雙方的取向。面對花心伴侶，又可怎樣應對？</desc></programme>
-<programme start="20260628105000 +0000" stop="20260628111500 +0000" channel="B"><title lang="en">Thai Rogered (Sr.9)[Can]</title></programme>
-<programme start="20260628105000 +0000" stop="20260628111500 +0000" channel="B"><title lang="zh">冲遊泰國9[粵]</title><desc lang="zh">夜市新舊交融，保留了舊遊樂場城堡，配合復古車、大草地等打卡位，成功帶動人潮。逾百個美食攤檔，提供多元化滋味選擇，泰式班戟、港式雞蛋仔、台式花生卷雪糕、「爆芝」粟米粒等街頭小食包羅萬有。炸雞皮、色彩繽紛長薯條，帶來「脆」味驚喜。生蠔、鵝肝炒飯、巨型「火山排骨」、海鮮拼盤，豪氣之選！位於河畔夜市的浪漫餐廳，環境迷人、陳設高雅。不同透明玻璃包廂，結合各地擺設元素，營造不一樣風情，冲哥偕玲玲歎美食與美景。</desc></programme>
-<programme start="20260628111500 +0000" stop="20260628114500 +0000" channel="B"><title lang="en">Thai Rogered (Sr.9)[Can]</title></programme>
-<programme start="20260628111500 +0000" stop="20260628114500 +0000" channel="B"><title lang="zh">冲遊泰國9[粵]</title><desc lang="zh">冲哥帶玲玲去食餐好！斯里蘭卡人主理的蟹料理店，店內的蟹分十種大小，主持們點吃排第二的「OMG」牛油蟹，究竟有多大？玲玲還會示範進食斯里蘭卡咖喱蝦的食法。「轉型」做文青，冲哥找冬蔭哥哥同往學做手作，討一討身邊人歡喜。冬蔭哥哥以冲哥的「肖像」製作地氈與餅點，冲哥對成品可感滿意？不過，耐性欠奉的冲哥只在DIY地帶搜購香薰蠟燭，實行「買咗當整咗」。想發洩？有間發洩房任你塗潑顏料，兼創作一幅「出色」畫作。</desc></programme>
-<programme start="20260628114500 +0000" stop="20260628170000 +0000" channel="B"><title lang="en">Horse Racing Day (Overseas) - Irish Derby Day[Can/Eng][HKJC]</title><desc lang="en">Irish Derby Day</desc></programme>
-<programme start="20260628114500 +0000" stop="20260628170000 +0000" channel="B"><title lang="zh">賽馬直擊 - 愛爾蘭打吡賽馬日[粵/英][馬會]</title><desc lang="zh">愛爾蘭打吡賽馬日</desc></programme>
-<programme start="20260628170000 +0000" stop="20260628170500 +0000" channel="B"><title lang="en">Hit Song For You 2026[Can]</title></programme>
-<programme start="20260628170000 +0000" stop="20260628170500 +0000" channel="B"><title lang="zh">勁歌推介[粵]</title></programme>
-<programme start="20260628170500 +0000" stop="20260628180500 +0000" channel="B"><title lang="en">All The Bless[Can][PG]</title></programme>
-<programme start="20260628170500 +0000" stop="20260628180500 +0000" channel="B"><title lang="zh">師傅點算[粵][PG]</title><desc lang="zh">物色居所要留意環境格局，如有煞氣，或會影響自身運勢與伴侶關係，嘉寶師傅細談五類沖煞現象與化煞錦囊，還會介紹本港好風水地段。In師傅則講述如何感應一間屋的能量，而在家中亂做儀式更隨時招惹靈體？入住居所後出現思緒混亂、家人不睦等狀況，也可能與四元素不平衡有關，裸泳老師詳述不同元素過盛的影響，並帶來改善建議。另外，師傅們檢視家庭觀眾的家居圖，並提供佈局貼士。大門對正位處財位的廁所，反映財氣入屋即沖走？</desc></programme>
-<programme start="20260628180500 +0000" stop="20260628183000 +0000" channel="B"><title lang="en">Mind Mind Tell Me Mind[Can]</title></programme>
-<programme start="20260628180500 +0000" stop="20260628183000 +0000" channel="B"><title lang="zh">窺心事[粵]</title><desc lang="zh">戀愛路上，最忌遇上「花心蘿蔔」，對方卻可能是因為缺乏愛？廖慧儀、施焯日、吳兆麟分別被主持黃紫恩帶到公園等候拍攝，期間巧遇「紫恩的好友」要求合照並相約用膳，三位嘉賓們會有甚麼反應？從擇偶條件可看出閣下可有花心的傾向？寫下三位你欣賞而來自不同年齡層的異性名字，以及其十個優點，張傳義博士隨即分析嘉賓們對愛情的期盼、心態。花心其實未必是一個負面標籤，都要視乎雙方的取向。面對花心伴侶，又可怎樣應對？</desc></programme>
-<programme start="20260628183000 +0000" stop="20260628190000 +0000" channel="B"><title lang="en">Gourmet Express[Can]</title></programme>
-<programme start="20260628183000 +0000" stop="20260628190000 +0000" channel="B"><title lang="zh">美食新聞報道[粵]</title><desc lang="zh">陳國強師傅帶暉哥品嚐新加坡南洋風味粵菜。生蠔前菜層次豐富；特色拼盤集齊冷盤、點心、燒味及小炒，包括凍花蟹、菠菜蝦餃、避風塘生蠔等佳餚，驚喜滿載；火焰雪花骨製作工序繁複，蜜汁與椰絲相得益彰，肉質鮮嫩。施焯日帶陳曉彤享用地道泰菜，包括「泰惹味」醉貓炒河、足料蟹肉奄列、酥脆煎蠔餅，以及秘製椰漿芒果糯米飯，味道正宗。施焯日再造訪雞髀專門店，試吃三款大雞髀，包括生炸、沙薑及滷水，各具特色，但同樣肉嫩多汁。</desc></programme>
-<programme start="20260628190000 +0000" stop="20260628193000 +0000" channel="B"><title lang="en">Gourmet Express[Can]</title></programme>
-<programme start="20260628190000 +0000" stop="20260628193000 +0000" channel="B"><title lang="zh">美食新聞報道[粵]</title><desc lang="zh">陳國強師傅帶暉哥造訪新加坡的老字號潮州餐廳，細嚐地道佳餚。墨魚丸魚麵真材實料、鮮味十足；酸梅鹹菜蒸鯧魚鹹酸與鮮味交融，滋味獨特；溏心鮑魚選用澳洲青邊鮑，軟腍入味，滋味無窮。陳師傅並示範每道菜式的正宗吃法。施焯日、倪嘉雯繼續發掘坪洲美食，走訪永興街一帶多間特色小店，遍嚐鑊氣十足的炒通粉、坊間少見的柚子西多士、食材新鮮的手工薄餅、香脆的南乳芝麻餅，以及口感軟糯的南瓜甜茶粿及雞屎藤茶粿，令人回味。</desc></programme>
-<programme start="20260628193000 +0000" stop="20260628210000 +0000" channel="B"><title lang="en">OT Unlimited</title></programme>
-<programme start="20260628193000 +0000" stop="20260628210000 +0000" channel="B"><title lang="zh">OT無限loop</title><desc lang="zh">每晚深夜，公司仲有邊個未收工？有屋企唔返，咁搏命係愛定係責任？閉路電視全程無間斷直擊，《社畜求生101》主角阿星同阿花捱更抵夜職場血淚史！</desc></programme>
-<programme start="20260628210000 +0000" stop="20260629050301 +0000" channel="B"><title lang="en">Channel Closed for Maintenance</title></programme>
-<programme start="20260628210000 +0000" stop="20260629050301 +0000" channel="B"><title lang="zh">是日播映完畢</title></programme>
-<programme start="20260627220000 +0000" stop="20260627223000 +0000" channel="Jade.hk@SD"><title lang="en">Cantoxicating! (Sr.4)[Can]</title></programme>
-<programme start="20260627220000 +0000" stop="20260627223000 +0000" channel="Jade.hk@SD"><title lang="zh">粵講粵㜺鬼[粵]</title><desc lang="zh">做「女神」要有「仙氣」，數十年前追求女生則少不了「抄牌」和Call機！四位主持扮鬼扮馬，探究與戀愛相關的昔日俗語和現時潮語。「幣少」愛用「散紙」，無知店員竟以為其珍藏「一文不值」，且由鄭Sir趣談斗零、一蚊雞等貨幣的掌故歷史。「巴閉」本土味濃，詞語竟然來自印度！兩大食神以「揚州炒飯」、「京都骨」比拼廚藝，美食卻可能違反商品說明條例？眾人在順德大吃「正斗」陳村粉，廖Sir順道講解「陳村種」的由來。</desc></programme>
-<programme start="20260627223000 +0000" stop="20260627230000 +0000" channel="Jade.hk@SD"><title lang="en">Cantoxicating! (Sr.4)[Can]</title></programme>
-<programme start="20260627223000 +0000" stop="20260627230000 +0000" channel="Jade.hk@SD"><title lang="zh">粵講粵㜺鬼[粵]</title><desc lang="zh">被列為「世界遺產」的開平碉樓，設計特別以作防禦土匪來襲。三名「老千」企圖侵吞碉樓，蕭博士如何藉着歷史知識揭破騙局？地產界術語別具創意，「吊臘鴨」、「BBQ」意即凶宅，「黑廁」、「油雞」又意何所指？翻看昔日售樓書，不設電梯竟是賣點！「火水哥」在求職中心得「女神」朱智賢提供就業輔導，期間帶出「吞泡」、「劈炮」等俗語的出處。看電影需要「解畫」、「戲橋」，多買座位只為「曬行頭」，鄭Sir細數當年睇戲文化。</desc></programme>
-<programme start="20260627230000 +0000" stop="20260627233000 +0000" channel="Jade.hk@SD"><title lang="en">Do Did Eat[Can]</title></programme>
-<programme start="20260627230000 +0000" stop="20260627233000 +0000" channel="Jade.hk@SD"><title lang="zh">Do姐有問題[粵]</title><desc lang="zh">Do姐挑戰自己，與譚玉瑛、黃智賢一同答題測智慧！一個藝人名字，輕易令眾人猜到曼谷「冬蔭功湯」的特別煮法。東京的八層雪糕有何最潮食法？聖地牙哥的軍車載客人享用甚麼？擔當主持的農夫能否享用阿拉斯加皇帝蟹？</desc></programme>
-<programme start="20260627233000 +0000" stop="20260628000000 +0000" channel="Jade.hk@SD"><title lang="en">Do Did Eat[Can]</title></programme>
-<programme start="20260627233000 +0000" stop="20260628000000 +0000" channel="Jade.hk@SD"><title lang="zh">Do姐有問題[粵]</title><desc lang="zh">走入曼谷首間以狐狸作主題的餐廳前，要做些甚麼？高海寧發揮智慧之餘，亦展現幽默感。競猜西雅圖一堵香口膠牆的所在地，使方力申散發出個人魅力。首爾有餐廳只有一張餐桌，兩人輕易猜出餐廳主題，與美食走近一步！</desc></programme>
-<programme start="20260628000000 +0000" stop="20260628010000 +0000" channel="Jade.hk@SD"><title lang="en">Treasures with Bettany Hughes (III)[Can/Eng][PG]</title></programme>
-<programme start="20260628000000 +0000" stop="20260628010000 +0000" channel="Jade.hk@SD"><title lang="zh">文明啟航[粵/英][PG]</title><desc lang="zh">一連六集，歷史學家Bettany Hughes將帶領觀眾踏上另一段令人難忘的人類文明史之旅。</desc></programme>
-<programme start="20260628010000 +0000" stop="20260628013000 +0000" channel="Jade.hk@SD"><title lang="en">Kiratto Pri-Chan (III)[Can/Jap]</title></programme>
-<programme start="20260628010000 +0000" stop="20260628013000 +0000" channel="Jade.hk@SD"><title lang="zh">星夢頻道[粵/日]</title><desc lang="zh">當玫露熊來到閃亮CHU的家裡玩，便發現閃亮CHU一早就吃豬排飯，房間也沒有打掃，令玫露熊與安娜大為詫異。在安娜的建議下，奇蹟閃耀組來到星夢電子蛋中心，學習星夢電子蛋的用法，讓自己能更好地照料閃亮CHU。</desc></programme>
-<programme start="20260628013000 +0000" stop="20260628014500 +0000" channel="Jade.hk@SD"><title lang="en">Pleasant Goat and Big Big Wolf - Mighty Goat Squad[Can/Man]</title></programme>
-<programme start="20260628013000 +0000" stop="20260628014500 +0000" channel="Jade.hk@SD"><title lang="zh">喜羊羊與灰太狼之羊羊趣冒險[粵/普]</title><desc lang="zh">未來的小羊們獲得了灰太狼新制的發明“變小手錶”，變成迷你版小羊並坐上慢羊羊發明的玩具小車，前往微觀世界，幫助大家解決各式各樣的問題。</desc></programme>
-<programme start="20260628014500 +0000" stop="20260628020000 +0000" channel="Jade.hk@SD"><title lang="en">Pleasant Goat and Big Big Wolf - Mighty Goat Squad[Can/Man]</title></programme>
-<programme start="20260628014500 +0000" stop="20260628020000 +0000" channel="Jade.hk@SD"><title lang="zh">喜羊羊與灰太狼之羊羊趣冒險[粵/普]</title><desc lang="zh">未來的小羊們獲得了灰太狼新制的發明“變小手錶”，變成迷你版小羊並坐上慢羊羊發明的玩具小車，前往微觀世界，幫助大家解決各式各樣的問題。</desc></programme>
-<programme start="20260628020000 +0000" stop="20260628023000 +0000" channel="Jade.hk@SD"><title lang="en">New Doraemon (X)[Can]</title></programme>
-<programme start="20260628020000 +0000" stop="20260628023000 +0000" channel="Jade.hk@SD"><title lang="zh">多啦A夢[粵]</title><desc lang="zh">多啦A夢拿出「總統之書」，讓任何人都能夠頒布政策，出木杉見狀提議辦一場正式的總統大選。大雄難耐被媽媽長時間訓話，多啦A夢於是借他「瘋狂時間器」，讓他可以局部性改變時間流逝的速度。</desc></programme>
-<programme start="20260628023000 +0000" stop="20260628030000 +0000" channel="Jade.hk@SD"><title lang="en">Food for the Soul[Can/Jap]</title></programme>
-<programme start="20260628023000 +0000" stop="20260628030000 +0000" channel="Jade.hk@SD"><title lang="zh">少女煮意日常[粵/日]</title><desc lang="zh">踏入冬假，在真子提議下，大家展開了一場歸鄉之旅。經過長途跋涉，大家來到真子祖母的祖屋，其傳統氣息讓九禮亞等人大開眼界。其後，真子與詩音再會小學時代的好友，大家懷緬往昔之餘，也說起近來的樂事。</desc></programme>
-<programme start="20260628030000 +0000" stop="20260628033000 +0000" channel="Jade.hk@SD"><title lang="en">On the Record[Can]</title></programme>
-<programme start="20260628030000 +0000" stop="20260628033000 +0000" channel="Jade.hk@SD"><title lang="zh">講清講楚[粵]</title></programme>
-<programme start="20260628033000 +0000" stop="20260628040000 +0000" channel="Jade.hk@SD"><title lang="en">Walking Into Blossoms Shanghai[Can]</title></programme>
-<programme start="20260628033000 +0000" stop="20260628040000 +0000" channel="Jade.hk@SD"><title lang="zh">一路繁花[粵]</title><desc lang="zh">子羚、蓓蔚行逛進賢路，《繁花》裡的248號縱找不着，卻有口福可吃到滋味麵食。到訪改建自江南傳統民居的民宿，感受三百年歷史氣息。再於朱家角「掃街」，女主持們暫放下儀態在路旁吃糉。置身劇中「寶總」和「玲子」吃泡飯的地方，細嚐相同的味道。「排骨年糕」是上海人的童年回憶，必試百年老店出品。享用由楊貫一徒弟煮理的二頭吉品鮑，再嚐用牛肉製作的叉燒，矜貴又美味。靖峰獲紅幫裁縫傳人度身定製西裝，限定變身「冼總」。</desc></programme>
-<programme start="20260628040000 +0000" stop="20260628043000 +0000" channel="Jade.hk@SD"><title lang="en">Cook War[Can]</title></programme>
-<programme start="20260628040000 +0000" stop="20260628043000 +0000" channel="Jade.hk@SD"><title lang="zh">煮戰[粵]</title><desc lang="zh">「學院派」大師兄Alan如願向師弟保哥下戰書，二人狹路相逢，誓要煮出感動媽媽的味道！梁芷珮擔任嘉賓評判，一起見證這場同門爭霸。Alan的蹄香夾心咕嚕肉包含甜酸苦辣，體現「媽媽的辛勤」。花膠粥加入黃油雞湯殊不簡單；另有「秘密武器」冰碟作擺盤，保哥怎樣接招？越式蒸腸粉、海鮮酸辣湯滿載着保哥與母親的相處點滴，希望藉着兩道家鄉菜觸動大家。保哥自製小工具在鍋上蒸腸粉，拉粉皮時卻頻頻失手，唯有兵行險着……</desc></programme>
-<programme start="20260628043000 +0000" stop="20260628050000 +0000" channel="Jade.hk@SD"><title lang="en">Cook War[Can]</title></programme>
-<programme start="20260628043000 +0000" stop="20260628050000 +0000" channel="Jade.hk@SD"><title lang="zh">煮戰[粵]</title><desc lang="zh">生力軍嘉星越級挑戰Ricky，兩位西廚以「中菜西做」的方式作比拼。Ricky預告會炮製酥皮楊枝甘露，何以不被幟哥看好？為了解開對陳皮鴨腿湯飯的心結，Ricky無懼扣分，拿出「秘密武器」……一道螢光魷魚涼拌青瓜，嘉星加入混合中西元素的「陳醋珠珠」。另再拌勻帶子、蛋白、牛油，蒸出香滑豆腐的口感。嘉賓張曦雯對各款創新料理甚感滿意，幟哥卻挑剔菜式名稱。新穎的食材配搭，還是煮得貼題，能夠贏得評判們的歡心？</desc></programme>
-<programme start="20260628050000 +0000" stop="20260628051500 +0000" channel="Jade.hk@SD"><title lang="en">NOON NEWS[Can]</title></programme>
-<programme start="20260628050000 +0000" stop="20260628051500 +0000" channel="Jade.hk@SD"><title lang="zh">午間新聞[粵]</title></programme>
-<programme start="20260628051500 +0000" stop="20260628052000 +0000" channel="Jade.hk@SD"><title lang="en">Know More About eMPF[Can]</title></programme>
-<programme start="20260628051500 +0000" stop="20260628052000 +0000" channel="Jade.hk@SD"><title lang="zh">積金講e啲[粵]</title><desc lang="zh">強積金是僱員退休後的保障之一，跟全港打工仔女息息相關。《積金講e啲》由藝員梁敏巧、吳幸美、曾展望、徐榮、鄧凱文、曾錦燊、吳香倫參與演出，以輕鬆手法向強積金計劃的持分者，介紹當局網上平台「積金易」等與強積金相關的實用資訊及注意事項。</desc></programme>
-<programme start="20260628052000 +0000" stop="20260628070000 +0000" channel="Jade.hk@SD"><title lang="en">Workplace Newcomers - Season of Traditional Chinese Medicine[Can/Man]</title></programme>
-<programme start="20260628052000 +0000" stop="20260628070000 +0000" channel="Jade.hk@SD"><title lang="zh">初入職場·中醫季[粵/普]</title><desc lang="zh">《初入職場·中醫季》深度聚焦中醫文化，攜手中醫專業人才及中醫助力團一起，通過&quot;潮養生活&quot;與&quot;中醫歷練&quot;，開啟一場年輕態的中醫文化科普之旅。</desc></programme>
-<programme start="20260628070000 +0000" stop="20260628072000 +0000" channel="Jade.hk@SD"><title lang="en">Gigi&apos;s Tasteful Kitchen[Can]</title></programme>
-<programme start="20260628070000 +0000" stop="20260628072000 +0000" channel="Jade.hk@SD"><title lang="zh">Gi味俱全[粵]</title><desc lang="zh">齋是農曆新年的常見菜式，本集Gigi姐會示範烹煮現代版本，例如以前的齋是有髮菜的，但現在因為保護環境而不會再用。而傳統的齋總給人油膩的感覺，Gigi姐教大家挑選比較健康又耐熱的油，最適合用來做這道齋。</desc></programme>
-<programme start="20260628072000 +0000" stop="20260628075500 +0000" channel="Jade.hk@SD"><title lang="en">Sweet Corner[Can]</title></programme>
-<programme start="20260628072000 +0000" stop="20260628075500 +0000" channel="Jade.hk@SD"><title lang="zh">甜心先生[粵]</title><desc lang="zh">阿古(古嘉俊)在復活節示範的一款特色朱古力，曾令譚嘉儀眼界大開。事隔四個月，嘉儀再次「捲土重來」，向他請教更多甜品新創意。阿古當然不會讓她失望而回，選用了兩款破格食材─ 佛手柑與西班牙鼠尾草籽，炮製一款口味創新的「佛手柑士多啤梨白朱古力慕絲蛋糕」。為白朱古力外層加入鼠尾草籽，靈感乃來自奇異果爽脆質感。佛手柑味道苦澀而且帶有微酸，大膽選材竟是為健康著想？就由阿古解讀當中創意構思。</desc></programme>
-<programme start="20260628075500 +0000" stop="20260628080000 +0000" channel="Jade.hk@SD"><title lang="en">Hit Song For You 2026[Can]</title></programme>
-<programme start="20260628075500 +0000" stop="20260628080000 +0000" channel="Jade.hk@SD"><title lang="zh">勁歌推介[粵]</title></programme>
-<programme start="20260628080000 +0000" stop="20260628083000 +0000" channel="Jade.hk@SD"><title lang="en">Shinkalion Change the World[Can/Jap]</title></programme>
-<programme start="20260628080000 +0000" stop="20260628083000 +0000" channel="Jade.hk@SD"><title lang="zh">新幹線戰士 改變世界[粵/日]</title><desc lang="zh">太晴和伊奈在廢校元宇宙找到比娜，但後者旋即消失。太晴在自己的元宇宙火車站發現比娜，抓住對方的時候更窺見其記憶。比娜獲救後，卻表示決定不再回去，其後UNKNOWN突然出現，太晴被迫應戰。</desc></programme>
-<programme start="20260628083000 +0000" stop="20260628090000 +0000" channel="Jade.hk@SD"><title lang="en">Hands Up[Can]</title></programme>
-<programme start="20260628083000 +0000" stop="20260628090000 +0000" channel="Jade.hk@SD"><title lang="zh">Hands Up[粵]</title><desc lang="zh">十二歲少女伴隨古典音樂翩然起舞，帶來優雅的芭蕾舞表演。為繼續深造舞技，她更計劃前赴英國升學，勇敢追夢。另一位男生則為「My Little Show」舞台送上彈琴演出，他彈奏的悅耳琴聲，令主持姐姐隨着音樂放鬆心情。每當聽到電視劇主題曲的音樂，便會喚起觀眾對劇集的回憶。這回，主持姐姐會跟結他導師合唱處境劇《愛．回家》和《男親女愛》的主題曲。此外，導師還會介紹「音孔蓋」，這個輔助器材有助降低結他的音量。</desc></programme>
-<programme start="20260628090000 +0000" stop="20260628093000 +0000" channel="Jade.hk@SD"><title lang="en">Butt Detective (V)[Can/Jap]</title></programme>
-<programme start="20260628090000 +0000" stop="20260628093000 +0000" channel="Jade.hk@SD"><title lang="zh">屁屁偵探[粵/日]</title><desc lang="zh">改編自人氣繪本。各位小朋友快跟著無人不知的名偵探屁屁偵探全面出擊，透過細心觀察及推理，偵破各類案件吧！</desc></programme>
-<programme start="20260628093000 +0000" stop="20260628095500 +0000" channel="Jade.hk@SD"><title lang="en">Chibimaruko Chan (II)[Can/Jap]</title></programme>
-<programme start="20260628093000 +0000" stop="20260628095500 +0000" channel="Jade.hk@SD"><title lang="zh">櫻桃小丸子[粵/日]</title><desc lang="zh">小丸子放學回家，被爺爺發現有毛蟲在書包上面。小丸子因此突發奇想，想出了一個遊戲。山根希望被人以匿稱稱呼，於是在想改一個怎樣的匿稱。小丸子見狀積極配合，但永澤對此事十分反感。</desc></programme>
-<programme start="20260628095500 +0000" stop="20260628100000 +0000" channel="Jade.hk@SD"><title lang="en">Discover Hong Kong&apos;s Finest[Can]</title></programme>
-<programme start="20260628095500 +0000" stop="20260628100000 +0000" channel="Jade.hk@SD"><title lang="zh">好嘢港多啲[粵]</title><desc lang="zh">香港特區政府帶領各個部門及單位，適時推出不同的政策措施，為本港市民、到訪旅客、來自外地的投資者提供便捷服務。香港這麼好，當然要多說一些讓大家知道。《好嘢港多啲》以輕鬆有趣的拍攝手法，配合陳豪、高海寧、張振朗、劉佩玥、周嘉洛、羅子溢、馬國明、陳懿德、陳展鵬、劉穎鏇等一眾星級藝員，透過不同角色、形象，生動地表達香港的各樣美好和優勢。</desc></programme>
-<programme start="20260628100000 +0000" stop="20260628103000 +0000" channel="Jade.hk@SD"><title lang="en">Finance Magazine[Can]</title></programme>
-<programme start="20260628100000 +0000" stop="20260628103000 +0000" channel="Jade.hk@SD"><title lang="zh">財經透視[粵]</title><desc lang="zh">去年有多間戲院相繼結業，但同時亦出現有投資者承接結業戲院，以擴充院線的情況。AI除了成為企業請人時，要求應徵者擁有的技能，亦是協助企業篩選求職者的工具。</desc></programme>
-<programme start="20260628103000 +0000" stop="20260628105500 +0000" channel="Jade.hk@SD"><title lang="en">NEWS AT 6:30[Can]</title></programme>
-<programme start="20260628103000 +0000" stop="20260628105500 +0000" channel="Jade.hk@SD"><title lang="zh">六點半新聞報道[粵]</title><desc lang="zh">翡翠台每日下午六點半，報道本地、兩岸及國際重要新聞。</desc></programme>
-<programme start="20260628105500 +0000" stop="20260628110000 +0000" channel="Jade.hk@SD"><title lang="en">Nong&apos;s Shen Ling Bai Shu San Pres:Weather Report[Can]</title></programme>
-<programme start="20260628105500 +0000" stop="20260628110000 +0000" channel="Jade.hk@SD"><title lang="zh">農本方參苓白朮散呈獻:天氣報告[粵]</title></programme>
-<programme start="20260628110000 +0000" stop="20260628113000 +0000" channel="Jade.hk@SD"><title lang="en">Sunday Report[Can]</title></programme>
-<programme start="20260628110000 +0000" stop="20260628113000 +0000" channel="Jade.hk@SD"><title lang="zh">星期日檔案[粵]</title><desc lang="zh">受中東局勢影響，過去數月國際油價波動，連帶推高石油副產品的成本。今集會走訪「搵食車」司機、私家車車主及飲食業界，了解油費上漲，成本如何沿供應鏈蔓延至市民生計？千里之外的戰爭，同時敲響能源警號，香港作為高度依賴進口能源的城市，這場風波，為本港長遠能源發展政策又帶來甚麼啟示？</desc></programme>
-<programme start="20260628113000 +0000" stop="20260628113500 +0000" channel="Jade.hk@SD"><title lang="en">Know More About eMPF[Can]</title></programme>
-<programme start="20260628113000 +0000" stop="20260628113500 +0000" channel="Jade.hk@SD"><title lang="zh">積金講e啲[粵]</title><desc lang="zh">強積金是僱員退休後的保障之一，跟全港打工仔女息息相關。《積金講e啲》由藝員梁敏巧、吳幸美、曾展望、徐榮、鄧凱文、曾錦燊、吳香倫參與演出，以輕鬆手法向強積金計劃的持分者，介紹當局網上平台「積金易」等與強積金相關的實用資訊及注意事項。</desc></programme>
-<programme start="20260628113500 +0000" stop="20260628120000 +0000" channel="Jade.hk@SD"><title lang="en">Scoop[Can]</title></programme>
-<programme start="20260628113500 +0000" stop="20260628120000 +0000" channel="Jade.hk@SD"><title lang="zh">東張西望[粵]</title><desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc></programme>
-<programme start="20260628120000 +0000" stop="20260628140500 +0000" channel="Jade.hk@SD"><title lang="en">Po Chai Pills Presents:Midlife, Sing &amp; Shine! 4[Can]</title></programme>
-<programme start="20260628120000 +0000" stop="20260628140500 +0000" channel="Jade.hk@SD"><title lang="zh">保濟丸130 週年呈獻：中年好聲音4[粵]</title><desc lang="zh">「中一二三助力賽」下半場，以《中年好聲音4》男子組主題曲&lt;男人的浪漫&gt;為賽事預熱。緊接着，眾位師兄、師姐將為同樣未亮相的十三強參賽者助力合唱。所有助力舞台完成後，最低分的選手隨即展開加時PK賽，重新演繹各人於一百強階段的參賽歌曲，評審們會根據表現淘汰一人。本集除了有孫耀威繼續駐任「嘉賓評審」，並負責選出這輪比拼的MVP外，也有前輩主持鄧梓峰、資深DJ李志剛加入「知音人」行列。</desc></programme>
-<programme start="20260628140500 +0000" stop="20260628144500 +0000" channel="Jade.hk@SD"><title lang="en">Europe Watch Company Limited Presents:Star Weekly (Sr.2)[Can]</title></programme>
-<programme start="20260628140500 +0000" stop="20260628144500 +0000" channel="Jade.hk@SD"><title lang="zh">歐洲坊鐘錶呈獻：一周星星[粵]</title><desc lang="zh">黎芷珊終於約到「校長」譚詠麟單獨受訪，校長同時公佈將舉行終極篇巡迴演唱！從溫拿樂隊年代講起，校長稱收入要五人均分實不多，但當年也足以置業？而他亦有投資不同生意，包括石油氣站、廣告、物流車隊！八十年代獨立發展，校長奪獎無數，卻自言宣佈停止領獎後的歌路才廣闊？千禧年代和李克勤合體開騷，只因記者的提問促成？校長一直提攜後輩，寄語大家遵守其「三心兩意」格言，此話何解？他還重提歌唱生涯的一個遺憾，會是甚麼？</desc></programme>
-<programme start="20260628144500 +0000" stop="20260628151500 +0000" channel="Jade.hk@SD"><title lang="en">Gourmet Express Weekly[Can]</title></programme>
-<programme start="20260628144500 +0000" stop="20260628151500 +0000" channel="Jade.hk@SD"><title lang="zh">美食新聞周報[粵]</title><desc lang="zh">行仔相約「星級飯腳」郭偉亮及女團XiX的成員「開餐」，到郭偉亮的愛店品嚐越式法包、河內火車頭湯河粉等越南美食，味道正宗。灣仔的法式甜品店甜點款式繁多，黑檸檬撻與布列塔尼酥餅皆是必吃之選。陳國強師傅帶暉哥到馬來西亞的馬六甲覓食，造訪老字號沙嗲店，細嚐豬肉串燒及豬粉腸等內臟串燒，搭配海南風味秘製沙嗲醬，滋味倍增。深水埗地膽昌哥帶伍倩彤走訪區內多間老店，推介腸粉、桑寄生蓮子蛋茶等美食，滿載回憶的味道。</desc></programme>
-<programme start="20260628151500 +0000" stop="20260628153000 +0000" channel="Jade.hk@SD"><title lang="en">NEWS ROUNDUP[Can]</title></programme>
-<programme start="20260628151500 +0000" stop="20260628153000 +0000" channel="Jade.hk@SD"><title lang="zh">晚間新聞[粵]</title><desc lang="zh">報道本地、兩岸、國際重要新聞以及體育消息，讓你洞悉各地大事及體壇動向。</desc></programme>
-<programme start="20260628153000 +0000" stop="20260628153500 +0000" channel="Jade.hk@SD"><title lang="en">Nong&apos;s Shen Ling Bai Shu San Pres:Weather Report[Can]</title></programme>
-<programme start="20260628153000 +0000" stop="20260628153500 +0000" channel="Jade.hk@SD"><title lang="zh">農本方參苓白朮散呈獻:天氣報告[粵]</title></programme>
-<programme start="20260628153500 +0000" stop="20260628163500 +0000" channel="Jade.hk@SD"><title lang="en">Mission Run#10[Can][PG]</title></programme>
-<programme start="20260628153500 +0000" stop="20260628163500 +0000" channel="Jade.hk@SD"><title lang="zh">廉政狙擊#10[粵][PG]</title><desc lang="zh">寶群到寺廟求問女兒下落，偶遇屠敏，卻沒有認出她。卓廷光派人砍掉阮春海的手，令其作品快速升值。以凡到家晴家看影片，子峰帶著禮物來找家晴，卻在門外聽見二人嬉鬧之聲。曉山陪子峰消遣解愁，曉山對他暗生情愫。</desc></programme>
-<programme start="20260628163500 +0000" stop="20260628171000 +0000" channel="Jade.hk@SD"><title lang="en">Scoop[Can]</title></programme>
-<programme start="20260628163500 +0000" stop="20260628171000 +0000" channel="Jade.hk@SD"><title lang="zh">東張西望[粵]</title><desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc></programme>
-<programme start="20260628171000 +0000" stop="20260628185000 +0000" channel="Jade.hk@SD"><title lang="en">Workplace Newcomers - Season of Traditional Chinese Medicine[Can/Man]</title></programme>
-<programme start="20260628171000 +0000" stop="20260628185000 +0000" channel="Jade.hk@SD"><title lang="zh">初入職場·中醫季[粵/普]</title><desc lang="zh">《初入職場·中醫季》深度聚焦中醫文化，攜手中醫專業人才及中醫助力團一起，通過&quot;潮養生活&quot;與&quot;中醫歷練&quot;，開啟一場年輕態的中醫文化科普之旅。</desc></programme>
-<programme start="20260628185000 +0000" stop="20260628191000 +0000" channel="Jade.hk@SD"><title lang="en">Gigi&apos;s Tasteful Kitchen[Can]</title></programme>
-<programme start="20260628185000 +0000" stop="20260628191000 +0000" channel="Jade.hk@SD"><title lang="zh">Gi味俱全[粵]</title><desc lang="zh">齋是農曆新年的常見菜式，本集Gigi姐會示範烹煮現代版本，例如以前的齋是有髮菜的，但現在因為保護環境而不會再用。而傳統的齋總給人油膩的感覺，Gigi姐教大家挑選比較健康又耐熱的油，最適合用來做這道齋。</desc></programme>
-<programme start="20260628191000 +0000" stop="20260628194000 +0000" channel="Jade.hk@SD"><title lang="en">Sweet Corner[Can]</title></programme>
-<programme start="20260628191000 +0000" stop="20260628194000 +0000" channel="Jade.hk@SD"><title lang="zh">甜心先生[粵]</title><desc lang="zh">阿古(古嘉俊)在復活節示範的一款特色朱古力，曾令譚嘉儀眼界大開。事隔四個月，嘉儀再次「捲土重來」，向他請教更多甜品新創意。阿古當然不會讓她失望而回，選用了兩款破格食材─ 佛手柑與西班牙鼠尾草籽，炮製一款口味創新的「佛手柑士多啤梨白朱古力慕絲蛋糕」。為白朱古力外層加入鼠尾草籽，靈感乃來自奇異果爽脆質感。佛手柑味道苦澀而且帶有微酸，大膽選材竟是為健康著想？就由阿古解讀當中創意構思。</desc></programme>
-<programme start="20260628194000 +0000" stop="20260628200500 +0000" channel="Jade.hk@SD"><title lang="en">Walking Into Blossoms Shanghai[Can]</title></programme>
-<programme start="20260628194000 +0000" stop="20260628200500 +0000" channel="Jade.hk@SD"><title lang="zh">一路繁花[粵]</title><desc lang="zh">子羚、蓓蔚行逛進賢路，《繁花》裡的248號縱找不着，卻有口福可吃到滋味麵食。到訪改建自江南傳統民居的民宿，感受三百年歷史氣息。再於朱家角「掃街」，女主持們暫放下儀態在路旁吃糉。置身劇中「寶總」和「玲子」吃泡飯的地方，細嚐相同的味道。「排骨年糕」是上海人的童年回憶，必試百年老店出品。享用由楊貫一徒弟煮理的二頭吉品鮑，再嚐用牛肉製作的叉燒，矜貴又美味。靖峰獲紅幫裁縫傳人度身定製西裝，限定變身「冼總」。</desc></programme>
-<programme start="20260628200500 +0000" stop="20260628203500 +0000" channel="Jade.hk@SD"><title lang="en">Cook War[Can]</title></programme>
-<programme start="20260628200500 +0000" stop="20260628203500 +0000" channel="Jade.hk@SD"><title lang="zh">煮戰[粵]</title><desc lang="zh">「學院派」大師兄Alan如願向師弟保哥下戰書，二人狹路相逢，誓要煮出感動媽媽的味道！梁芷珮擔任嘉賓評判，一起見證這場同門爭霸。Alan的蹄香夾心咕嚕肉包含甜酸苦辣，體現「媽媽的辛勤」。花膠粥加入黃油雞湯殊不簡單；另有「秘密武器」冰碟作擺盤，保哥怎樣接招？越式蒸腸粉、海鮮酸辣湯滿載着保哥與母親的相處點滴，希望藉着兩道家鄉菜觸動大家。保哥自製小工具在鍋上蒸腸粉，拉粉皮時卻頻頻失手，唯有兵行險着……</desc></programme>
-<programme start="20260628203500 +0000" stop="20260628210000 +0000" channel="Jade.hk@SD"><title lang="en">Cook War[Can]</title></programme>
-<programme start="20260628203500 +0000" stop="20260628210000 +0000" channel="Jade.hk@SD"><title lang="zh">煮戰[粵]</title><desc lang="zh">生力軍嘉星越級挑戰Ricky，兩位西廚以「中菜西做」的方式作比拼。Ricky預告會炮製酥皮楊枝甘露，何以不被幟哥看好？為了解開對陳皮鴨腿湯飯的心結，Ricky無懼扣分，拿出「秘密武器」……一道螢光魷魚涼拌青瓜，嘉星加入混合中西元素的「陳醋珠珠」。另再拌勻帶子、蛋白、牛油，蒸出香滑豆腐的口感。嘉賓張曦雯對各款創新料理甚感滿意，幟哥卻挑剔菜式名稱。新穎的食材配搭，還是煮得貼題，能夠贏得評判們的歡心？</desc></programme>
-<programme start="20260628210000 +0000" stop="20260629050301 +0000" channel="Jade.hk@SD"><title lang="en">Treasures with Bettany Hughes (III)[Can/Eng][PG]</title></programme>
-<programme start="20260628210000 +0000" stop="20260629050301 +0000" channel="Jade.hk@SD"><title lang="zh">文明啟航[粵/英][PG]</title><desc lang="zh">一連六集，歷史學家Bettany Hughes將帶領觀眾踏上另一段令人難忘的人類文明史之旅。</desc></programme>
-<programme start="20260627220000 +0000" stop="20260627230000 +0000" channel="Pearl.hk@SD"><title lang="en">Market Overview[Eng]</title><desc lang="en">Real time Financial Data from Thomson Reuters including HKEX stock prices, Asian Markets indices, and Foreign Exchange rates and Gold prices.</desc></programme>
-<programme start="20260627220000 +0000" stop="20260627230000 +0000" channel="Pearl.hk@SD"><title lang="zh">金融概要[英]</title></programme>
-<programme start="20260627230000 +0000" stop="20260627233000 +0000" channel="Pearl.hk@SD"><title lang="en">New Creation TV[Eng/Can]</title></programme>
-<programme start="20260627230000 +0000" stop="20260627233000 +0000" channel="Pearl.hk@SD"><title lang="zh">新造電視[英/粵]</title></programme>
-<programme start="20260627233000 +0000" stop="20260628000000 +0000" channel="Pearl.hk@SD"><title lang="en">Market Overview[Eng]</title><desc lang="en">Real time Financial Data from Thomson Reuters including HKEX stock prices, Asian Markets indices, and Foreign Exchange rates and Gold prices.</desc></programme>
-<programme start="20260627233000 +0000" stop="20260628000000 +0000" channel="Pearl.hk@SD"><title lang="zh">金融概要[英]</title></programme>
-<programme start="20260628000000 +0000" stop="20260628010000 +0000" channel="Pearl.hk@SD"><title lang="en">Hour of Power[Eng/Can]</title></programme>
-<programme start="20260628000000 +0000" stop="20260628010000 +0000" channel="Pearl.hk@SD"><title lang="zh">權能時間[英/粵]</title></programme>
-<programme start="20260628010000 +0000" stop="20260628013500 +0000" channel="Pearl.hk@SD"><title lang="en">Hong Kong Metropolitan University Special:Knowledge for All[Eng]</title></programme>
-<programme start="20260628010000 +0000" stop="20260628013500 +0000" channel="Pearl.hk@SD"><title lang="zh">香港都會大學提供:知識新天地[英]</title></programme>
-<programme start="20260628013500 +0000" stop="20260628023000 +0000" channel="Pearl.hk@SD"><title lang="en">Hong Kong Metropolitan University Special:Knowledge for All[Eng]</title></programme>
-<programme start="20260628013500 +0000" stop="20260628023000 +0000" channel="Pearl.hk@SD"><title lang="zh">香港都會大學提供:知識新天地[英]</title></programme>
-<programme start="20260628023000 +0000" stop="20260628033500 +0000" channel="Pearl.hk@SD"><title lang="en">Hong Kong Metropolitan University Special:Knowledge for All[Man]</title></programme>
-<programme start="20260628023000 +0000" stop="20260628033500 +0000" channel="Pearl.hk@SD"><title lang="zh">香港都會大學提供:知識新天地[普]</title></programme>
-<programme start="20260628033500 +0000" stop="20260628041000 +0000" channel="Pearl.hk@SD"><title lang="en">Hong Kong Metropolitan University Special:Knowledge for All[Eng]</title></programme>
-<programme start="20260628033500 +0000" stop="20260628041000 +0000" channel="Pearl.hk@SD"><title lang="zh">香港都會大學提供:知識新天地[英]</title></programme>
-<programme start="20260628041000 +0000" stop="20260628050000 +0000" channel="Pearl.hk@SD"><title lang="en">Hong Kong Metropolitan University Special:Knowledge for All[Can]</title></programme>
-<programme start="20260628041000 +0000" stop="20260628050000 +0000" channel="Pearl.hk@SD"><title lang="zh">香港都會大學提供:知識新天地[粵]</title></programme>
-<programme start="20260628050000 +0000" stop="20260628060000 +0000" channel="Pearl.hk@SD"><title lang="en">Spy in the Ocean[Eng]</title><desc lang="en">Our Spies search the ocean for intelligent life and find ways of thinking that must be seen to be believed. Spy Sperm Whale has close encounters with the largest brains on the planet, while Spy Octopus takes us inside the mind of the world&apos;s smartest octopus. A new team of spies will leave you thinking differently about life in the ocean.</desc></programme>
-<programme start="20260628050000 +0000" stop="20260628060000 +0000" channel="Pearl.hk@SD"><title lang="zh">海洋特工隊[英]</title><desc lang="zh">特工搜索海洋智慧生物，發現眼見方能相信的思考方式，抹香鯨特工近距離接觸地球腦袋最大的海洋生物，章魚特工探索世界最聰明的章魚腦袋，全新特工隊將令大家對海洋生物刮目相看。</desc></programme>
-<programme start="20260628060000 +0000" stop="20260628065000 +0000" channel="Pearl.hk@SD"><title lang="en">AFV Animal Edition[Eng]</title><desc lang="en">In this episode, we learn that it is impolite to swim with your mouth open; nostrils are mysterious tunnels of adventure to bees; flamingos are the freshest birds on the continent; hiding in plain sight is sometimes the safest option; a good friend will always catch you when you fall.</desc></programme>
-<programme start="20260628060000 +0000" stop="20260628065000 +0000" channel="Pearl.hk@SD"><title lang="zh">笑笑小電影 動物反斗篇[英]</title><desc lang="zh">本集，我們將領會到，游泳時嘴巴張開沒禮貌；蜜蜂覺得鼻孔是神秘歷險通道；紅鶴是該洲最輕佻的鳥類；最顯而易見的地方最安全；好友總會在你跌倒時扶住你。</desc></programme>
-<programme start="20260628065000 +0000" stop="20260628070000 +0000" channel="Pearl.hk@SD"><title lang="en">Little Big World[Eng]</title></programme>
-<programme start="20260628065000 +0000" stop="20260628070000 +0000" channel="Pearl.hk@SD"><title lang="zh">世界真細小[英]</title></programme>
-<programme start="20260628070000 +0000" stop="20260628073000 +0000" channel="Pearl.hk@SD"><title lang="en">Straight Talk[Eng]</title><desc lang="en">&quot;Can Chinese medicine become a new advantage for Hong Kong?&quot;</desc></programme>
-<programme start="20260628070000 +0000" stop="20260628073000 +0000" channel="Pearl.hk@SD"><title lang="zh">清心直說[英]</title><desc lang="zh">&quot;Can Chinese medicine become a new advantage for Hong Kong?&quot;</desc></programme>
-<programme start="20260628073000 +0000" stop="20260628080000 +0000" channel="Pearl.hk@SD"><title lang="en">Showers of Blessing[Man/Can]</title></programme>
-<programme start="20260628073000 +0000" stop="20260628080000 +0000" channel="Pearl.hk@SD"><title lang="zh">恩雨之聲[普/粵]</title></programme>
-<programme start="20260628080000 +0000" stop="20260628081500 +0000" channel="Pearl.hk@SD"><title lang="en">Peanuts[Eng/Can]</title></programme>
-<programme start="20260628080000 +0000" stop="20260628081500 +0000" channel="Pearl.hk@SD"><title lang="zh">花生動畫[英/粵]</title></programme>
-<programme start="20260628081500 +0000" stop="20260628083000 +0000" channel="Pearl.hk@SD"><title lang="en">Putonghua News Report[Man]</title></programme>
-<programme start="20260628081500 +0000" stop="20260628083000 +0000" channel="Pearl.hk@SD"><title lang="zh">普通話新聞報道[普]</title></programme>
-<programme start="20260628083000 +0000" stop="20260628090000 +0000" channel="Pearl.hk@SD"><title lang="en">Backyard Beats[Eng]</title><desc lang="en">Join Monica as she builds DIY craft-struments from everyday items that can be found in a recycling bin. Along for the ride are Pro Musicians and Junior Jammers who visit the backyard for a jam session. Their instruments are the inspiration for Monica’s craftstruments builds. Each episode concludes with Monica and her friends making some Backyard Beats!</desc></programme>
-<programme start="20260628083000 +0000" stop="20260628090000 +0000" channel="Pearl.hk@SD"><title lang="zh">節拍小天地[英]</title><desc lang="zh">和Monica一起投入《節拍小天地》。她利用環保回收箱中收集的日常物品，自製手工藝樂器。專業音樂家和少年樂手會到節拍小天地中即興表演。他們的樂器是Monica製作的手工藝樂器的靈感來源。</desc></programme>
-<programme start="20260628090000 +0000" stop="20260628093000 +0000" channel="Pearl.hk@SD"><title lang="en">The Tinies[Eng]</title></programme>
-<programme start="20260628090000 +0000" stop="20260628093000 +0000" channel="Pearl.hk@SD"><title lang="zh">創意小豆丁[英]</title></programme>
-<programme start="20260628093000 +0000" stop="20260628100000 +0000" channel="Pearl.hk@SD"><title lang="en">Kids Safari[Eng]</title><desc lang="en">Our beautiful planet is truly a place of wonder – especially if you are eight and ten years old! Join Luca and his sister Melua on a wild journey of discovery as they explore some of the most spectacular places on earth…</desc></programme>
-<programme start="20260628093000 +0000" stop="20260628100000 +0000" channel="Pearl.hk@SD"><title lang="zh">童遊野生世界[英]</title><desc lang="zh">我們的世界多姿多采，奇妙處處，尤其你是8歲以上的小朋友。和Luca和他妹妹Melua一起，踏上野生動物之旅，探索地球一些最壯觀的地方。</desc></programme>
-<programme start="20260628100000 +0000" stop="20260628110000 +0000" channel="Pearl.hk@SD"><title lang="en">Nature&apos;s Greatest Survivors[Eng]</title><desc lang="en">This episode explores some of the toughest environments, like raging rivers, mountainous wilderness and drought-stricken plains - to uncover how earths epic forces have shaped our most astonishing creatures. Discover the ecosystems subject to feast or famine and the strategies animals have evolved to survive there.</desc></programme>
-<programme start="20260628100000 +0000" stop="20260628110000 +0000" channel="Pearl.hk@SD"><title lang="zh">野性生存手冊[英]</title><desc lang="zh">本集探索地球最嚴酷環境，譬如湍河、山區荒野及乾旱平原，揭示地球的強大力量，如何塑造出非凡的生物，發現造成富庶或飢荒的生態系統，及動物為求存而演變出來的策略。</desc></programme>
-<programme start="20260628110000 +0000" stop="20260628113000 +0000" channel="Pearl.hk@SD"><title lang="en">Wild Wonders with Brooke[Eng]</title><desc lang="en">Brooke Carter joins an anti-poaching team in the Zambezi Delta ecosystem, a special place that is teeming with wildlife. After some fitness training, she goes on patrol with the team and is shocked to see some of the snares set up by poachers. She also finds out about some of the things that the team does to protect the wildlife in the area.</desc></programme>
-<programme start="20260628110000 +0000" stop="20260628113000 +0000" channel="Pearl.hk@SD"><title lang="zh">保育童行[英]</title><desc lang="zh">贊比西三角洲是個滿佈野生動物的生態系統。布魯克訪問當地一支反盜獵隊伍，並和他們一起鍛練體能，再出動巡邏，看盜獵者所設置的各種陷阱，並觀摩反盜獵隊員如何反擊。</desc></programme>
-<programme start="20260628113000 +0000" stop="20260628115500 +0000" channel="Pearl.hk@SD"><title lang="en">NEWS AT SEVEN-THIRTY[Eng]</title></programme>
-<programme start="20260628113000 +0000" stop="20260628115500 +0000" channel="Pearl.hk@SD"><title lang="zh">七點半新聞報道[英]</title><desc lang="zh">明珠台每日晚上七時半，以英語報道本地、兩岸及國際重要新聞，讓你洞悉各地大事。</desc></programme>
-<programme start="20260628115500 +0000" stop="20260628120000 +0000" channel="Pearl.hk@SD"><title lang="en">WEATHER REPORT[Eng] and Top 100 National Dishes[Eng]</title></programme>
-<programme start="20260628115500 +0000" stop="20260628120000 +0000" channel="Pearl.hk@SD"><title lang="zh">天氣報告[英] 及 100道風味[英]</title></programme>
-<programme start="20260628120000 +0000" stop="20260628123000 +0000" channel="Pearl.hk@SD"><title lang="en">Extraordinary Animals[Eng]</title><desc lang="en">Australia has been isolated from all other land masses for over thirty million years. Which has resulted in one of the most biodiverse environments on the planet. More than eighty percent of the animals in Australia are found nowhere else on Earth. It is home to some of the most dangerous, adorable and unusual creatures in the world.</desc></programme>
-<programme start="20260628120000 +0000" stop="20260628123000 +0000" channel="Pearl.hk@SD"><title lang="zh">奇珍異獸[英]</title><desc lang="zh">澳洲與其他所有陸地隔絕超過三千萬年。這造就了地球上生物多樣性最豐富的環境之一。澳洲80%以上的動物都是澳洲獨有，在其他地方找不到。這裡是世界上一些最危險、最可愛和最罕見的動物的棲息地。</desc></programme>
-<programme start="20260628123000 +0000" stop="20260628132000 +0000" channel="Pearl.hk@SD"><title lang="en">America&apos;s Funniest Home Videos[Eng]</title><desc lang="en">In this episode, the laughs continue with sessions like Dog Park; montage to remind you of summers gone by; Assignment America; I applaud the effort; funny cat videos; and also find out which of the following clips is going to win 20G tonight: is it A Review from H-Arf, Sister Dissed Her or A Prayer for Puffs?</desc></programme>
-<programme start="20260628123000 +0000" stop="20260628132000 +0000" channel="Pearl.hk@SD"><title lang="zh">笑笑小電影[英]</title><desc lang="zh">本集，繼續笑餐飽，精彩內容包括狗公園；令人回味暑假的蒙太奇；全美大搜查；我讚你努力；搞笑貓咪片，且看今晚誰能贏得二萬大獎，是狗事部評核、卑鄙的姐姐、抑或祈禱得泡芙？</desc></programme>
-<programme start="20260628132000 +0000" stop="20260628133000 +0000" channel="Pearl.hk@SD"><title lang="en">Little Big World[Eng]</title></programme>
-<programme start="20260628132000 +0000" stop="20260628133000 +0000" channel="Pearl.hk@SD"><title lang="zh">世界真細小[英]</title></programme>
-<programme start="20260628133000 +0000" stop="20260628160000 +0000" channel="Pearl.hk@SD"><title lang="en">Studio 930:The Accountant[Eng][PG]</title></programme>
-<programme start="20260628133000 +0000" stop="20260628160000 +0000" channel="Pearl.hk@SD"><title lang="zh">明珠930:暗算[英][PG]</title></programme>
-<programme start="20260628160000 +0000" stop="20260628162000 +0000" channel="Pearl.hk@SD"><title lang="en">NEWS ROUNDUP (PEARL)[Eng]</title></programme>
-<programme start="20260628160000 +0000" stop="20260628162000 +0000" channel="Pearl.hk@SD"><title lang="zh">晚間新聞[英]</title></programme>
-<programme start="20260628162000 +0000" stop="20260628165000 +0000" channel="Pearl.hk@SD"><title lang="en">Extraordinary Animals[Eng]</title><desc lang="en">Australia has been isolated from all other land masses for over thirty million years. Which has resulted in one of the most biodiverse environments on the planet. More than eighty percent of the animals in Australia are found nowhere else on Earth. It is home to some of the most dangerous, adorable and unusual creatures in the world.</desc></programme>
-<programme start="20260628162000 +0000" stop="20260628165000 +0000" channel="Pearl.hk@SD"><title lang="zh">奇珍異獸[英]</title><desc lang="zh">澳洲與其他所有陸地隔絕超過三千萬年。這造就了地球上生物多樣性最豐富的環境之一。澳洲80%以上的動物都是澳洲獨有，在其他地方找不到。這裡是世界上一些最危險、最可愛和最罕見的動物的棲息地。</desc></programme>
-<programme start="20260628165000 +0000" stop="20260628173500 +0000" channel="Pearl.hk@SD"><title lang="en">CHINA 24[Eng]</title></programme>
-<programme start="20260628165000 +0000" stop="20260628173500 +0000" channel="Pearl.hk@SD"><title lang="zh">中國24小時[英]</title></programme>
-<programme start="20260628173500 +0000" stop="20260628180000 +0000" channel="Pearl.hk@SD"><title lang="en">Market Overview[Eng]</title><desc lang="en">Real time Financial Data from Thomson Reuters including HKEX stock prices, Asian Markets indices, and Foreign Exchange rates and Gold prices.</desc></programme>
-<programme start="20260628173500 +0000" stop="20260628180000 +0000" channel="Pearl.hk@SD"><title lang="zh">金融概要[英]</title></programme>
-<programme start="20260628180000 +0000" stop="20260629050301 +0000" channel="Pearl.hk@SD"><title lang="en">Purrfect Night</title></programme>
-<programme start="20260628180000 +0000" stop="20260629050301 +0000" channel="Pearl.hk@SD"><title lang="zh">貓咪小夜曲</title></programme>
-<programme start="20260627220000 +0000" stop="20260627223000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Morning News</title></programme>
-<programme start="20260627220000 +0000" stop="20260627223000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">晨早新聞</title></programme>
-<programme start="20260627223000 +0000" stop="20260627230000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Morning News</title></programme>
-<programme start="20260627223000 +0000" stop="20260627230000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">晨早新聞</title></programme>
-<programme start="20260627230000 +0000" stop="20260627233000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Morning News and Property . hk Presents: Weekend Property Guide</title></programme>
-<programme start="20260627230000 +0000" stop="20260627233000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">晨早新聞 及 宅谷 Property . hk 地產資訊網特約: 周末睇樓團</title></programme>
-<programme start="20260627233000 +0000" stop="20260628000000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Morning News</title></programme>
-<programme start="20260627233000 +0000" stop="20260628000000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">晨早新聞</title></programme>
-<programme start="20260628000000 +0000" stop="20260628003000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Morning News</title></programme>
-<programme start="20260628000000 +0000" stop="20260628003000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">晨早新聞</title></programme>
-<programme start="20260628003000 +0000" stop="20260628010000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Morning News</title></programme>
-<programme start="20260628003000 +0000" stop="20260628010000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">晨早新聞</title></programme>
-<programme start="20260628010000 +0000" stop="20260628013000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and China Skyline and Speaking Up</title></programme>
-<programme start="20260628010000 +0000" stop="20260628013000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 俯瞰神州 及 有理說得清</title></programme>
-<programme start="20260628013000 +0000" stop="20260628020000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Global Snaps and Ma Pak Leung On Kung Pill Presents: Historical Hong Kong and 3-Day Weather Forecast</title></programme>
-<programme start="20260628013000 +0000" stop="20260628020000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 寰宇掠影 及 馬百良安宮牛黃丸呈獻:探古尋源 及 三日天氣預報</title></programme>
-<programme start="20260628020000 +0000" stop="20260628023000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and The Hong Kong Jockey Club Presents: Sportspedia</title></programme>
-<programme start="20260628020000 +0000" stop="20260628023000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 香港賽馬會特約: 運動大本營</title></programme>
-<programme start="20260628023000 +0000" stop="20260628030000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Ma Pak Leung On Kung Pill Presents: Historical Hong Kong</title></programme>
-<programme start="20260628023000 +0000" stop="20260628030000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 馬百良安宮牛黃丸呈獻:探古尋源</title></programme>
-<programme start="20260628030000 +0000" stop="20260628033000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Shining Treasures of China and Global Snaps</title></programme>
-<programme start="20260628030000 +0000" stop="20260628033000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 國寶時刻 及 寰宇掠影</title></programme>
-<programme start="20260628033000 +0000" stop="20260628040000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Speaking Up and 3-Day Weather Forecast</title></programme>
-<programme start="20260628033000 +0000" stop="20260628040000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 有理說得清 及 三日天氣預報</title></programme>
-<programme start="20260628040000 +0000" stop="20260628043000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Noon News and The Hong Kong Jockey Club Presents: Sportspedia</title></programme>
-<programme start="20260628040000 +0000" stop="20260628043000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">午間新聞 及 香港賽馬會特約: 運動大本營</title></programme>
-<programme start="20260628043000 +0000" stop="20260628050000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Noon News and Ma Pak Leung On Kung Pill Presents: Historical Hong Kong</title></programme>
-<programme start="20260628043000 +0000" stop="20260628050000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">午間新聞 及 馬百良安宮牛黃丸呈獻:探古尋源</title></programme>
-<programme start="20260628050000 +0000" stop="20260628053000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and China Skyline and China Wrap</title></programme>
-<programme start="20260628050000 +0000" stop="20260628053000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 俯瞰神州 及 中華掠影</title></programme>
-<programme start="20260628053000 +0000" stop="20260628060000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Global Snaps and 3-Day Weather Forecast</title></programme>
-<programme start="20260628053000 +0000" stop="20260628060000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 寰宇掠影 及 三日天氣預報</title></programme>
-<programme start="20260628060000 +0000" stop="20260628063000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Shining Treasures of China</title></programme>
-<programme start="20260628060000 +0000" stop="20260628063000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 國寶時刻</title></programme>
-<programme start="20260628063000 +0000" stop="20260628070000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Ma Pak Leung On Kung Pill Presents: Historical Hong Kong</title></programme>
-<programme start="20260628063000 +0000" stop="20260628070000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 馬百良安宮牛黃丸呈獻:探古尋源</title></programme>
-<programme start="20260628070000 +0000" stop="20260628073000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and The Hong Kong Jockey Club Presents: Sportspedia</title></programme>
-<programme start="20260628070000 +0000" stop="20260628073000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 香港賽馬會特約: 運動大本營</title></programme>
-<programme start="20260628073000 +0000" stop="20260628080000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Speaking Up and 3-Day Weather Forecast</title></programme>
-<programme start="20260628073000 +0000" stop="20260628080000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 有理說得清 及 三日天氣預報</title></programme>
-<programme start="20260628080000 +0000" stop="20260628083000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Ma Pak Leung On Kung Pill Presents: Historical Hong Kong</title></programme>
-<programme start="20260628080000 +0000" stop="20260628083000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 馬百良安宮牛黃丸呈獻:探古尋源</title></programme>
-<programme start="20260628083000 +0000" stop="20260628090000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and China Skyline and Ma Pak Leung Chicken Essence Presents: Four Seasons Food Therapy</title></programme>
-<programme start="20260628083000 +0000" stop="20260628090000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 俯瞰神州 及 馬百良熬雞精呈獻 : 四季食療</title></programme>
-<programme start="20260628090000 +0000" stop="20260628093000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Global Snaps</title></programme>
-<programme start="20260628090000 +0000" stop="20260628093000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 寰宇掠影</title></programme>
-<programme start="20260628093000 +0000" stop="20260628100000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Shining Treasures of China and 3-Day Weather Forecast</title></programme>
-<programme start="20260628093000 +0000" stop="20260628100000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 國寶時刻 及 三日天氣預報</title></programme>
-<programme start="20260628100000 +0000" stop="20260628103000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and The Hong Kong Jockey Club Presents: Sportspedia</title></programme>
-<programme start="20260628100000 +0000" stop="20260628103000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 香港賽馬會特約: 運動大本營</title></programme>
-<programme start="20260628103000 +0000" stop="20260628110000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News Report with Sign Language</title></programme>
-<programme start="20260628103000 +0000" stop="20260628110000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">手語新聞報道</title></programme>
-<programme start="20260628110000 +0000" stop="20260628113000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Ma Pak Leung On Kung Pill Presents: Historical Hong Kong</title></programme>
-<programme start="20260628110000 +0000" stop="20260628113000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 馬百良安宮牛黃丸呈獻:探古尋源</title></programme>
-<programme start="20260628113000 +0000" stop="20260628120000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">One Hour News at 7:30</title></programme>
-<programme start="20260628113000 +0000" stop="20260628120000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">無綫7:30 一小時新聞</title><desc lang="zh">報道本地、兩岸及國際重要新聞，並提供香港當日天氣情況及預測七日天氣。</desc></programme>
-<programme start="20260628120000 +0000" stop="20260628123000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">China Today and One Hour News at 7:30 and Well Link Life Special: Weather Report</title></programme>
-<programme start="20260628120000 +0000" stop="20260628123000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">時事中國 及 無綫7:30 一小時新聞 及 立橋人壽特約: 天氣報告</title><desc lang="zh">報道本地、兩岸及國際重要新聞，並提供香港當日天氣情況及預測七日天氣。</desc></programme>
-<programme start="20260628123000 +0000" stop="20260628130000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Global Snaps</title></programme>
-<programme start="20260628123000 +0000" stop="20260628130000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 寰宇掠影</title></programme>
-<programme start="20260628130000 +0000" stop="20260628133000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and The Hong Kong Jockey Club Presents: Sportspedia</title></programme>
-<programme start="20260628130000 +0000" stop="20260628133000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 香港賽馬會特約: 運動大本營</title></programme>
-<programme start="20260628133000 +0000" stop="20260628135500 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Well Link Life Special: Weather Report</title></programme>
-<programme start="20260628133000 +0000" stop="20260628135500 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 立橋人壽特約: 天氣報告</title></programme>
-<programme start="20260628135500 +0000" stop="20260628140000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Ma Pak Leung On Kung Pill Presents: Historical Hong Kong</title></programme>
-<programme start="20260628135500 +0000" stop="20260628140000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">馬百良安宮牛黃丸呈獻:探古尋源</title></programme>
-<programme start="20260628140000 +0000" stop="20260628143000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Ma Pak Leung Chicken Essence Presents: Four Seasons Food Therapy</title></programme>
-<programme start="20260628140000 +0000" stop="20260628143000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 馬百良熬雞精呈獻 : 四季食療</title></programme>
-<programme start="20260628143000 +0000" stop="20260628150000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and 3-Day Weather Forecast</title></programme>
-<programme start="20260628143000 +0000" stop="20260628150000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 三日天氣預報</title></programme>
-<programme start="20260628150000 +0000" stop="20260628153000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Late News</title></programme>
-<programme start="20260628150000 +0000" stop="20260628153000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">晚間新聞</title></programme>
-<programme start="20260628153000 +0000" stop="20260628160000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Late News</title></programme>
-<programme start="20260628153000 +0000" stop="20260628160000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">晚間新聞</title></programme>
-<programme start="20260628160000 +0000" stop="20260628163000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Overnight News and The Hong Kong Jockey Club Presents: Sportspedia</title></programme>
-<programme start="20260628160000 +0000" stop="20260628163000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">深宵新聞報道 及 香港賽馬會特約: 運動大本營</title></programme>
-<programme start="20260628163000 +0000" stop="20260628170000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Overnight News and China Skyline and China Today and 3-Day Weather Forecast</title></programme>
-<programme start="20260628163000 +0000" stop="20260628170000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">深宵新聞報道 及 俯瞰神州 及 時事中國 及 三日天氣預報</title></programme>
-<programme start="20260628170000 +0000" stop="20260628173000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Overnight News and Global Snaps</title></programme>
-<programme start="20260628170000 +0000" stop="20260628173000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">深宵新聞報道 及 寰宇掠影</title></programme>
-<programme start="20260628173000 +0000" stop="20260628180000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Overnight News and Historical Hong Kong</title></programme>
-<programme start="20260628173000 +0000" stop="20260628180000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">深宵新聞報道 及 探古尋源</title></programme>
-<programme start="20260628180000 +0000" stop="20260628183000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Overnight News and 3-Day Weather Forecast</title></programme>
-<programme start="20260628180000 +0000" stop="20260628183000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">深宵新聞報道 及 三日天氣預報</title></programme>
-<programme start="20260628183000 +0000" stop="20260628190000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Sunday Report</title></programme>
-<programme start="20260628183000 +0000" stop="20260628190000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">星期日檔案</title><desc lang="zh">《星期日檔案》，每周聚焦於熱門新聞人物，特寫報道；或以人性化角度，透過走訪社會不同階層，不同界別人士，深入探討大眾關切的政治、社會民生等議題。</desc></programme>
-<programme start="20260628190000 +0000" stop="20260628193000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Overnight News</title></programme>
-<programme start="20260628190000 +0000" stop="20260628193000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">深宵新聞報道</title></programme>
-<programme start="20260628193000 +0000" stop="20260628200000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Overnight News and China Skyline and China Today</title></programme>
-<programme start="20260628193000 +0000" stop="20260628200000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">深宵新聞報道 及 俯瞰神州 及 時事中國</title></programme>
-<programme start="20260628200000 +0000" stop="20260628203000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Overnight News and China Wrap</title></programme>
-<programme start="20260628200000 +0000" stop="20260628203000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">深宵新聞報道 及 中華掠影</title></programme>
-<programme start="20260628203000 +0000" stop="20260628210000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">On the Record and 3-Day Weather Forecast</title></programme>
-<programme start="20260628203000 +0000" stop="20260628210000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">講清講楚 及 三日天氣預報</title></programme>
-<programme start="20260628210000 +0000" stop="20260628213000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Overnight News and Global Snaps</title></programme>
-<programme start="20260628210000 +0000" stop="20260628213000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">深宵新聞報道 及 寰宇掠影</title></programme>
-<programme start="20260628213000 +0000" stop="20260629050301 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Overnight News and China Today and The Hong Kong Jockey Club Presents: Sportspedia</title></programme>
-<programme start="20260628213000 +0000" stop="20260629050301 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">深宵新聞報道 及 時事中國 及 香港賽馬會特約: 運動大本營</title></programme>
+<programme start="20260628220000 +0000" stop="20260628223000 +0000" channel="B"><title lang="en">Young And Restless[Can]</title></programme>
+<programme start="20260628220000 +0000" stop="20260628223000 +0000" channel="B"><title lang="zh">#後生仔傾吓偈[粵]</title><desc lang="zh">你分手分得好嗎？嘉賓胡鴻鈞有矛盾位，直接了斷原來未必好？「分手專家」Leonard竟是悲觀主義者， FF各種藉口，另類想法慘被圍攻……感恩系列祖儀，抛開過往憎恨，爽晒！多數情侶再見不是朋友，後生仔要靠自虐方法療傷？文青失戀男子碩藉自閉寫信平伏愁緒；Danny灰到爆炸，聽到鴻鈞唱新歌無限淌淚，慘慘豬。另外，盈盈被當面提起「已讀不回」激起民憤，某人挺身維護，一唱一和甜到漏。尾聲，有鴻鈞勵志歌聲打打氣！</desc></programme>
+<programme start="20260628223000 +0000" stop="20260628230000 +0000" channel="B"><title lang="en">Young And Restless[Can]</title></programme>
+<programme start="20260628223000 +0000" stop="20260628230000 +0000" channel="B"><title lang="zh">#後生仔傾吓偈[粵]</title><desc lang="zh">後生仔細談運氣之說，Bella深信前世今生兼因果；Bonnie試過「逆轉勝」趕上飛機，超Lucky。好運在於心態，吸引力法則或幫到手。幸運王者祖儀逐一重溫好運事件，英超某隊神奇奪冠又關佢事？眾人齊來跟祖儀姐姐唸好運口號，她還有獨門添運小咒語！「科學教派」六號、欣茵、Danny唔信邪，信自己最靠得住。KOL研究轉運方法，祖儀、Bella攜來兩款財運增幅器，聯同欣茵、峰、Sandy輪流開局比試運氣！</desc></programme>
+<programme start="20260628230000 +0000" stop="20260628233000 +0000" channel="B"><title lang="en">Eyes On Concern Groups[Can]</title></programme>
+<programme start="20260628230000 +0000" stop="20260628233000 +0000" channel="B"><title lang="zh">關注關注組[粵]</title><desc lang="zh">這次齊齊關注蛋糕話題，十郎開心分享喜歡的口味，怎料被女主持們同聲嫌棄？嘉雯偏愛「過江龍」千層蛋糕名店，慧儀卻覺得不好吃？上網買蛋糕近年甚為流行，更可要求製作個人專屬的款式，但慧儀、俊其各有不快經歷，美貽還甘付天價收費！焯日、景行隨導師學整餅，分工合作炮製「J2」標誌蛋糕。打拂蛋白步驟，導師卻嫌兩男過份溫柔？焯日為蛋糕唧忌廉時被要求重做，於是帶同導師回大本營時要求眾拍檔即席試做，誰人的表現最好？</desc></programme>
+<programme start="20260628233000 +0000" stop="20260629000000 +0000" channel="B"><title lang="en">Mindfulness Sleep[Can]</title></programme>
+<programme start="20260628233000 +0000" stop="20260629000000 +0000" channel="B"><title lang="zh">夢中·情·人[粵]</title><desc lang="zh">以探索夢境為主題的清談節目，邀請了精神科醫生、心理學家、占卜師、催眠師及解夢師等各範疇的專家，從不同角度認識夢境。每集更會有嘉賓或觀眾提供真實個案，分析夢境內容，解開其夢境之謎。</desc></programme>
+<programme start="20260629000000 +0000" stop="20260629003000 +0000" channel="B"><title lang="en">Gourmet Express[Can]</title></programme>
+<programme start="20260629000000 +0000" stop="20260629003000 +0000" channel="B"><title lang="zh">美食新聞報道[粵]</title><desc lang="zh">陳國強師傅帶暉哥造訪新加坡的老字號潮州餐廳，細嚐地道佳餚。墨魚丸魚麵真材實料、鮮味十足；酸梅鹹菜蒸鯧魚鹹酸與鮮味交融，滋味獨特；溏心鮑魚選用澳洲青邊鮑，軟腍入味，滋味無窮。陳師傅並示範每道菜式的正宗吃法。施焯日、倪嘉雯繼續發掘坪洲美食，走訪永興街一帶多間特色小店，遍嚐鑊氣十足的炒通粉、坊間少見的柚子西多士、食材新鮮的手工薄餅、香脆的南乳芝麻餅，以及口感軟糯的南瓜甜茶粿及雞屎藤茶粿，令人回味。</desc></programme>
+<programme start="20260629003000 +0000" stop="20260629010000 +0000" channel="B"><title lang="en">Ricacorp Properties 45th Anniversary Presents:Property Experts[Can]</title></programme>
+<programme start="20260629003000 +0000" stop="20260629010000 +0000" channel="B"><title lang="zh">利嘉閣地產45周年真盤源特約 :樓計專家[粵]</title><desc lang="zh">樓市向好，九龍灣有兩房呎價重上13,000元，較去年低位升近兩成，是否適合投資放租？茶果嶺有單位執修後再驗樓，客廳仍有「空心磚」，房間牆身有滲水痕跡，怎樣解決？</desc></programme>
+<programme start="20260629010000 +0000" stop="20260629020000 +0000" channel="B"><title lang="en">Inside the Stock Exchange[Can]</title></programme>
+<programme start="20260629010000 +0000" stop="20260629020000 +0000" channel="B"><title lang="zh">交易現場[粵]</title></programme>
+<programme start="20260629020000 +0000" stop="20260629021000 +0000" channel="B"><title lang="en">Morning Market Review[Can]</title></programme>
+<programme start="20260629020000 +0000" stop="20260629021000 +0000" channel="B"><title lang="zh">早市戰報[粵]</title></programme>
+<programme start="20260629021000 +0000" stop="20260629022000 +0000" channel="B"><title lang="en">J.P. Morgan Presents:Warrants Tips *2026[Can]</title></programme>
+<programme start="20260629021000 +0000" stop="20260629022000 +0000" channel="B"><title lang="zh">摩根大通特約 :通悉牛熊[粵]</title></programme>
+<programme start="20260629022000 +0000" stop="20260629034000 +0000" channel="B"><title lang="en">Morning Market Review[Can]</title></programme>
+<programme start="20260629022000 +0000" stop="20260629034000 +0000" channel="B"><title lang="zh">早市戰報[粵]</title></programme>
+<programme start="20260629034000 +0000" stop="20260629041500 +0000" channel="B"><title lang="en">Inside the Stock Exchange[Can]</title></programme>
+<programme start="20260629034000 +0000" stop="20260629041500 +0000" channel="B"><title lang="zh">交易現場[粵]</title></programme>
+<programme start="20260629041500 +0000" stop="20260629051500 +0000" channel="B"><title lang="en">Gold Mask#66[Can/Kor]</title></programme>
+<programme start="20260629041500 +0000" stop="20260629051500 +0000" channel="B"><title lang="zh">黃金面具#66[粵/韓]</title><desc lang="zh">面對真優的死，華英悲傷不已，她領悟了自己的過錯，深深懊悔，決定自首。美淑和惠慶也解開了心中的芥蒂，惠慶說她理解美淑的痛苦，讓美淑感動落淚。東河站在秀妍離職後的空辦公桌前依依不捨，大哲勸東河愛要及時…</desc></programme>
+<programme start="20260629051500 +0000" stop="20260629054500 +0000" channel="B"><title lang="en">Gourmet Express[Can] and Prudential Presents:Yes, Boss.[Can][PG]</title></programme>
+<programme start="20260629051500 +0000" stop="20260629054500 +0000" channel="B"><title lang="zh">美食新聞報道[粵] 及 保誠精選「寵愛寶」呈獻：社畜求生101[粵][PG]</title><desc lang="zh">陳國強師傅帶暉哥造訪新加坡的老字號潮州餐廳，細嚐地道佳餚。墨魚丸魚麵真材實料、鮮味十足；酸梅鹹菜蒸鯧魚鹹酸與鮮味交融，滋味獨特；溏心鮑魚選用澳洲青邊鮑，軟腍入味，滋味無窮。陳師傅並示範每道菜式的正宗吃法。施焯日、倪嘉雯繼續發掘坪洲美食，走訪永興街一帶多間特色小店，遍嚐鑊氣十足的炒通粉、坊間少見的柚子西多士、食材新鮮的手工薄餅、香脆的南乳芝麻餅，以及口感軟糯的南瓜甜茶粿及雞屎藤茶粿，令人回味。</desc></programme>
+<programme start="20260629054500 +0000" stop="20260629061500 +0000" channel="B"><title lang="en">Oriental Watch Co. Ltd. Take Your Time Presents:The Joy Of Nature (Sr.3)[Can]</title></programme>
+<programme start="20260629054500 +0000" stop="20260629061500 +0000" channel="B"><title lang="zh">東方表行 Take Your Time 呈獻:自然系女子旅行[粵]</title><desc lang="zh">林映暉、梁超怡結伴遊韓國濟州，甫到埗就「出浴」，在海景度假村內浸住浴池同享「漂浮早午餐」，份外寫意。F4坐鎮特色農場？原來是黑鼻羊、加洛威角、白臀鹿等四款人氣動物，兩位「迷妹」要「追星」打卡！暉哥餵驢仔飲奶釀「工傷」，卻因禍得福獲Oppa送暖？超怡則被可愛小羊圍住，心花怒放。野火節是當地傳統慶典，兩主持一嚐模擬婚禮美食、試玩紙飛機比賽、DIY海女御守，還化身「火炬手」投入許願巡遊，體驗不一樣文化。</desc></programme>
+<programme start="20260629061500 +0000" stop="20260629064500 +0000" channel="B"><title lang="en">Thai Rogered (Sr.9)[Can]</title></programme>
+<programme start="20260629061500 +0000" stop="20260629064500 +0000" channel="B"><title lang="zh">冲遊泰國9[粵]</title><desc lang="zh">夜市新舊交融，保留了舊遊樂場城堡，配合復古車、大草地等打卡位，成功帶動人潮。逾百個美食攤檔，提供多元化滋味選擇，泰式班戟、港式雞蛋仔、台式花生卷雪糕、「爆芝」粟米粒等街頭小食包羅萬有。炸雞皮、色彩繽紛長薯條，帶來「脆」味驚喜。生蠔、鵝肝炒飯、巨型「火山排骨」、海鮮拼盤，豪氣之選！位於河畔夜市的浪漫餐廳，環境迷人、陳設高雅。不同透明玻璃包廂，結合各地擺設元素，營造不一樣風情，冲哥偕玲玲歎美食與美景。</desc></programme>
+<programme start="20260629064500 +0000" stop="20260629071500 +0000" channel="B"><title lang="en">Hipster Tour - USA[Can]</title></programme>
+<programme start="20260629064500 +0000" stop="20260629071500 +0000" channel="B"><title lang="zh">美國潮什麼[粵]</title><desc lang="zh">梁芷珮認為沒有到過荷里活大道，走過星光大道，看過荷里活電影舉行首映禮的戲院，不算遊過LA，所以她通通做齊！她又參加由私人導遊開辦的「荷里活狗仔隊團」，在車上遠眺名人巨星的家；之後遊覽著名音樂頒獎禮主題博物館，以及集吃、買、欣賞表演於一身的墨西哥街Olvera Street。玩得意猶未盡，她還去到La Jolla Cove沙灘，近距離看看海獅和海豹。</desc></programme>
+<programme start="20260629071500 +0000" stop="20260629075000 +0000" channel="B"><title lang="en">Hipster Tour - USA[Can]</title></programme>
+<programme start="20260629071500 +0000" stop="20260629075000 +0000" channel="B"><title lang="zh">美國潮什麼[粵]</title><desc lang="zh">梁芷珮在LA發現全美國最古老，也是全世界第二舊的紋身工作室，馬上邀導演Ken來一個具代表性的紋身。她又在網上預訂於University Heights的度假屋，裡面設備一應俱全，一晚收費約100美元。其後，她到全加州最大的室內滑板場，參觀經常在荷里活電影擔任替身的滑板教練教學，還購買各式滑板用品。加州一年四季天氣良好，不少潮人喜歡駕駛復古開篷跑車「遊車河」，芷珮決定有樣學樣！</desc></programme>
+<programme start="20260629075000 +0000" stop="20260629082000 +0000" channel="B"><title lang="en">Inside the Stock Exchange[Can]</title></programme>
+<programme start="20260629075000 +0000" stop="20260629082000 +0000" channel="B"><title lang="zh">交易現場[粵]</title></programme>
+<programme start="20260629082000 +0000" stop="20260629085500 +0000" channel="B"><title lang="en">Ricacorp Properties 45th Anniversary Special :Property Today[Can]</title></programme>
+<programme start="20260629082000 +0000" stop="20260629085500 +0000" channel="B"><title lang="zh">利嘉閣地產45周年真盤源特約 :今日有樓睇[粵]</title><desc lang="zh">啟德一個四房單位，以歐式風格作主題，同時透過簡化線條，增添優雅感，效果如何？</desc></programme>
+<programme start="20260629085500 +0000" stop="20260629092500 +0000" channel="B"><title lang="en">Epicurean Girls[Can/Man]</title></programme>
+<programme start="20260629085500 +0000" stop="20260629092500 +0000" channel="B"><title lang="zh">小滋女孩[粵/普]</title><desc lang="zh">中央公園站和美麗島站曾被評為最美麗的地鐵站五強，主持慕名參觀，再品嚐60年歷史老店的特色春捲。日系蛋糕店每天限量供應的「星球哈密瓜」、「一抹森抹茶蛋糕」，選料上乘。高雄小店的招牌「脆皮臭豆腐」炸得講究，入口鬆脆，再吃湯底以47種中藥熬成的「麻辣臭豆腐鴨血火鍋」，廉宜豆腐亦變滋味主食。全台首間日式炸牛排店的「炸霜降牛排」，入口外脆內嫩。加入味噌、大吟釀的「博多牛腸鍋」味美，牛小腸則帶嚼勁。</desc></programme>
+<programme start="20260629092500 +0000" stop="20260629095500 +0000" channel="B"><title lang="en">Gourmet Express[Can]</title></programme>
+<programme start="20260629092500 +0000" stop="20260629095500 +0000" channel="B"><title lang="zh">美食新聞報道[粵]</title><desc lang="zh">陳國強師傅帶暉哥品嚐新加坡南洋風味粵菜。生蠔前菜層次豐富；特色拼盤集齊冷盤、點心、燒味及小炒，包括凍花蟹、菠菜蝦餃、避風塘生蠔等佳餚，驚喜滿載；火焰雪花骨製作工序繁複，蜜汁與椰絲相得益彰，肉質鮮嫩。施焯日帶陳曉彤享用地道泰菜，包括「泰惹味」醉貓炒河、足料蟹肉奄列、酥脆煎蠔餅，以及秘製椰漿芒果糯米飯，味道正宗。施焯日再造訪雞髀專門店，試吃三款大雞髀，包括生炸、沙薑及滷水，各具特色，但同樣肉嫩多汁。</desc></programme>
+<programme start="20260629095500 +0000" stop="20260629103000 +0000" channel="B"><title lang="en">Off the Grid[Can/Man]</title></programme>
+<programme start="20260629095500 +0000" stop="20260629103000 +0000" channel="B"><title lang="zh">出走地圖[粵/普]</title><desc lang="zh">蘇子芸、蕭涵方尋找捷克的秘密！到神秘怪傑出沒的復古酒吧，香水也可變美味甜酒！參觀世界最壯觀而神秘的人骨教堂，華麗展示六萬多具骸骨好震撼！沒有門和按鈕的電梯點玩法？一睹捷克共產時代產物！到波希米亞瑞士國家公園打卡，坐船觀光兼深入森林峽谷秘境，俯瞰最美捷克。品嚐傳統捷克菜，必試燒鹿肉、野豬肉。跟星級主廚學造草莓水餃，又跟鑄幣師自家打造錢幣。盡情血拼啤酒花提煉而成的美肌產品；用金黃啤酒浸浴好幸福！</desc></programme>
+<programme start="20260629103000 +0000" stop="20260629110000 +0000" channel="B"><title lang="en">SIK HO D[Can]</title></programme>
+<programme start="20260629103000 +0000" stop="20260629110000 +0000" channel="B"><title lang="zh">不如食豪D[粵]</title><desc lang="zh">嘉賓林迪安、林沚羿到臨，尚友特地奉上帝王蟹、魚子醬配炸雞，兩道菜皆盛載着父女倆的美味回憶。林氏父女對邪惡食物都缺乏抵抗能力；要炮製皮脆肉嫩的炸雞，從選用麵粉、生粉或薯粉開始已需講究。此外，雞肉炸好後，為何不宜放在任何紙張上？提到電影動作，林爸有份構思的避子彈經典場面令人印象深刻，他卻將功勞歸於導演的新晉拍攝手法！6號亦突然戲癮發作，並於林爸指導兼助演下來一幕即興武術劇場，被對方摔撻落地竟大表舒服？</desc></programme>
+<programme start="20260629110000 +0000" stop="20260629115500 +0000" channel="B"><title lang="en">New Life Begins#1[Can/Man]</title></programme>
+<programme start="20260629110000 +0000" stop="20260629115500 +0000" channel="B"><title lang="zh">川內相親#1[粵/普]</title><desc lang="zh">九川混戰多年，直至新川得勝，訂立和盟，由各川選送適齡女子與新川少主締婚為盟。霽川李薇不情願下入宮參與擢選，故意自貶，希望不會被選中。李薇巧遇兒時玩伴郝葭，二人在宮中闖蕩，最終誤進廚房，遇見六少主尹崢…</desc></programme>
+<programme start="20260629115500 +0000" stop="20260629122500 +0000" channel="B"><title lang="en">Gourmet Express[Can]</title></programme>
+<programme start="20260629115500 +0000" stop="20260629122500 +0000" channel="B"><title lang="zh">美食新聞報道[粵]</title><desc lang="zh">行仔相約「星級飯腳」郭偉亮及女團XiX的成員「開餐」，到郭偉亮的愛店品嚐越南美食，味道正宗。越式法包外脆內軟，餡料豐富；河內火車頭湯河粉，牛骨湯清甜濃郁；下龍灣墨魚餅鮮味十足；香茅豬扒飯，豬扒香脆兼醃得入味。食評家劉晉帶伍倩彤造訪粉嶺的隱世餐廳，享用以番薯入饌的港式西餐，包括內有番薯蓉的西多士、層次豐富的鮮茄醬甘薯焗豬扒飯、真材實料的薑汁甘薯批，還有口感綿密的番薯奶茶，味道充滿驚喜，「薯」不簡單！</desc></programme>
+<programme start="20260629122500 +0000" stop="20260629130000 +0000" channel="B"><title lang="en">Each One&apos;s Solitary Gourmet#2[Can/Jap]</title></programme>
+<programme start="20260629122500 +0000" stop="20260629130000 +0000" channel="B"><title lang="zh">孤獨的美食家們#2[粵/日]</title><desc lang="zh">疲憊的的士司機毛利真一郎在夜班結束後決定去熟悉的食堂享用早餐，恰巧通宵工作過後的五郎也來到同一家店尋求美食。在提供數十種小碟裝菜式的自助食堂中，兩名徹夜未眠的大男人共同細味著最令人安心的住家味道…</desc></programme>
+<programme start="20260629130000 +0000" stop="20260629132000 +0000" channel="B"><title lang="en">Entertainment News (2026 Q2)</title></programme>
+<programme start="20260629130000 +0000" stop="20260629132000 +0000" channel="B"><title lang="zh">娛樂新聞報道</title><desc lang="zh">每晚緊貼香港娛樂圈的消息，以至世界各地的影視娛樂新聞，報道藝人最新動態、劇集和電影宣傳、演唱會精華、頒獎禮盛況等，甚至遠赴外地採訪娛樂盛事、追蹤各地影星，專訪觀眾熟悉的歌、影、視紅人，讓大家瞬間掌握影視娛樂圈的動態和最新消息。</desc></programme>
+<programme start="20260629132000 +0000" stop="20260629133000 +0000" channel="B"><title lang="en">Futu Securities Specials:US Stock Moment[Can] and Prudential Presents:Yes, Boss.[Can]</title></programme>
+<programme start="20260629132000 +0000" stop="20260629133000 +0000" channel="B"><title lang="zh">富途證券特約:牛牛講美股[粵] 及 保誠精選「寵愛寶」呈獻：社畜求生101[粵]</title><desc lang="zh">與富途證券聯手製作的五分鐘美股專題節目，每個美股交易日開市前由專家剖析當天大市動態和走勢，幫助投資者捉緊當前投資機會。</desc></programme>
+<programme start="20260629133000 +0000" stop="20260629143000 +0000" channel="B"><title lang="en">All The Bless[LIVE][Can][PG]</title></programme>
+<programme start="20260629133000 +0000" stop="20260629143000 +0000" channel="B"><title lang="zh">師傅點算[直播][粵][PG]</title><desc lang="zh">緣分，或會悄無聲息地出現，誠心祈求卻又未必能得償所願。In師傅早前走訪台灣不同月老廟，一探尋求真命天子的「規矩」。拜月老還興起新「願望」，買演唱會門票都可求神明保佑？有說命格早注定，且聽嘉寶師傅細談何謂正緣、孽緣。另外，裸泳老師帶來關於緣分與前世今生的故事。</desc></programme>
+<programme start="20260629143000 +0000" stop="20260629153000 +0000" channel="B"><title lang="en">My Family#5[Can][PG]</title></programme>
+<programme start="20260629143000 +0000" stop="20260629153000 +0000" channel="B"><title lang="zh">甜孫爺爺#5[粵][PG]</title><desc lang="zh">逸朗三兄弟在卡拉OK遇思婷與Akubi等人。Akubi逼思婷代她跟朗猜及取他的電話號碼，被逸朗戲弄。泰來訛稱約了友人飲茶，他因右手不停顫抖而不能繫鞋帶。泰來在老人中心看見一群患柏金遜症的老人在做手部運動，他礙於面子而不肯參與。泰來回校，在儲物室找校刊時忘記鑰匙放在哪裡而被困，惶恐不已，幸最後虛驚一場。思婷與好友Wing看划艇練習，Wing趁婷換衣服拍下她的裸照，照片意外掉進逸晞的手提袋中。</desc></programme>
+<programme start="20260629153000 +0000" stop="20260629170000 +0000" channel="B"><title lang="en">Horse Racing - Trackwork[Can][HKJC]</title></programme>
+<programme start="20260629153000 +0000" stop="20260629170000 +0000" channel="B"><title lang="zh">早着先機[粵][馬會]</title></programme>
+<programme start="20260629170000 +0000" stop="20260629173000 +0000" channel="B"><title lang="en">Gourmet Express[Can]</title></programme>
+<programme start="20260629170000 +0000" stop="20260629173000 +0000" channel="B"><title lang="zh">美食新聞報道[粵]</title><desc lang="zh">行仔相約「星級飯腳」郭偉亮及女團XiX的成員「開餐」，到郭偉亮的愛店品嚐越南美食，味道正宗。越式法包外脆內軟，餡料豐富；河內火車頭湯河粉，牛骨湯清甜濃郁；下龍灣墨魚餅鮮味十足；香茅豬扒飯，豬扒香脆兼醃得入味。食評家劉晉帶伍倩彤造訪粉嶺的隱世餐廳，享用以番薯入饌的港式西餐，包括內有番薯蓉的西多士、層次豐富的鮮茄醬甘薯焗豬扒飯、真材實料的薑汁甘薯批，還有口感綿密的番薯奶茶，味道充滿驚喜，「薯」不簡單！</desc></programme>
+<programme start="20260629173000 +0000" stop="20260629173500 +0000" channel="B"><title lang="en">Prudential Presents:Yes, Boss.[Can]</title></programme>
+<programme start="20260629173000 +0000" stop="20260629173500 +0000" channel="B"><title lang="zh">保誠精選「寵愛寶」呈獻：社畜求生101[粵]</title><desc lang="zh">TVB A.I.生成動畫《社畜求生101》故事簡介：警方臥底喵喵阿星為追查離奇失蹤案，潛入「獅人公司」偽裝成普通職員，試圖接近獅子總裁，搜集其犯罪證據。然而，一向智勇雙全的阿星卻完全不懂上班模式，屢屢犯錯，險些被趕出公司。在搭檔肥狗阿花的職場指導下，阿星逐漸領悟社畜求生法則，最終能否步步高升，拉倒獅子王？又能否揭開背後的黑暗真相？</desc></programme>
+<programme start="20260629173500 +0000" stop="20260629174000 +0000" channel="B"><title lang="en">Hit Song For You 2026[Can]</title></programme>
+<programme start="20260629173500 +0000" stop="20260629174000 +0000" channel="B"><title lang="zh">勁歌推介[粵]</title></programme>
+<programme start="20260629174000 +0000" stop="20260629181000 +0000" channel="B"><title lang="en">Entertainment News (2026 Q2)[Can]</title></programme>
+<programme start="20260629174000 +0000" stop="20260629181000 +0000" channel="B"><title lang="zh">娛樂新聞報道[粵]</title><desc lang="zh">每晚緊貼香港娛樂圈的消息，以至世界各地的影視娛樂新聞，報道藝人最新動態、劇集和電影宣傳、演唱會精華、頒獎禮盛況等，甚至遠赴外地採訪娛樂盛事、追蹤各地影星，專訪觀眾熟悉的歌、影、視紅人，讓大家瞬間掌握影視娛樂圈的動態和最新消息。</desc></programme>
+<programme start="20260629181000 +0000" stop="20260629183500 +0000" channel="B"><title lang="en">Epicurean Girls[Can/Man]</title></programme>
+<programme start="20260629181000 +0000" stop="20260629183500 +0000" channel="B"><title lang="zh">小滋女孩[粵/普]</title><desc lang="zh">中央公園站和美麗島站曾被評為最美麗的地鐵站五強，主持慕名參觀，再品嚐60年歷史老店的特色春捲。日系蛋糕店每天限量供應的「星球哈密瓜」、「一抹森抹茶蛋糕」，選料上乘。高雄小店的招牌「脆皮臭豆腐」炸得講究，入口鬆脆，再吃湯底以47種中藥熬成的「麻辣臭豆腐鴨血火鍋」，廉宜豆腐亦變滋味主食。全台首間日式炸牛排店的「炸霜降牛排」，入口外脆內嫩。加入味噌、大吟釀的「博多牛腸鍋」味美，牛小腸則帶嚼勁。</desc></programme>
+<programme start="20260629183500 +0000" stop="20260629193000 +0000" channel="B"><title lang="en">New Life Begins#1[Can/Man]</title></programme>
+<programme start="20260629183500 +0000" stop="20260629193000 +0000" channel="B"><title lang="zh">川內相親#1[粵/普]</title><desc lang="zh">九川混戰多年，直至新川得勝，訂立和盟，由各川選送適齡女子與新川少主締婚為盟。霽川李薇不情願下入宮參與擢選，故意自貶，希望不會被選中。李薇巧遇兒時玩伴郝葭，二人在宮中闖蕩，最終誤進廚房，遇見六少主尹崢…</desc></programme>
+<programme start="20260629193000 +0000" stop="20260630051243 +0000" channel="B"><title lang="en">OT Unlimited</title></programme>
+<programme start="20260629193000 +0000" stop="20260630051243 +0000" channel="B"><title lang="zh">OT無限loop</title><desc lang="zh">每晚深夜，公司仲有邊個未收工？有屋企唔返，咁搏命係愛定係責任？閉路電視全程無間斷直擊，《社畜求生101》主角阿星同阿花捱更抵夜職場血淚史！</desc></programme>
+<programme start="20260628220000 +0000" stop="20260628234000 +0000" channel="Jade.hk@SD"><title lang="en">Good Morning Hong Kong[Can] and Traffic Report[Can]</title></programme>
+<programme start="20260628220000 +0000" stop="20260628234000 +0000" channel="Jade.hk@SD"><title lang="zh">香港早晨[粵] 及 交通消息[粵]</title></programme>
+<programme start="20260628234000 +0000" stop="20260629001000 +0000" channel="Jade.hk@SD"><title lang="en">Good Morning Hong Kong[Can] and Traffic Report[Can]</title></programme>
+<programme start="20260628234000 +0000" stop="20260629001000 +0000" channel="Jade.hk@SD"><title lang="zh">香港早晨[粵] 及 交通消息[粵]</title></programme>
+<programme start="20260629001000 +0000" stop="20260629004000 +0000" channel="Jade.hk@SD"><title lang="en">Good Morning Hong Kong[Can] and Traffic Report[Can]</title></programme>
+<programme start="20260629001000 +0000" stop="20260629004000 +0000" channel="Jade.hk@SD"><title lang="zh">香港早晨[粵] 及 交通消息[粵]</title></programme>
+<programme start="20260629004000 +0000" stop="20260629010000 +0000" channel="Jade.hk@SD"><title lang="en">Good Morning Hong Kong[Can] and The Pride of Hong Kong[Can]</title></programme>
+<programme start="20260629004000 +0000" stop="20260629010000 +0000" channel="Jade.hk@SD"><title lang="zh">香港早晨[粵] 及 香港的驕傲[粵]</title></programme>
+<programme start="20260629010000 +0000" stop="20260629020000 +0000" channel="Jade.hk@SD"><title lang="en">Inside the Stock Exchange[Can]</title></programme>
+<programme start="20260629010000 +0000" stop="20260629020000 +0000" channel="Jade.hk@SD"><title lang="zh">交易現場[粵]</title></programme>
+<programme start="20260629020000 +0000" stop="20260629020500 +0000" channel="Jade.hk@SD"><title lang="en">Hit Song For You 2026[Can]</title></programme>
+<programme start="20260629020000 +0000" stop="20260629020500 +0000" channel="Jade.hk@SD"><title lang="zh">勁歌推介[粵]</title></programme>
+<programme start="20260629020500 +0000" stop="20260629023500 +0000" channel="Jade.hk@SD"><title lang="en">Welcome To The House#129[Can]</title></programme>
+<programme start="20260629020500 +0000" stop="20260629023500 +0000" channel="Jade.hk@SD"><title lang="zh">高朋滿座#129[粵]</title><desc lang="zh">根家成為溢及義的玩樂場所，花求根收留她。三人被花打消了看電影的興致，花突然由房中走出來打掃客廳，原來花自幼便已患上夢遊症。三人乘機作弄花至皮膚敏感，唯有請假休息，但義等人認為又可作重施故技。</desc></programme>
+<programme start="20260629023500 +0000" stop="20260629034000 +0000" channel="Jade.hk@SD"><title lang="en">Story of Kunning Palace#4[Can/Man][PG]</title></programme>
+<programme start="20260629023500 +0000" stop="20260629034000 +0000" channel="Jade.hk@SD"><title lang="zh">命轉皇后#4[粵/普][PG]</title><desc lang="zh">姚惜覺得張遮配不上自己，想要退親，尤月獻計，只要散播張遮命中剋妻的謠言，姚家即可退親，姜雪寧聽後教訓了尤月一頓。姜雪寧讓尤芳吟找許文益買下生絲，靜候時機。周寅之在侯府暗查時，竟發現了平南王的徽記殘片…</desc></programme>
+<programme start="20260629034000 +0000" stop="20260629041500 +0000" channel="Jade.hk@SD"><title lang="en">Inside the Stock Exchange[Can] and Pop Lifestyle Guide (Ad Mag)[Can]</title></programme>
+<programme start="20260629034000 +0000" stop="20260629041500 +0000" channel="Jade.hk@SD"><title lang="zh">交易現場[粵] 及 潮流生活誌之北上睇真D[粵]</title></programme>
+<programme start="20260629041500 +0000" stop="20260629045500 +0000" channel="Jade.hk@SD"><title lang="en">Good Cheap Eats (Sr.2)[Can]</title></programme>
+<programme start="20260629041500 +0000" stop="20260629045500 +0000" channel="Jade.hk@SD"><title lang="zh">食平DD[粵]</title><desc lang="zh">今集肥媽以最實惠的價錢炮製雞翼十吃，並傳授獨門秘訣。土匪雞翼當中所用的調味料是甚麼？三色釀雞翼有何驚喜。將薯片、雞翼共冶一爐的薯片雞翼的好吃程度可想而知。肥媽還會教製Tiramisu雪糕。</desc></programme>
+<programme start="20260629045500 +0000" stop="20260629050000 +0000" channel="Jade.hk@SD"><title lang="en">The Pride of Hong Kong[Can]</title></programme>
+<programme start="20260629045500 +0000" stop="20260629050000 +0000" channel="Jade.hk@SD"><title lang="zh">香港的驕傲[粵]</title></programme>
+<programme start="20260629050000 +0000" stop="20260629052000 +0000" channel="Jade.hk@SD"><title lang="en">NOON NEWS[Can]</title></programme>
+<programme start="20260629050000 +0000" stop="20260629052000 +0000" channel="Jade.hk@SD"><title lang="zh">午間新聞[粵]</title></programme>
+<programme start="20260629052000 +0000" stop="20260629061000 +0000" channel="Jade.hk@SD"><title lang="en">Big City Shop[Can]</title></programme>
+<programme start="20260629052000 +0000" stop="20260629061000 +0000" channel="Jade.hk@SD"><title lang="zh">流行都市[粵]</title><desc lang="zh">塵蟎、寵物等是常見的吸入性致敏原，有機會引起鼻敏感、哮喘等過敏反應。而脫敏治療可逐步改變免疫系統反應，從而減輕症狀。與一般抗敏藥物不同，脫敏治療屬「治本」療法，專科醫生詳述相關資訊。何嘉莉近期再度活躍幕前，她於早前播放的劇集《重案解密》飾演反派，對角色大有發揮感開心。她亦將首次參演舞台劇，直言享受這個新嘗試。嘉莉又分享如何兼顧家庭與事業，以及育兒心得。「睇餸食飯」，陳國賓示範「菠蘿『生』燜牛肉」。</desc></programme>
+<programme start="20260629061000 +0000" stop="20260629065000 +0000" channel="Jade.hk@SD"><title lang="en">The Sooner The Better[Can]</title></programme>
+<programme start="20260629061000 +0000" stop="20260629065000 +0000" channel="Jade.hk@SD"><title lang="zh">早D知早D醫[粵]</title><desc lang="zh">全港估計有150萬人患上不同程度的濕疹，有甚麼先天成因？不少患者因怕副作用而避用類固醇藥育，採用濕裹治療就有助增加類固醇的吸收。另外，中醫師帶來自製止痕噴霧、外用貼與浴球的做法。《中年好聲音》參賽者梁德欣曾經常頭痛與長期低燒而求診，輾轉要看不同專科，後來證實患上紅斑狼瘡症。雖說蝴蝶斑是病症最明顯的皮膚表徵，內科醫生提到判症並非如此單一；醫生指出已有藥物可控制病情，鼓勵患者與病症共存，與「狼」共舞！</desc></programme>
+<programme start="20260629065000 +0000" stop="20260629075000 +0000" channel="Jade.hk@SD"><title lang="en">Catch Me Now#11[Can][PG]</title></programme>
+<programme start="20260629065000 +0000" stop="20260629075000 +0000" channel="Jade.hk@SD"><title lang="zh">原來愛上賊#11[粵][PG]</title><desc lang="zh">蓉蓉送受傷的高哲上船療傷，蓉蓉奇怪高哲為何有槍，眾俠盜只表示蓉蓉要相信高哲。大海剖析江揚師傅為何做賊。江揚得知高哲被槍擊，找蓉蓉套口風。譚彬向江翹表白被拒，明翔目擊經過，更被譚彬發現她對自己有意。高哲向蓉蓉表示不想連累她，蓉蓉以為高哲嫌她無用，兩人冷戰。美莉向蓉蓉講出自己不孕的秘密。美莉升職後巧遇君豪，更應邀用膳，被跟蹤君豪的大海發現。江揚找高哲，直指其口供有疑點，期間殺手出現，被兩人合力擊退。</desc></programme>
+<programme start="20260629075000 +0000" stop="20260629082000 +0000" channel="Jade.hk@SD"><title lang="en">Inside the Stock Exchange[Can]</title></programme>
+<programme start="20260629075000 +0000" stop="20260629082000 +0000" channel="Jade.hk@SD"><title lang="zh">交易現場[粵]</title></programme>
+<programme start="20260629082000 +0000" stop="20260629085000 +0000" channel="Jade.hk@SD"><title lang="en">Kiki &amp; Nuna[Can/Man]</title></programme>
+<programme start="20260629082000 +0000" stop="20260629085000 +0000" channel="Jade.hk@SD"><title lang="zh">Kiki &amp; Nuna 知識寶庫[粵/普]</title><desc lang="zh">在小鎮上生活著六個小朋友，在他們的日常生活中，會遇到形形色色的問題，有朋友之間的情感問題，有生活中的安全問題，有待人處事的行為規範，美妙世界的科學原理...</desc></programme>
+<programme start="20260629085000 +0000" stop="20260629092000 +0000" channel="Jade.hk@SD"><title lang="en">Hands Up[Can]</title></programme>
+<programme start="20260629085000 +0000" stop="20260629092000 +0000" channel="Jade.hk@SD"><title lang="zh">Hands Up[粵]</title><desc lang="zh">編織從一條線開始，一針一線地交織出一個個平面作品，甚至變成立體藝術，到底編織有何魔力？「Kids’ Notes」請來兩位喜好編織的嘉賓，分享箇中樂趣，還帶來一些極具香港本土特色的編織藝術品以供欣賞。應商場的邀請，兩位嘉賓開始接觸街頭編織，由小小的磨菇，到為某個劃定區域完成街頭編織佈置。一路走來縱遇不少困難，但觀眾的讚賞換來巨大滿足感，推動她們尋求更多挑戰，又希望到甚麼海外地方美化「街頭」？</desc></programme>
+<programme start="20260629092000 +0000" stop="20260629095000 +0000" channel="Jade.hk@SD"><title lang="en">New Doraemon (XII)[Can]</title></programme>
+<programme start="20260629092000 +0000" stop="20260629095000 +0000" channel="Jade.hk@SD"><title lang="zh">多啦A夢[粵]</title><desc lang="zh">大雄被胖虎追趕，多啦A夢用「禁止通過裝置」助他脫困，事後卻被濫用為惡作劇的工具。胖妹繪畫搞笑漫畫，但反應不理想，胖虎勒令眾人要笑得真誠，否則飽以老拳，多啦A夢出動法寶「魔術肚子」。</desc></programme>
+<programme start="20260629095000 +0000" stop="20260629100000 +0000" channel="Jade.hk@SD"><title lang="en">FINANCIAL NEWS[Can]</title></programme>
+<programme start="20260629095000 +0000" stop="20260629100000 +0000" channel="Jade.hk@SD"><title lang="zh">財經新聞[粵]</title><desc lang="zh">緊貼市況，逢交易日下午5時50分報道當日本港和外圍股市行情，以及重點財經新聞。</desc></programme>
+<programme start="20260629100000 +0000" stop="20260629102500 +0000" channel="Jade.hk@SD"><title lang="en">Ricacorp Properties 45th Anniversary Special:Property Today[Can] and Pop Lifestyle Guide (Ad Mag)[Can]</title></programme>
+<programme start="20260629100000 +0000" stop="20260629102500 +0000" channel="Jade.hk@SD"><title lang="zh">利嘉閣地產45 周年真盤源特約：今日有樓睇[粵] 及 潮流生活誌之北上睇真D[粵]</title><desc lang="zh">佐敦多個新盤推售，帶動同區二手，個別屋苑樓價，在幾個月內升一成多，升勢能否持續？</desc></programme>
+<programme start="20260629102500 +0000" stop="20260629103000 +0000" channel="Jade.hk@SD"><title lang="en">News Files[Can]</title></programme>
+<programme start="20260629102500 +0000" stop="20260629103000 +0000" channel="Jade.hk@SD"><title lang="zh">新聞檔案[粵]</title></programme>
+<programme start="20260629103000 +0000" stop="20260629111500 +0000" channel="Jade.hk@SD"><title lang="en">NEWS AT 6:30[Can]</title></programme>
+<programme start="20260629103000 +0000" stop="20260629111500 +0000" channel="Jade.hk@SD"><title lang="zh">六點半新聞報道[粵]</title><desc lang="zh">翡翠台每日下午六點半，報道本地、兩岸及國際重要新聞。</desc></programme>
+<programme start="20260629111500 +0000" stop="20260629112500 +0000" channel="Jade.hk@SD"><title lang="en">Global View[Can] and Nong&apos;s Shen Ling Bai Shu San Pres:Weather Report[Can]</title></programme>
+<programme start="20260629111500 +0000" stop="20260629112500 +0000" channel="Jade.hk@SD"><title lang="zh">世界觀[粵] 及 農本方參苓白朮散呈獻:天氣報告[粵]</title></programme>
+<programme start="20260629112500 +0000" stop="20260629113000 +0000" channel="Jade.hk@SD"><title lang="en">Speaking Up[Can]</title></programme>
+<programme start="20260629112500 +0000" stop="20260629113000 +0000" channel="Jade.hk@SD"><title lang="zh">有理說得清[粵]</title></programme>
+<programme start="20260629113000 +0000" stop="20260629113500 +0000" channel="Jade.hk@SD"><title lang="en">Elite HASHTAG HSBC CMB Account Fitness Guide[Can]</title></programme>
+<programme start="20260629113000 +0000" stop="20260629113500 +0000" channel="Jade.hk@SD"><title lang="zh">才駿HASHTAG 滙豐工商金融戶口健康之道[粵]</title><desc lang="zh">《才駿HASHTAG》匯聚各界精英，每周與您分享名家視角、更新市場焦點熱話。</desc></programme>
+<programme start="20260629113500 +0000" stop="20260629120000 +0000" channel="Jade.hk@SD"><title lang="en">Scoop[Can] and The Pride of Hong Kong[Can]</title></programme>
+<programme start="20260629113500 +0000" stop="20260629120000 +0000" channel="Jade.hk@SD"><title lang="zh">東張西望[粵] 及 香港的驕傲[粵]</title><desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc></programme>
+<programme start="20260629120000 +0000" stop="20260629123000 +0000" channel="Jade.hk@SD"><title lang="en">Wong To Yick Wood Lock Medicated Balm Presents:Lo And Behold#2839[Can] and Prudential Presents:Yes, Boss.[Can]</title></programme>
+<programme start="20260629120000 +0000" stop="20260629123000 +0000" channel="Jade.hk@SD"><title lang="zh">黃道益活絡油呈獻：愛． 回家之開心速遞#2839[粵] 及 保誠精選「寵愛寶」呈獻：社畜求生101[粵]</title><desc lang="zh">敢威佩服Coupon女皇，誓要揭開其神秘身分，但差點受騙，幸得天娥及時阻止。力蓮奇怪天娥何以識破騙局，天娥只好託辭圓謊。另一方面，天娥以Coupon女皇身分與金主會面，卻生變故。其後，敢威在公開場合頻頻「失威」，原來天娥受人威脅，被迫搞破壞。天娥本想向敢威坦白身分，但始終不敢，直至從敢佳口中得知一事，並查明屬實，遂有恃無恐，設法為敢威「報仇」，並坦白真相，詎料……</desc></programme>
+<programme start="20260629123000 +0000" stop="20260629133000 +0000" channel="Jade.hk@SD"><title lang="en">Jintan Bifina Si Presents:Deadly Sins#1[Can][PG]</title></programme>
+<programme start="20260629123000 +0000" stop="20260629133000 +0000" channel="Jade.hk@SD"><title lang="zh">森下仁丹Bifina Si 益生菌呈獻：非份之罪#1[粵][PG]</title><desc lang="zh">婦產科醫生康力和外籍妻子白美雅恩愛非常，大女兒康嘉嵐和小女兒康嘉儀是父母的掌上明珠，然而這家人的幸福背後，藏着三位女士無香港身份證的秘密。為保護家庭，康力訂立嚴厲家規要兩姊妹遵守，可是愛自由的嘉嵐偷偷帶嘉儀去酒吧玩，竟遇上警察來查毒品。嘉嵐、嘉儀雖成功逃走，但康力決定軟禁嘉嵐在房。嘉嵐騙嘉儀放自己出房，更偷走康力的現金離家出走。嘉儀因嘉嵐失聯幾天擔心不已，直至看到新聞報道一則無面女屍發現案……</desc></programme>
+<programme start="20260629133000 +0000" stop="20260629140000 +0000" channel="Jade.hk@SD"><title lang="en">Eat Play Travel Presents:Journey to Jianghu (Sr.2)[Can]</title></programme>
+<programme start="20260629133000 +0000" stop="20260629140000 +0000" channel="Jade.hk@SD"><title lang="zh">食玩假期呈獻：江湖見[粵]</title><desc lang="zh">黎耀祥、麥長青(麥包)再結伴闖江湖，旅程由成都展開。在人民公園欣賞長嘴銅壺的茶藝表演後，黎耀祥即場現學耍兩招；園內還可找到現代版「招親」告示。到訪杜甫草堂，參觀重建的「詩聖」茅屋，並吟詩幾句，帶出杜甫生平事跡。登上青城山，勾起黎耀祥參演《笑傲江湖》回憶，還有小說裡與青城派相關的情節。眼前景色秀麗，令麥包感嘆人傑地靈，與作品描繪的陰險爭鬥形成鮮明對比。為體驗成都的煙火氣，兩人一嚐當地美食「串串香」。</desc></programme>
+<programme start="20260629140000 +0000" stop="20260629150000 +0000" channel="Jade.hk@SD"><title lang="en">Coroner&apos;s Diary#11[Can/Man][PG]</title></programme>
+<programme start="20260629140000 +0000" stop="20260629150000 +0000" channel="Jade.hk@SD"><title lang="zh">女法醫解密#11[粵/普][PG]</title><desc lang="zh">燕遲認為殺清璃的兇手是熟悉劇目編排的人，原是雙清班前班主清筠的覃夫人縊亡，秦莞檢驗後發現曼陀羅種子粉，燕遲懷疑清筠、劉仁勵、龐輔良與昔日黃金大劫案有關，夜間再有人唱戲，燕遲等人跟著嘉韵發現溺斃的仁勵。</desc></programme>
+<programme start="20260629150000 +0000" stop="20260629151500 +0000" channel="Jade.hk@SD"><title lang="en">EXTRA[Can] and International News File[Can]</title></programme>
+<programme start="20260629150000 +0000" stop="20260629151500 +0000" channel="Jade.hk@SD"><title lang="zh">娛樂頭條[粵] 及 環球新聞檔案[粵]</title><desc lang="zh">節目主要以當日的娛樂新聞作重點，讓你瞬間掌握影視娛樂圈動態和最新消息，並以「娛樂大事件」、「搶閘頭條」、「出爐猛料」等為主題作頭條新聞式報道。</desc></programme>
+<programme start="20260629151500 +0000" stop="20260629154500 +0000" channel="Jade.hk@SD"><title lang="en">NEWS ROUNDUP[Can]</title></programme>
+<programme start="20260629151500 +0000" stop="20260629154500 +0000" channel="Jade.hk@SD"><title lang="zh">晚間新聞[粵]</title><desc lang="zh">報道本地、兩岸、國際重要新聞以及體育消息，讓你洞悉各地大事及體壇動向。</desc></programme>
+<programme start="20260629154500 +0000" stop="20260629155000 +0000" channel="Jade.hk@SD"><title lang="en">News Files[Can]</title></programme>
+<programme start="20260629154500 +0000" stop="20260629155000 +0000" channel="Jade.hk@SD"><title lang="zh">新聞檔案[粵]</title></programme>
+<programme start="20260629155000 +0000" stop="20260629155500 +0000" channel="Jade.hk@SD"><title lang="en">Nong&apos;s Shen Ling Bai Shu San Pres:Weather Report[Can] and Pop Lifestyle Guide (Ad Mag)[Can]</title></programme>
+<programme start="20260629155000 +0000" stop="20260629155500 +0000" channel="Jade.hk@SD"><title lang="zh">農本方參苓白朮散呈獻:天氣報告[粵] 及 潮流生活誌之北上睇真D[粵]</title></programme>
+<programme start="20260629155500 +0000" stop="20260629170000 +0000" channel="Jade.hk@SD"><title lang="en">EMISSARY#9[Can][PG]</title></programme>
+<programme start="20260629155500 +0000" stop="20260629170000 +0000" channel="Jade.hk@SD"><title lang="zh">獵鷹#9[粵][PG]</title><desc lang="zh">大偉希望戚幹能留任，向郭警司提出自己調往別區被拒。戚幹向游國基手下探問有關白粉案，但其手下全不知情，戚幹、大偉開始懷疑國基。大偉欲找回白粉檔證人，戚幹著他找蛋家文。蛋家文開天殺價，大偉不答應，蛋家文遂告以假線報。劉Sir欲大偉參加旗下專案小組做臥底，搜查大毒梟犯罪證據，大偉認為任務重大未能勝任，但劉Sir不准他推辭。嘉慧服食迷幻藥後神智不清遭人輪姦，激動跳樓身亡，大偉深感毒品禍害，毅然答應當臥底。</desc></programme>
+<programme start="20260629170000 +0000" stop="20260629173500 +0000" channel="Jade.hk@SD"><title lang="en">Scoop[Can]</title></programme>
+<programme start="20260629170000 +0000" stop="20260629173500 +0000" channel="Jade.hk@SD"><title lang="zh">東張西望[粵]</title><desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc></programme>
+<programme start="20260629173500 +0000" stop="20260629182000 +0000" channel="Jade.hk@SD"><title lang="en">Big City Shop[Can]</title></programme>
+<programme start="20260629173500 +0000" stop="20260629182000 +0000" channel="Jade.hk@SD"><title lang="zh">流行都市[粵]</title><desc lang="zh">塵蟎、寵物等是常見的吸入性致敏原，有機會引起鼻敏感、哮喘等過敏反應。而脫敏治療可逐步改變免疫系統反應，從而減輕症狀。與一般抗敏藥物不同，脫敏治療屬「治本」療法，專科醫生詳述相關資訊。何嘉莉近期再度活躍幕前，她於早前播放的劇集《重案解密》飾演反派，對角色大有發揮感開心。她亦將首次參演舞台劇，直言享受這個新嘗試。嘉莉又分享如何兼顧家庭與事業，以及育兒心得。「睇餸食飯」，陳國賓示範「菠蘿『生』燜牛肉」。</desc></programme>
+<programme start="20260629182000 +0000" stop="20260629185000 +0000" channel="Jade.hk@SD"><title lang="en">The Sooner The Better[Can]</title></programme>
+<programme start="20260629182000 +0000" stop="20260629185000 +0000" channel="Jade.hk@SD"><title lang="zh">早D知早D醫[粵]</title><desc lang="zh">全港估計有150萬人患上不同程度的濕疹，有甚麼先天成因？不少患者因怕副作用而避用類固醇藥育，採用濕裹治療就有助增加類固醇的吸收。另外，中醫師帶來自製止痕噴霧、外用貼與浴球的做法。《中年好聲音》參賽者梁德欣曾經常頭痛與長期低燒而求診，輾轉要看不同專科，後來證實患上紅斑狼瘡症。雖說蝴蝶斑是病症最明顯的皮膚表徵，內科醫生提到判症並非如此單一；醫生指出已有藥物可控制病情，鼓勵患者與病症共存，與「狼」共舞！</desc></programme>
+<programme start="20260629185000 +0000" stop="20260629194500 +0000" channel="Jade.hk@SD"><title lang="en">Catch Me Now#11[Can][PG]</title></programme>
+<programme start="20260629185000 +0000" stop="20260629194500 +0000" channel="Jade.hk@SD"><title lang="zh">原來愛上賊#11[粵][PG]</title><desc lang="zh">蓉蓉送受傷的高哲上船療傷，蓉蓉奇怪高哲為何有槍，眾俠盜只表示蓉蓉要相信高哲。大海剖析江揚師傅為何做賊。江揚得知高哲被槍擊，找蓉蓉套口風。譚彬向江翹表白被拒，明翔目擊經過，更被譚彬發現她對自己有意。高哲向蓉蓉表示不想連累她，蓉蓉以為高哲嫌她無用，兩人冷戰。美莉向蓉蓉講出自己不孕的秘密。美莉升職後巧遇君豪，更應邀用膳，被跟蹤君豪的大海發現。江揚找高哲，直指其口供有疑點，期間殺手出現，被兩人合力擊退。</desc></programme>
+<programme start="20260629194500 +0000" stop="20260629201000 +0000" channel="Jade.hk@SD"><title lang="en">Welcome To The House#129[Can]</title></programme>
+<programme start="20260629194500 +0000" stop="20260629201000 +0000" channel="Jade.hk@SD"><title lang="zh">高朋滿座#129[粵]</title><desc lang="zh">根家成為溢及義的玩樂場所，花求根收留她。三人被花打消了看電影的興致，花突然由房中走出來打掃客廳，原來花自幼便已患上夢遊症。三人乘機作弄花至皮膚敏感，唯有請假休息，但義等人認為又可作重施故技。</desc></programme>
+<programme start="20260629201000 +0000" stop="20260629210000 +0000" channel="Jade.hk@SD"><title lang="en">Story of Kunning Palace#4[Can/Man][PG]</title></programme>
+<programme start="20260629201000 +0000" stop="20260629210000 +0000" channel="Jade.hk@SD"><title lang="zh">命轉皇后#4[粵/普][PG]</title><desc lang="zh">姚惜覺得張遮配不上自己，想要退親，尤月獻計，只要散播張遮命中剋妻的謠言，姚家即可退親，姜雪寧聽後教訓了尤月一頓。姜雪寧讓尤芳吟找許文益買下生絲，靜候時機。周寅之在侯府暗查時，竟發現了平南王的徽記殘片…</desc></programme>
+<programme start="20260629210000 +0000" stop="20260630051243 +0000" channel="Jade.hk@SD"><title lang="en">Channel Closed for Maintenance</title></programme>
+<programme start="20260629210000 +0000" stop="20260630051243 +0000" channel="Jade.hk@SD"><title lang="zh">是日播映完畢</title></programme>
+<programme start="20260628220000 +0000" stop="20260628230000 +0000" channel="Pearl.hk@SD"><title lang="zh">金融概要[英]</title></programme>
+<programme start="20260628220000 +0000" stop="20260628230000 +0000" channel="Pearl.hk@SD"><title lang="en">Market Overview[Eng]</title><desc lang="en">Real time Financial Data from Thomson Reuters including HKEX stock prices, Asian Markets indices, and Foreign Exchange rates and Gold prices.</desc></programme>
+<programme start="20260628230000 +0000" stop="20260628233000 +0000" channel="Pearl.hk@SD"><title lang="zh">新造電視[英/粵]</title></programme>
+<programme start="20260628230000 +0000" stop="20260628233000 +0000" channel="Pearl.hk@SD"><title lang="en">New Creation TV[Eng/Can]</title></programme>
+<programme start="20260628233000 +0000" stop="20260629010000 +0000" channel="Pearl.hk@SD"><title lang="zh">金融概要[英]</title></programme>
+<programme start="20260628233000 +0000" stop="20260629010000 +0000" channel="Pearl.hk@SD"><title lang="en">Market Overview[Eng]</title><desc lang="en">Real time Financial Data from Thomson Reuters including HKEX stock prices, Asian Markets indices, and Foreign Exchange rates and Gold prices.</desc></programme>
+<programme start="20260629010000 +0000" stop="20260629011500 +0000" channel="Pearl.hk@SD"><title lang="zh">金融行情[英]</title></programme>
+<programme start="20260629010000 +0000" stop="20260629011500 +0000" channel="Pearl.hk@SD"><title lang="en">Market Update[Eng]</title></programme>
+<programme start="20260629011500 +0000" stop="20260629013000 +0000" channel="Pearl.hk@SD"><title lang="zh">交易直播室[普]</title></programme>
+<programme start="20260629011500 +0000" stop="20260629013000 +0000" channel="Pearl.hk@SD"><title lang="en">Inside Market[Man]</title></programme>
+<programme start="20260629013000 +0000" stop="20260629015000 +0000" channel="Pearl.hk@SD"><title lang="zh">金融行情[英]</title></programme>
+<programme start="20260629013000 +0000" stop="20260629015000 +0000" channel="Pearl.hk@SD"><title lang="en">Market Update[Eng]</title></programme>
+<programme start="20260629015000 +0000" stop="20260629020000 +0000" channel="Pearl.hk@SD"><title lang="zh">財經快訊[普]</title></programme>
+<programme start="20260629015000 +0000" stop="20260629020000 +0000" channel="Pearl.hk@SD"><title lang="en">Financial Express[Man]</title></programme>
+<programme start="20260629020000 +0000" stop="20260629025000 +0000" channel="Pearl.hk@SD"><title lang="zh">金融行情[英]</title></programme>
+<programme start="20260629020000 +0000" stop="20260629025000 +0000" channel="Pearl.hk@SD"><title lang="en">Market Update[Eng]</title></programme>
+<programme start="20260629025000 +0000" stop="20260629030000 +0000" channel="Pearl.hk@SD"><title lang="zh">交易直播室[普]</title></programme>
+<programme start="20260629025000 +0000" stop="20260629030000 +0000" channel="Pearl.hk@SD"><title lang="en">Inside Market[Man]</title></programme>
+<programme start="20260629030000 +0000" stop="20260629040000 +0000" channel="Pearl.hk@SD"><title lang="zh">金融行情[英]</title></programme>
+<programme start="20260629030000 +0000" stop="20260629040000 +0000" channel="Pearl.hk@SD"><title lang="en">Market Update[Eng]</title></programme>
+<programme start="20260629040000 +0000" stop="20260629050000 +0000" channel="Pearl.hk@SD"><title lang="zh">CGTN環球瞭望[英]</title></programme>
+<programme start="20260629040000 +0000" stop="20260629050000 +0000" channel="Pearl.hk@SD"><title lang="en">CGTN Global Watch[Eng]</title></programme>
+<programme start="20260629050000 +0000" stop="20260629053500 +0000" channel="Pearl.hk@SD"><title lang="zh">金融行情[英]</title></programme>
+<programme start="20260629050000 +0000" stop="20260629053500 +0000" channel="Pearl.hk@SD"><title lang="en">Market Update[Eng]</title></programme>
+<programme start="20260629053500 +0000" stop="20260629054000 +0000" channel="Pearl.hk@SD"><title lang="zh">交易直播室[普]</title></programme>
+<programme start="20260629053500 +0000" stop="20260629054000 +0000" channel="Pearl.hk@SD"><title lang="en">Inside Market[Man]</title></programme>
+<programme start="20260629054000 +0000" stop="20260629065500 +0000" channel="Pearl.hk@SD"><title lang="zh">金融行情[英]</title></programme>
+<programme start="20260629054000 +0000" stop="20260629065500 +0000" channel="Pearl.hk@SD"><title lang="en">Market Update[Eng]</title></programme>
+<programme start="20260629065500 +0000" stop="20260629070000 +0000" channel="Pearl.hk@SD"><title lang="zh">財經快訊[普]</title></programme>
+<programme start="20260629065500 +0000" stop="20260629070000 +0000" channel="Pearl.hk@SD"><title lang="en">Financial Express[Man]</title></programme>
+<programme start="20260629070000 +0000" stop="20260629073500 +0000" channel="Pearl.hk@SD"><title lang="zh">金融行情[英]</title></programme>
+<programme start="20260629070000 +0000" stop="20260629073500 +0000" channel="Pearl.hk@SD"><title lang="en">Market Update[Eng]</title></programme>
+<programme start="20260629073500 +0000" stop="20260629074000 +0000" channel="Pearl.hk@SD"><title lang="zh">交易直播室[普]</title></programme>
+<programme start="20260629073500 +0000" stop="20260629074000 +0000" channel="Pearl.hk@SD"><title lang="en">Inside Market[Man]</title></programme>
+<programme start="20260629074000 +0000" stop="20260629081500 +0000" channel="Pearl.hk@SD"><title lang="zh">金融行情[英]</title></programme>
+<programme start="20260629074000 +0000" stop="20260629081500 +0000" channel="Pearl.hk@SD"><title lang="en">Market Update[Eng]</title></programme>
+<programme start="20260629081500 +0000" stop="20260629083000 +0000" channel="Pearl.hk@SD"><title lang="zh">普通話新聞報道[普]</title></programme>
+<programme start="20260629081500 +0000" stop="20260629083000 +0000" channel="Pearl.hk@SD"><title lang="en">Putonghua News Report[Man]</title></programme>
+<programme start="20260629083000 +0000" stop="20260629090000 +0000" channel="Pearl.hk@SD"><title lang="zh">新造電視[英/粵]</title></programme>
+<programme start="20260629083000 +0000" stop="20260629090000 +0000" channel="Pearl.hk@SD"><title lang="en">New Creation TV[Eng/Can]</title></programme>
+<programme start="20260629090000 +0000" stop="20260629092500 +0000" channel="Pearl.hk@SD"><title lang="zh">湯馬仕小火車[英]</title></programme>
+<programme start="20260629090000 +0000" stop="20260629092500 +0000" channel="Pearl.hk@SD"><title lang="en">Thomas &amp; Friends[Eng]</title></programme>
+<programme start="20260629092500 +0000" stop="20260629093000 +0000" channel="Pearl.hk@SD"><title lang="zh">毛絨絨之家[英]</title></programme>
+<programme start="20260629092500 +0000" stop="20260629093000 +0000" channel="Pearl.hk@SD"><title lang="en">Tweedy &amp; Fluff[Eng]</title></programme>
+<programme start="20260629093000 +0000" stop="20260629100000 +0000" channel="Pearl.hk@SD"><title lang="zh">動物DNA[英]</title></programme>
+<programme start="20260629093000 +0000" stop="20260629100000 +0000" channel="Pearl.hk@SD"><title lang="en">Animal DNA[Eng]</title></programme>
+<programme start="20260629100000 +0000" stop="20260629105000 +0000" channel="Pearl.hk@SD"><title lang="zh">笑笑小電影[英]</title><desc lang="zh">本集，繼續笑餐飽，精彩內容包括狗公園；令人回味暑假的蒙太奇；全美大搜查；我讚你努力；搞笑貓咪片，且看今晚誰能贏得二萬大獎，是狗事部評核、卑鄙的姐姐、抑或祈禱得泡芙？</desc></programme>
+<programme start="20260629100000 +0000" stop="20260629105000 +0000" channel="Pearl.hk@SD"><title lang="en">America&apos;s Funniest Home Videos[Eng]</title><desc lang="en">In this episode, the laughs continue with sessions like Dog Park; montage to remind you of summers gone by; Assignment America; I applaud the effort; funny cat videos; and also find out which of the following clips is going to win 20G tonight: is it A Review from H-Arf, Sister Dissed Her or A Prayer for Puffs?</desc></programme>
+<programme start="20260629105000 +0000" stop="20260629110000 +0000" channel="Pearl.hk@SD"><title lang="zh">世界真細小[英]</title></programme>
+<programme start="20260629105000 +0000" stop="20260629110000 +0000" channel="Pearl.hk@SD"><title lang="en">Little Big World[Eng]</title></programme>
+<programme start="20260629110000 +0000" stop="20260629113000 +0000" channel="Pearl.hk@SD"><title lang="zh">奇珍異獸[英]</title><desc lang="zh">澳洲與其他所有陸地隔絕超過三千萬年。這造就了地球上生物多樣性最豐富的環境之一。澳洲80%以上的動物都是澳洲獨有，在其他地方找不到。這裡是世界上一些最危險、最可愛和最罕見的動物的棲息地。</desc></programme>
+<programme start="20260629110000 +0000" stop="20260629113000 +0000" channel="Pearl.hk@SD"><title lang="en">Extraordinary Animals[Eng]</title><desc lang="en">Australia has been isolated from all other land masses for over thirty million years. Which has resulted in one of the most biodiverse environments on the planet. More than eighty percent of the animals in Australia are found nowhere else on Earth. It is home to some of the most dangerous, adorable and unusual creatures in the world.</desc></programme>
+<programme start="20260629113000 +0000" stop="20260629115500 +0000" channel="Pearl.hk@SD"><title lang="zh">七點半新聞報道[英]</title><desc lang="zh">明珠台每日晚上七時半，以英語報道本地、兩岸及國際重要新聞，讓你洞悉各地大事。</desc></programme>
+<programme start="20260629113000 +0000" stop="20260629115500 +0000" channel="Pearl.hk@SD"><title lang="en">NEWS AT SEVEN-THIRTY[Eng]</title></programme>
+<programme start="20260629115500 +0000" stop="20260629120000 +0000" channel="Pearl.hk@SD"><title lang="zh">天氣報告[英] 及 財經消息[英]</title></programme>
+<programme start="20260629115500 +0000" stop="20260629120000 +0000" channel="Pearl.hk@SD"><title lang="en">WEATHER REPORT[Eng] and FINANCIAL REPORT[Eng]</title></programme>
+<programme start="20260629120000 +0000" stop="20260629123000 +0000" channel="Pearl.hk@SD"><title lang="zh">明珠雜誌[英]</title></programme>
+<programme start="20260629120000 +0000" stop="20260629123000 +0000" channel="Pearl.hk@SD"><title lang="en">Pearl Magazine[Eng]</title><desc lang="en">Ethnic minority female graduates often find many challenges to career success in Hong Kong and elsewhere, according to one group helping these women. Pearl Magazine finds out how they must overcome discrimination. / Inflation is hitting the global economy hard. But what issues are Hong Kong people facing?</desc></programme>
+<programme start="20260629123000 +0000" stop="20260629133000 +0000" channel="Pearl.hk@SD"><title lang="zh">細味文明[英/粵]</title><desc lang="zh">加蓬是對比強烈之地：棕櫚海灘、遼闊紅樹林、原始森林與開闊大草原塑造當地人生活。從市場、漁村與森林儀式到稻田、聖地及有大猩猩、大象和海洋生物的國家公園，這國家正努力守護傳統、野生生物與脆弱的自然遺產。</desc></programme>
+<programme start="20260629123000 +0000" stop="20260629133000 +0000" channel="Pearl.hk@SD"><title lang="en">Flavors[Eng/Can]</title><desc lang="en">Gabon emerges as a land of wild contrasts, where palm-fringed beaches, vast mangroves, primal forests and open savannahs shape daily life. From markets, fishing villages and forest rituals to rice fields, sacred landscapes and national parks rich with gorillas, elephants and marine life, the journey reveals a country in transition, striving to protect its traditions, wildlife and fragile natural heritage.</desc></programme>
+<programme start="20260629133000 +0000" stop="20260629152500 +0000" channel="Pearl.hk@SD"><title lang="zh">明珠930:地心探險記[英/粵]</title></programme>
+<programme start="20260629133000 +0000" stop="20260629152500 +0000" channel="Pearl.hk@SD"><title lang="en">Studio 930:Journey to the Center of the Earth[Eng/Can]</title></programme>
+<programme start="20260629152500 +0000" stop="20260629154500 +0000" channel="Pearl.hk@SD"><title lang="zh">晚間新聞[英]</title></programme>
+<programme start="20260629152500 +0000" stop="20260629154500 +0000" channel="Pearl.hk@SD"><title lang="en">NEWS ROUNDUP (PEARL)[Eng]</title></programme>
+<programme start="20260629154500 +0000" stop="20260629161500 +0000" channel="Pearl.hk@SD"><title lang="zh">明珠雜誌[英]</title></programme>
+<programme start="20260629154500 +0000" stop="20260629161500 +0000" channel="Pearl.hk@SD"><title lang="en">Pearl Magazine[Eng]</title><desc lang="en">Ethnic minority female graduates often find many challenges to career success in Hong Kong and elsewhere, according to one group helping these women. Pearl Magazine finds out how they must overcome discrimination. / Inflation is hitting the global economy hard. But what issues are Hong Kong people facing?</desc></programme>
+<programme start="20260629161500 +0000" stop="20260629164500 +0000" channel="Pearl.hk@SD"><title lang="zh">漁樂大冒險[英]</title><desc lang="zh">本集，阿紅和簡恩去尋覓美麗的南方魷魚，繼續完成他們的漁樂清單，他們也會釣牙鱈，然後上泥島煮食， 且看他們能否成功，如願以償。</desc></programme>
+<programme start="20260629161500 +0000" stop="20260629164500 +0000" channel="Pearl.hk@SD"><title lang="en">Red&apos;s Fishing Adventures[Eng]</title><desc lang="en">This time around, Red and Kano are in search of the beautiful southern calamari to tick another species off their bucket list. They&apos;re going to get a few whiting too, and then they&apos;ll plan to get on the Mud Island to cook a little bit. See if they can pull it off and finish what they wish for.</desc></programme>
+<programme start="20260629164500 +0000" stop="20260629173000 +0000" channel="Pearl.hk@SD"><title lang="zh">中國24小時[英]</title></programme>
+<programme start="20260629164500 +0000" stop="20260629173000 +0000" channel="Pearl.hk@SD"><title lang="en">CHINA 24[Eng]</title></programme>
+<programme start="20260629173000 +0000" stop="20260629180000 +0000" channel="Pearl.hk@SD"><title lang="zh">金融概要[英]</title></programme>
+<programme start="20260629173000 +0000" stop="20260629180000 +0000" channel="Pearl.hk@SD"><title lang="en">Market Overview[Eng]</title><desc lang="en">Real time Financial Data from Thomson Reuters including HKEX stock prices, Asian Markets indices, and Foreign Exchange rates and Gold prices.</desc></programme>
+<programme start="20260629180000 +0000" stop="20260630051243 +0000" channel="Pearl.hk@SD"><title lang="zh">貓咪小夜曲</title></programme>
+<programme start="20260629180000 +0000" stop="20260630051243 +0000" channel="Pearl.hk@SD"><title lang="en">Purrfect Night</title></programme>
+<programme start="20260628220000 +0000" stop="20260628223000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Good Morning Hong Kong</title></programme>
+<programme start="20260628220000 +0000" stop="20260628223000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">香港早晨</title></programme>
+<programme start="20260628223000 +0000" stop="20260628230000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Good Morning Hong Kong</title></programme>
+<programme start="20260628223000 +0000" stop="20260628230000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">香港早晨</title></programme>
+<programme start="20260628230000 +0000" stop="20260628233000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Good Morning Hong Kong</title></programme>
+<programme start="20260628230000 +0000" stop="20260628233000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">香港早晨</title></programme>
+<programme start="20260628233000 +0000" stop="20260629000000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Good Morning Hong Kong and Traffic Report</title></programme>
+<programme start="20260628233000 +0000" stop="20260629000000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">香港早晨 及 交通消息</title></programme>
+<programme start="20260629000000 +0000" stop="20260629003000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Good Morning Hong Kong and Traffic Report</title></programme>
+<programme start="20260629000000 +0000" stop="20260629003000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">香港早晨 及 交通消息</title></programme>
+<programme start="20260629003000 +0000" stop="20260629010000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Good Morning Hong Kong and Traffic Report</title></programme>
+<programme start="20260629003000 +0000" stop="20260629010000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">香港早晨 及 交通消息</title></programme>
+<programme start="20260629010000 +0000" stop="20260629013000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and China Skyline and China Wrap</title></programme>
+<programme start="20260629010000 +0000" stop="20260629013000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 俯瞰神州 及 中華掠影</title></programme>
+<programme start="20260629013000 +0000" stop="20260629020000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Market Open and News and 3-Day Weather Forecast</title></programme>
+<programme start="20260629013000 +0000" stop="20260629020000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">開市第一擊 及 新聞報道 及 三日天氣預報</title></programme>
+<programme start="20260629020000 +0000" stop="20260629023000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News</title></programme>
+<programme start="20260629020000 +0000" stop="20260629023000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道</title></programme>
+<programme start="20260629023000 +0000" stop="20260629025500 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Sun Hung Kai Credit Presents: All about Property</title></programme>
+<programme start="20260629023000 +0000" stop="20260629025500 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 新鴻基信貸特約: 港樓 . 講樓</title></programme>
+<programme start="20260629025500 +0000" stop="20260629030000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">International News Files</title></programme>
+<programme start="20260629025500 +0000" stop="20260629030000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">環球新聞檔案</title></programme>
+<programme start="20260629030000 +0000" stop="20260629033000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and News Files</title></programme>
+<programme start="20260629030000 +0000" stop="20260629033000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 新聞檔案</title></programme>
+<programme start="20260629033000 +0000" stop="20260629040000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and 3-Day Weather Forecast and Behind the Headlines</title></programme>
+<programme start="20260629033000 +0000" stop="20260629040000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 三日天氣預報 及 時事通識</title></programme>
+<programme start="20260629040000 +0000" stop="20260629043000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Noon News and Know More About eMPF and Sun Hung Kai Credit Presents: All about Property</title></programme>
+<programme start="20260629040000 +0000" stop="20260629043000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">午間新聞 及 積金講e啲 及 新鴻基信貸特約: 港樓 . 講樓</title></programme>
+<programme start="20260629043000 +0000" stop="20260629050000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Noon News</title></programme>
+<programme start="20260629043000 +0000" stop="20260629050000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">午間新聞</title></programme>
+<programme start="20260629050000 +0000" stop="20260629053000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and China Skyline and China Wrap and Behind the Headlines</title></programme>
+<programme start="20260629050000 +0000" stop="20260629053000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 俯瞰神州 及 中華掠影 及 時事通識</title></programme>
+<programme start="20260629053000 +0000" stop="20260629060000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and 3-Day Weather Forecast</title></programme>
+<programme start="20260629053000 +0000" stop="20260629060000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 三日天氣預報</title></programme>
+<programme start="20260629060000 +0000" stop="20260629063000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and News Files</title></programme>
+<programme start="20260629060000 +0000" stop="20260629063000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 新聞檔案</title></programme>
+<programme start="20260629063000 +0000" stop="20260629070000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Sun Hung Kai Credit Presents: All about Property</title></programme>
+<programme start="20260629063000 +0000" stop="20260629070000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 新鴻基信貸特約: 港樓 . 講樓</title></programme>
+<programme start="20260629070000 +0000" stop="20260629073000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and SZ-HK-SH Market Update and International News Files</title></programme>
+<programme start="20260629070000 +0000" stop="20260629073000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 深港滬快訊 及 環球新聞檔案</title></programme>
+<programme start="20260629073000 +0000" stop="20260629080000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and 3-Day Weather Forecast</title></programme>
+<programme start="20260629073000 +0000" stop="20260629080000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 三日天氣預報</title></programme>
+<programme start="20260629080000 +0000" stop="20260629083000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News</title></programme>
+<programme start="20260629080000 +0000" stop="20260629083000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道</title></programme>
+<programme start="20260629083000 +0000" stop="20260629090000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and China Skyline and China Wrap</title></programme>
+<programme start="20260629083000 +0000" stop="20260629090000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 俯瞰神州 及 中華掠影</title></programme>
+<programme start="20260629090000 +0000" stop="20260629092500 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Sun Hung Kai Credit Presents: All about Property</title></programme>
+<programme start="20260629090000 +0000" stop="20260629092500 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 新鴻基信貸特約: 港樓 . 講樓</title></programme>
+<programme start="20260629092500 +0000" stop="20260629093000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News Files</title></programme>
+<programme start="20260629092500 +0000" stop="20260629093000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞檔案</title></programme>
+<programme start="20260629093000 +0000" stop="20260629100000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Traffic Report and 3-Day Weather Forecast</title></programme>
+<programme start="20260629093000 +0000" stop="20260629100000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 交通消息 及 三日天氣預報</title></programme>
+<programme start="20260629100000 +0000" stop="20260629103000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Traffic Report and Behind the Headlines</title></programme>
+<programme start="20260629100000 +0000" stop="20260629103000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 交通消息 及 時事通識</title></programme>
+<programme start="20260629103000 +0000" stop="20260629110000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News Report with Sign Language</title></programme>
+<programme start="20260629103000 +0000" stop="20260629110000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">手語新聞報道</title></programme>
+<programme start="20260629110000 +0000" stop="20260629113000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Sun Hung Kai Credit Presents: All about Property</title></programme>
+<programme start="20260629110000 +0000" stop="20260629113000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 新鴻基信貸特約: 港樓 . 講樓</title></programme>
+<programme start="20260629113000 +0000" stop="20260629120000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">One Hour News at 7:30</title></programme>
+<programme start="20260629113000 +0000" stop="20260629120000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">無綫7:30 一小時新聞</title><desc lang="zh">報道本地、兩岸及國際重要新聞，並提供香港當日天氣情況及預測七日天氣。</desc></programme>
+<programme start="20260629120000 +0000" stop="20260629122000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">China Today and One Hour News at 7:30</title></programme>
+<programme start="20260629120000 +0000" stop="20260629122000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">時事中國 及 無綫7:30 一小時新聞</title><desc lang="zh">報道本地、兩岸及國際重要新聞，並提供香港當日天氣情況及預測七日天氣。</desc></programme>
+<programme start="20260629122000 +0000" stop="20260629123000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Well Link Life Special: Weather Report and Sun Hung Kai Credit Presents: All about Property</title></programme>
+<programme start="20260629122000 +0000" stop="20260629123000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">立橋人壽特約: 天氣報告 及 新鴻基信貸特約: 港樓 . 講樓</title></programme>
+<programme start="20260629123000 +0000" stop="20260629130000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and PicoLabb Special: Global View</title></programme>
+<programme start="20260629123000 +0000" stop="20260629130000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 PicoLabb 特約: 世界觀</title></programme>
+<programme start="20260629130000 +0000" stop="20260629132000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Major-Country Diplomacy and News Files</title></programme>
+<programme start="20260629130000 +0000" stop="20260629132000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 大國外交 及 新聞檔案</title></programme>
+<programme start="20260629132000 +0000" stop="20260629133000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Futu Securities Specials: US Stock Moment</title></programme>
+<programme start="20260629132000 +0000" stop="20260629133000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">富途證券特約: 牛牛講美股</title><desc lang="zh">與富途證券聯手製作的五分鐘美股專題節目，每個美股交易日開市前由專家剖析當天大市動態和走勢，幫助投資者捉緊當前投資機會。</desc></programme>
+<programme start="20260629133000 +0000" stop="20260629134500 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">A Closer Look</title></programme>
+<programme start="20260629133000 +0000" stop="20260629134500 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">時事多面睇</title></programme>
+<programme start="20260629134500 +0000" stop="20260629135500 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Well Link Life Special: Weather Report and Know More About eMPF</title></programme>
+<programme start="20260629134500 +0000" stop="20260629135500 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 立橋人壽特約: 天氣報告 及 積金講e啲</title></programme>
+<programme start="20260629135500 +0000" stop="20260629140000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">International News Files</title></programme>
+<programme start="20260629135500 +0000" stop="20260629140000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">環球新聞檔案</title></programme>
+<programme start="20260629140000 +0000" stop="20260629143000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and Major-Country Diplomacy and Behind the Headlines</title></programme>
+<programme start="20260629140000 +0000" stop="20260629143000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 大國外交 及 時事通識</title></programme>
+<programme start="20260629143000 +0000" stop="20260629144000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">News and PicoLabb Special: Global View</title></programme>
+<programme start="20260629143000 +0000" stop="20260629144000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">新聞報道 及 PicoLabb 特約: 世界觀</title></programme>
+<programme start="20260629144000 +0000" stop="20260629150000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Global Watch and News and 3-Day Weather Forecast</title></programme>
+<programme start="20260629144000 +0000" stop="20260629150000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">財經多國度 及 新聞報道 及 三日天氣預報</title></programme>
+<programme start="20260629150000 +0000" stop="20260629153000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Late News and Elite HASHTAG HSBC CMB Account Fitness Guide and Major-Country Diplomacy and Sun Hung Kai Credit Presents: All about Property</title></programme>
+<programme start="20260629150000 +0000" stop="20260629153000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">晚間新聞 及 才駿HASHTAG滙豐工商金融戶口健康之道 及 大國外交 及 新鴻基信貸特約: 港樓 . 講樓</title></programme>
+<programme start="20260629153000 +0000" stop="20260629160000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Late News and Behind the Headlines</title></programme>
+<programme start="20260629153000 +0000" stop="20260629160000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">晚間新聞 及 時事通識</title></programme>
+<programme start="20260629160000 +0000" stop="20260629163000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Overnight News and News Files</title></programme>
+<programme start="20260629160000 +0000" stop="20260629163000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">深宵新聞報道 及 新聞檔案</title></programme>
+<programme start="20260629163000 +0000" stop="20260629170000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Overnight News and China Skyline and China Today and 3-Day Weather Forecast</title></programme>
+<programme start="20260629163000 +0000" stop="20260629170000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">深宵新聞報道 及 俯瞰神州 及 時事中國 及 三日天氣預報</title></programme>
+<programme start="20260629170000 +0000" stop="20260629173000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Overnight News and A Closer Look</title></programme>
+<programme start="20260629170000 +0000" stop="20260629173000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">深宵新聞報道 及 時事多面睇</title></programme>
+<programme start="20260629173000 +0000" stop="20260629180000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Overnight News</title></programme>
+<programme start="20260629173000 +0000" stop="20260629180000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">深宵新聞報道</title></programme>
+<programme start="20260629180000 +0000" stop="20260629183000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Overnight News and 3-Day Weather Forecast and PicoLabb Special: Global View</title></programme>
+<programme start="20260629180000 +0000" stop="20260629183000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">深宵新聞報道 及 三日天氣預報 及 PicoLabb 特約: 世界觀</title></programme>
+<programme start="20260629183000 +0000" stop="20260629190000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Ricacorp Properties 45th Anniversary Special: Property Today</title></programme>
+<programme start="20260629183000 +0000" stop="20260629190000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">利嘉閣地產45周年真盤源特約: 今日有樓睇</title><desc lang="zh">住屋與市民生活息息相關，節目為觀眾提供最新樓市成交及市場資訊，每集均設有不同專題，請來專家分享家居保養「小貼士」、講解置業法規。</desc></programme>
+<programme start="20260629190000 +0000" stop="20260629193000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Overnight News and A Closer Look</title></programme>
+<programme start="20260629190000 +0000" stop="20260629193000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">深宵新聞報道 及 時事多面睇</title></programme>
+<programme start="20260629193000 +0000" stop="20260629200000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Overnight News and China Skyline and China Today</title></programme>
+<programme start="20260629193000 +0000" stop="20260629200000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">深宵新聞報道 及 俯瞰神州 及 時事中國</title></programme>
+<programme start="20260629200000 +0000" stop="20260629203000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Overnight News and PicoLabb Special: Global View and China Wrap</title></programme>
+<programme start="20260629200000 +0000" stop="20260629203000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">深宵新聞報道 及 PicoLabb 特約: 世界觀 及 中華掠影</title></programme>
+<programme start="20260629203000 +0000" stop="20260629210000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Ricacorp Properties 45th Anniversary Special: Property Today and 3-Day Weather Forecast</title></programme>
+<programme start="20260629203000 +0000" stop="20260629210000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">利嘉閣地產45周年真盤源特約: 今日有樓睇 及 三日天氣預報</title><desc lang="zh">住屋與市民生活息息相關，節目為觀眾提供最新樓市成交及市場資訊，每集均設有不同專題，請來專家分享家居保養「小貼士」、講解置業法規。</desc></programme>
+<programme start="20260629210000 +0000" stop="20260629213000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Overnight News and A Closer Look</title></programme>
+<programme start="20260629210000 +0000" stop="20260629213000 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">深宵新聞報道 及 時事多面睇</title></programme>
+<programme start="20260629213000 +0000" stop="20260630051243 +0000" channel="TVBNewsChannel.hk@SD"><title lang="en">Overnight News and China Today</title></programme>
+<programme start="20260629213000 +0000" stop="20260630051243 +0000" channel="TVBNewsChannel.hk@SD"><title lang="zh">深宵新聞報道 及 時事中國</title></programme>
 </tv>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260628">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260629">
 <channel id="MiMovilTV.uy@SD"><display-name>Mi Móvil TV</display-name><icon src="https://i.imgur.com/5yJ7CY7.png"/></channel>
 <channel id="Canal12Melo.uy@SD"><display-name>Canal 12 Melo</display-name><icon src="https://i.imgur.com/xwLWoSC.png"/></channel>
 <channel id="Canal4Chuy.uy@SD"><display-name>Canal 4 Chuy</display-name><icon src="https://i.imgur.com/oLKMwgm.png"/></channel>
@@ -53,30 +53,59 @@
 <channel id="MIEM.uy@SD"><display-name>MIEM</display-name><icon src="https://i.imgur.com/4MEN4EI.png"/></channel>
 <channel id="2stzy"><display-name>Inti TV</display-name></channel>
 <channel id="22s13"><display-name>T5 SATELITAL</display-name></channel>
-<programme start="20260628030000 +0000" stop="20260628120000 +0000" channel="ANPITV.uy@SD"><title lang="es">Programación variada familiar</title></programme>
-<programme start="20260628120000 +0000" stop="20260629030000 +0000" channel="ANPITV.uy@SD"><title lang="es">Coctel Tv (repetición)</title></programme>
-<programme start="20260628023000 +0000" stop="20260628033000 +0000" channel="Canal5.uy@SD"><title lang="es">Deporte 5 Mundial</title></programme>
-<programme start="20260628033000 +0000" stop="20260628053000 +0000" channel="Canal5.uy@SD"><title lang="es">Croacia vs Ghana rep.</title></programme>
-<programme start="20260628053000 +0000" stop="20260628073000 +0000" channel="Canal5.uy@SD"><title lang="es">Portugal vs Colombia rep.</title></programme>
-<programme start="20260628073000 +0000" stop="20260628080000 +0000" channel="Canal5.uy@SD"><title lang="es">DW. Enlaces</title></programme>
-<programme start="20260628080000 +0000" stop="20260628090000 +0000" channel="Canal5.uy@SD"><title lang="es">Uruguay por Dentro</title></programme>
-<programme start="20260628090000 +0000" stop="20260628093000 +0000" channel="Canal5.uy@SD"><title lang="es">Historias propias T10</title></programme>
-<programme start="20260628093000 +0000" stop="20260628100000 +0000" channel="Canal5.uy@SD"><title lang="es">Historias Propias T10</title></programme>
-<programme start="20260628100000 +0000" stop="20260628110000 +0000" channel="Canal5.uy@SD"><title lang="es">Agroinforme</title></programme>
-<programme start="20260628110000 +0000" stop="20260628123000 +0000" channel="Canal5.uy@SD"><title lang="es">El Canal de la niñez</title></programme>
-<programme start="20260628123000 +0000" stop="20260628133000 +0000" channel="Canal5.uy@SD"><title lang="es">Baby deportivo</title></programme>
-<programme start="20260628133000 +0000" stop="20260628140000 +0000" channel="Canal5.uy@SD"><title lang="es">Conciencia vial rep.</title></programme>
-<programme start="20260628140000 +0000" stop="20260628150000 +0000" channel="Canal5.uy@SD"><title lang="es">Uruguay por dentro</title></programme>
-<programme start="20260628150000 +0000" stop="20260628160000 +0000" channel="Canal5.uy@SD"><title lang="es">Agroinforme</title></programme>
-<programme start="20260628160000 +0000" stop="20260628170000 +0000" channel="Canal5.uy@SD"><title lang="es">Patrimonio silencioso artistas y sus pueblos</title></programme>
-<programme start="20260628170000 +0000" stop="20260628173000 +0000" channel="Canal5.uy@SD"><title lang="es">Materia prima</title></programme>
-<programme start="20260628173000 +0000" stop="20260628183000 +0000" channel="Canal5.uy@SD"><title lang="es">Arquetipas</title></programme>
-<programme start="20260628183000 +0000" stop="20260628190000 +0000" channel="Canal5.uy@SD"><title lang="es">Con sabor a Santa Fé</title></programme>
-<programme start="20260628190000 +0000" stop="20260628200000 +0000" channel="Canal5.uy@SD"><title lang="es">A fonda</title></programme>
-<programme start="20260628200000 +0000" stop="20260628220000 +0000" channel="Canal5.uy@SD"><title lang="es">Honores policiales</title></programme>
-<programme start="20260628220000 +0000" stop="20260628230000 +0000" channel="Canal5.uy@SD"><title lang="es">Noticias 5 Edición Domingo</title></programme>
-<programme start="20260628230000 +0000" stop="20260628233000 +0000" channel="Canal5.uy@SD"><title lang="es">Historias propias T10</title></programme>
-<programme start="20260628233000 +0000" stop="20260629000000 +0000" channel="Canal5.uy@SD"><title lang="es">Historias propias T10</title></programme>
-<programme start="20260629000000 +0000" stop="20260629010000 +0000" channel="Canal5.uy@SD"><title lang="es">Deportes 5 Mundial</title></programme>
-<programme start="20260629010000 +0000" stop="20260629030000 +0000" channel="Canal5.uy@SD"><title lang="es">La hora de los deportes</title></programme>
+<programme start="20260629030000 +0000" stop="20260629040000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20260629040000 +0000" stop="20260629050000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20260629050000 +0000" stop="20260629060000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20260629060000 +0000" stop="20260629070000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20260629070000 +0000" stop="20260629080000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20260629080000 +0000" stop="20260629090000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20260629090000 +0000" stop="20260629100000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20260629100000 +0000" stop="20260629103000 +0000" channel="22s13"><title lang="es">LO NUESTRO</title></programme>
+<programme start="20260629103000 +0000" stop="20260629110000 +0000" channel="22s13"><title lang="es">AMANECER RURAL</title></programme>
+<programme start="20260629110000 +0000" stop="20260629120000 +0000" channel="22s13"><title lang="es">BUEN DIA NOTICIAS</title></programme>
+<programme start="20260629120000 +0000" stop="20260629130000 +0000" channel="22s13"><title lang="es">BUEN DIA NOTICIAS</title></programme>
+<programme start="20260629130000 +0000" stop="20260629140000 +0000" channel="22s13"><title lang="es">AGENDA</title></programme>
+<programme start="20260629140000 +0000" stop="20260629150000 +0000" channel="22s13"><title lang="es">AGENDA</title></programme>
+<programme start="20260629150000 +0000" stop="20260629160000 +0000" channel="22s13"><title lang="es">47 M</title></programme>
+<programme start="20260629160000 +0000" stop="20260629170000 +0000" channel="22s13"><title lang="es">47 M</title></programme>
+<programme start="20260629170000 +0000" stop="20260629173000 +0000" channel="22s13"><title lang="es">VIVENCIAS</title></programme>
+<programme start="20260629173000 +0000" stop="20260629180000 +0000" channel="22s13"><title lang="es">A TODA COSTA</title></programme>
+<programme start="20260629180000 +0000" stop="20260629190000 +0000" channel="22s13"><title lang="es">MARIA DELIRIO</title></programme>
+<programme start="20260629190000 +0000" stop="20260629200000 +0000" channel="22s13"><title lang="es">MARIA DELIRIO</title></programme>
+<programme start="20260629200000 +0000" stop="20260629210000 +0000" channel="22s13"><title lang="es">AGENDA</title></programme>
+<programme start="20260629210000 +0000" stop="20260629220000 +0000" channel="22s13"><title lang="es">AGENDA</title></programme>
+<programme start="20260629220000 +0000" stop="20260629230000 +0000" channel="22s13"><title lang="es">MOTOR INVISIBLE</title></programme>
+<programme start="20260629230000 +0000" stop="20260630000000 +0000" channel="22s13"><title lang="es">ESTUDIO 360</title></programme>
+<programme start="20260630000000 +0000" stop="20260630010000 +0000" channel="22s13"><title lang="es">ESTUDIO 360</title></programme>
+<programme start="20260630010000 +0000" stop="20260630020000 +0000" channel="22s13"><title lang="es">PRONOSTICO RESERVADO</title></programme>
+<programme start="20260630020000 +0000" stop="20260630023000 +0000" channel="22s13"><title lang="es">EL VIAJERO</title></programme>
+<programme start="20260630023000 +0000" stop="20260630030000 +0000" channel="22s13"><title lang="es">AMIGOS AL VOLANTE</title></programme>
+<programme start="20260629030000 +0000" stop="20260629040000 +0000" channel="Canal5.uy@SD"><title lang="es">Muladar</title></programme>
+<programme start="20260629040000 +0000" stop="20260629043000 +0000" channel="Canal5.uy@SD"><title lang="es">Historias propias con la escena en el alma</title></programme>
+<programme start="20260629043000 +0000" stop="20260629050000 +0000" channel="Canal5.uy@SD"><title lang="es">Historias propias con la escena en el alma Pueblando</title></programme>
+<programme start="20260629050000 +0000" stop="20260629053000 +0000" channel="Canal5.uy@SD"><title lang="es">Pueblando</title></programme>
+<programme start="20260629053000 +0000" stop="20260629060000 +0000" channel="Canal5.uy@SD"><title lang="es">DW. Cultura 21</title></programme>
+<programme start="20260629060000 +0000" stop="20260629063000 +0000" channel="Canal5.uy@SD"><title lang="es">DW. Enlaces</title></programme>
+<programme start="20260629063000 +0000" stop="20260629073000 +0000" channel="Canal5.uy@SD"><title lang="es">Patrimonio silencioso Artistas y sus pueblos</title></programme>
+<programme start="20260629073000 +0000" stop="20260629080000 +0000" channel="Canal5.uy@SD"><title lang="es">Con sabor a Santa Fé</title></programme>
+<programme start="20260629080000 +0000" stop="20260629083000 +0000" channel="Canal5.uy@SD"><title lang="es">El Monitor plástico rep.</title></programme>
+<programme start="20260629083000 +0000" stop="20260629093000 +0000" channel="Canal5.uy@SD"><title lang="es">La ruta de Gardel en Uruguay</title></programme>
+<programme start="20260629093000 +0000" stop="20260629100000 +0000" channel="Canal5.uy@SD"><title lang="es">DW. En forma</title></programme>
+<programme start="20260629100000 +0000" stop="20260629110000 +0000" channel="Canal5.uy@SD"><title lang="es">Noticias 5 primera edición</title></programme>
+<programme start="20260629110000 +0000" stop="20260629130000 +0000" channel="Canal5.uy@SD"><title lang="es">5 Sentidos</title></programme>
+<programme start="20260629130000 +0000" stop="20260629150000 +0000" channel="Canal5.uy@SD"><title lang="es">El Recreo</title></programme>
+<programme start="20260629150000 +0000" stop="20260629160000 +0000" channel="Canal5.uy@SD"><title lang="es">Noticias 5 Segunda Edición</title></programme>
+<programme start="20260629160000 +0000" stop="20260629170000 +0000" channel="Canal5.uy@SD"><title lang="es">Deportes 5</title></programme>
+<programme start="20260629170000 +0000" stop="20260629190000 +0000" channel="Canal5.uy@SD"><title lang="es">Buscadores</title></programme>
+<programme start="20260629190000 +0000" stop="20260629193000 +0000" channel="Canal5.uy@SD"><title lang="es">DW. Cultura 21</title></programme>
+<programme start="20260629193000 +0000" stop="20260629200000 +0000" channel="Canal5.uy@SD"><title lang="es">El canal de la niñez</title></programme>
+<programme start="20260629200000 +0000" stop="20260629213000 +0000" channel="Canal5.uy@SD"><title lang="es">¿Cómo estamos hoy?</title></programme>
+<programme start="20260629213000 +0000" stop="20260629233000 +0000" channel="Canal5.uy@SD"><title lang="es">Noticias 5 Edición Central</title></programme>
+<programme start="20260629233000 +0000" stop="20260630000000 +0000" channel="Canal5.uy@SD"><title lang="es">EPA</title></programme>
+<programme start="20260630000000 +0000" stop="20260630003000 +0000" channel="Canal5.uy@SD"><title lang="es">Deportes 5 Mundial</title></programme>
+<programme start="20260630003000 +0000" stop="20260630010000 +0000" channel="Canal5.uy@SD"><title lang="es">Deportes 5 Mundial</title></programme>
+<programme start="20260630010000 +0000" stop="20260630020000 +0000" channel="Canal5.uy@SD"><title lang="es">Historias propias T10</title></programme>
+<programme start="20260630020000 +0000" stop="20260630023000 +0000" channel="Canal5.uy@SD"><title lang="es">El Monitor plástico rep.</title></programme>
+<programme start="20260630023000 +0000" stop="20260630030000 +0000" channel="Canal5.uy@SD"><title lang="es">DW. Todo deporte</title></programme>
+<programme start="20260318023000 +0000" stop="20270318033000 +0000" channel="Canal8Rivera.uy@SD"><title lang="es">Rivera Noticias</title></programme>
 </tv>
