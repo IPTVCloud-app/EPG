@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260630">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260701">
 <channel id="90"><display-name>Hanacaraka TV</display-name></channel>
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/></channel>
 <channel id="AlJazeera.qa@English"><display-name>Al Jazeera English</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png"/></channel>
@@ -213,29 +213,13 @@
 <channel id="VisionPrime.id@SD"><display-name>Vision Prime</display-name><icon src="https://i.imgur.com/dKnWI2O.png"/></channel>
 <channel id="ZeeBioskop.id@SD"><display-name>Zee Bioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/></channel>
 <channel id="ZooMoo.sg@SD"><display-name>Zoomoo</display-name><icon src="https://i.imgur.com/ciTJrnl.png"/></channel>
-<programme start="20260629170000 +0000" stop="20260629180000 +0000" channel="tvOne.id@SD"><title lang="en">Breaking News</title></programme>
-<programme start="20260629180000 +0000" stop="20260629190000 +0000" channel="tvOne.id@SD"><title lang="en">Kabar Petang</title></programme>
-<programme start="20260629190000 +0000" stop="20260629203000 +0000" channel="tvOne.id@SD"><title lang="en">Apa Kabar Indonesia Malam</title></programme>
-<programme start="20260629203000 +0000" stop="20260629213000 +0000" channel="tvOne.id@SD"><title lang="en">Breaking News</title></programme>
-<programme start="20260629213000 +0000" stop="20260629230000 +0000" channel="tvOne.id@SD"><title lang="en">Kabar Pagi</title></programme>
-<programme start="20260629230000 +0000" stop="20260629233000 +0000" channel="tvOne.id@SD"><title lang="en">Kabar Arena Pagi 2 (L)</title></programme>
-<programme start="20260629233000 +0000" stop="20260630013000 +0000" channel="tvOne.id@SD"><title lang="en">Apa Kabar Indonesia Pagi (L)</title></programme>
-<programme start="20260630013000 +0000" stop="20260630020000 +0000" channel="tvOne.id@SD"><title lang="en">Hidup Sehat</title></programme>
-<programme start="20260630020000 +0000" stop="20260630023000 +0000" channel="tvOne.id@SD"><title lang="en">Breaking News</title></programme>
-<programme start="20260630023000 +0000" stop="20260630033000 +0000" channel="tvOne.id@SD"><title lang="en">Pagi-Pagi Seru</title></programme>
-<programme start="20260630033000 +0000" stop="20260630040000 +0000" channel="tvOne.id@SD"><title lang="en">Metropolitan</title></programme>
-<programme start="20260630040000 +0000" stop="20260630053000 +0000" channel="tvOne.id@SD"><title lang="en">Kabar Siang (L)</title></programme>
-<programme start="20260630053000 +0000" stop="20260630063000 +0000" channel="tvOne.id@SD"><title lang="en">Breaking News (L)</title></programme>
-<programme start="20260630063000 +0000" stop="20260630073000 +0000" channel="tvOne.id@SD"><title lang="en">Apa Kabar Indonesia Siang (L)</title></programme>
-<programme start="20260630073000 +0000" stop="20260630080000 +0000" channel="tvOne.id@SD"><title lang="en">Kabar Bola Dunia</title></programme>
-<programme start="20260630080000 +0000" stop="20260630083000 +0000" channel="tvOne.id@SD"><title lang="en">Kabar Merah Putih</title></programme>
-<programme start="20260630083000 +0000" stop="20260630090000 +0000" channel="tvOne.id@SD"><title lang="en">Berita Utama Kriminal</title></programme>
-<programme start="20260630090000 +0000" stop="20260630110000 +0000" channel="tvOne.id@SD"><title lang="en">Kabar Petang (L)</title></programme>
-<programme start="20260630110000 +0000" stop="20260630124500 +0000" channel="tvOne.id@SD"><title lang="en">Apa Kabar Indonesia Malam (L)</title></programme>
-<programme start="20260630124500 +0000" stop="20260630130000 +0000" channel="tvOne.id@SD"><title lang="en">Kabar Terkini</title></programme>
-<programme start="20260630130000 +0000" stop="20260630140000 +0000" channel="tvOne.id@SD"><title lang="en">Catatan Demokrasi</title></programme>
-<programme start="20260630140000 +0000" stop="20260630153000 +0000" channel="tvOne.id@SD"><title lang="en">Kabar Utama 2 (L)</title></programme>
-<programme start="20260630153000 +0000" stop="20260630160000 +0000" channel="tvOne.id@SD"><title lang="en">Pesta Sepakbola</title></programme>
-<programme start="20260630160000 +0000" stop="20260630163000 +0000" channel="tvOne.id@SD"><title lang="en">Kabar Hari Ini</title></programme>
-<programme start="20260630163000 +0000" stop="20260630170000 +0000" channel="tvOne.id@SD"><title lang="en">Kabar Arena Malam</title></programme>
+<programme start="20260630170000 +0000" stop="20260630200000 +0000" channel="ZeeBioskop.id@SD"><title lang="en">Udta Punjab</title></programme>
+<programme start="20260630200000 +0000" stop="20260630230000 +0000" channel="ZeeBioskop.id@SD"><title lang="en">Jabariya Jodi</title></programme>
+<programme start="20260630230000 +0000" stop="20260701013000 +0000" channel="ZeeBioskop.id@SD"><title lang="en">Ek Aur Ek Gyarah</title></programme>
+<programme start="20260701013000 +0000" stop="20260701020000 +0000" channel="ZeeBioskop.id@SD"><title lang="en">Song Fillers</title></programme>
+<programme start="20260701020000 +0000" stop="20260701050000 +0000" channel="ZeeBioskop.id@SD"><title lang="en">Khichdi 2: Paanthukistan</title></programme>
+<programme start="20260701050000 +0000" stop="20260701080000 +0000" channel="ZeeBioskop.id@SD"><title lang="en">Jabariya Jodi</title></programme>
+<programme start="20260701080000 +0000" stop="20260701110000 +0000" channel="ZeeBioskop.id@SD"><title lang="en">Udta Punjab</title></programme>
+<programme start="20260701110000 +0000" stop="20260701140000 +0000" channel="ZeeBioskop.id@SD"><title lang="en">Sooryavanshi</title></programme>
+<programme start="20260701140000 +0000" stop="20260701170000 +0000" channel="ZeeBioskop.id@SD"><title lang="en">Singham Again</title></programme>
 </tv>
