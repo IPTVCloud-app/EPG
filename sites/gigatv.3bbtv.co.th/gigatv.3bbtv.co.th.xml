@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260701">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260702">
 <channel id="2"><display-name>NBT</display-name></channel>
 <channel id="ThaiPBS.th@SD"><display-name>ThaiPBS</display-name><icon src="https://i.imgur.com/CwalZjr.png"/></channel>
 <channel id="ALTV.th@SD"><display-name>ALTV</display-name><icon src="https://i.imgur.com/MCbCSWv.png"/></channel>
@@ -78,350 +78,61 @@
 <channel id="DLTV14.th@SD"><display-name>DLTV 14</display-name><icon src="https://i.imgur.com/HOjZRNS.png"/></channel>
 <channel id="DLTV15.th@SD"><display-name>DLTV 15</display-name><icon src="https://i.imgur.com/onJi2b6.png"/></channel>
 <channel id="ETV.th@SD"><display-name>ETV</display-name><icon src="https://i.imgur.com/HTnQGcs.png"/></channel>
-<programme start="20260701010000 +0000" stop="20260701030000 +0000" channel="101"><title lang="th">OH! MY SWEET LIAR! วาดรักลิขิตหัวใจ (ตอน 11-12)</title></programme>
-<programme start="20260701030000 +0000" stop="20260701050000 +0000" channel="101"><title lang="th">THE BLUE WHISPER ทาสปีศาจ (ตอน 29-30)</title></programme>
-<programme start="20260701050000 +0000" stop="20260701070000 +0000" channel="101"><title lang="th">PRINCESS AT LARGE SEASON 3 พระชายาลอยนวล ปี 3 ( ตอน 13-15)</title></programme>
-<programme start="20260701070000 +0000" stop="20260701090000 +0000" channel="101"><title lang="th">WHISPER OF FATE อสิธารา ชะตามังกร (ตอน 35-36)</title></programme>
-<programme start="20260701090000 +0000" stop="20260701110000 +0000" channel="101"><title lang="th">RISK LUST LOVE ฟางเล่นไฟ (ตอน 1-2)</title></programme>
-<programme start="20260701110000 +0000" stop="20260701130000 +0000" channel="101"><title lang="th">ETERNAL LOVE สามชาติสามภพ ป่าท้อสิบหลี่ (ตอน 39-40)</title></programme>
-<programme start="20260701130000 +0000" stop="20260701150000 +0000" channel="101"><title lang="th">LOST ROMANCE พลิกบทร้ายให้กลายเป็นรัก (ตอน 5-6)</title></programme>
-<programme start="20260701150000 +0000" stop="20260701170000 +0000" channel="101"><title lang="th">PRINCESS AT LARGE SEASON 3 พระชายาลอยนวล ปี 3 ( ตอน 13-15)</title></programme>
-<programme start="20260701170000 +0000" stop="20260701190000 +0000" channel="101"><title lang="th">OH! MY SWEET LIAR! วาดรักลิขิตหัวใจ (ตอน 11-12)</title></programme>
-<programme start="20260701190000 +0000" stop="20260701210000 +0000" channel="101"><title lang="th">ETERNAL LOVE สามชาติสามภพ ป่าท้อสิบหลี่ (ตอน 39-40)</title></programme>
-<programme start="20260701210000 +0000" stop="20260701230000 +0000" channel="101"><title lang="th">RISK LUST LOVE ฟางเล่นไฟ (ตอน 1-2)</title></programme>
-<programme start="20260701230000 +0000" stop="20260702010000 +0000" channel="101"><title lang="th">WHISPER OF FATE อสิธารา ชะตามังกร (ตอน 35-36)</title></programme>
-<programme start="20260701001500 +0000" stop="20260701023000 +0000" channel="107"><title lang="th">BURY MY HEART AT WOUNDED KNEE ฝังหัวใจข้าไว้ที่วูนเด็ดนี</title></programme>
-<programme start="20260701023000 +0000" stop="20260701041500 +0000" channel="107"><title lang="th">ALONG CAME A SPIDER ฝ่าแผนนรก ซ้อนนรก</title></programme>
-<programme start="20260701041500 +0000" stop="20260701055000 +0000" channel="107"><title lang="th">JURASSIC PARK III จูราสสิค พาร์ค 3</title></programme>
-<programme start="20260701055000 +0000" stop="20260701073500 +0000" channel="107"><title lang="th">HIGH ROLLERS แผนปล้นคนหักเหลี่ยม: ทะลวงกาสิโนเดือด</title></programme>
-<programme start="20260701073500 +0000" stop="20260701091500 +0000" channel="107"><title lang="th">TOO BIG TO FAIL ใหญ่เกินกว่าจะล้ม</title></programme>
-<programme start="20260701091500 +0000" stop="20260701105500 +0000" channel="107"><title lang="th">THE GATHERING STORM เดอะ แกเตอริ่ง สตอร์ม</title></programme>
-<programme start="20260701105500 +0000" stop="20260701123500 +0000" channel="107"><title lang="th">CLEAR HISTORY แสบกับพี่ต้องมีเคลียร์</title></programme>
-<programme start="20260701123500 +0000" stop="20260701140000 +0000" channel="107"><title lang="th">THE LOVE GURU</title></programme>
-<programme start="20260701140000 +0000" stop="20260701154500 +0000" channel="107"><title lang="th">MAN WITH NO PAST ชายผู้ไร้อดีต</title></programme>
-<programme start="20260701154500 +0000" stop="20260701173500 +0000" channel="107"><title lang="th">SALEM&apos;S LOT ท้าสู้ผีนรก</title></programme>
-<programme start="20260701173500 +0000" stop="20260701190500 +0000" channel="107"><title lang="th">ARCADIAN อาร์คาเดียน</title></programme>
-<programme start="20260701190500 +0000" stop="20260701204000 +0000" channel="107"><title lang="th">ALARUM คู่เดือดโคตรคนระห่ำ</title></programme>
-<programme start="20260701204000 +0000" stop="20260701221500 +0000" channel="107"><title lang="th">PU-239 พลูโทเนียม</title></programme>
-<programme start="20260701221500 +0000" stop="20260701235000 +0000" channel="107"><title lang="th">TOO BIG TO FAIL ใหญ่เกินกว่าจะล้ม</title></programme>
-<programme start="20260701235000 +0000" stop="20260702013500 +0000" channel="107"><title lang="th">ALONG CAME A SPIDER ฝ่าแผนนรก ซ้อนนรก</title></programme>
-<programme start="20260701000000 +0000" stop="20260701020000 +0000" channel="109"><title lang="th">CITY OF LIES ทูพัค บิ๊กกี้ คดีไม่เงียบ</title></programme>
-<programme start="20260701020000 +0000" stop="20260701040000 +0000" channel="109"><title lang="th">SHUT IN หลอนเป็น หลอนตาย</title></programme>
-<programme start="20260701040000 +0000" stop="20260701060000 +0000" channel="109"><title lang="th">DIRECT CONTACT สัญญาฆ่าล้างโคตรทรชน</title></programme>
-<programme start="20260701060000 +0000" stop="20260701080000 +0000" channel="109"><title lang="th">KILL THE MESSENGER คนข่าว โค่นทำเนียบ</title></programme>
-<programme start="20260701080000 +0000" stop="20260701100000 +0000" channel="109"><title lang="th">KRAKEN เลื้อยสยอง 20000 โยชน์</title></programme>
-<programme start="20260701100000 +0000" stop="20260701120000 +0000" channel="109"><title lang="th">HOW I SPENT MY SUMMER VACATION คนมหากาฬระอุ</title></programme>
-<programme start="20260701120000 +0000" stop="20260701140000 +0000" channel="109"><title lang="th">INVINCIBLE SWORDSMAN เดชคัมภีร์เทวดา</title></programme>
-<programme start="20260701140000 +0000" stop="20260701160000 +0000" channel="109"><title lang="th">CYBER HEIST ล่าอาชญากรไซเบอร์</title></programme>
-<programme start="20260701160000 +0000" stop="20260701180000 +0000" channel="109"><title lang="th">THE ORDER คนอึดล่าขุมทรัพย์ครูเสด</title></programme>
-<programme start="20260701180000 +0000" stop="20260701200000 +0000" channel="109"><title lang="th">KILL THE MESSENGER คนข่าว โค่นทำเนียบ</title></programme>
-<programme start="20260701200000 +0000" stop="20260701220000 +0000" channel="109"><title lang="th">KRAKEN เลื้อยสยอง 20000 โยชน์</title></programme>
-<programme start="20260701220000 +0000" stop="20260702000000 +0000" channel="109"><title lang="th">HOW I SPENT MY SUMMER VACATION คนมหากาฬระอุ</title></programme>
-<programme start="20260701010000 +0000" stop="20260701030000 +0000" channel="202"><title lang="th">SELECTED (Rerun)</title></programme>
-<programme start="20260701030000 +0000" stop="20260701050000 +0000" channel="202"><title lang="th">YOUNGSTER Variety (Rerun)</title></programme>
-<programme start="20260701050000 +0000" stop="20260701070000 +0000" channel="202"><title lang="th">YOUNGSTER Variety (Rerun)</title></programme>
-<programme start="20260701070000 +0000" stop="20260701090000 +0000" channel="202"><title lang="th">SELECTED (Rerun)</title></programme>
-<programme start="20260701090000 +0000" stop="20260701110000 +0000" channel="202"><title lang="th">YOUNGSTER Variety (Rerun)</title></programme>
-<programme start="20260701110000 +0000" stop="20260701130000 +0000" channel="202"><title lang="th">YOUNGSTER Variety (LIVE)</title></programme>
-<programme start="20260701130000 +0000" stop="20260701150000 +0000" channel="202"><title lang="th">SELECTED</title></programme>
-<programme start="20260701150000 +0000" stop="20260701170000 +0000" channel="202"><title lang="th">YOUNGSTER Variety</title></programme>
-<programme start="20260701170000 +0000" stop="20260701190000 +0000" channel="202"><title lang="th">YOUNGSTER Variety (Rerun)</title></programme>
-<programme start="20260701190000 +0000" stop="20260701210000 +0000" channel="202"><title lang="th">SELECTED (Rerun)</title></programme>
-<programme start="20260701210000 +0000" stop="20260701230000 +0000" channel="202"><title lang="th">YOUNGSTER Variety (Rerun)</title></programme>
-<programme start="20260701230000 +0000" stop="20260702010000 +0000" channel="202"><title lang="th">YOUNGSTER Variety (Rerun)</title></programme>
-<programme start="20260701020000 +0000" stop="20260701024500 +0000" channel="203"><title lang="th">RUSH Live</title></programme>
-<programme start="20260701024500 +0000" stop="20260701031500 +0000" channel="203"><title lang="th">RUSH Fashion</title></programme>
-<programme start="20260701031500 +0000" stop="20260701033000 +0000" channel="203"><title lang="th">RUSH Variety</title></programme>
-<programme start="20260701033000 +0000" stop="20260701080000 +0000" channel="203"><title lang="th">RUSH Fashion</title></programme>
-<programme start="20260701080000 +0000" stop="20260701084500 +0000" channel="203"><title lang="th">RUSH Live</title></programme>
-<programme start="20260701084500 +0000" stop="20260701091500 +0000" channel="203"><title lang="th">RUSH Fashion</title></programme>
-<programme start="20260701091500 +0000" stop="20260701093000 +0000" channel="203"><title lang="th">RUSH Variety</title></programme>
-<programme start="20260701093000 +0000" stop="20260701140000 +0000" channel="203"><title lang="th">RUSH Fashion</title></programme>
-<programme start="20260701140000 +0000" stop="20260701144500 +0000" channel="203"><title lang="th">RUSH Live</title></programme>
-<programme start="20260701144500 +0000" stop="20260701151500 +0000" channel="203"><title lang="th">RUSH Fashion</title></programme>
-<programme start="20260701151500 +0000" stop="20260701153000 +0000" channel="203"><title lang="th">RUSH Variety</title></programme>
-<programme start="20260701153000 +0000" stop="20260701170000 +0000" channel="203"><title lang="th">RUSH Fashion</title></programme>
-<programme start="20260701170000 +0000" stop="20260701211500 +0000" channel="203"><title lang="th">RUSH Fashion</title></programme>
-<programme start="20260701211500 +0000" stop="20260701213000 +0000" channel="203"><title lang="th">RUSH Variety</title></programme>
-<programme start="20260701213000 +0000" stop="20260702020000 +0000" channel="203"><title lang="th">RUSH Fashion</title></programme>
-<programme start="20260701000200 +0000" stop="20260701002000 +0000" channel="207"><title lang="th">การ์ตูน</title></programme>
-<programme start="20260701002000 +0000" stop="20260701003400 +0000" channel="207"><title lang="th">การ์ตูน</title></programme>
-<programme start="20260701003400 +0000" stop="20260701013200 +0000" channel="207"><title lang="th">ละครโทรทัศน์</title></programme>
-<programme start="20260701013200 +0000" stop="20260701023500 +0000" channel="207"><title lang="th">ละครโทรทัศน์</title></programme>
-<programme start="20260701023500 +0000" stop="20260701032500 +0000" channel="207"><title lang="th">ละครโทรทัศน์</title></programme>
-<programme start="20260701032500 +0000" stop="20260701041000 +0000" channel="207"><title lang="th">ละครโทรทัศน์</title></programme>
-<programme start="20260701041000 +0000" stop="20260701043200 +0000" channel="207"><title lang="th">ข่าวกับนูน</title></programme>
-<programme start="20260701043200 +0000" stop="20260701043800 +0000" channel="207"><title lang="th">พยาการณ์อากาศ</title></programme>
-<programme start="20260701043800 +0000" stop="20260701055400 +0000" channel="207"><title lang="th">ละครโทรทัศน์</title></programme>
-<programme start="20260701055400 +0000" stop="20260701064900 +0000" channel="207"><title lang="th">ละครโทรทัศน์</title></programme>
-<programme start="20260701064900 +0000" stop="20260701073000 +0000" channel="207"><title lang="th">ละครโทรทัศน์</title></programme>
-<programme start="20260701073000 +0000" stop="20260701081900 +0000" channel="207"><title lang="th">ละครโทรทัศน์</title></programme>
-<programme start="20260701081900 +0000" stop="20260701090800 +0000" channel="207"><title lang="th">ละครโทรทัศน์</title></programme>
-<programme start="20260701090800 +0000" stop="20260701095400 +0000" channel="207"><title lang="th">ละครโทรทัศน์</title></programme>
-<programme start="20260701095400 +0000" stop="20260701103000 +0000" channel="207"><title lang="th">รายการทีวีโชว์</title></programme>
-<programme start="20260701103000 +0000" stop="20260701105600 +0000" channel="207"><title lang="th">ข่าว หูหนาน</title></programme>
-<programme start="20260701105600 +0000" stop="20260701110000 +0000" channel="207"><title lang="th">พยาการณ์อากาศ</title></programme>
-<programme start="20260701110000 +0000" stop="20260701113300 +0000" channel="207"><title lang="th">ข่าว CCTV</title></programme>
-<programme start="20260701113300 +0000" stop="20260701120700 +0000" channel="207"><title lang="th">รายการทีวีโชว์</title></programme>
-<programme start="20260701120700 +0000" stop="20260701130500 +0000" channel="207"><title lang="th">ละครโทรทัศน์</title></programme>
-<programme start="20260701130500 +0000" stop="20260701140000 +0000" channel="207"><title lang="th">ละครโทรทัศน์</title></programme>
-<programme start="20260701140000 +0000" stop="20260701150000 +0000" channel="207"><title lang="th">ละครโทรทัศน์</title></programme>
-<programme start="20260701150000 +0000" stop="20260701160600 +0000" channel="207"><title lang="th">ละครโทรทัศน์</title></programme>
-<programme start="20260701160600 +0000" stop="20260701164400 +0000" channel="207"><title lang="th">รายการทีวีโชว์</title></programme>
-<programme start="20260701164400 +0000" stop="20260701174600 +0000" channel="207"><title lang="th">รายการทีวีโชว์</title></programme>
-<programme start="20260701174600 +0000" stop="20260701181500 +0000" channel="207"><title lang="th">รายการทีวีโชว์</title></programme>
-<programme start="20260701181500 +0000" stop="20260701184300 +0000" channel="207"><title lang="th">สารคดี</title></programme>
-<programme start="20260701184300 +0000" stop="20260701191200 +0000" channel="207"><title lang="th">รายการทีวีโชว์</title></programme>
-<programme start="20260701191200 +0000" stop="20260701200100 +0000" channel="207"><title lang="th">รายการทีวีโชว์</title></programme>
-<programme start="20260701200100 +0000" stop="20260701205900 +0000" channel="207"><title lang="th">รายการทีวีโชว์</title></programme>
-<programme start="20260701205900 +0000" stop="20260701213000 +0000" channel="207"><title lang="th">รายการทีวีโชว์</title></programme>
-<programme start="20260701213000 +0000" stop="20260701215900 +0000" channel="207"><title lang="th">รายการทีวีโชว์</title></programme>
-<programme start="20260701215900 +0000" stop="20260701230100 +0000" channel="207"><title lang="th">ละครโทรทัศน์</title></programme>
-<programme start="20260701230100 +0000" stop="20260701233300 +0000" channel="207"><title lang="th">ข่าว หูหนาน</title></programme>
-<programme start="20260701233300 +0000" stop="20260702000200 +0000" channel="207"><title lang="th">ละครโทรทัศน์</title></programme>
-<programme start="20260701001015 +0000" stop="20260701002415 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701002415 +0000" stop="20260701003815 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701003815 +0000" stop="20260701011513 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701011513 +0000" stop="20260701012713 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701012713 +0000" stop="20260701013913 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701013913 +0000" stop="20260701015413 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701015413 +0000" stop="20260701023711 +0000" channel="208"><title lang="th">Health program</title></programme>
-<programme start="20260701023711 +0000" stop="20260701024911 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701024911 +0000" stop="20260701030111 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701030111 +0000" stop="20260701031611 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701031611 +0000" stop="20260701035739 +0000" channel="208"><title lang="th">Health program</title></programme>
-<programme start="20260701035739 +0000" stop="20260701040939 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701040939 +0000" stop="20260701042139 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701042139 +0000" stop="20260701043639 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701043639 +0000" stop="20260701051807 +0000" channel="208"><title lang="th">Health program</title></programme>
-<programme start="20260701051807 +0000" stop="20260701053007 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701053007 +0000" stop="20260701054207 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701054207 +0000" stop="20260701062235 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701062235 +0000" stop="20260701063435 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701063435 +0000" stop="20260701064635 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701064635 +0000" stop="20260701070135 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701070135 +0000" stop="20260701074303 +0000" channel="208"><title lang="th">Health program</title></programme>
-<programme start="20260701074303 +0000" stop="20260701075503 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701075503 +0000" stop="20260701080703 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701080703 +0000" stop="20260701084331 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701084331 +0000" stop="20260701085531 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701085531 +0000" stop="20260701090731 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701090731 +0000" stop="20260701092231 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701092231 +0000" stop="20260701100653 +0000" channel="208"><title lang="th">Health program</title></programme>
-<programme start="20260701100653 +0000" stop="20260701101359 +0000" channel="208"><title lang="th">Documentary</title></programme>
-<programme start="20260701101359 +0000" stop="20260701102559 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701102559 +0000" stop="20260701103759 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701103759 +0000" stop="20260701105259 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701105259 +0000" stop="20260701113557 +0000" channel="208"><title lang="th">Health program</title></programme>
-<programme start="20260701113557 +0000" stop="20260701114857 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701114857 +0000" stop="20260701120157 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701120157 +0000" stop="20260701121657 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701121657 +0000" stop="20260701130025 +0000" channel="208"><title lang="th">Health program</title></programme>
-<programme start="20260701130025 +0000" stop="20260701134223 +0000" channel="208"><title lang="th">Travel through Yunnan</title></programme>
-<programme start="20260701134223 +0000" stop="20260701135423 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701135423 +0000" stop="20260701140823 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701140823 +0000" stop="20260701142451 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701142451 +0000" stop="20260701143851 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701143851 +0000" stop="20260701145251 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701145251 +0000" stop="20260701151119 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701151119 +0000" stop="20260701155657 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701155657 +0000" stop="20260701164235 +0000" channel="208"><title lang="th">TV drama</title></programme>
-<programme start="20260701164235 +0000" stop="20260701172813 +0000" channel="208"><title lang="th">TV Drama</title></programme>
-<programme start="20260701172813 +0000" stop="20260701175113 +0000" channel="208"><title lang="th">Famous Doctors Talk</title></programme>
-<programme start="20260701175113 +0000" stop="20260701175613 +0000" channel="208"><title lang="th">Documentary</title></programme>
-<programme start="20260701175613 +0000" stop="20260701180349 +0000" channel="208"><title lang="th">Ending Song</title></programme>
-<programme start="20260701180349 +0000" stop="20260701225000 +0000" channel="208"><title lang="th">Channel gasket</title></programme>
-<programme start="20260701225000 +0000" stop="20260701225227 +0000" channel="208"><title lang="th">Opening Song</title></programme>
-<programme start="20260701225227 +0000" stop="20260701225755 +0000" channel="208"><title lang="th">Documentary</title></programme>
-<programme start="20260701225755 +0000" stop="20260701233923 +0000" channel="208"><title lang="th">Documentary “ I Love Documentary”</title></programme>
-<programme start="20260701233923 +0000" stop="20260702001015 +0000" channel="208"><title lang="th">How Beautiful the World</title></programme>
-<programme start="20260701000000 +0000" stop="20260701010000 +0000" channel="605"><title lang="th">Global Today</title></programme>
-<programme start="20260701010000 +0000" stop="20260701012800 +0000" channel="605"><title lang="th">ASIA TODAY</title></programme>
-<programme start="20260701012800 +0000" stop="20260701020000 +0000" channel="605"><title lang="th">China Showbiz</title></programme>
-<programme start="20260701020000 +0000" stop="20260701021000 +0000" channel="605"><title lang="th">CHINA NEWS</title></programme>
-<programme start="20260701021000 +0000" stop="20260701025500 +0000" channel="605"><title lang="th">HOMELAND DREAMLAND</title></programme>
-<programme start="20260701025500 +0000" stop="20260701032600 +0000" channel="605"><title lang="th">Documentary</title></programme>
-<programme start="20260701032600 +0000" stop="20260701040000 +0000" channel="605"><title lang="th">Across the Strait</title></programme>
-<programme start="20260701040000 +0000" stop="20260701050200 +0000" channel="605"><title lang="th">CHINA NEWS</title></programme>
-<programme start="20260701050200 +0000" stop="20260701050500 +0000" channel="605"><title lang="th">Documentary</title></programme>
-<programme start="20260701050500 +0000" stop="20260701054700 +0000" channel="605"><title lang="th">Drama</title></programme>
-<programme start="20260701054700 +0000" stop="20260701063000 +0000" channel="605"><title lang="th">Drama</title></programme>
-<programme start="20260701063000 +0000" stop="20260701071200 +0000" channel="605"><title lang="th">Drama</title></programme>
-<programme start="20260701071200 +0000" stop="20260701075600 +0000" channel="605"><title lang="th">Drama</title></programme>
-<programme start="20260701075600 +0000" stop="20260701083800 +0000" channel="605"><title lang="th">Drama</title></programme>
-<programme start="20260701083800 +0000" stop="20260701090400 +0000" channel="605"><title lang="th">Documentary</title></programme>
-<programme start="20260701090400 +0000" stop="20260701090800 +0000" channel="605"><title lang="th">Documentary</title></programme>
-<programme start="20260701090800 +0000" stop="20260701091500 +0000" channel="605"><title lang="th">Documentary</title></programme>
-<programme start="20260701091500 +0000" stop="20260701100000 +0000" channel="605"><title lang="th">HOMELAND DREAMLAND</title></programme>
-<programme start="20260701100000 +0000" stop="20260701110000 +0000" channel="605"><title lang="th">CHINA NEWS</title></programme>
-<programme start="20260701110000 +0000" stop="20260701113000 +0000" channel="605"><title lang="th">CHINA NEWS</title></programme>
-<programme start="20260701113000 +0000" stop="20260701120000 +0000" channel="605"><title lang="th">ASIA TODAY</title></programme>
-<programme start="20260701120000 +0000" stop="20260701123000 +0000" channel="605"><title lang="th">Documentary</title></programme>
-<programme start="20260701123000 +0000" stop="20260701130000 +0000" channel="605"><title lang="th">Across the Strait</title></programme>
-<programme start="20260701130000 +0000" stop="20260701133000 +0000" channel="605"><title lang="th">CHINA NEWS</title></programme>
-<programme start="20260701133000 +0000" stop="20260701140000 +0000" channel="605"><title lang="th">FOCUS TODAY</title></programme>
-<programme start="20260701140000 +0000" stop="20260701143000 +0000" channel="605"><title lang="th">Across China</title></programme>
-<programme start="20260701143000 +0000" stop="20260701150400 +0000" channel="605"><title lang="th">CCTV News</title></programme>
-<programme start="20260701150400 +0000" stop="20260701154600 +0000" channel="605"><title lang="th">Drama</title></programme>
-<programme start="20260701154600 +0000" stop="20260701162700 +0000" channel="605"><title lang="th">Drama</title></programme>
-<programme start="20260701162700 +0000" stop="20260701170900 +0000" channel="605"><title lang="th">Drama</title></programme>
-<programme start="20260701170900 +0000" stop="20260701173900 +0000" channel="605"><title lang="th">China Showbiz</title></programme>
-<programme start="20260701173900 +0000" stop="20260701174700 +0000" channel="605"><title lang="th">Documentary</title></programme>
-<programme start="20260701174700 +0000" stop="20260701175100 +0000" channel="605"><title lang="th">Documentary</title></programme>
-<programme start="20260701175100 +0000" stop="20260701180000 +0000" channel="605"><title lang="th">Documentary</title></programme>
-<programme start="20260701180000 +0000" stop="20260701183000 +0000" channel="605"><title lang="th">CCTV News</title></programme>
-<programme start="20260701183000 +0000" stop="20260701190000 +0000" channel="605"><title lang="th">Across China</title></programme>
-<programme start="20260701190000 +0000" stop="20260701191000 +0000" channel="605"><title lang="th">CHINA NEWS</title></programme>
-<programme start="20260701191000 +0000" stop="20260701200000 +0000" channel="605"><title lang="th">HOMELAND DREAMLAND</title></programme>
-<programme start="20260701200000 +0000" stop="20260701203000 +0000" channel="605"><title lang="th">CHINA NEWS</title></programme>
-<programme start="20260701203000 +0000" stop="20260701210000 +0000" channel="605"><title lang="th">FOCUS TODAY</title></programme>
-<programme start="20260701210000 +0000" stop="20260701213000 +0000" channel="605"><title lang="th">Documentary</title></programme>
-<programme start="20260701213000 +0000" stop="20260701220000 +0000" channel="605"><title lang="th">Across China</title></programme>
-<programme start="20260701220000 +0000" stop="20260701223000 +0000" channel="605"><title lang="th">Across the Strait</title></programme>
-<programme start="20260701223000 +0000" stop="20260701230000 +0000" channel="605"><title lang="th">ASIA TODAY</title></programme>
-<programme start="20260701230000 +0000" stop="20260701233000 +0000" channel="605"><title lang="th">CHINA NEWS</title></programme>
-<programme start="20260701233000 +0000" stop="20260702000000 +0000" channel="605"><title lang="th">FOCUS TODAY</title></programme>
-<programme start="20260701013000 +0000" stop="20260701014500 +0000" channel="AlureChannel.th@SD"><title lang="th">ALURE MUSICK</title></programme>
-<programme start="20260701014500 +0000" stop="20260701034500 +0000" channel="AlureChannel.th@SD"><title lang="th">A’LURE NEWCOMER (Rerun)</title></programme>
-<programme start="20260701034500 +0000" stop="20260701040000 +0000" channel="AlureChannel.th@SD"><title lang="th">ALURE MUSICK</title></programme>
-<programme start="20260701040000 +0000" stop="20260701060000 +0000" channel="AlureChannel.th@SD"><title lang="th">A’LURE FASHION (Rerun)</title></programme>
-<programme start="20260701060000 +0000" stop="20260701061500 +0000" channel="AlureChannel.th@SD"><title lang="th">MUSICK</title></programme>
-<programme start="20260701061500 +0000" stop="20260701081500 +0000" channel="AlureChannel.th@SD"><title lang="th">A’LURE RECOMMEND</title></programme>
-<programme start="20260701081500 +0000" stop="20260701083000 +0000" channel="AlureChannel.th@SD"><title lang="th">MUSICK</title></programme>
-<programme start="20260701083000 +0000" stop="20260701103000 +0000" channel="AlureChannel.th@SD"><title lang="th">A’LURE CLASSY</title></programme>
-<programme start="20260701103000 +0000" stop="20260701104500 +0000" channel="AlureChannel.th@SD"><title lang="th">MUSICK</title></programme>
-<programme start="20260701104500 +0000" stop="20260701124500 +0000" channel="AlureChannel.th@SD"><title lang="th">A’LURE FEEL TIME</title></programme>
-<programme start="20260701124500 +0000" stop="20260701130000 +0000" channel="AlureChannel.th@SD"><title lang="th">MUSICK</title></programme>
-<programme start="20260701130000 +0000" stop="20260701150000 +0000" channel="AlureChannel.th@SD"><title lang="th">A’LURE NEWCOMER</title></programme>
-<programme start="20260701150000 +0000" stop="20260701170000 +0000" channel="AlureChannel.th@SD"><title lang="th">A’LURE FASHION</title></programme>
-<programme start="20260701170000 +0000" stop="20260701171500 +0000" channel="AlureChannel.th@SD"><title lang="th">ALURE MUSICK</title></programme>
-<programme start="20260701171500 +0000" stop="20260701191500 +0000" channel="AlureChannel.th@SD"><title lang="th">A’LURE RECOMMEND (Rerun)</title></programme>
-<programme start="20260701191500 +0000" stop="20260701211500 +0000" channel="AlureChannel.th@SD"><title lang="th">A&apos;LURE FEEL TIME (Rerun)</title></programme>
-<programme start="20260701211500 +0000" stop="20260701231500 +0000" channel="AlureChannel.th@SD"><title lang="th">A&apos;LURE CLASSY (Rerun)</title></programme>
-<programme start="20260701231500 +0000" stop="20260701233000 +0000" channel="AlureChannel.th@SD"><title lang="th">ALURE MUSICK</title></programme>
-<programme start="20260701233000 +0000" stop="20260702013000 +0000" channel="AlureChannel.th@SD"><title lang="th">A’LURE MORNING FRESH</title></programme>
-<programme start="20260701000000 +0000" stop="20260701003000 +0000" channel="DLTV10.th@SD"><title lang="th">สมองดีสร้างได้</title></programme>
-<programme start="20260701003000 +0000" stop="20260701005500 +0000" channel="DLTV10.th@SD"><title lang="th">สัมมาทิฎฐิ ทะลุมิติมายา</title></programme>
-<programme start="20260701005500 +0000" stop="20260701010000 +0000" channel="DLTV10.th@SD"><title lang="th">เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title></programme>
-<programme start="20260701010000 +0000" stop="20260701010100 +0000" channel="DLTV10.th@SD"><title lang="th">เคารพธงชาติ</title></programme>
-<programme start="20260701010100 +0000" stop="20260701012500 +0000" channel="DLTV10.th@SD"><title lang="th">การ์ตูนภัยพิบัติทางธรรมชาติ</title></programme>
-<programme start="20260701012500 +0000" stop="20260701040000 +0000" channel="DLTV10.th@SD"><title lang="th">อนุบาลปีที่ 1</title></programme>
-<programme start="20260701040000 +0000" stop="20260701043000 +0000" channel="DLTV10.th@SD"><title lang="th">GenWhy</title></programme>
-<programme start="20260701043000 +0000" stop="20260701050000 +0000" channel="DLTV10.th@SD"><title lang="th">KID ZONE โซนของเด็กซน</title></programme>
-<programme start="20260701050000 +0000" stop="20260701052500 +0000" channel="DLTV10.th@SD"><title lang="th">ข่าวเที่ยง</title></programme>
-<programme start="20260701052500 +0000" stop="20260701053000 +0000" channel="DLTV10.th@SD"><title lang="th">เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title></programme>
-<programme start="20260701053000 +0000" stop="20260701060000 +0000" channel="DLTV10.th@SD"><title lang="th">ไดอารี่หนูกุ๊ก</title></programme>
-<programme start="20260701060000 +0000" stop="20260701063000 +0000" channel="DLTV10.th@SD"><title lang="th">Veggie</title></programme>
-<programme start="20260701063000 +0000" stop="20260701070000 +0000" channel="DLTV10.th@SD"><title lang="th">ทันเกมส์ทันเด็กไซเบอร์</title></programme>
-<programme start="20260701070000 +0000" stop="20260701073000 +0000" channel="DLTV10.th@SD"><title lang="th">เป็นพ่อ...เป็นแม่</title></programme>
-<programme start="20260701073000 +0000" stop="20260701080000 +0000" channel="DLTV10.th@SD"><title lang="th">GenWhy</title></programme>
-<programme start="20260701080000 +0000" stop="20260701083000 +0000" channel="DLTV10.th@SD"><title lang="th">Davy &amp; Friend Final</title></programme>
-<programme start="20260701083000 +0000" stop="20260701090000 +0000" channel="DLTV10.th@SD"><title lang="th">ไดอารี่หนูกุ๊ก</title></programme>
-<programme start="20260701090000 +0000" stop="20260701093000 +0000" channel="DLTV10.th@SD"><title lang="th">Veggie</title></programme>
-<programme start="20260701093000 +0000" stop="20260701100000 +0000" channel="DLTV10.th@SD"><title lang="th">ทันเกมส์ทันเด็กไซเบอร์</title></programme>
-<programme start="20260701100000 +0000" stop="20260701103000 +0000" channel="DLTV10.th@SD"><title lang="th">เป็นพ่อ...เป็นแม่</title></programme>
-<programme start="20260701103000 +0000" stop="20260701105500 +0000" channel="DLTV10.th@SD"><title lang="th">ครอบครัวป่วน ก๊วนสุขภาพ</title></programme>
-<programme start="20260701105500 +0000" stop="20260701110000 +0000" channel="DLTV10.th@SD"><title lang="th">พยากรณ์อากาศประจำวัน</title></programme>
-<programme start="20260701110000 +0000" stop="20260701110100 +0000" channel="DLTV10.th@SD"><title lang="th">เคารพธงชาติ</title></programme>
-<programme start="20260701110100 +0000" stop="20260701110600 +0000" channel="DLTV10.th@SD"><title lang="th">เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title></programme>
-<programme start="20260701110600 +0000" stop="20260701113000 +0000" channel="DLTV10.th@SD"><title lang="th">การศึกษาพิเศษ สำหรับเด็กพิเศษ</title></programme>
-<programme start="20260701113000 +0000" stop="20260701120000 +0000" channel="DLTV10.th@SD"><title lang="th">อนุบาลชาญสมร</title></programme>
-<programme start="20260701120000 +0000" stop="20260701130000 +0000" channel="DLTV10.th@SD"><title lang="th">ต้นกล้าป่ามหัศจรรย์</title></programme>
-<programme start="20260701130000 +0000" stop="20260701133000 +0000" channel="DLTV10.th@SD"><title lang="th">ข่าวในพระราชสำนัก</title></programme>
-<programme start="20260701133000 +0000" stop="20260701133500 +0000" channel="DLTV10.th@SD"><title lang="th">เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title></programme>
-<programme start="20260701133500 +0000" stop="20260701140000 +0000" channel="DLTV10.th@SD"><title lang="th">อาชีพนอกกระแส</title></programme>
-<programme start="20260701140000 +0000" stop="20260701143000 +0000" channel="DLTV10.th@SD"><title lang="th">ปลดชนวนป่วนใจ</title></programme>
-<programme start="20260701143000 +0000" stop="20260701150000 +0000" channel="DLTV10.th@SD"><title lang="th">I am ฉันจะเป็น</title></programme>
-<programme start="20260701150000 +0000" stop="20260701160000 +0000" channel="DLTV10.th@SD"><title lang="th">สมองดีสร้างได้</title></programme>
-<programme start="20260701160000 +0000" stop="20260701170000 +0000" channel="DLTV10.th@SD"><title lang="th">ครอบครัวป่วน ก๊วนสุขภาพ</title></programme>
-<programme start="20260701170000 +0000" stop="20260701180000 +0000" channel="DLTV10.th@SD"><title lang="th">พ่อแม่สู้ สู้</title></programme>
-<programme start="20260701180000 +0000" stop="20260701183000 +0000" channel="DLTV10.th@SD"><title lang="th">GenWhy</title></programme>
-<programme start="20260701183000 +0000" stop="20260701190000 +0000" channel="DLTV10.th@SD"><title lang="th">Davy &amp; Friend Final</title></programme>
-<programme start="20260701190000 +0000" stop="20260701193000 +0000" channel="DLTV10.th@SD"><title lang="th">ไดอารี่หนูกุ๊ก</title></programme>
-<programme start="20260701193000 +0000" stop="20260701200000 +0000" channel="DLTV10.th@SD"><title lang="th">Veggie</title></programme>
-<programme start="20260701200000 +0000" stop="20260701203000 +0000" channel="DLTV10.th@SD"><title lang="th">ทันเกมส์ทันเด็กไซเบอร์</title></programme>
-<programme start="20260701203000 +0000" stop="20260701210000 +0000" channel="DLTV10.th@SD"><title lang="th">เป็นพ่อ...เป็นแม่</title></programme>
-<programme start="20260701210000 +0000" stop="20260701220000 +0000" channel="DLTV10.th@SD"><title lang="th">ลัดคิวหมอ</title></programme>
-<programme start="20260701220000 +0000" stop="20260701223000 +0000" channel="DLTV10.th@SD"><title lang="th">อนุบาลชาญสมร</title></programme>
-<programme start="20260701223000 +0000" stop="20260701230000 +0000" channel="DLTV10.th@SD"><title lang="th">ต้นกล้าป่ามหัศจรรย์</title></programme>
-<programme start="20260701230000 +0000" stop="20260701233000 +0000" channel="DLTV10.th@SD"><title lang="th">จิ๋วซ่าส์ นักประดิษฐ์</title></programme>
-<programme start="20260701233000 +0000" stop="20260702000000 +0000" channel="DLTV10.th@SD"><title lang="th">I am ฉันจะเป็น</title></programme>
-<programme start="20260701000000 +0000" stop="20260701003000 +0000" channel="DLTV11.th@SD"><title lang="th">OFFICE สะกิดรักษ์</title></programme>
-<programme start="20260701003000 +0000" stop="20260701005500 +0000" channel="DLTV11.th@SD"><title lang="th">สัมมาทิฏฐิ ทะลุมิติมายา</title></programme>
-<programme start="20260701005500 +0000" stop="20260701010000 +0000" channel="DLTV11.th@SD"><title lang="th">เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title></programme>
-<programme start="20260701010000 +0000" stop="20260701010100 +0000" channel="DLTV11.th@SD"><title lang="th">เคารพธงชาติ</title></programme>
-<programme start="20260701010100 +0000" stop="20260701012500 +0000" channel="DLTV11.th@SD"><title lang="th">การ์ตูนภัยพิบัติทางธรรมชาติ</title></programme>
-<programme start="20260701012500 +0000" stop="20260701040000 +0000" channel="DLTV11.th@SD"><title lang="th">อนุบาลปีที่ 2</title></programme>
-<programme start="20260701040000 +0000" stop="20260701043000 +0000" channel="DLTV11.th@SD"><title lang="th">Change</title></programme>
-<programme start="20260701043000 +0000" stop="20260701050000 +0000" channel="DLTV11.th@SD"><title lang="th">การ์ตูนภัยพิบัติทางธรรมชาติ</title></programme>
-<programme start="20260701050000 +0000" stop="20260701052500 +0000" channel="DLTV11.th@SD"><title lang="th">ข่าวเที่ยง</title></programme>
-<programme start="20260701052500 +0000" stop="20260701053000 +0000" channel="DLTV11.th@SD"><title lang="th">เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title></programme>
-<programme start="20260701053000 +0000" stop="20260701063000 +0000" channel="DLTV11.th@SD"><title lang="th">Healthy Fine Day</title></programme>
-<programme start="20260701063000 +0000" stop="20260701070000 +0000" channel="DLTV11.th@SD"><title lang="th">Work with a Healthy Life</title></programme>
-<programme start="20260701070000 +0000" stop="20260701073000 +0000" channel="DLTV11.th@SD"><title lang="th">Well-Being</title></programme>
-<programme start="20260701073000 +0000" stop="20260701080000 +0000" channel="DLTV11.th@SD"><title lang="th">Food Choice</title></programme>
-<programme start="20260701080000 +0000" stop="20260701083000 +0000" channel="DLTV11.th@SD"><title lang="th">ศิริราช 360 องศา</title></programme>
-<programme start="20260701083000 +0000" stop="20260701093000 +0000" channel="DLTV11.th@SD"><title lang="th">Healthy Fine Day</title></programme>
-<programme start="20260701093000 +0000" stop="20260701100000 +0000" channel="DLTV11.th@SD"><title lang="th">Work with a Healthy Life</title></programme>
-<programme start="20260701100000 +0000" stop="20260701105500 +0000" channel="DLTV11.th@SD"><title lang="th">พบหมอรามา</title></programme>
-<programme start="20260701105500 +0000" stop="20260701110000 +0000" channel="DLTV11.th@SD"><title lang="th">พยากรณ์อากาศประจำวัน</title></programme>
-<programme start="20260701110000 +0000" stop="20260701110100 +0000" channel="DLTV11.th@SD"><title lang="th">เคารพธงชาติ</title></programme>
-<programme start="20260701110100 +0000" stop="20260701110600 +0000" channel="DLTV11.th@SD"><title lang="th">เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title></programme>
-<programme start="20260701110600 +0000" stop="20260701113000 +0000" channel="DLTV11.th@SD"><title lang="th">การ์ตูนภัยพิบัติทางธรรมชาติ</title></programme>
-<programme start="20260701113000 +0000" stop="20260701123000 +0000" channel="DLTV11.th@SD"><title lang="th">ศิริราช The Life</title></programme>
-<programme start="20260701123000 +0000" stop="20260701130000 +0000" channel="DLTV11.th@SD"><title lang="th">Well-Being</title></programme>
-<programme start="20260701130000 +0000" stop="20260701133000 +0000" channel="DLTV11.th@SD"><title lang="th">ข่าวในพระราชสำนัก</title></programme>
-<programme start="20260701133000 +0000" stop="20260701133500 +0000" channel="DLTV11.th@SD"><title lang="th">เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title></programme>
-<programme start="20260701133500 +0000" stop="20260701143000 +0000" channel="DLTV11.th@SD"><title lang="th">ลัดคิวหมอ</title></programme>
-<programme start="20260701143000 +0000" stop="20260701150000 +0000" channel="DLTV11.th@SD"><title lang="th">ปลดชนวนป่วนใจ</title></programme>
-<programme start="20260701150000 +0000" stop="20260701153000 +0000" channel="DLTV11.th@SD"><title lang="th">OFFICE สะกิดรักษ์</title></programme>
-<programme start="20260701153000 +0000" stop="20260701160000 +0000" channel="DLTV11.th@SD"><title lang="th">Re-Mind</title></programme>
-<programme start="20260701160000 +0000" stop="20260701163000 +0000" channel="DLTV11.th@SD"><title lang="th">Healthy Villages</title></programme>
-<programme start="20260701163000 +0000" stop="20260701170000 +0000" channel="DLTV11.th@SD"><title lang="th">Change</title></programme>
-<programme start="20260701170000 +0000" stop="20260701173000 +0000" channel="DLTV11.th@SD"><title lang="th">Change</title></programme>
-<programme start="20260701173000 +0000" stop="20260701180000 +0000" channel="DLTV11.th@SD"><title lang="th">Food Choice</title></programme>
-<programme start="20260701180000 +0000" stop="20260701183000 +0000" channel="DLTV11.th@SD"><title lang="th">ศิริราช 360 องศา</title></programme>
-<programme start="20260701183000 +0000" stop="20260701193000 +0000" channel="DLTV11.th@SD"><title lang="th">Healthy Fine Day</title></programme>
-<programme start="20260701193000 +0000" stop="20260701200000 +0000" channel="DLTV11.th@SD"><title lang="th">Work with a Healthy Life</title></programme>
-<programme start="20260701200000 +0000" stop="20260701210000 +0000" channel="DLTV11.th@SD"><title lang="th">พบหมอรามา</title></programme>
-<programme start="20260701210000 +0000" stop="20260701213000 +0000" channel="DLTV11.th@SD"><title lang="th">กีฬาพาไปลอง</title></programme>
-<programme start="20260701213000 +0000" stop="20260701223000 +0000" channel="DLTV11.th@SD"><title lang="th">ศิริราช The Life</title></programme>
-<programme start="20260701223000 +0000" stop="20260701233000 +0000" channel="DLTV11.th@SD"><title lang="th">ลัดคิวหมอ</title></programme>
-<programme start="20260701233000 +0000" stop="20260702000000 +0000" channel="DLTV11.th@SD"><title lang="th">Well-Being</title></programme>
-<programme start="20260701000000 +0000" stop="20260701003000 +0000" channel="ThainessTV.th@SD"><title lang="th">EDIBLE STORY THAILAND : MIANG</title></programme>
-<programme start="20260701003000 +0000" stop="20260701010000 +0000" channel="ThainessTV.th@SD"><title lang="th">THAILAND FROM ABOVE : KANCHANABURI</title></programme>
-<programme start="20260701010000 +0000" stop="20260701013000 +0000" channel="ThainessTV.th@SD"><title lang="th">RELATIONSHIPS TRANSCEND TIME</title></programme>
-<programme start="20260701013000 +0000" stop="20260701020000 +0000" channel="ThainessTV.th@SD"><title lang="th">NAM OB THAI</title></programme>
-<programme start="20260701020000 +0000" stop="20260701023000 +0000" channel="ThainessTV.th@SD"><title lang="th">GREATEST OF EAST</title></programme>
-<programme start="20260701023000 +0000" stop="20260701030000 +0000" channel="ThainessTV.th@SD"><title lang="th">THREE DIMENSIONAL ART</title></programme>
-<programme start="20260701030000 +0000" stop="20260701033000 +0000" channel="ThainessTV.th@SD"><title lang="th">THAILAND FROM ABOVE : PRACHUAPKHIRIKHAN</title></programme>
-<programme start="20260701033000 +0000" stop="20260701040000 +0000" channel="ThainessTV.th@SD"><title lang="th">KOI FISH</title></programme>
-<programme start="20260701040000 +0000" stop="20260701043000 +0000" channel="ThainessTV.th@SD"><title lang="th">THE COLLECTOR PASSIONATE OF TEA</title></programme>
-<programme start="20260701043000 +0000" stop="20260701050000 +0000" channel="ThainessTV.th@SD"><title lang="th">THE LAST LEGEND OF BAN KRUA SILK</title></programme>
-<programme start="20260701050000 +0000" stop="20260701053000 +0000" channel="ThainessTV.th@SD"><title lang="th">THAILAND FROM ABOVE : BURIRAM</title></programme>
-<programme start="20260701053000 +0000" stop="20260701060000 +0000" channel="ThainessTV.th@SD"><title lang="th">JASMINE THE PATH OF HOPE AND FAITH</title></programme>
-<programme start="20260701060000 +0000" stop="20260701063000 +0000" channel="ThainessTV.th@SD"><title lang="th">THAI ARCHITECTURE</title></programme>
-<programme start="20260701063000 +0000" stop="20260701070000 +0000" channel="ThainessTV.th@SD"><title lang="th">REAL NATURE MO HOM</title></programme>
-<programme start="20260701070000 +0000" stop="20260701073000 +0000" channel="ThainessTV.th@SD"><title lang="th">MAKING OF KHON MASK</title></programme>
-<programme start="20260701073000 +0000" stop="20260701080000 +0000" channel="ThainessTV.th@SD"><title lang="th">THAILAND FROM ABOVE : SAMUT SONGKHRAM</title></programme>
-<programme start="20260701080000 +0000" stop="20260701083000 +0000" channel="ThainessTV.th@SD"><title lang="th">THAI FONTS</title></programme>
-<programme start="20260701083000 +0000" stop="20260701090000 +0000" channel="ThainessTV.th@SD"><title lang="th">THE INVENTION OF THAI MUSIACAL INSTRUMENTS</title></programme>
-<programme start="20260701090000 +0000" stop="20260701093000 +0000" channel="ThainessTV.th@SD"><title lang="th">ICE-DEA</title></programme>
-<programme start="20260701093000 +0000" stop="20260701100000 +0000" channel="ThainessTV.th@SD"><title lang="th">NATURAL CLASSROOM</title></programme>
-<programme start="20260701100000 +0000" stop="20260701103000 +0000" channel="ThainessTV.th@SD"><title lang="th">RIEW THONG SIAM PUPPET</title></programme>
-<programme start="20260701103000 +0000" stop="20260701110000 +0000" channel="ThainessTV.th@SD"><title lang="th">THAILAND FROM ABOVE : CHAIYAPHUM</title></programme>
-<programme start="20260701110000 +0000" stop="20260701113000 +0000" channel="ThainessTV.th@SD"><title lang="th">BUDDHIST ART</title></programme>
-<programme start="20260701113000 +0000" stop="20260701120000 +0000" channel="ThainessTV.th@SD"><title lang="th">AMAZING OF NORTH</title></programme>
-<programme start="20260701120000 +0000" stop="20260701130000 +0000" channel="ThainessTV.th@SD"><title lang="th">HAND OF THE HILLS</title></programme>
-<programme start="20260701130000 +0000" stop="20260701133000 +0000" channel="ThainessTV.th@SD"><title lang="th">EDIBLE STORY THAILAND : RED TORTOISE CAKE</title></programme>
-<programme start="20260701133000 +0000" stop="20260701140000 +0000" channel="ThainessTV.th@SD"><title lang="th">METAL ENGRAVMENT LEGEND OF THAI WISDOM</title></programme>
-<programme start="20260701140000 +0000" stop="20260701143000 +0000" channel="ThainessTV.th@SD"><title lang="th">THAILAND FROM ABOVE : NAKHONSAWAN</title></programme>
-<programme start="20260701143000 +0000" stop="20260701150000 +0000" channel="ThainessTV.th@SD"><title lang="th">JOE LOUIS PUPPET THEATER</title></programme>
-<programme start="20260701150000 +0000" stop="20260701153000 +0000" channel="ThainessTV.th@SD"><title lang="th">GOLDEN FISH THE COLORS OF RIVER</title></programme>
-<programme start="20260701153000 +0000" stop="20260701160000 +0000" channel="ThainessTV.th@SD"><title lang="th">THAILAND FROM ABOVE : MAHASARAKHAM</title></programme>
-<programme start="20260701160000 +0000" stop="20260701170000 +0000" channel="ThainessTV.th@SD"><title lang="th">SPICY DISC</title></programme>
-<programme start="20260701170000 +0000" stop="20260701220000 +0000" channel="ThainessTV.th@SD"><title lang="th">SPICY DISC</title></programme>
-<programme start="20260701220000 +0000" stop="20260701230000 +0000" channel="ThainessTV.th@SD"><title lang="th">FOOD TO DIE FOR : THE SOUND OF FOOD</title></programme>
-<programme start="20260701230000 +0000" stop="20260701233000 +0000" channel="ThainessTV.th@SD"><title lang="th">THAILAND FROM ABOVE : NONGKAI</title></programme>
-<programme start="20260701233000 +0000" stop="20260702000000 +0000" channel="ThainessTV.th@SD"><title lang="th">SAMPENG SHOPPING LOVER MARKET</title></programme>
+<programme start="20260702000000 +0000" stop="20260702012000 +0000" channel="35"><title lang="th">สนามข่าว 7 สี</title></programme>
+<programme start="20260702012000 +0000" stop="20260702013500 +0000" channel="35"><title lang="th">สนามข่าวกีฬา</title></programme>
+<programme start="20260702013500 +0000" stop="20260702014500 +0000" channel="35"><title lang="th">สารคดีพระพันปีหลวง ในดวงใจ</title></programme>
+<programme start="20260702014500 +0000" stop="20260702035000 +0000" channel="35"><title lang="th">ปีกมงกุฎ (Rerun) (ตอนแรก)</title></programme>
+<programme start="20260702035000 +0000" stop="20260702054000 +0000" channel="35"><title lang="th">ห้องข่าวภาคเที่ยง</title></programme>
+<programme start="20260702054000 +0000" stop="20260702061000 +0000" channel="35"><title lang="th">เที่ยงบันเทิง ทอล์ก</title></programme>
+<programme start="20260702061000 +0000" stop="20260702071000 +0000" channel="35"><title lang="th">ชุมทางดาวทอง</title></programme>
+<programme start="20260702071000 +0000" stop="20260702072000 +0000" channel="35"><title lang="th">ข่าวเด็ด 7 สี</title></programme>
+<programme start="20260702072000 +0000" stop="20260702090000 +0000" channel="35"><title lang="th">กล้า ผาเหล็ก (Rerun)</title></programme>
+<programme start="20260702090000 +0000" stop="20260702100000 +0000" channel="35"><title lang="th">ข่าวเย็นประเด็นร้อน</title></programme>
+<programme start="20260702100000 +0000" stop="20260702110000 +0000" channel="35"><title lang="th">มีเรื่องต้องคุย</title></programme>
+<programme start="20260702110000 +0000" stop="20260702120000 +0000" channel="35"><title lang="th">มือเหนือเมฆ (Rerun)</title></programme>
+<programme start="20260702120000 +0000" stop="20260702125000 +0000" channel="35"><title lang="th">ลูกผู้ชายหัวใจเพชร</title></programme>
+<programme start="20260702125000 +0000" stop="20260702132500 +0000" channel="35"><title lang="th">ข่าวภาคค่ำ</title></programme>
+<programme start="20260702132500 +0000" stop="20260702133400 +0000" channel="35"><title lang="th">เส้นทางบันเทิง</title></programme>
+<programme start="20260702133400 +0000" stop="20260702143000 +0000" channel="35"><title lang="th">คาดเชือก (Rerun)</title></programme>
+<programme start="20260702143000 +0000" stop="20260702152000 +0000" channel="35"><title lang="th">หลงกลิ่นจันทน์ (Rerun)</title></programme>
+<programme start="20260702152000 +0000" stop="20260702152500 +0000" channel="35"><title lang="th">ชิดจอ รอดู</title></programme>
+<programme start="20260702152500 +0000" stop="20260702155000 +0000" channel="35"><title lang="th">ประเด็นเด็ด 7 สี</title></programme>
+<programme start="20260702155000 +0000" stop="20260702162000 +0000" channel="35"><title lang="th">ทำดีได้ดี</title></programme>
+<programme start="20260702162000 +0000" stop="20260702170000 +0000" channel="35"><title lang="th">The Restaurant War Thailand Season 3 ศึกพ่อค้าซ่าแม่ค้าแซ่บ ซีซั่น 3 (Rerun)</title></programme>
+<programme start="20260702170000 +0000" stop="20260702181500 +0000" channel="35"><title lang="th">The Restaurant War Thailand Season 3 ศึกพ่อค้าซ่าแม่ค้าแซ่บ ซีซั่น 3 (Rerun)</title></programme>
+<programme start="20260702181500 +0000" stop="20260702184000 +0000" channel="35"><title lang="th">เที่ยงบันเทิง ทอล์ก (Rerun)</title></programme>
+<programme start="20260702184000 +0000" stop="20260702194000 +0000" channel="35"><title lang="th">มีเรื่องต้องคุย (Rerun)</title></programme>
+<programme start="20260702194000 +0000" stop="20260702201000 +0000" channel="35"><title lang="th">กินไหนไปด้วยกัน (Rerun)</title></programme>
+<programme start="20260702201000 +0000" stop="20260702204000 +0000" channel="35"><title lang="th">กินไหนไปด้วยกัน (Rerun)</title></programme>
+<programme start="20260702204000 +0000" stop="20260702213000 +0000" channel="35"><title lang="th">ไทยรักษ์สุขภาพ</title></programme>
+<programme start="20260702213000 +0000" stop="20260702223000 +0000" channel="35"><title lang="th">จ้อข่าวเช้า</title></programme>
+<programme start="20260702223000 +0000" stop="20260703000000 +0000" channel="35"><title lang="th">เช้านี้...ที่หมอชิต</title></programme>
+<programme start="20260702013000 +0000" stop="20260702025300 +0000" channel="ThairathTV.th@SD"><title lang="th">ตะลอนข่าว</title></programme>
+<programme start="20260702025300 +0000" stop="20260702025800 +0000" channel="ThairathTV.th@SD"><title lang="th">โอ ช้อปปิ้ง</title></programme>
+<programme start="20260702025800 +0000" stop="20260702030000 +0000" channel="ThairathTV.th@SD"><title lang="th">Express News</title></programme>
+<programme start="20260702030000 +0000" stop="20260702035800 +0000" channel="ThairathTV.th@SD"><title lang="th">ปูเสื่อรอ</title></programme>
+<programme start="20260702035800 +0000" stop="20260702040000 +0000" channel="ThairathTV.th@SD"><title lang="th">Express News</title></programme>
+<programme start="20260702040000 +0000" stop="20260702062800 +0000" channel="ThairathTV.th@SD"><title lang="th">ข่าวเที่ยงไทยรัฐ</title></programme>
+<programme start="20260702062800 +0000" stop="20260702063000 +0000" channel="ThairathTV.th@SD"><title lang="th">Express News</title></programme>
+<programme start="20260702063000 +0000" stop="20260702072800 +0000" channel="ThairathTV.th@SD"><title lang="th">บันเทิงไทยรัฐ</title></programme>
+<programme start="20260702072800 +0000" stop="20260702073000 +0000" channel="ThairathTV.th@SD"><title lang="th">Express News</title></programme>
+<programme start="20260702073000 +0000" stop="20260702082800 +0000" channel="ThairathTV.th@SD"><title lang="th">ไทยรัฐนิวส์รูม</title></programme>
+<programme start="20260702082800 +0000" stop="20260702083000 +0000" channel="ThairathTV.th@SD"><title lang="th">Express News</title></programme>
+<programme start="20260702083000 +0000" stop="20260702091500 +0000" channel="ThairathTV.th@SD"><title lang="th">เปิดปาก</title></programme>
+<programme start="20260702091500 +0000" stop="20260702092000 +0000" channel="ThairathTV.th@SD"><title lang="th">หั่นราคา ท้าช็อป</title></programme>
+<programme start="20260702092000 +0000" stop="20260702104500 +0000" channel="ThairathTV.th@SD"><title lang="th">ข่าวเย็นไทยรัฐ</title></programme>
+<programme start="20260702104500 +0000" stop="20260702120000 +0000" channel="ThairathTV.th@SD"><title lang="th">ข่าวใส่ไข่</title></programme>
+<programme start="20260702120000 +0000" stop="20260702152800 +0000" channel="ThairathTV.th@SD"><title lang="th">ไทยรัฐ นิวส์โชว์ / ข่าวในพระราชสำนัก</title></programme>
+<programme start="20260702152800 +0000" stop="20260702153000 +0000" channel="ThairathTV.th@SD"><title lang="th">Express News</title></programme>
+<programme start="20260702153000 +0000" stop="20260702153500 +0000" channel="ThairathTV.th@SD"><title lang="th">หั่นราคา ท้าช็อป</title></programme>
+<programme start="20260702153500 +0000" stop="20260702162000 +0000" channel="ThairathTV.th@SD"><title lang="th">เปิดปาก (Rerun)</title></programme>
+<programme start="20260702162000 +0000" stop="20260702170000 +0000" channel="ThairathTV.th@SD"><title lang="th">ไทยรัฐนิวส์รูม (Rerun)</title></programme>
+<programme start="20260702170000 +0000" stop="20260702172000 +0000" channel="ThairathTV.th@SD"><title lang="th">ไทยรัฐนิวส์รูม (Rerun)</title></programme>
+<programme start="20260702172000 +0000" stop="20260702183500 +0000" channel="ThairathTV.th@SD"><title lang="th">ข่าวใส่ไข่ (Rerun)</title></programme>
+<programme start="20260702183500 +0000" stop="20260702200000 +0000" channel="ThairathTV.th@SD"><title lang="th">ตะลอนข่าว (Rerun)</title></programme>
+<programme start="20260702200000 +0000" stop="20260702210000 +0000" channel="ThairathTV.th@SD"><title lang="th">เก่งเล็กใจใหญ่ AD CC</title></programme>
+<programme start="20260702210000 +0000" stop="20260702220000 +0000" channel="ThairathTV.th@SD"><title lang="th">มีข่าวดีมาบอก (R)</title></programme>
+<programme start="20260702220000 +0000" stop="20260702223000 +0000" channel="ThairathTV.th@SD"><title lang="th">ศาสตร์ตราช่าง (R )</title></programme>
+<programme start="20260702223000 +0000" stop="20260702233000 +0000" channel="ThairathTV.th@SD"><title lang="th">ห้องข่าว หัวเขียว</title></programme>
+<programme start="20260702233000 +0000" stop="20260703013000 +0000" channel="ThairathTV.th@SD"><title lang="th">ข่าวเช้าหัวเขียว</title></programme>
 </tv>
