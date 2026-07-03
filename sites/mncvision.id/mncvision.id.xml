@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260702">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260703">
 <channel id="90"><display-name>Hanacaraka TV</display-name></channel>
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/></channel>
 <channel id="AlJazeera.qa@English"><display-name>Al Jazeera English</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png"/></channel>
@@ -213,44 +213,67 @@
 <channel id="VisionPrime.id@SD"><display-name>Vision Prime</display-name><icon src="https://i.imgur.com/dKnWI2O.png"/></channel>
 <channel id="ZeeBioskop.id@SD"><display-name>Zee Bioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/></channel>
 <channel id="ZooMoo.sg@SD"><display-name>Zoomoo</display-name><icon src="https://i.imgur.com/ciTJrnl.png"/></channel>
-<programme start="20260701170000 +0000" stop="20260701173000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Brave Wilderness S2, Ep 3</title><episode-num system="xmltv_ns">1.2.0/1</episode-num><episode-num system="onscreen">S02E03</episode-num></programme>
-<programme start="20260701173000 +0000" stop="20260701180000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Brave Wilderness S2, Ep 4</title><episode-num system="xmltv_ns">1.3.0/1</episode-num><episode-num system="onscreen">S02E04</episode-num></programme>
-<programme start="20260701180000 +0000" stop="20260701183000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Yukon For Sale S1, Ep 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
-<programme start="20260701183000 +0000" stop="20260701190000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Yukon For Sale S1, Ep 8</title><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
-<programme start="20260701190000 +0000" stop="20260701200000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Bear&apos;s Mission, D. Walliams</title></programme>
-<programme start="20260701200000 +0000" stop="20260701203000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Jack Stein: In The Box, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260701203000 +0000" stop="20260701210000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Jack Stein: In The Box, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
-<programme start="20260701210000 +0000" stop="20260701213000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Brave Wilderness S2, Ep 3</title><episode-num system="xmltv_ns">1.2.0/1</episode-num><episode-num system="onscreen">S02E03</episode-num></programme>
-<programme start="20260701213000 +0000" stop="20260701220000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Brave Wilderness S2, Ep 4</title><episode-num system="xmltv_ns">1.3.0/1</episode-num><episode-num system="onscreen">S02E04</episode-num></programme>
-<programme start="20260701220000 +0000" stop="20260701223000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Andy &amp; Ben Eat Australia, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260701223000 +0000" stop="20260701230000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Andy &amp; Ben Eat Australia, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260701230000 +0000" stop="20260701233000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Brave Wilderness S2, Ep 3</title><episode-num system="xmltv_ns">1.2.0/1</episode-num><episode-num system="onscreen">S02E03</episode-num></programme>
-<programme start="20260701233000 +0000" stop="20260702000000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Brave Wilderness S2, Ep 4</title><episode-num system="xmltv_ns">1.3.0/1</episode-num><episode-num system="onscreen">S02E04</episode-num></programme>
-<programme start="20260702000000 +0000" stop="20260702003000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Yukon For Sale S1, Ep 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
-<programme start="20260702003000 +0000" stop="20260702010000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Yukon For Sale S1, Ep 8</title><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
-<programme start="20260702010000 +0000" stop="20260702020000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Bear&apos;s Mission, D. Walliams</title></programme>
-<programme start="20260702020000 +0000" stop="20260702023000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Jack Stein: In The Box, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260702023000 +0000" stop="20260702030000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Jack Stein: In The Box, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
-<programme start="20260702030000 +0000" stop="20260702033000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Brave Wilderness S2, Ep 3</title><episode-num system="xmltv_ns">1.2.0/1</episode-num><episode-num system="onscreen">S02E03</episode-num></programme>
-<programme start="20260702033000 +0000" stop="20260702040000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Brave Wilderness S2, Ep 4</title><episode-num system="xmltv_ns">1.3.0/1</episode-num><episode-num system="onscreen">S02E04</episode-num></programme>
-<programme start="20260702040000 +0000" stop="20260702043000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Andy &amp; Ben Eat Australia, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260702043000 +0000" stop="20260702050000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Andy &amp; Ben Eat Australia, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260702050000 +0000" stop="20260702053000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Brave Wilderness S2, Ep 3</title><episode-num system="xmltv_ns">1.2.0/1</episode-num><episode-num system="onscreen">S02E03</episode-num></programme>
-<programme start="20260702053000 +0000" stop="20260702060000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Brave Wilderness S2, Ep 4</title><episode-num system="xmltv_ns">1.3.0/1</episode-num><episode-num system="onscreen">S02E04</episode-num></programme>
-<programme start="20260702060000 +0000" stop="20260702063000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Yukon For Sale S1, Ep 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
-<programme start="20260702063000 +0000" stop="20260702070000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Yukon For Sale S1, Ep 8</title><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
-<programme start="20260702070000 +0000" stop="20260702080000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Bear&apos;s Mission, D. Walliams</title></programme>
-<programme start="20260702080000 +0000" stop="20260702083000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Andy &amp; Ben Eat Australia, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260702083000 +0000" stop="20260702090000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Andy &amp; Ben Eat Australia, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260702090000 +0000" stop="20260702100000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Facing Forces Of Nature, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260702100000 +0000" stop="20260702110000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Diamond River Hunters S1, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260702110000 +0000" stop="20260702120000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Kangaroo Mob</title></programme>
-<programme start="20260702120000 +0000" stop="20260702123000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Brave Wilderness S2, Ep 3</title><episode-num system="xmltv_ns">1.2.0/1</episode-num><episode-num system="onscreen">S02E03</episode-num></programme>
-<programme start="20260702123000 +0000" stop="20260702130000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Brave Wilderness S2, Ep 4</title><episode-num system="xmltv_ns">1.3.0/1</episode-num><episode-num system="onscreen">S02E04</episode-num></programme>
-<programme start="20260702130000 +0000" stop="20260702133000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Jet Truck S1, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
-<programme start="20260702133000 +0000" stop="20260702140000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Jet Truck S1, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
-<programme start="20260702140000 +0000" stop="20260702143000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Andy &amp; Ben Eat Australia, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260702143000 +0000" stop="20260702150000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Andy &amp; Ben Eat Australia, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260702150000 +0000" stop="20260702160000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Facing Forces Of Nature, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260702160000 +0000" stop="20260702170000 +0000" channel="OutdoorChannel.us@HD"><title lang="id">Diamond River Hunters S1, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260702210000 +0000" stop="20260702213000 +0000" channel="90"><title lang="id">Ge Bams</title></programme>
+<programme start="20260702213000 +0000" stop="20260702223000 +0000" channel="90"><title lang="id">Nyi Roro Kidul</title></programme>
+<programme start="20260702223000 +0000" stop="20260702230000 +0000" channel="90"><title lang="id">Kaca Benggala</title></programme>
+<programme start="20260702230000 +0000" stop="20260703000000 +0000" channel="90"><title lang="id">Ludruk Humor Kirun</title></programme>
+<programme start="20260703000000 +0000" stop="20260703003000 +0000" channel="90"><title lang="id">Asal Mulane</title></programme>
+<programme start="20260703003000 +0000" stop="20260703010000 +0000" channel="90"><title lang="id">Arwah Lelembut</title></programme>
+<programme start="20260703010000 +0000" stop="20260703013000 +0000" channel="90"><title lang="id">Jan Enak Tenan</title></programme>
+<programme start="20260703013000 +0000" stop="20260703020000 +0000" channel="90"><title lang="id">Pagelaran Budaya Jawi</title></programme>
+<programme start="20260703020000 +0000" stop="20260703023000 +0000" channel="90"><title lang="id">Baskom (Banyumas Komedi)</title></programme>
+<programme start="20260703023000 +0000" stop="20260703030000 +0000" channel="90"><title lang="id">Dagelan Jowo New</title></programme>
+<programme start="20260703030000 +0000" stop="20260703033000 +0000" channel="90"><title lang="id">Kaca Benggala</title></programme>
+<programme start="20260703033000 +0000" stop="20260703043000 +0000" channel="90"><title lang="id">Srimulat</title></programme>
+<programme start="20260703043000 +0000" stop="20260703053000 +0000" channel="90"><title lang="id">Nyi Roro Kidul</title></programme>
+<programme start="20260703053000 +0000" stop="20260703063000 +0000" channel="90"><title lang="id">Konco Ngaso</title></programme>
+<programme start="20260703063000 +0000" stop="20260703070000 +0000" channel="90"><title lang="id">Jan Enak Tenan</title></programme>
+<programme start="20260703070000 +0000" stop="20260703080000 +0000" channel="90"><title lang="id">Ludruk Humor Kirun</title></programme>
+<programme start="20260703080000 +0000" stop="20260703090000 +0000" channel="90"><title lang="id">Srimulat</title></programme>
+<programme start="20260703090000 +0000" stop="20260703100000 +0000" channel="90"><title lang="id">Nyi Roro Kidul</title></programme>
+<programme start="20260703100000 +0000" stop="20260703103000 +0000" channel="90"><title lang="id">Kaca Benggala</title></programme>
+<programme start="20260703103000 +0000" stop="20260703110000 +0000" channel="90"><title lang="id">Jan Enak Tenan</title></programme>
+<programme start="20260703110000 +0000" stop="20260703120000 +0000" channel="90"><title lang="id">Konco Ngaso</title></programme>
+<programme start="20260703120000 +0000" stop="20260703123000 +0000" channel="90"><title lang="id">Asal Mulane</title></programme>
+<programme start="20260703123000 +0000" stop="20260703130000 +0000" channel="90"><title lang="id">Pagelaran Budaya Jawi</title></programme>
+<programme start="20260703130000 +0000" stop="20260703133000 +0000" channel="90"><title lang="id">Baskom (Banyumas Komedi)</title></programme>
+<programme start="20260703133000 +0000" stop="20260703140000 +0000" channel="90"><title lang="id">Arwah Lelembut</title></programme>
+<programme start="20260703140000 +0000" stop="20260703150000 +0000" channel="90"><title lang="id">Ludruk Humor Kirun</title></programme>
+<programme start="20260703150000 +0000" stop="20260703210000 +0000" channel="90"><title lang="id">Wayang Kulit: Ngawi</title></programme>
+<programme start="20260702170000 +0000" stop="20260702173000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260702173000 +0000" stop="20260702180000 +0000" channel="AlJazeera.qa@English"><title lang="id">Inside Story</title></programme>
+<programme start="20260702180000 +0000" stop="20260702190000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260702190000 +0000" stop="20260702200000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260702200000 +0000" stop="20260702203000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260702203000 +0000" stop="20260702210000 +0000" channel="AlJazeera.qa@English"><title lang="id">101 East: Ambulance Volunteers</title></programme>
+<programme start="20260702210000 +0000" stop="20260702220000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260702220000 +0000" stop="20260702230000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260702230000 +0000" stop="20260702233000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260702233000 +0000" stop="20260703000000 +0000" channel="AlJazeera.qa@English"><title lang="id">Inside Story</title></programme>
+<programme start="20260703000000 +0000" stop="20260703010000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260703010000 +0000" stop="20260703013000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260703013000 +0000" stop="20260703020000 +0000" channel="AlJazeera.qa@English"><title lang="id">Fault Lines: Into The Darkness</title></programme>
+<programme start="20260703020000 +0000" stop="20260703030000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260703030000 +0000" stop="20260703040000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260703040000 +0000" stop="20260703043000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260703043000 +0000" stop="20260703050000 +0000" channel="AlJazeera.qa@English"><title lang="id">Witness: Confronting ICE</title></programme>
+<programme start="20260703050000 +0000" stop="20260703053000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260703053000 +0000" stop="20260703060000 +0000" channel="AlJazeera.qa@English"><title lang="id">Inside Story</title></programme>
+<programme start="20260703060000 +0000" stop="20260703063000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260703063000 +0000" stop="20260703070000 +0000" channel="AlJazeera.qa@English"><title lang="id">Apocalypse Maybe: End Of Fear</title></programme>
+<programme start="20260703070000 +0000" stop="20260703080000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260703080000 +0000" stop="20260703083000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260703083000 +0000" stop="20260703090000 +0000" channel="AlJazeera.qa@English"><title lang="id">101 East: Ambulance Volunteers</title></programme>
+<programme start="20260703090000 +0000" stop="20260703093000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260703093000 +0000" stop="20260703100000 +0000" channel="AlJazeera.qa@English"><title lang="id">Algeria: Toxic Colonisation</title></programme>
+<programme start="20260703100000 +0000" stop="20260703110000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260703110000 +0000" stop="20260703113000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260703113000 +0000" stop="20260703120000 +0000" channel="AlJazeera.qa@English"><title lang="id">Inside Story</title></programme>
+<programme start="20260703120000 +0000" stop="20260703130000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260703130000 +0000" stop="20260703140000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260703140000 +0000" stop="20260703143000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260703143000 +0000" stop="20260703150000 +0000" channel="AlJazeera.qa@English"><title lang="id">Fault Lines: Into The Darkness</title></programme>
+<programme start="20260703150000 +0000" stop="20260703160000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260703160000 +0000" stop="20260703163000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260703163000 +0000" stop="20260703170000 +0000" channel="AlJazeera.qa@English"><title lang="id">Making Peace: The Possibilist</title></programme>
 </tv>
