@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260703">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260704">
 <channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png"/></channel>
 <channel id="AXNAsia.sg@Indonesia"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original"/></channel>
 <channel id="beINSports1.qa@Indonesia"><display-name>beIN Sports 1</display-name><icon src="https://i.imgur.com/Vtk2cGI.png"/></channel>
@@ -55,20 +55,53 @@
 <channel id="VTV.id@SD"><display-name>VTV</display-name><icon src="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png"/></channel>
 <channel id="WarnerTVAsia.us@SD"><display-name>Warner TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png"/></channel>
 <channel id="ZeeBioskop.id@SD"><display-name>Zee Bioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/></channel>
-<programme start="20260702170000 +0000" stop="20260702175000 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Mid-night Two</title></programme>
-<programme start="20260702175000 +0000" stop="20260702192000 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Mr. Virgin</title></programme>
-<programme start="20260702192000 +0000" stop="20260702210500 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Blind War</title></programme>
-<programme start="20260702210500 +0000" stop="20260702225000 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">The Grey Men 2</title></programme>
-<programme start="20260702225000 +0000" stop="20260703002500 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Never Leave</title></programme>
-<programme start="20260703002500 +0000" stop="20260703020500 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Cruel War</title></programme>
-<programme start="20260703020500 +0000" stop="20260703034500 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Love in a Fallen City</title></programme>
-<programme start="20260703034500 +0000" stop="20260703054000 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Painted Faces</title></programme>
-<programme start="20260703054000 +0000" stop="20260703070500 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">VR Fighter</title></programme>
-<programme start="20260703070500 +0000" stop="20260703084500 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Fight Back to School</title></programme>
-<programme start="20260703084500 +0000" stop="20260703095500 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Wu Song vs. Ximen Qing</title></programme>
-<programme start="20260703095500 +0000" stop="20260703112000 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Hidden Heroine</title></programme>
-<programme start="20260703112000 +0000" stop="20260703130000 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">36 Secrets of Courtship</title></programme>
-<programme start="20260703130000 +0000" stop="20260703150500 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Gorgeous</title></programme>
-<programme start="20260703150500 +0000" stop="20260703162500 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Sex Beyond the Grave</title></programme>
-<programme start="20260703162500 +0000" stop="20260703170000 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">The Grandmaster</title></programme>
+<programme start="20260703170000 +0000" stop="20260703173000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">F1 Academy Qualifying F1 ACADEMY, ROUND 3 GREAT BRITAIN, 2026</title></programme>
+<programme start="20260703173000 +0000" stop="20260703174500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Chasing the Dream Spielberg, Austria</title></programme>
+<programme start="20260703174500 +0000" stop="20260703181500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Fastzone, Ep. 12</title><episode-num system="xmltv_ns">0.11.0/1</episode-num><episode-num system="onscreen">S01E12</episode-num></programme>
+<programme start="20260703181500 +0000" stop="20260703184500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Gearing Up: July</title></programme>
+<programme start="20260703184500 +0000" stop="20260703194500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">24 Hours of Le Mans Highlights</title></programme>
+<programme start="20260703194500 +0000" stop="20260703201500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Porsche Mobil 1 Supercup Highlights Spielberg, Austria</title></programme>
+<programme start="20260703201500 +0000" stop="20260703211500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Ferrari Challenge Highlights Le Mans</title></programme>
+<programme start="20260703211500 +0000" stop="20260703214500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Gearing Up: July</title></programme>
+<programme start="20260703214500 +0000" stop="20260703224500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">WRC Highlights Rally Greece</title></programme>
+<programme start="20260703224500 +0000" stop="20260703231500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Fastzone, Ep. 12</title><episode-num system="xmltv_ns">0.11.0/1</episode-num><episode-num system="onscreen">S01E12</episode-num></programme>
+<programme start="20260703231500 +0000" stop="20260704001500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">GT World Challenge Europe Highlights 24 Hours of Spa, Belgium</title></programme>
+<programme start="20260704001500 +0000" stop="20260704011500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Practice BRITISH GRAND PRIX 2026 Practice 1</title></programme>
+<programme start="20260704011500 +0000" stop="20260704020000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Sprint Qualifying BRITISH GRAND PRIX 2026</title></programme>
+<programme start="20260704020000 +0000" stop="20260704021500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Chasing the Dream Spielberg, Austria</title></programme>
+<programme start="20260704021500 +0000" stop="20260704023000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Stars of the Cup Raphinha - Brazil</title></programme>
+<programme start="20260704023000 +0000" stop="20260704030000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Fastzone, Ep. 12</title><episode-num system="xmltv_ns">0.11.0/1</episode-num><episode-num system="onscreen">S01E12</episode-num></programme>
+<programme start="20260704030000 +0000" stop="20260704034000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">F1 Academy Practice F1 ACADEMY, ROUND 3 GREAT BRITAIN, 2026</title></programme>
+<programme start="20260704034000 +0000" stop="20260704041500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">F1 Academy Qualifying F1 ACADEMY, ROUND 3 GREAT BRITAIN, 2026</title></programme>
+<programme start="20260704041500 +0000" stop="20260704050000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 3 Championship Practice Silverstone, Great Britain</title></programme>
+<programme start="20260704050000 +0000" stop="20260704054500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 2 Championship Practice Silverstone, Great Britain</title></programme>
+<programme start="20260704054500 +0000" stop="20260704061500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 3 Championship Qualifying Silverstone, Great Britain</title></programme>
+<programme start="20260704061500 +0000" stop="20260704064500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 2 Championship Qualifying Silverstone, Great Britain</title></programme>
+<programme start="20260704064500 +0000" stop="20260704074500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Practice BRITISH GRAND PRIX 2026 Practice 1</title></programme>
+<programme start="20260704074500 +0000" stop="20260704083000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Sprint Qualifying BRITISH GRAND PRIX 2026</title></programme>
+<programme start="20260704083000 +0000" stop="20260704092000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 3 Championship Sprint Silverstone, Great Britain</title></programme>
+<programme start="20260704092000 +0000" stop="20260704093000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LaLiga Goals Galore Vini Jr</title></programme>
+<programme start="20260704093000 +0000" stop="20260704100000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Porsche Mobil 1 Supercup Highlights Spielberg, Austria</title></programme>
+<programme start="20260704100000 +0000" stop="20260704105600 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Sprint Race Pre Show BRITISH GRAND PRIX 2026</title></programme>
+<programme start="20260704105600 +0000" stop="20260704113000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Sprint Race BRITISH GRAND PRIX 2026</title></programme>
+<programme start="20260704113000 +0000" stop="20260704124000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Sprint Race Post Show BRITISH GRAND PRIX 2026</title></programme>
+<programme start="20260704124000 +0000" stop="20260704133000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 2 Championship Sprint Silverstone, Great Britain</title></programme>
+<programme start="20260704133000 +0000" stop="20260704135000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Stars of the Cup Jude Bellingham - England</title></programme>
+<programme start="20260704135000 +0000" stop="20260704145500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Qualifying Pre Show BRITISH GRAND PRIX 2026</title></programme>
+<programme start="20260704145500 +0000" stop="20260704160000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Qualifying BRITISH GRAND PRIX 2026</title></programme>
+<programme start="20260704160000 +0000" stop="20260704170000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Qualifying Post Show BRITISH GRAND PRIX 2026</title></programme>
+<programme start="20260703170000 +0000" stop="20260703181000 +0000" channel="HBOAsia.sg@SD"><title lang="id">The Image of You</title></programme>
+<programme start="20260703181000 +0000" stop="20260703194000 +0000" channel="HBOAsia.sg@SD"><title lang="id">Y2K</title></programme>
+<programme start="20260703194000 +0000" stop="20260703211000 +0000" channel="HBOAsia.sg@SD"><title lang="id">All the Devils Are Here</title></programme>
+<programme start="20260703211000 +0000" stop="20260703230000 +0000" channel="HBOAsia.sg@SD"><title lang="id">Dear Santa</title></programme>
+<programme start="20260703230000 +0000" stop="20260703233000 +0000" channel="HBOAsia.sg@SD"><title lang="id">Hollywood on Set, Ep. 1176</title><episode-num system="xmltv_ns">0.1175.0/1</episode-num><episode-num system="onscreen">S01E1176</episode-num></programme>
+<programme start="20260703233000 +0000" stop="20260704014000 +0000" channel="HBOAsia.sg@SD"><title lang="id">Stardust</title></programme>
+<programme start="20260704014000 +0000" stop="20260704033500 +0000" channel="HBOAsia.sg@SD"><title lang="id">The Golden Compass</title></programme>
+<programme start="20260704033500 +0000" stop="20260704054500 +0000" channel="HBOAsia.sg@SD"><title lang="id">Jurassic Park</title></programme>
+<programme start="20260704054500 +0000" stop="20260704073500 +0000" channel="HBOAsia.sg@SD"><title lang="id">Novocaine</title></programme>
+<programme start="20260704073500 +0000" stop="20260704093000 +0000" channel="HBOAsia.sg@SD"><title lang="id">Green Lantern</title></programme>
+<programme start="20260704093000 +0000" stop="20260704105500 +0000" channel="HBOAsia.sg@SD"><title lang="id">The Naked Gun</title></programme>
+<programme start="20260704105500 +0000" stop="20260704130000 +0000" channel="HBOAsia.sg@SD"><title lang="id">Jurassic World</title></programme>
+<programme start="20260704130000 +0000" stop="20260704151000 +0000" channel="HBOAsia.sg@SD"><title lang="id">Song Sung Blue</title></programme>
+<programme start="20260704151000 +0000" stop="20260704170000 +0000" channel="HBOAsia.sg@SD"><title lang="id">The Conjuring: Last Rites</title></programme>
 </tv>
