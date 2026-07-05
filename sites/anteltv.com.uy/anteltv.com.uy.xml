@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260704">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260705">
 <channel id="MiMovilTV.uy@SD"><display-name>Mi Móvil TV</display-name><icon src="https://i.imgur.com/5yJ7CY7.png"/></channel>
 <channel id="Canal12Melo.uy@SD"><display-name>Canal 12 Melo</display-name><icon src="https://i.imgur.com/xwLWoSC.png"/></channel>
 <channel id="Canal4Chuy.uy@SD"><display-name>Canal 4 Chuy</display-name><icon src="https://i.imgur.com/oLKMwgm.png"/></channel>
@@ -53,40 +53,86 @@
 <channel id="MIEM.uy@SD"><display-name>MIEM</display-name><icon src="https://i.imgur.com/4MEN4EI.png"/></channel>
 <channel id="2stzy"><display-name>Inti TV</display-name></channel>
 <channel id="22s13"><display-name>T5 SATELITAL</display-name></channel>
-<programme start="20260704023000 +0000" stop="20260704113000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Musical</title></programme>
-<programme start="20260704113000 +0000" stop="20260704123000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Canto de Aquí Nomás</title></programme>
-<programme start="20260704123000 +0000" stop="20260704133000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Camino al Sol</title></programme>
-<programme start="20260704133000 +0000" stop="20260704140000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Musical</title></programme>
-<programme start="20260704140000 +0000" stop="20260704150000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">RPM</title></programme>
-<programme start="20260704150000 +0000" stop="20260704153000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Actualidad Agropecuaria</title></programme>
-<programme start="20260704153000 +0000" stop="20260704160000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Sesiones</title></programme>
-<programme start="20260704160000 +0000" stop="20260704180000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Analía tal Cual</title></programme>
-<programme start="20260704180000 +0000" stop="20260704190000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Queremos Saber</title></programme>
-<programme start="20260704190000 +0000" stop="20260704200000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Próxima Parada</title></programme>
-<programme start="20260704200000 +0000" stop="20260704210000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Musical</title></programme>
-<programme start="20260704210000 +0000" stop="20260704220000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Video Top</title></programme>
-<programme start="20260704220000 +0000" stop="20260704223000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">No todo está perdido</title></programme>
-<programme start="20260704223000 +0000" stop="20260704230000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Nuestro canto</title></programme>
-<programme start="20260704230000 +0000" stop="20260705000000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">RPM</title></programme>
-<programme start="20260705000000 +0000" stop="20260705020000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">La Noche de Jorge</title></programme>
+<programme start="20260705030000 +0000" stop="20260705033000 +0000" channel="22s13"><title lang="es">TODO AL TOQUE</title></programme>
+<programme start="20260705033000 +0000" stop="20260705040000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20260705040000 +0000" stop="20260705050000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20260705050000 +0000" stop="20260705060000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20260705060000 +0000" stop="20260705070000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20260705070000 +0000" stop="20260705080000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20260705080000 +0000" stop="20260705090000 +0000" channel="22s13"><title lang="es">ENTRE MATES Y GUITARRAS</title></programme>
+<programme start="20260705090000 +0000" stop="20260705093000 +0000" channel="22s13"><title lang="es">LO NUESTRO</title></programme>
+<programme start="20260705093000 +0000" stop="20260705100000 +0000" channel="22s13"><title lang="es">AMIGOS DEL CAMPO</title></programme>
+<programme start="20260705100000 +0000" stop="20260705103000 +0000" channel="22s13"><title lang="es">PUNTO DE REFERENCIA</title></programme>
+<programme start="20260705103000 +0000" stop="20260705110000 +0000" channel="22s13"><title lang="es">DESDE LA PATRIA CHICA</title></programme>
+<programme start="20260705110000 +0000" stop="20260705120000 +0000" channel="22s13"><title lang="es">TRADICION Y CULTURA</title></programme>
+<programme start="20260705120000 +0000" stop="20260705123000 +0000" channel="22s13"><title lang="es">SEMANARIO DE NOTICIAS</title></programme>
+<programme start="20260705123000 +0000" stop="20260705130000 +0000" channel="22s13"><title lang="es">ENTRE AMIGOS</title></programme>
+<programme start="20260705130000 +0000" stop="20260705133000 +0000" channel="22s13"><title lang="es">PUNTO LITORAL</title></programme>
+<programme start="20260705133000 +0000" stop="20260705140000 +0000" channel="22s13"><title lang="es">EL PATO TV</title></programme>
+<programme start="20260705140000 +0000" stop="20260705143000 +0000" channel="22s13"><title lang="es">EL VIAJERO</title></programme>
+<programme start="20260705143000 +0000" stop="20260705150000 +0000" channel="22s13"><title lang="es">POR CIUDAD</title></programme>
+<programme start="20260705150000 +0000" stop="20260705153000 +0000" channel="22s13"><title lang="es">SENTI ARGENTINA</title></programme>
+<programme start="20260705153000 +0000" stop="20260705160000 +0000" channel="22s13"><title lang="es">CHAMAMECEROS SANGRE NUEVA</title></programme>
+<programme start="20260705160000 +0000" stop="20260705163000 +0000" channel="22s13"><title lang="es">DESDE LAS GATERAS</title></programme>
+<programme start="20260705163000 +0000" stop="20260705170000 +0000" channel="22s13"><title lang="es">LA BRUJULA</title></programme>
+<programme start="20260705170000 +0000" stop="20260705173000 +0000" channel="22s13"><title lang="es">EL MUNDIAL DE LA JINETEADA</title></programme>
+<programme start="20260705173000 +0000" stop="20260705180000 +0000" channel="22s13"><title lang="es">TURISMO ARGENTINA</title></programme>
+<programme start="20260705180000 +0000" stop="20260705183000 +0000" channel="22s13"><title lang="es">RELATO DE VIAJERO</title></programme>
+<programme start="20260705183000 +0000" stop="20260705190000 +0000" channel="22s13"><title lang="es">EL VIAJERO</title></programme>
+<programme start="20260705190000 +0000" stop="20260705200000 +0000" channel="22s13"><title lang="es">RAICES SALTEÑA</title></programme>
+<programme start="20260705200000 +0000" stop="20260705203000 +0000" channel="22s13"><title lang="es">ME GUSTA TV</title></programme>
+<programme start="20260705203000 +0000" stop="20260705210000 +0000" channel="22s13"><title lang="es">VIVENCIAS</title></programme>
+<programme start="20260705210000 +0000" stop="20260705213000 +0000" channel="22s13"><title lang="es">INDUSTRIA TURISTICA</title></programme>
+<programme start="20260705213000 +0000" stop="20260705220000 +0000" channel="22s13"><title lang="es">PATAGONIA Y DESTINOS</title></programme>
+<programme start="20260705220000 +0000" stop="20260705223000 +0000" channel="22s13"><title lang="es">PARAISO NATURAL</title></programme>
+<programme start="20260705223000 +0000" stop="20260705230000 +0000" channel="22s13"><title lang="es">VIVA AL AIRE LIBRE</title></programme>
+<programme start="20260705230000 +0000" stop="20260705233000 +0000" channel="22s13"><title lang="es">AMIGOS AL VOLANTE</title></programme>
+<programme start="20260705233000 +0000" stop="20260706000000 +0000" channel="22s13"><title lang="es">ZONA SAFARI</title></programme>
+<programme start="20260706000000 +0000" stop="20260706003000 +0000" channel="22s13"><title lang="es">A TODA COSTA</title></programme>
+<programme start="20260706003000 +0000" stop="20260706010000 +0000" channel="22s13"><title lang="es">ANA PAULA TV</title></programme>
+<programme start="20260706010000 +0000" stop="20260706020000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20260706020000 +0000" stop="20260706030000 +0000" channel="22s13"><title lang="es">FESTIVAL</title></programme>
+<programme start="20260705030000 +0000" stop="20260705120000 +0000" channel="ANPITV.uy@SD"><title lang="es">Programación variada familiar</title></programme>
+<programme start="20260705120000 +0000" stop="20260706030000 +0000" channel="ANPITV.uy@SD"><title lang="es">Coctel Tv (repetición)</title></programme>
 <programme start="20260705020000 +0000" stop="20260705033000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Analía tal Cual</title></programme>
-<programme start="20260704030000 +0000" stop="20260704033000 +0000" channel="TVCiudad.uy@SD"><title lang="es">COMPLEJOS</title><sub-title lang="es">CH 99</sub-title></programme>
-<programme start="20260704033000 +0000" stop="20260704040000 +0000" channel="TVCiudad.uy@SD"><title lang="es">HISTORIAS DE VINO</title><sub-title lang="es">Ep. 4</sub-title></programme>
-<programme start="20260704110000 +0000" stop="20260704113000 +0000" channel="TVCiudad.uy@SD"><title lang="es">PARQUES NATURALES</title><sub-title lang="es">Ep. 5</sub-title></programme>
-<programme start="20260704113000 +0000" stop="20260704120000 +0000" channel="TVCiudad.uy@SD"><title lang="es">RODANDO CAMINOS</title><sub-title lang="es">T 2 Ep. 11</sub-title></programme>
-<programme start="20260704120000 +0000" stop="20260704140000 +0000" channel="TVCiudad.uy@SD"><title lang="es">PASEO ANIMADO</title></programme>
-<programme start="20260704140000 +0000" stop="20260704150000 +0000" channel="TVCiudad.uy@SD"><title lang="es">EN MOVIMIENTO</title></programme>
-<programme start="20260704150000 +0000" stop="20260704160000 +0000" channel="TVCiudad.uy@SD"><title lang="es">DOS VECES UNO</title><sub-title lang="es">Martín Buscaglia</sub-title></programme>
-<programme start="20260704160000 +0000" stop="20260704170000 +0000" channel="TVCiudad.uy@SD"><title lang="es">A FONDA</title><sub-title lang="es">La torta</sub-title></programme>
-<programme start="20260704170000 +0000" stop="20260704183000 +0000" channel="TVCiudad.uy@SD"><title lang="es">NO ES PAÍS PARA SOSOS</title></programme>
-<programme start="20260704183000 +0000" stop="20260704190000 +0000" channel="TVCiudad.uy@SD"><title lang="es">MI CIUDAD EN BICICLETA</title></programme>
-<programme start="20260704190000 +0000" stop="20260704193000 +0000" channel="TVCiudad.uy@SD"><title lang="es">INVENCIBLES</title><sub-title lang="es">Luz Estela Pineda</sub-title></programme>
-<programme start="20260704193000 +0000" stop="20260704200000 +0000" channel="TVCiudad.uy@SD"><title lang="es">MONUMENTOS</title><sub-title lang="es">Lengua</sub-title></programme>
-<programme start="20260704200000 +0000" stop="20260704203000 +0000" channel="TVCiudad.uy@SD"><title lang="es">NCC 1</title></programme>
-<programme start="20260704203000 +0000" stop="20260704210000 +0000" channel="TVCiudad.uy@SD"><title lang="es">NCC REPORTE CLIMÁTICO</title></programme>
-<programme start="20260704210000 +0000" stop="20260704220000 +0000" channel="TVCiudad.uy@SD"><title lang="es">TESTIGOS 1999</title><sub-title lang="es">Mariano Arana</sub-title></programme>
-<programme start="20260704220000 +0000" stop="20260704230000 +0000" channel="TVCiudad.uy@SD"><title lang="es">INFO CAPITAL - ENTREVISTAS</title></programme>
-<programme start="20260704230000 +0000" stop="20260705000000 +0000" channel="TVCiudad.uy@SD"><title lang="es">SOBRECIENCIA (repetición)</title></programme>
-<programme start="20260705010000 +0000" stop="20260705022000 +0000" channel="TVCiudad.uy@SD"><title lang="es">SOMOS CINE</title><sub-title lang="es">Una familia olímpica</sub-title></programme>
+<programme start="20260705033000 +0000" stop="20260705110000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Musical</title></programme>
+<programme start="20260705110000 +0000" stop="20260705113000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Santa Misa</title></programme>
+<programme start="20260705113000 +0000" stop="20260705120000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">No todo está perdido</title></programme>
+<programme start="20260705120000 +0000" stop="20260705123000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Actualidad Agropecuaria</title></programme>
+<programme start="20260705123000 +0000" stop="20260705130000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Paralelo Turístico</title></programme>
+<programme start="20260705130000 +0000" stop="20260705140000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">RPM</title></programme>
+<programme start="20260705140000 +0000" stop="20260705150000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Entre Mates y Guitarras</title></programme>
+<programme start="20260705150000 +0000" stop="20260705160000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Modo Vivo</title></programme>
+<programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">La Noche de Jorge</title></programme>
+<programme start="20260705180000 +0000" stop="20260705193000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Descabezados</title></programme>
+<programme start="20260705193000 +0000" stop="20260705203000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Camino al Sol</title></programme>
+<programme start="20260705203000 +0000" stop="20260705220000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Analía tal Cual</title></programme>
+<programme start="20260705220000 +0000" stop="20260705223000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Santa Misa</title></programme>
+<programme start="20260705223000 +0000" stop="20260705230000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">SMTV</title></programme>
+<programme start="20260705230000 +0000" stop="20260705233000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Danza</title></programme>
+<programme start="20260705233000 +0000" stop="20260706003000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Destinos</title></programme>
+<programme start="20260706003000 +0000" stop="20260706013000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Cuatro Décadas</title></programme>
+<programme start="20260706013000 +0000" stop="20260706023000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Modo Vivo</title></programme>
+<programme start="20260706023000 +0000" stop="20260706030000 +0000" channel="Canal4Paysandu.uy@SD"><title lang="es">Musical</title></programme>
 <programme start="20260705022000 +0000" stop="20260705033500 +0000" channel="TVCiudad.uy@SD"><title lang="es">LA ALDEA (repetición)</title></programme>
+<programme start="20260705110000 +0000" stop="20260705113000 +0000" channel="TVCiudad.uy@SD"><title lang="es">MERCADOS Y MERCHANTES</title></programme>
+<programme start="20260705113000 +0000" stop="20260705120000 +0000" channel="TVCiudad.uy@SD"><title lang="es">PROTECTORES DE VIDA</title><sub-title lang="es">Guardianes del bosque roto</sub-title></programme>
+<programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="TVCiudad.uy@SD"><title lang="es">PASEO ANIMADO</title></programme>
+<programme start="20260705140000 +0000" stop="20260705150000 +0000" channel="TVCiudad.uy@SD"><title lang="es">EN MOVIMIENTO</title></programme>
+<programme start="20260705150000 +0000" stop="20260705153000 +0000" channel="TVCiudad.uy@SD"><title lang="es">BOCA A BOCA</title><sub-title lang="es">Lassh</sub-title></programme>
+<programme start="20260705153000 +0000" stop="20260705160000 +0000" channel="TVCiudad.uy@SD"><title lang="es">COMPLEJOS</title><sub-title lang="es">CH 99</sub-title></programme>
+<programme start="20260705160000 +0000" stop="20260705163000 +0000" channel="TVCiudad.uy@SD"><title lang="es">LA CAJA NEGRA 2015</title><sub-title lang="es">Andres Scotti</sub-title></programme>
+<programme start="20260705163000 +0000" stop="20260705164500 +0000" channel="TVCiudad.uy@SD"><title lang="es">AUTORREPORTAJE 2001</title><sub-title lang="es">Víctor Púa</sub-title></programme>
+<programme start="20260705164500 +0000" stop="20260705170000 +0000" channel="TVCiudad.uy@SD"><title lang="es">AUTORREPORTAJE 2001</title><sub-title lang="es">Fabian &quot;Fata&quot; Delgado</sub-title></programme>
+<programme start="20260705170000 +0000" stop="20260705180000 +0000" channel="TVCiudad.uy@SD"><title lang="es">UNA HISTORIA DE VASCONIA</title></programme>
+<programme start="20260705180000 +0000" stop="20260705183000 +0000" channel="TVCiudad.uy@SD"><title lang="es">UN GOL AL ARCOIRIS</title></programme>
+<programme start="20260705183000 +0000" stop="20260705190000 +0000" channel="TVCiudad.uy@SD"><title lang="es">UNA CANCHA LLAMADA MEDELLIN</title></programme>
+<programme start="20260705190000 +0000" stop="20260705193000 +0000" channel="TVCiudad.uy@SD"><title lang="es">DEU BOLA</title></programme>
+<programme start="20260705193000 +0000" stop="20260705200000 +0000" channel="TVCiudad.uy@SD"><title lang="es">NCC 2</title></programme>
+<programme start="20260705200000 +0000" stop="20260705203000 +0000" channel="TVCiudad.uy@SD"><title lang="es">NCC SALUD</title></programme>
+<programme start="20260705203000 +0000" stop="20260705210000 +0000" channel="TVCiudad.uy@SD"><title lang="es">CATADORES</title><sub-title lang="es">Ep. 4</sub-title></programme>
+<programme start="20260705210000 +0000" stop="20260705213000 +0000" channel="TVCiudad.uy@SD"><title lang="es">HISTORIAS DE VINO</title><sub-title lang="es">Ep. 4</sub-title></programme>
+<programme start="20260705213000 +0000" stop="20260705220000 +0000" channel="TVCiudad.uy@SD"><title lang="es">CIUDADANOS ILUSTRES - 2010</title><sub-title lang="es">Octavio Podestá</sub-title></programme>
+<programme start="20260705230000 +0000" stop="20260706000000 +0000" channel="TVCiudad.uy@SD"><title lang="es">LADO B - RESUMEN SEMANAL</title></programme>
+<programme start="20260706010000 +0000" stop="20260706013000 +0000" channel="TVCiudad.uy@SD"><title lang="es">SEMANARIOS</title><sub-title lang="es">Ep. 7</sub-title></programme>
 </tv>
