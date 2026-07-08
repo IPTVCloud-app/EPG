@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260707">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260708">
 <channel id="APara.tr@SD"><display-name>A Para</display-name><icon src="https://i.imgur.com/GjHnq0c.png"/></channel>
 <channel id="HaberGlobal.tr@SD"><display-name>Haber Global</display-name><icon src="https://i.imgur.com/fu6XeGS.png"/></channel>
 <channel id="Ekoturk.tr@SD"><display-name>Ekotürk</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65"/></channel>
@@ -99,24 +99,19 @@
 <channel id="66e7e54ccfef0b374461c370"><display-name>Haber Çoklu Ekran</display-name></channel>
 <channel id="ANews.tr@SD"><display-name>a News</display-name><icon src="https://i.imgur.com/6tWCzTp.png"/></channel>
 <channel id="5e75c923cfef0b15938bc9cc"><display-name>TRT EBA TV</display-name></channel>
-<programme start="20260706220000 +0000" stop="20260707000000 +0000" channel="APara.tr@SD"><title lang="tr">Destan</title></programme>
-<programme start="20260707000000 +0000" stop="20260707020000 +0000" channel="APara.tr@SD"><title lang="tr">Biz Bize</title></programme>
-<programme start="20260707020000 +0000" stop="20260707030000 +0000" channel="APara.tr@SD"><title lang="tr">Bize Sorun</title></programme>
-<programme start="20260707030000 +0000" stop="20260707033000 +0000" channel="APara.tr@SD"><title lang="tr">Yıldızlı Sohbetler</title></programme>
-<programme start="20260707033000 +0000" stop="20260707040000 +0000" channel="APara.tr@SD"><title lang="tr">Kobi Platformu</title></programme>
-<programme start="20260707040000 +0000" stop="20260707050000 +0000" channel="APara.tr@SD"><title lang="tr">Seans Öncesi</title></programme>
-<programme start="20260707050000 +0000" stop="20260707060000 +0000" channel="APara.tr@SD"><title lang="tr">Seans Öncesi</title></programme>
-<programme start="20260707060000 +0000" stop="20260707071500 +0000" channel="APara.tr@SD"><title lang="tr">Paranın Rotası</title></programme>
-<programme start="20260707071500 +0000" stop="20260707080000 +0000" channel="APara.tr@SD"><title lang="tr">Ekonomi Notları</title></programme>
-<programme start="20260707080000 +0000" stop="20260707090000 +0000" channel="APara.tr@SD"><title lang="tr">Piyasa Saati</title></programme>
-<programme start="20260707090000 +0000" stop="20260707100000 +0000" channel="APara.tr@SD"><title lang="tr">Değişim Zamanı</title></programme>
-<programme start="20260707100000 +0000" stop="20260707110000 +0000" channel="APara.tr@SD"><title lang="tr">Yatırım Günlüğü</title></programme>
-<programme start="20260707110000 +0000" stop="20260707120000 +0000" channel="APara.tr@SD"><title lang="tr">Piyasa Gündemi</title></programme>
-<programme start="20260707120000 +0000" stop="20260707130000 +0000" channel="APara.tr@SD"><title lang="tr">Paranın Yönü</title></programme>
-<programme start="20260707130000 +0000" stop="20260707140000 +0000" channel="APara.tr@SD"><title lang="tr">Piyasa Notları</title></programme>
-<programme start="20260707140000 +0000" stop="20260707150000 +0000" channel="APara.tr@SD"><title lang="tr">Analiz</title></programme>
-<programme start="20260707150000 +0000" stop="20260707160000 +0000" channel="APara.tr@SD"><title lang="tr">Z Raporu</title></programme>
-<programme start="20260707160000 +0000" stop="20260707170000 +0000" channel="APara.tr@SD"><title lang="tr">Sır Küpü</title></programme>
-<programme start="20260707170000 +0000" stop="20260707200000 +0000" channel="APara.tr@SD"><title lang="tr">Destan</title></programme>
-<programme start="20260707200000 +0000" stop="20260707230000 +0000" channel="APara.tr@SD"><title lang="tr">Başarının Anahtarı</title></programme>
+<programme start="20260707220000 +0000" stop="20260707230000 +0000" channel="24TV.tr@SD"><title lang="tr">Günün Manşeti</title><desc lang="tr">&quot;Günün Manşeti&quot; hafta içi her sabah saat 11.00’de canlı yayınla 24 TV’de ekrana geliyor.</desc></programme>
+<programme start="20260707230000 +0000" stop="20260707233000 +0000" channel="24TV.tr@SD"><title lang="tr">Mercek</title></programme>
+<programme start="20260707233000 +0000" stop="20260708011500 +0000" channel="24TV.tr@SD"><title lang="tr">Bu Ülke</title><desc lang="tr">Belkıs Kılıçkaya moderatörlüğünde Türkiye&apos;nin merak ettiği sorulara cevap aranıyor.</desc></programme>
+<programme start="20260708011500 +0000" stop="20260708014500 +0000" channel="24TV.tr@SD"><title lang="tr">8.Etap</title></programme>
+<programme start="20260708014500 +0000" stop="20260708040000 +0000" channel="24TV.tr@SD"><title lang="tr">Basın Ekspres</title></programme>
+<programme start="20260708040000 +0000" stop="20260708060000 +0000" channel="24TV.tr@SD"><title lang="tr">Moderatör Gece</title><desc lang="tr">Moderatör Gece’de Türkiye’nin ve dünyanın önemli başlıkları arasında yarını arıyoruz.</desc></programme>
+<programme start="20260708060000 +0000" stop="20260708075000 +0000" channel="24TV.tr@SD"><title lang="tr">Analiz Sentez</title><desc lang="tr">Ekonomik gelişmelerin perde arkasında yer alanlar hafta içi her gün ‘Analiz Sentez’de konuşuluyor.</desc></programme>
+<programme start="20260708075000 +0000" stop="20260708080000 +0000" channel="24TV.tr@SD"><title lang="tr">Hava Durumu</title><desc lang="tr">Eldebiran Ayan&apos;ın sunumu ile ‘Hava Durumu’nda her gün ekrana yansıyor.</desc></programme>
+<programme start="20260708080000 +0000" stop="20260708090000 +0000" channel="24TV.tr@SD"><title lang="tr">Günün Manşeti</title><desc lang="tr">&quot;Günün Manşeti&quot; hafta içi her sabah saat 11.00’de canlı yayınla 24 TV’de ekrana geliyor.</desc></programme>
+<programme start="20260708090000 +0000" stop="20260708093500 +0000" channel="24TV.tr@SD"><title lang="tr">Moderatör</title><desc lang="tr">Hızlı, tarafsız, doğru haber anlayışı ile Türkiye ve dünya gündemine dair her şey, sıcak gelişmeler ve özel haberler canlı bağlantılarla gündemin yoğun akışı hafta içi her gün &quot;Moderatör&quot;de ekrana geliyor.</desc></programme>
+<programme start="20260708093500 +0000" stop="20260708100000 +0000" channel="24TV.tr@SD"><title lang="tr">Kahve Molası</title><desc lang="tr">Piyasalar güne ara verdiğinde, hem iş dünyasından hem de yaşamın içinden konuklarla hayata dokunan gelişmelerin ekonomik boyutu ‘Kahve Molası&apos;nda masaya yatırılıyor.</desc></programme>
+<programme start="20260708100000 +0000" stop="20260708150000 +0000" channel="24TV.tr@SD"><title lang="tr">Moderatör</title><desc lang="tr">Hızlı, tarafsız, doğru haber anlayışı ile Türkiye ve dünya gündemine dair her şey, sıcak gelişmeler ve özel haberler canlı bağlantılarla gündemin yoğun akışı hafta içi her gün &quot;Moderatör&quot;de ekrana geliyor.</desc></programme>
+<programme start="20260708150000 +0000" stop="20260708170000 +0000" channel="24TV.tr@SD"><title lang="tr">Akşam Haberleri</title><desc lang="tr">Günün ve gündemin yoğun başlıklarını en sıcak haberlerle ekrana geliyor.</desc></programme>
+<programme start="20260708170000 +0000" stop="20260708200000 +0000" channel="24TV.tr@SD"><title lang="tr">24 Özel</title></programme>
+<programme start="20260708200000 +0000" stop="20260708230000 +0000" channel="24TV.tr@SD"><title lang="tr">Moderatör Gece</title><desc lang="tr">Moderatör Gece’de Türkiye’nin ve dünyanın önemli başlıkları arasında yarını arıyoruz.</desc></programme>
 </tv>
