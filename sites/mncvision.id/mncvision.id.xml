@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260708">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260709">
 <channel id="90"><display-name>Hanacaraka TV</display-name></channel>
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/></channel>
 <channel id="AlJazeera.qa@English"><display-name>Al Jazeera English</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png"/></channel>
@@ -213,34 +213,84 @@
 <channel id="VisionPrime.id@SD"><display-name>Vision Prime</display-name><icon src="https://i.imgur.com/dKnWI2O.png"/></channel>
 <channel id="ZeeBioskop.id@SD"><display-name>Zee Bioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/></channel>
 <channel id="ZooMoo.sg@SD"><display-name>Zoomoo</display-name><icon src="https://i.imgur.com/ciTJrnl.png"/></channel>
-<programme start="20260707173000 +0000" stop="20260707180000 +0000" channel="90"><title lang="en">Dagelan Jowo New</title></programme>
-<programme start="20260707180000 +0000" stop="20260707183000 +0000" channel="90"><title lang="en">Arwah Lelembut</title></programme>
-<programme start="20260707183000 +0000" stop="20260707190000 +0000" channel="90"><title lang="en">Baskom (Banyumas Komedi)</title></programme>
-<programme start="20260707190000 +0000" stop="20260707200000 +0000" channel="90"><title lang="en">Ludruk Humor Kirun</title></programme>
-<programme start="20260707200000 +0000" stop="20260707210000 +0000" channel="90"><title lang="en">Konco Ngaso</title></programme>
-<programme start="20260707210000 +0000" stop="20260707213000 +0000" channel="90"><title lang="en">Ge Bams</title></programme>
-<programme start="20260707213000 +0000" stop="20260707223000 +0000" channel="90"><title lang="en">Nyi Roro Kidul</title></programme>
-<programme start="20260707223000 +0000" stop="20260707230000 +0000" channel="90"><title lang="en">Kaca Benggala</title></programme>
-<programme start="20260707230000 +0000" stop="20260708000000 +0000" channel="90"><title lang="en">Ludruk Humor Kirun</title></programme>
-<programme start="20260708000000 +0000" stop="20260708003000 +0000" channel="90"><title lang="en">Asal Mulane</title></programme>
-<programme start="20260708003000 +0000" stop="20260708010000 +0000" channel="90"><title lang="en">Arwah Lelembut</title></programme>
-<programme start="20260708010000 +0000" stop="20260708020000 +0000" channel="90"><title lang="en">Ada Basho Di Warung Kopi</title></programme>
-<programme start="20260708020000 +0000" stop="20260708030000 +0000" channel="90"><title lang="en">Surprise Mak!!</title></programme>
-<programme start="20260708030000 +0000" stop="20260708043000 +0000" channel="90"><title lang="en">Ketoprak Humor</title></programme>
-<programme start="20260708043000 +0000" stop="20260708053000 +0000" channel="90"><title lang="en">Nyi Roro Kidul</title></programme>
-<programme start="20260708053000 +0000" stop="20260708063000 +0000" channel="90"><title lang="en">Konco Ngaso</title></programme>
-<programme start="20260708063000 +0000" stop="20260708070000 +0000" channel="90"><title lang="en">Ge Bams</title></programme>
-<programme start="20260708070000 +0000" stop="20260708080000 +0000" channel="90"><title lang="en">Ada Basho Di Warung Kopi</title></programme>
-<programme start="20260708080000 +0000" stop="20260708090000 +0000" channel="90"><title lang="en">Surprise Mak!!</title></programme>
-<programme start="20260708090000 +0000" stop="20260708100000 +0000" channel="90"><title lang="en">Nyi Roro Kidul</title></programme>
-<programme start="20260708100000 +0000" stop="20260708103000 +0000" channel="90"><title lang="en">Kaca Benggala</title></programme>
-<programme start="20260708103000 +0000" stop="20260708110000 +0000" channel="90"><title lang="en">Ge Bams</title></programme>
-<programme start="20260708110000 +0000" stop="20260708120000 +0000" channel="90"><title lang="en">Konco Ngaso</title></programme>
-<programme start="20260708120000 +0000" stop="20260708123000 +0000" channel="90"><title lang="en">Asal Mulane</title></programme>
-<programme start="20260708123000 +0000" stop="20260708130000 +0000" channel="90"><title lang="en">Dagelan Jowo New</title></programme>
-<programme start="20260708130000 +0000" stop="20260708133000 +0000" channel="90"><title lang="en">Baskom (Banyumas Komedi)</title></programme>
-<programme start="20260708133000 +0000" stop="20260708140000 +0000" channel="90"><title lang="en">Arwah Lelembut</title></programme>
-<programme start="20260708140000 +0000" stop="20260708150000 +0000" channel="90"><title lang="en">Ludruk Humor Kirun</title></programme>
-<programme start="20260708150000 +0000" stop="20260708160000 +0000" channel="90"><title lang="en">Ada Basho Di Warung Kopi</title></programme>
-<programme start="20260708160000 +0000" stop="20260708173000 +0000" channel="90"><title lang="en">Ketoprak Humor</title></programme>
+<programme start="20260708170000 +0000" stop="20260708173000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260708173000 +0000" stop="20260708180000 +0000" channel="AlJazeera.qa@English"><title lang="id">Inside Story</title></programme>
+<programme start="20260708180000 +0000" stop="20260708190000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260708190000 +0000" stop="20260708193000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260708193000 +0000" stop="20260708200000 +0000" channel="AlJazeera.qa@English"><title lang="id">Algeria: Toxic Colonisation</title></programme>
+<programme start="20260708200000 +0000" stop="20260708203000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260708203000 +0000" stop="20260708210000 +0000" channel="AlJazeera.qa@English"><title lang="id">People &amp; Power: Gaza Tribunal</title></programme>
+<programme start="20260708210000 +0000" stop="20260708220000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260708220000 +0000" stop="20260708230000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260708230000 +0000" stop="20260708233000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260708233000 +0000" stop="20260709000000 +0000" channel="AlJazeera.qa@English"><title lang="id">Inside Story</title></programme>
+<programme start="20260709000000 +0000" stop="20260709010000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260709010000 +0000" stop="20260709013000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260709013000 +0000" stop="20260709020000 +0000" channel="AlJazeera.qa@English"><title lang="id">Apocalypse Maybe: OK, Doomer!</title></programme>
+<programme start="20260709020000 +0000" stop="20260709030000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260709030000 +0000" stop="20260709040000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260709040000 +0000" stop="20260709043000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260709043000 +0000" stop="20260709050000 +0000" channel="AlJazeera.qa@English"><title lang="id">Reframe: Silvia Fernandez</title></programme>
+<programme start="20260709050000 +0000" stop="20260709053000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260709053000 +0000" stop="20260709060000 +0000" channel="AlJazeera.qa@English"><title lang="id">Inside Story</title></programme>
+<programme start="20260709060000 +0000" stop="20260709063000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260709063000 +0000" stop="20260709070000 +0000" channel="AlJazeera.qa@English"><title lang="id">Algeria: Toxic Colonisation</title></programme>
+<programme start="20260709070000 +0000" stop="20260709080000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260709080000 +0000" stop="20260709083000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260709083000 +0000" stop="20260709090000 +0000" channel="AlJazeera.qa@English"><title lang="id">People &amp; Power: Gaza Tribunal</title></programme>
+<programme start="20260709090000 +0000" stop="20260709093000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260709093000 +0000" stop="20260709100000 +0000" channel="AlJazeera.qa@English"><title lang="id">The Listening Post</title></programme>
+<programme start="20260709100000 +0000" stop="20260709110000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260709110000 +0000" stop="20260709113000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260709113000 +0000" stop="20260709120000 +0000" channel="AlJazeera.qa@English"><title lang="id">Inside Story</title></programme>
+<programme start="20260709120000 +0000" stop="20260709130000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260709130000 +0000" stop="20260709140000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260709140000 +0000" stop="20260709143000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260709143000 +0000" stop="20260709150000 +0000" channel="AlJazeera.qa@English"><title lang="id">Algeria: Toxic Colonisation</title></programme>
+<programme start="20260709150000 +0000" stop="20260709160000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260709160000 +0000" stop="20260709163000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260709163000 +0000" stop="20260709170000 +0000" channel="AlJazeera.qa@English"><title lang="id">Witness: Classroom 4</title></programme>
+<programme start="20260708175000 +0000" stop="20260708190000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Premier Padel 2026: Brussels</title></programme>
+<programme start="20260708190000 +0000" stop="20260708192500 +0000" channel="beINSports2.qa@MENA"><title lang="id">HSBC SVNS2 2026: RSA Vs BRA</title></programme>
+<programme start="20260708192500 +0000" stop="20260708195000 +0000" channel="beINSports2.qa@MENA"><title lang="id">HSBC SVNS2 2026: CHN Vs KEN</title></programme>
+<programme start="20260708195000 +0000" stop="20260708201500 +0000" channel="beINSports2.qa@MENA"><title lang="id">HSBC SVNS2 2026: ARG Vs RSA</title></programme>
+<programme start="20260708201500 +0000" stop="20260708204000 +0000" channel="beINSports2.qa@MENA"><title lang="id">HSBC SVNS2 2026: ESP Vs BRA</title></programme>
+<programme start="20260708204000 +0000" stop="20260708210500 +0000" channel="beINSports2.qa@MENA"><title lang="id">HSBC SVNS2 2026: RSA Vs CHN</title></programme>
+<programme start="20260708210500 +0000" stop="20260708213000 +0000" channel="beINSports2.qa@MENA"><title lang="id">HSBC SVNS2 2026: ARG Vs ESP</title></programme>
+<programme start="20260708213000 +0000" stop="20260708232000 +0000" channel="beINSports2.qa@MENA"><title lang="id">WSL 2025/26: AVL Vs LIV</title></programme>
+<programme start="20260708232000 +0000" stop="20260709011000 +0000" channel="beINSports2.qa@MENA"><title lang="id">WSL 2025/26: BHA Vs WHU</title></programme>
+<programme start="20260709011000 +0000" stop="20260709031000 +0000" channel="beINSports2.qa@MENA"><title lang="id">World Rugby Junior World C&apos;ship</title></programme>
+<programme start="20260709031000 +0000" stop="20260709051000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Best Of RG 2026: Day 11 Men</title></programme>
+<programme start="20260709051000 +0000" stop="20260709064000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Best Of RG 2026: Women</title></programme>
+<programme start="20260709064000 +0000" stop="20260709071000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Premier Padel Highlights 2026</title></programme>
+<programme start="20260709071000 +0000" stop="20260709074000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Mini Match Australian Open 2026</title></programme>
+<programme start="20260709074000 +0000" stop="20260709081000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Mini Match Australian Open 2026</title></programme>
+<programme start="20260709081000 +0000" stop="20260709100000 +0000" channel="beINSports2.qa@MENA"><title lang="id">World Rugby Junior World C&apos;ship</title></programme>
+<programme start="20260709100000 +0000" stop="20260709103000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Premier Padel Highlights 2026</title></programme>
+<programme start="20260709103000 +0000" stop="20260709120000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Best Of RG 2026: Men</title></programme>
+<programme start="20260709120000 +0000" stop="20260709140000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Best Of RG 2026: Women</title></programme>
+<programme start="20260709140000 +0000" stop="20260709160000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Best Of RG 2026: Men</title></programme>
+<programme start="20260709160000 +0000" stop="20260709175000 +0000" channel="beINSports2.qa@MENA"><title lang="id">World Rugby Junior World C&apos;ship</title></programme>
+<programme start="20260709020000 +0000" stop="20260709023000 +0000" channel="JakTV.id@SD"><title lang="en">Chess Player</title></programme>
+<programme start="20260709023000 +0000" stop="20260709030000 +0000" channel="JakTV.id@SD"><title lang="en">Penghormatan Burung Kepada...</title></programme>
+<programme start="20260709030000 +0000" stop="20260709033000 +0000" channel="JakTV.id@SD"><title lang="en">Everyday Chinese</title></programme>
+<programme start="20260709033000 +0000" stop="20260709040000 +0000" channel="JakTV.id@SD"><title lang="en">Animal Action</title></programme>
+<programme start="20260709040000 +0000" stop="20260709043000 +0000" channel="JakTV.id@SD"><title lang="en">Cave And Cavern</title></programme>
+<programme start="20260709043000 +0000" stop="20260709050000 +0000" channel="JakTV.id@SD"><title lang="en">Ninjao</title></programme>
+<programme start="20260709050000 +0000" stop="20260709053000 +0000" channel="JakTV.id@SD"><title lang="en">Inovator</title></programme>
+<programme start="20260709053000 +0000" stop="20260709060000 +0000" channel="JakTV.id@SD"><title lang="en">Rezeki Api</title></programme>
+<programme start="20260709060000 +0000" stop="20260709063000 +0000" channel="JakTV.id@SD"><title lang="en">Kiddies World</title></programme>
+<programme start="20260709063000 +0000" stop="20260709070000 +0000" channel="JakTV.id@SD"><title lang="en">Penghormatan Burung Kepada...</title></programme>
+<programme start="20260709070000 +0000" stop="20260709080000 +0000" channel="JakTV.id@SD"><title lang="en">Medika Natura</title></programme>
+<programme start="20260709080000 +0000" stop="20260709090000 +0000" channel="JakTV.id@SD"><title lang="en">Three Queens</title></programme>
+<programme start="20260709090000 +0000" stop="20260709093000 +0000" channel="JakTV.id@SD"><title lang="en">Cooking Time</title></programme>
+<programme start="20260709093000 +0000" stop="20260709100000 +0000" channel="JakTV.id@SD"><title lang="en">My Health My Choice</title></programme>
+<programme start="20260709100000 +0000" stop="20260709110000 +0000" channel="JakTV.id@SD"><title lang="en">Jendela Tiongkok</title></programme>
+<programme start="20260709110000 +0000" stop="20260709113000 +0000" channel="JakTV.id@SD"><title lang="en">Muslimpedia</title></programme>
+<programme start="20260709113000 +0000" stop="20260709120000 +0000" channel="JakTV.id@SD"><title lang="en">The Cloth Story</title></programme>
+<programme start="20260709120000 +0000" stop="20260709123000 +0000" channel="JakTV.id@SD"><title lang="en">Ninjao</title></programme>
+<programme start="20260709123000 +0000" stop="20260709130000 +0000" channel="JakTV.id@SD"><title lang="en">Dunia Kita</title></programme>
+<programme start="20260709130000 +0000" stop="20260709140000 +0000" channel="JakTV.id@SD"><title lang="en">Like A Flowing River</title></programme>
+<programme start="20260709140000 +0000" stop="20260709150000 +0000" channel="JakTV.id@SD"><title lang="en">Medika Natura</title></programme>
+<programme start="20260709150000 +0000" stop="20260710020000 +0000" channel="JakTV.id@SD"><title lang="en">Skakmat</title></programme>
 </tv>
