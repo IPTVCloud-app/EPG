@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260710">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260711">
 <channel id="120#AME2"><display-name>América TV (ARG)</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/120.png"/></channel>
 <channel id="121#CAN7"><display-name>La TV Pública (ARG)</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/121.png"/></channel>
 <channel id="122#CAN9"><display-name>Canal 9 (ARG)</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/122.png"/></channel>
@@ -370,342 +370,587 @@
 <channel id="4773#ESC+"><display-name>Escuela plus</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/302.png"/></channel>
 <channel id="4992#TRES"><display-name>EL TRES Rosario</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/134.png"/></channel>
 <channel id="4997#KZO"><display-name>KZO</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/199.png"/></channel>
-<programme start="20260710030000 +0000" stop="20260710031500 +0000" channel="120#AME2"><title lang="es">Trato hecho</title></programme>
-<programme start="20260710031500 +0000" stop="20260710040000 +0000" channel="120#AME2"><title lang="es">Pedalearg</title></programme>
-<programme start="20260710040000 +0000" stop="20260710050000 +0000" channel="120#AME2"><title lang="es">El valor de tus joyas</title></programme>
-<programme start="20260710050000 +0000" stop="20260710063000 +0000" channel="120#AME2"><title lang="es">Intrusos</title></programme>
-<programme start="20260710063000 +0000" stop="20260710074500 +0000" channel="120#AME2"><title lang="es">El diario de Mariana</title></programme>
-<programme start="20260710074500 +0000" stop="20260710090000 +0000" channel="120#AME2"><title lang="es">A la tarde</title></programme>
-<programme start="20260710090000 +0000" stop="20260710110000 +0000" channel="120#AME2"><title lang="es">Arriba América</title></programme>
-<programme start="20260710110000 +0000" stop="20260710130000 +0000" channel="120#AME2"><title lang="es">Arriba América</title></programme>
-<programme start="20260710130000 +0000" stop="20260710160000 +0000" channel="120#AME2"><title lang="es">Lape club social informativo</title></programme>
-<programme start="20260710160000 +0000" stop="20260710180000 +0000" channel="120#AME2"><title lang="es">Intrusos</title></programme>
-<programme start="20260710180000 +0000" stop="20260710193000 +0000" channel="120#AME2"><title lang="es">El diario de Mariana</title></programme>
-<programme start="20260710193000 +0000" stop="20260710210000 +0000" channel="120#AME2"><title lang="es">A la tarde</title></programme>
-<programme start="20260710210000 +0000" stop="20260710220000 +0000" channel="120#AME2"><title lang="es">América noticias central</title></programme>
-<programme start="20260710220000 +0000" stop="20260710230000 +0000" channel="120#AME2"><title lang="es">Sálvese quien pueda</title></programme>
-<programme start="20260710230000 +0000" stop="20260711010000 +0000" channel="120#AME2"><title lang="es">LAM</title></programme>
-<programme start="20260711010000 +0000" stop="20260711021500 +0000" channel="120#AME2"><title lang="es">Polémica en el bar</title></programme>
-<programme start="20260711021500 +0000" stop="20260711030000 +0000" channel="120#AME2"><title lang="es">Trato hecho</title></programme>
-<programme start="20260710030000 +0000" stop="20260710040000 +0000" channel="121#CAN7"><title lang="es">Televisión Pública Noticias</title></programme>
-<programme start="20260710040000 +0000" stop="20260710040500 +0000" channel="121#CAN7"><title lang="es">Himno nacional</title></programme>
-<programme start="20260710040500 +0000" stop="20260710094500 +0000" channel="121#CAN7"><title lang="es">Fuera del aire</title><rating system="MPA"><value>TVG</value></rating></programme>
-<programme start="20260710094500 +0000" stop="20260710100000 +0000" channel="121#CAN7"><title lang="es">Aires de campo</title></programme>
-<programme start="20260710100000 +0000" stop="20260710110000 +0000" channel="121#CAN7"><title lang="es">Documentales en la Televisión Pública Argentina</title></programme>
-<programme start="20260710110000 +0000" stop="20260710120000 +0000" channel="121#CAN7"><title lang="es">Aire nacional</title></programme>
-<programme start="20260710120000 +0000" stop="20260710130000 +0000" channel="121#CAN7"><title lang="es">ADN, buena salud</title></programme>
-<programme start="20260710130000 +0000" stop="20260710150000 +0000" channel="121#CAN7"><title lang="es">Las mañanas con Andino</title></programme>
-<programme start="20260710150000 +0000" stop="20260710163000 +0000" channel="121#CAN7"><title lang="es">Televisión Pública Noticias</title></programme>
-<programme start="20260710163000 +0000" stop="20260710180000 +0000" channel="121#CAN7"><title lang="es">Mediodía bien arriba</title></programme>
-<programme start="20260710180000 +0000" stop="20260710193000 +0000" channel="121#CAN7"><title lang="es">Estamos en una</title></programme>
-<programme start="20260710193000 +0000" stop="20260710203000 +0000" channel="121#CAN7"><title lang="es">Nuevas tardes con Denise</title></programme>
-<programme start="20260710203000 +0000" stop="20260710220000 +0000" channel="121#CAN7"><title lang="es">Iluminadas</title></programme>
-<programme start="20260710220000 +0000" stop="20260710233000 +0000" channel="121#CAN7"><title lang="es">Televisión Pública Noticias</title></programme>
-<programme start="20260710233000 +0000" stop="20260711003000 +0000" channel="121#CAN7"><title lang="es">Televisión Pública Noticias Internacional</title></programme>
-<programme start="20260711003000 +0000" stop="20260711010000 +0000" channel="121#CAN7"><title lang="es">Se siente Argentina</title></programme>
-<programme start="20260711010000 +0000" stop="20260711020000 +0000" channel="121#CAN7"><title lang="es">Zona mixta</title></programme>
-<programme start="20260711020000 +0000" stop="20260711030000 +0000" channel="121#CAN7"><title lang="es">Hay grip</title></programme>
-<programme start="20260710030000 +0000" stop="20260710033000 +0000" channel="122#CAN9"><title lang="es">Nueve diario</title></programme>
-<programme start="20260710033000 +0000" stop="20260710040000 +0000" channel="122#CAN9"><title lang="es">Pastor Cinalli</title></programme>
-<programme start="20260710040000 +0000" stop="20260710041500 +0000" channel="122#CAN9"><title lang="es">Lo mejor del 9</title></programme>
-<programme start="20260710041500 +0000" stop="20260710051500 +0000" channel="122#CAN9"><title lang="es">TV Compras</title></programme>
-<programme start="20260710051500 +0000" stop="20260710054500 +0000" channel="122#CAN9"><title lang="es">El valor de tus joyas</title></programme>
-<programme start="20260710054500 +0000" stop="20260710063000 +0000" channel="122#CAN9"><title lang="es">Telenueve central</title></programme>
-<programme start="20260710063000 +0000" stop="20260710080000 +0000" channel="122#CAN9"><title lang="es">Fuera del aire</title><rating system="MPA"><value>TVG</value></rating></programme>
-<programme start="20260710080000 +0000" stop="20260710083000 +0000" channel="122#CAN9"><title lang="es">Informes TL9</title></programme>
-<programme start="20260710083000 +0000" stop="20260710090000 +0000" channel="122#CAN9"><title lang="es">Pare de sufrir</title><rating system="MPA"><value>TVMA</value></rating></programme>
-<programme start="20260710090000 +0000" stop="20260710100000 +0000" channel="122#CAN9"><title lang="es">TL 9 al amanecer</title></programme>
-<programme start="20260710100000 +0000" stop="20260710130000 +0000" channel="122#CAN9"><title lang="es">TL 9 al amanecer</title></programme>
-<programme start="20260710130000 +0000" stop="20260710150000 +0000" channel="122#CAN9"><title lang="es">¡Qué mañana!</title></programme>
-<programme start="20260710150000 +0000" stop="20260710163000 +0000" channel="122#CAN9"><title lang="es">Telenueve al mediodía</title></programme>
-<programme start="20260710163000 +0000" stop="20260710180000 +0000" channel="122#CAN9"><title lang="es">Con Carmen</title></programme>
-<programme start="20260710180000 +0000" stop="20260710200000 +0000" channel="122#CAN9"><title lang="es">Los profesionales de siempre</title></programme>
-<programme start="20260710200000 +0000" stop="20260710220000 +0000" channel="122#CAN9"><title lang="es">Todo cocinado</title></programme>
-<programme start="20260710220000 +0000" stop="20260710233000 +0000" channel="122#CAN9"><title lang="es">Telenueve central</title></programme>
-<programme start="20260710233000 +0000" stop="20260711010000 +0000" channel="122#CAN9"><title lang="es">Bendita</title></programme>
-<programme start="20260711010000 +0000" stop="20260711020000 +0000" channel="122#CAN9"><title lang="es">Bienvenidos a ganar</title></programme>
-<programme start="20260711020000 +0000" stop="20260711030000 +0000" channel="122#CAN9"><title lang="es">Decime algo lindo</title></programme>
-<programme start="20260710030000 +0000" stop="20260710031500 +0000" channel="123#TF11"><title lang="es">DIRECTV y DGO presentan: Espiando la casa</title></programme>
-<programme start="20260710031500 +0000" stop="20260710033000 +0000" channel="123#TF11"><title lang="es">Staff</title></programme>
-<programme start="20260710033000 +0000" stop="20260710040000 +0000" channel="123#TF11"><title lang="es">Juntos por el mundial</title></programme>
-<programme start="20260710040000 +0000" stop="20260710043000 +0000" channel="123#TF11"><title lang="es">El valor de tus joyas</title></programme>
-<programme start="20260710043000 +0000" stop="20260710060000 +0000" channel="123#TF11"><title lang="es">Gran hermano</title></programme>
-<programme start="20260710060000 +0000" stop="20260710070000 +0000" channel="123#TF11"><title lang="es">Ariel en su salsa</title></programme>
-<programme start="20260710070000 +0000" stop="20260710090000 +0000" channel="123#TF11"><title lang="es">Cortá por Lozano</title></programme>
-<programme start="20260710090000 +0000" stop="20260710094500 +0000" channel="123#TF11"><title lang="es">Disney Junior</title></programme>
-<programme start="20260710094500 +0000" stop="20260710100000 +0000" channel="123#TF11"><title lang="es">#TT</title></programme>
-<programme start="20260710100000 +0000" stop="20260710123000 +0000" channel="123#TF11"><title lang="es">Buen Telefe</title></programme>
-<programme start="20260710123000 +0000" stop="20260710144500 +0000" channel="123#TF11"><title lang="es">A la Barbarossa</title></programme>
-<programme start="20260710144500 +0000" stop="20260710153000 +0000" channel="123#TF11"><title lang="es">Ariel en su salsa</title></programme>
-<programme start="20260710153000 +0000" stop="20260710160000 +0000" channel="123#TF11"><title lang="es">Ariel en su salsa</title></programme>
-<programme start="20260710160000 +0000" stop="20260710174500 +0000" channel="123#TF11"><title lang="es">El noticiero de la gente</title></programme>
-<programme start="20260710174500 +0000" stop="20260710181000 +0000" channel="123#TF11"><title lang="es">Palpitando la previa</title></programme>
-<programme start="20260710181000 +0000" stop="20260710190000 +0000" channel="123#TF11"><title lang="es">La previa del partido</title></programme>
-<programme start="20260710190000 +0000" stop="20260710221500 +0000" channel="123#TF11"><title lang="es">España vs. Bélgica</title><rating system="MPA"><value>G</value></rating></programme>
-<programme start="20260710221500 +0000" stop="20260710230000 +0000" channel="123#TF11"><title lang="es">Bahar</title></programme>
-<programme start="20260710230000 +0000" stop="20260711003000 +0000" channel="123#TF11"><title lang="es">Telefe noticias</title></programme>
-<programme start="20260711003000 +0000" stop="20260711013000 +0000" channel="123#TF11"><title lang="es">Pasapalabra</title></programme>
-<programme start="20260711013000 +0000" stop="20260711023000 +0000" channel="123#TF11"><title lang="es">Gran hermano: La noche de los ex</title></programme>
+<programme start="20260711030000 +0000" stop="20260711031500 +0000" channel="120#AME2"><title lang="es">Trato hecho</title></programme>
+<programme start="20260711031500 +0000" stop="20260711040000 +0000" channel="120#AME2"><title lang="es">Viralizados</title></programme>
+<programme start="20260711040000 +0000" stop="20260711050000 +0000" channel="120#AME2"><title lang="es">El valor de tus joyas</title></programme>
+<programme start="20260711050000 +0000" stop="20260711064500 +0000" channel="120#AME2"><title lang="es">Intrusos</title></programme>
+<programme start="20260711064500 +0000" stop="20260711110000 +0000" channel="120#AME2"><title lang="es">Sálvese quien pueda</title></programme>
+<programme start="20260711110000 +0000" stop="20260711130000 +0000" channel="120#AME2"><title lang="es">Tevecompras</title></programme>
+<programme start="20260711130000 +0000" stop="20260711133000 +0000" channel="120#AME2"><title lang="es">Pedalearg</title></programme>
+<programme start="20260711133000 +0000" stop="20260711140000 +0000" channel="120#AME2"><title lang="es">Tecno tendencias</title></programme>
+<programme start="20260711140000 +0000" stop="20260711143100 +0000" channel="120#AME2"><title lang="es">Comer para creer</title></programme>
+<programme start="20260711143100 +0000" stop="20260711150000 +0000" channel="120#AME2"><title lang="es">Modo selfie</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711150000 +0000" stop="20260711160000 +0000" channel="120#AME2"><title lang="es">El superagente 86</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711160000 +0000" stop="20260711225000 +0000" channel="120#AME2"><title lang="es">Pasión de sábado</title></programme>
+<programme start="20260711225000 +0000" stop="20260712010000 +0000" channel="120#AME2"><title lang="es">Secretos verdaderos</title></programme>
+<programme start="20260712010000 +0000" stop="20260712033000 +0000" channel="120#AME2"><title lang="es">Argentina de película</title></programme>
+<programme start="20260711030000 +0000" stop="20260711040000 +0000" channel="121#CAN7"><title lang="es">Televisión Pública Noticias: Edición de medianoche</title></programme>
+<programme start="20260711040000 +0000" stop="20260711040500 +0000" channel="121#CAN7"><title lang="es">Himno nacional</title></programme>
+<programme start="20260711040500 +0000" stop="20260711094500 +0000" channel="121#CAN7"><title lang="es">Fuera del aire</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260711094500 +0000" stop="20260711100000 +0000" channel="121#CAN7"><title lang="es">Documentales en la Televisión Pública Argentina</title></programme>
+<programme start="20260711100000 +0000" stop="20260711110000 +0000" channel="121#CAN7"><title lang="es">Pampero TV</title></programme>
+<programme start="20260711110000 +0000" stop="20260711113000 +0000" channel="121#CAN7"><title lang="es">Claves para un mundo mejor</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711113000 +0000" stop="20260711120000 +0000" channel="121#CAN7"><title lang="es">Nuestro ejército</title></programme>
+<programme start="20260711120000 +0000" stop="20260711130000 +0000" channel="121#CAN7"><title lang="es">Aires de campo</title></programme>
+<programme start="20260711130000 +0000" stop="20260711133000 +0000" channel="121#CAN7"><title lang="es">Documentales en la Televisión Pública Argentina</title></programme>
+<programme start="20260711133000 +0000" stop="20260711140000 +0000" channel="121#CAN7"><title lang="es">Plim Plim, cantando y bailando</title></programme>
+<programme start="20260711140000 +0000" stop="20260711150000 +0000" channel="121#CAN7"><title lang="es">Topa, un mundo de colores</title></programme>
+<programme start="20260711150000 +0000" stop="20260711160000 +0000" channel="121#CAN7"><title lang="es">Televisión Pública Noticias Internacional</title></programme>
+<programme start="20260711160000 +0000" stop="20260711180000 +0000" channel="121#CAN7"><title lang="es">Zona mixta: Modo finde</title></programme>
+<programme start="20260711180000 +0000" stop="20260711190000 +0000" channel="121#CAN7"><title lang="es">Hay grip</title></programme>
+<programme start="20260711190000 +0000" stop="20260711200000 +0000" channel="121#CAN7"><title lang="es">ADN, buena salud</title></programme>
+<programme start="20260711200000 +0000" stop="20260711210000 +0000" channel="121#CAN7"><title lang="es">Las mañanas con Andino</title></programme>
+<programme start="20260711210000 +0000" stop="20260711220000 +0000" channel="121#CAN7"><title lang="es">Vivir viajando</title></programme>
+<programme start="20260711220000 +0000" stop="20260712004500 +0000" channel="121#CAN7"><title lang="es">Zona mixta</title></programme>
+<programme start="20260712004500 +0000" stop="20260712041500 +0000" channel="121#CAN7"><title lang="es">Argentina vs. Suiza</title><rating system="MPA"><value>G</value></rating></programme>
+<programme start="20260711030000 +0000" stop="20260711033000 +0000" channel="122#CAN9"><title lang="es">Nueve diario</title></programme>
+<programme start="20260711033000 +0000" stop="20260711040000 +0000" channel="122#CAN9"><title lang="es">Pastor Cinalli</title></programme>
+<programme start="20260711040000 +0000" stop="20260711041500 +0000" channel="122#CAN9"><title lang="es">Lo mejor del 9</title></programme>
+<programme start="20260711041500 +0000" stop="20260711051500 +0000" channel="122#CAN9"><title lang="es">TV Compras</title></programme>
+<programme start="20260711051500 +0000" stop="20260711054500 +0000" channel="122#CAN9"><title lang="es">El valor de tus joyas</title></programme>
+<programme start="20260711054500 +0000" stop="20260711063000 +0000" channel="122#CAN9"><title lang="es">Telenueve central</title></programme>
+<programme start="20260711063000 +0000" stop="20260711080000 +0000" channel="122#CAN9"><title lang="es">Fuera del aire</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260711080000 +0000" stop="20260711083000 +0000" channel="122#CAN9"><title lang="es">Fuera del aire</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260711083000 +0000" stop="20260711090000 +0000" channel="122#CAN9"><title lang="es">Pare de sufrir</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20260711090000 +0000" stop="20260711100000 +0000" channel="122#CAN9"><title lang="es">Clave argentina</title></programme>
+<programme start="20260711100000 +0000" stop="20260711120000 +0000" channel="122#CAN9"><title lang="es">TV Compras</title></programme>
+<programme start="20260711120000 +0000" stop="20260711130000 +0000" channel="122#CAN9"><title lang="es">Suterh con vos</title></programme>
+<programme start="20260711130000 +0000" stop="20260711133000 +0000" channel="122#CAN9"><title lang="es">Prevenir</title></programme>
+<programme start="20260711133000 +0000" stop="20260711140000 +0000" channel="122#CAN9"><title lang="es">Automás</title></programme>
+<programme start="20260711140000 +0000" stop="20260711160000 +0000" channel="122#CAN9"><title lang="es">Automovilismo Turismo Carretera</title></programme>
+<programme start="20260711160000 +0000" stop="20260711180000 +0000" channel="122#CAN9"><title lang="es">La cocina del 9</title></programme>
+<programme start="20260711180000 +0000" stop="20260711200000 +0000" channel="122#CAN9"><title lang="es">Automovilismo Turismo Carretera</title></programme>
+<programme start="20260711200000 +0000" stop="20260711210000 +0000" channel="122#CAN9"><title lang="es">Nara que ver</title></programme>
+<programme start="20260711210000 +0000" stop="20260711230000 +0000" channel="122#CAN9"><title lang="es">Implacables</title></programme>
+<programme start="20260711230000 +0000" stop="20260712000000 +0000" channel="122#CAN9"><title lang="es">Con estilo</title></programme>
+<programme start="20260712000000 +0000" stop="20260712013000 +0000" channel="122#CAN9"><title lang="es">Sábados con Jey</title></programme>
+<programme start="20260712013000 +0000" stop="20260712023000 +0000" channel="122#CAN9"><title lang="es">Con todo respeto</title></programme>
+<programme start="20260712023000 +0000" stop="20260712030000 +0000" channel="122#CAN9"><title lang="es">Tenés que ir</title><rating system="MPA"><value>TVY</value></rating></programme>
 <programme start="20260711023000 +0000" stop="20260711031500 +0000" channel="123#TF11"><title lang="es">Juego chino</title></programme>
-<programme start="20260710013000 +0000" stop="20260710031500 +0000" channel="124#AR13"><title lang="es">Otro día perdido</title></programme>
-<programme start="20260710031500 +0000" stop="20260710040000 +0000" channel="124#AR13"><title lang="es">Síntesis</title></programme>
-<programme start="20260710040000 +0000" stop="20260710041500 +0000" channel="124#AR13"><title lang="es">Cucinare</title></programme>
-<programme start="20260710041500 +0000" stop="20260710093000 +0000" channel="124#AR13"><title lang="es">Fuera del aire</title><rating system="MPA"><value>TVG</value></rating></programme>
-<programme start="20260710093000 +0000" stop="20260710100000 +0000" channel="124#AR13"><title lang="es">Tiempo del tiempo</title></programme>
-<programme start="20260710100000 +0000" stop="20260710120000 +0000" channel="124#AR13"><title lang="es">Arriba argentinos</title></programme>
-<programme start="20260710120000 +0000" stop="20260710133000 +0000" channel="124#AR13"><title lang="es">La mañana con Moria</title></programme>
-<programme start="20260710133000 +0000" stop="20260710153000 +0000" channel="124#AR13"><title lang="es">Puro show</title></programme>
-<programme start="20260710153000 +0000" stop="20260710160000 +0000" channel="124#AR13"><title lang="es">El Zorro</title></programme>
-<programme start="20260710160000 +0000" stop="20260710173000 +0000" channel="124#AR13"><title lang="es">Mediodía noticias</title></programme>
-<programme start="20260710173000 +0000" stop="20260710191500 +0000" channel="124#AR13"><title lang="es">La cocina rebelde</title></programme>
-<programme start="20260710191500 +0000" stop="20260710211500 +0000" channel="124#AR13"><title lang="es">Cuestión de peso</title></programme>
-<programme start="20260710211500 +0000" stop="20260710230000 +0000" channel="124#AR13"><title lang="es">¡Ahora caigo!</title></programme>
-<programme start="20260710230000 +0000" stop="20260711000000 +0000" channel="124#AR13"><title lang="es">Telenoche</title></programme>
-<programme start="20260711000000 +0000" stop="20260711013000 +0000" channel="124#AR13"><title lang="es">Es mi sueño</title></programme>
+<programme start="20260711031500 +0000" stop="20260711033000 +0000" channel="123#TF11"><title lang="es">Staff</title></programme>
+<programme start="20260711033000 +0000" stop="20260711040000 +0000" channel="123#TF11"><title lang="es">Juntos por el mundial</title></programme>
+<programme start="20260711040000 +0000" stop="20260711041500 +0000" channel="123#TF11"><title lang="es">Intuiciones</title></programme>
+<programme start="20260711041500 +0000" stop="20260711044500 +0000" channel="123#TF11"><title lang="es">El valor de tus joyas</title></programme>
+<programme start="20260711044500 +0000" stop="20260711063000 +0000" channel="123#TF11"><title lang="es">España vs. Bélgica</title><rating system="MPA"><value>G</value></rating></programme>
+<programme start="20260711063000 +0000" stop="20260711073000 +0000" channel="123#TF11"><title lang="es">Juego chino</title></programme>
+<programme start="20260711073000 +0000" stop="20260711083000 +0000" channel="123#TF11"><title lang="es">Ariel en su salsa</title></programme>
+<programme start="20260711083000 +0000" stop="20260711090000 +0000" channel="123#TF11"><title lang="es">DIRECTV y DGO presentan: Espiando la casa</title></programme>
+<programme start="20260711090000 +0000" stop="20260711101500 +0000" channel="123#TF11"><title lang="es">Disney Junior</title></programme>
+<programme start="20260711101500 +0000" stop="20260711120000 +0000" channel="123#TF11"><title lang="es">Película</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260711120000 +0000" stop="20260711140000 +0000" channel="123#TF11"><title lang="es">El Chavo y Chapulín</title></programme>
+<programme start="20260711140000 +0000" stop="20260711170000 +0000" channel="123#TF11"><title lang="es">Los Simpson</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711170000 +0000" stop="20260711203000 +0000" channel="123#TF11"><title lang="es">Los Simpson</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711203000 +0000" stop="20260711233000 +0000" channel="123#TF11"><title lang="es">Los Simpson</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711233000 +0000" stop="20260712000000 +0000" channel="123#TF11"><title lang="es">Por el mundo: Mundial</title></programme>
+<programme start="20260712000000 +0000" stop="20260712010000 +0000" channel="123#TF11"><title lang="es">La previa del partido</title></programme>
+<programme start="20260712010000 +0000" stop="20260712041500 +0000" channel="123#TF11"><title lang="es">Argentina vs. Suiza</title><rating system="MPA"><value>G</value></rating></programme>
 <programme start="20260711013000 +0000" stop="20260711031500 +0000" channel="124#AR13"><title lang="es">Otro día perdido</title></programme>
-<programme start="20260710025800 +0000" stop="20260710050500 +0000" channel="204#STAR"><title lang="es">Más respeto que soy tu madre</title></programme>
-<programme start="20260710050500 +0000" stop="20260710064400 +0000" channel="204#STAR"><title lang="es">Sin salida</title><rating system="MPA"><value>R</value></rating></programme>
-<programme start="20260710064400 +0000" stop="20260710081700 +0000" channel="204#STAR"><title lang="es">Plan de vuelo</title></programme>
-<programme start="20260710081700 +0000" stop="20260710090000 +0000" channel="204#STAR"><title lang="es">Ajuste de cuentas</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710090000 +0000" stop="20260710100000 +0000" channel="204#STAR"><title lang="es">No es lo correcto</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710100000 +0000" stop="20260710113800 +0000" channel="204#STAR"><title lang="es">Entre abogados</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710113800 +0000" stop="20260710123000 +0000" channel="204#STAR"><title lang="es">Durmiente</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710123000 +0000" stop="20260710145000 +0000" channel="204#STAR"><title lang="es">Yo, traidor</title></programme>
-<programme start="20260710145000 +0000" stop="20260710163400 +0000" channel="204#STAR"><title lang="es">¿Hey, dónde está mi auto?</title></programme>
-<programme start="20260710163400 +0000" stop="20260710182400 +0000" channel="204#STAR"><title lang="es">Sin rodeos</title></programme>
-<programme start="20260710182400 +0000" stop="20260710202400 +0000" channel="204#STAR"><title lang="es">Dolittle</title><rating system="MPA"><value>PG</value></rating></programme>
-<programme start="20260710202400 +0000" stop="20260710220600 +0000" channel="204#STAR"><title lang="es">Enlace mortal</title><rating system="MPA"><value>R</value></rating></programme>
-<programme start="20260710220600 +0000" stop="20260710235500 +0000" channel="204#STAR"><title lang="es">(500) días con ella</title></programme>
-<programme start="20260710235500 +0000" stop="20260711002700 +0000" channel="204#STAR"><title lang="es">Los buenos, los tristes y las drogas</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260711002700 +0000" stop="20260711010000 +0000" channel="204#STAR"><title lang="es">Papá no sabe nada</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711031500 +0000" stop="20260711040000 +0000" channel="124#AR13"><title lang="es">Síntesis</title></programme>
+<programme start="20260711040000 +0000" stop="20260711041500 +0000" channel="124#AR13"><title lang="es">Cucinare</title></programme>
+<programme start="20260711041500 +0000" stop="20260711103000 +0000" channel="124#AR13"><title lang="es">Fuera del aire</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260711103000 +0000" stop="20260711104500 +0000" channel="124#AR13"><title lang="es">Apertura TX</title></programme>
+<programme start="20260711104500 +0000" stop="20260711120000 +0000" channel="124#AR13"><title lang="es">Selkirk, el verdadero Robinson Crusoe</title></programme>
+<programme start="20260711120000 +0000" stop="20260711130000 +0000" channel="124#AR13"><title lang="es">Agro TV</title></programme>
+<programme start="20260711130000 +0000" stop="20260711140000 +0000" channel="124#AR13"><title lang="es">The Batman</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20260711140000 +0000" stop="20260711210000 +0000" channel="124#AR13"><title lang="es">La familia Ingalls</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711210000 +0000" stop="20260711230000 +0000" channel="124#AR13"><title lang="es">El misterio del dragón</title></programme>
+<programme start="20260711230000 +0000" stop="20260712003000 +0000" channel="124#AR13"><title lang="es">La noche de Mirtha</title></programme>
+<programme start="20260712003000 +0000" stop="20260712023000 +0000" channel="124#AR13"><title lang="es">Ella dijo</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20260712023000 +0000" stop="20260712031500 +0000" channel="124#AR13"><title lang="es">Resto del mundo</title></programme>
 <programme start="20260711010000 +0000" stop="20260711031700 +0000" channel="204#STAR"><title lang="es">Volando alto</title></programme>
-<programme start="20260710024500 +0000" stop="20260710034000 +0000" channel="207#A&amp;E"><title lang="es">Casos abiertos</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710034000 +0000" stop="20260710043000 +0000" channel="207#A&amp;E"><title lang="es">Interrogatorios: Mentiras e historias</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710043000 +0000" stop="20260710052000 +0000" channel="207#A&amp;E"><title lang="es">Cerca de casa</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710052000 +0000" stop="20260710061000 +0000" channel="207#A&amp;E"><title lang="es">Al calor del momento</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710061000 +0000" stop="20260710065500 +0000" channel="207#A&amp;E"><title lang="es">Un asesino en la familia</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710065500 +0000" stop="20260710074000 +0000" channel="207#A&amp;E"><title lang="es">Amistad fatal</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710074000 +0000" stop="20260710082500 +0000" channel="207#A&amp;E"><title lang="es">Innombrable</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710082500 +0000" stop="20260710091000 +0000" channel="207#A&amp;E"><title lang="es">Caminar en el parque</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710091000 +0000" stop="20260710104000 +0000" channel="207#A&amp;E"><title lang="es">Inolvidables: madre e hijos</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710104000 +0000" stop="20260710110000 +0000" channel="207#A&amp;E"><title lang="es">Episode 17</title></programme>
-<programme start="20260710110000 +0000" stop="20260710112000 +0000" channel="207#A&amp;E"><title lang="es">Algunos no me gustan</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710112000 +0000" stop="20260710114000 +0000" channel="207#A&amp;E"><title lang="es">Temporada Kitsch</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710114000 +0000" stop="20260710120000 +0000" channel="207#A&amp;E"><title lang="es">No todo es amor</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710120000 +0000" stop="20260710123000 +0000" channel="207#A&amp;E"><title lang="es">Programación pagada</title><rating system="MPA"><value>TVG</value></rating></programme>
-<programme start="20260710123000 +0000" stop="20260710130000 +0000" channel="207#A&amp;E"><title lang="es">Programación pagada</title><rating system="MPA"><value>TVG</value></rating></programme>
-<programme start="20260710130000 +0000" stop="20260710133000 +0000" channel="207#A&amp;E"><title lang="es">Programación pagada</title><rating system="MPA"><value>TVG</value></rating></programme>
-<programme start="20260710133000 +0000" stop="20260710140000 +0000" channel="207#A&amp;E"><title lang="es">Programación pagada</title><rating system="MPA"><value>TVG</value></rating></programme>
-<programme start="20260710140000 +0000" stop="20260710153000 +0000" channel="207#A&amp;E"><title lang="es">Althia</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710153000 +0000" stop="20260710160000 +0000" channel="207#A&amp;E"><title lang="es">¡Alto! Frontera: Chile</title></programme>
-<programme start="20260710160000 +0000" stop="20260710163000 +0000" channel="207#A&amp;E"><title lang="es">¡Alto! Frontera: Chile</title></programme>
-<programme start="20260710163000 +0000" stop="20260710170000 +0000" channel="207#A&amp;E"><title lang="es">¡Alto! Frontera: Chile</title></programme>
-<programme start="20260710170000 +0000" stop="20260710173000 +0000" channel="207#A&amp;E"><title lang="es">¡Alto! Frontera: Chile</title></programme>
-<programme start="20260710173000 +0000" stop="20260710175500 +0000" channel="207#A&amp;E"><title lang="es">Cam Alert: Captura exitosa</title></programme>
-<programme start="20260710175500 +0000" stop="20260710182000 +0000" channel="207#A&amp;E"><title lang="es">Cam Alert: Captura exitosa</title></programme>
-<programme start="20260710182000 +0000" stop="20260710184500 +0000" channel="207#A&amp;E"><title lang="es">Cam Alert: Captura exitosa</title></programme>
-<programme start="20260710184500 +0000" stop="20260710191000 +0000" channel="207#A&amp;E"><title lang="es">Cam Alert: Captura exitosa</title></programme>
-<programme start="20260710191000 +0000" stop="20260710193000 +0000" channel="207#A&amp;E"><title lang="es">Episode 20</title></programme>
-<programme start="20260710193000 +0000" stop="20260710195500 +0000" channel="207#A&amp;E"><title lang="es">Patrulla policial</title></programme>
-<programme start="20260710195500 +0000" stop="20260710201500 +0000" channel="207#A&amp;E"><title lang="es">Episode 2</title></programme>
-<programme start="20260710201500 +0000" stop="20260710204000 +0000" channel="207#A&amp;E"><title lang="es">Patrulla policial</title></programme>
-<programme start="20260710204000 +0000" stop="20260710210000 +0000" channel="207#A&amp;E"><title lang="es">Episode 9</title></programme>
-<programme start="20260710210000 +0000" stop="20260710212500 +0000" channel="207#A&amp;E"><title lang="es">Episode 10</title></programme>
-<programme start="20260710212500 +0000" stop="20260710214500 +0000" channel="207#A&amp;E"><title lang="es">Episode 11</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710214500 +0000" stop="20260710221000 +0000" channel="207#A&amp;E"><title lang="es">Patrulla policial</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710221000 +0000" stop="20260710223000 +0000" channel="207#A&amp;E"><title lang="es">Patrulla policial</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710223000 +0000" stop="20260710225500 +0000" channel="207#A&amp;E"><title lang="es">#54</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710225500 +0000" stop="20260710231500 +0000" channel="207#A&amp;E"><title lang="es">Patrulla policial</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710231500 +0000" stop="20260710234000 +0000" channel="207#A&amp;E"><title lang="es">Patrulla policial</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710234000 +0000" stop="20260711000000 +0000" channel="207#A&amp;E"><title lang="es">Temporada Kitsch</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260711000000 +0000" stop="20260711002500 +0000" channel="207#A&amp;E"><title lang="es">No todo es amor</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260711002500 +0000" stop="20260711005000 +0000" channel="207#A&amp;E"><title lang="es">Yuuup</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260711005000 +0000" stop="20260711011500 +0000" channel="207#A&amp;E"><title lang="es">Las Vegas se encogió</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260711011500 +0000" stop="20260711014000 +0000" channel="207#A&amp;E"><title lang="es">Episode 17</title></programme>
-<programme start="20260711014000 +0000" stop="20260711020000 +0000" channel="207#A&amp;E"><title lang="es">Patrulla policial</title></programme>
-<programme start="20260711020000 +0000" stop="20260711022500 +0000" channel="207#A&amp;E"><title lang="es">Episode 19</title></programme>
-<programme start="20260711022500 +0000" stop="20260711024500 +0000" channel="207#A&amp;E"><title lang="es">Episode 20</title></programme>
+<programme start="20260711031700 +0000" stop="20260711062400 +0000" channel="204#STAR"><title lang="es">El último duelo</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20260711062400 +0000" stop="20260711075900 +0000" channel="204#STAR"><title lang="es">Doom: Aniquilación</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20260711075900 +0000" stop="20260711084200 +0000" channel="204#STAR"><title lang="es">Ayuda Hong Kong</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711084200 +0000" stop="20260711100000 +0000" channel="204#STAR"><title lang="es">A quemarropa</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711100000 +0000" stop="20260711114900 +0000" channel="204#STAR"><title lang="es">Sin rodeos</title></programme>
+<programme start="20260711114900 +0000" stop="20260711125900 +0000" channel="204#STAR"><title lang="es">XX</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711125900 +0000" stop="20260711134600 +0000" channel="204#STAR"><title lang="es">Pascua</title></programme>
+<programme start="20260711134600 +0000" stop="20260711141400 +0000" channel="204#STAR"><title lang="es">Navidad</title></programme>
+<programme start="20260711141400 +0000" stop="20260711144000 +0000" channel="204#STAR"><title lang="es">3 minutos: Chocolate</title></programme>
+<programme start="20260711144000 +0000" stop="20260711150700 +0000" channel="204#STAR"><title lang="es">3 minutos: Chocolate</title></programme>
+<programme start="20260711150700 +0000" stop="20260711184900 +0000" channel="204#STAR"><title lang="es">Pearl Harbor, entre el fuego y la pasión</title></programme>
+<programme start="20260711184900 +0000" stop="20260711205000 +0000" channel="204#STAR"><title lang="es">Loca obsesión</title></programme>
+<programme start="20260711205000 +0000" stop="20260711225000 +0000" channel="204#STAR"><title lang="es">The Greatest Hits</title></programme>
+<programme start="20260711225000 +0000" stop="20260712005900 +0000" channel="204#STAR"><title lang="es">Sexto sentido</title></programme>
+<programme start="20260712005900 +0000" stop="20260712031500 +0000" channel="204#STAR"><title lang="es">El menú</title><rating system="MPA"><value>R</value></rating></programme>
 <programme start="20260711024500 +0000" stop="20260711031500 +0000" channel="207#A&amp;E"><title lang="es">¡Alto! Frontera: Chile</title></programme>
-<programme start="20260710025000 +0000" stop="20260710031000 +0000" channel="215#CMDY"><title lang="es">Barbagorda</title><rating system="MPA"><value>TVMA</value></rating></programme>
-<programme start="20260710031000 +0000" stop="20260710033500 +0000" channel="215#CMDY"><title lang="es">La palabra con M</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710033500 +0000" stop="20260710040000 +0000" channel="215#CMDY"><title lang="es">Pis</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710040000 +0000" stop="20260710042000 +0000" channel="215#CMDY"><title lang="es">Cogiste pi por el cu</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710042000 +0000" stop="20260710044500 +0000" channel="215#CMDY"><title lang="es">Espaldas babosas</title><rating system="MPA"><value>TVMA</value></rating></programme>
-<programme start="20260710044500 +0000" stop="20260710051000 +0000" channel="215#CMDY"><title lang="es">Million Dollar Reward &amp; Get Well Soon</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710051000 +0000" stop="20260710053000 +0000" channel="215#CMDY"><title lang="es">Lavado o mojón</title><rating system="MPA"><value>TVMA</value></rating></programme>
-<programme start="20260710053000 +0000" stop="20260710055500 +0000" channel="215#CMDY"><title lang="es">La llegada de Wall Mart</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710055500 +0000" stop="20260710062000 +0000" channel="215#CMDY"><title lang="es">Preescolar</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710062000 +0000" stop="20260710064500 +0000" channel="215#CMDY"><title lang="es">Crea tus vídeos como tonta, p-ta, malcriada</title><rating system="MPA"><value>TVMA</value></rating></programme>
-<programme start="20260710064500 +0000" stop="20260710070500 +0000" channel="215#CMDY"><title lang="es">Reno 911!</title><rating system="MPA"><value>TVMA</value></rating></programme>
-<programme start="20260710070500 +0000" stop="20260710073000 +0000" channel="215#CMDY"><title lang="es">Docu Drama</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710073000 +0000" stop="20260710075500 +0000" channel="215#CMDY"><title lang="es">Se necesitan dos para pelear</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710075500 +0000" stop="20260710081500 +0000" channel="215#CMDY"><title lang="es">Olvidado pero no desaparecido</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710081500 +0000" stop="20260710084000 +0000" channel="215#CMDY"><title lang="es">Daphne regresa</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710084000 +0000" stop="20260710090000 +0000" channel="215#CMDY"><title lang="es">Killer Concept Album</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710090000 +0000" stop="20260710092000 +0000" channel="215#CMDY"><title lang="es">The Job Interview</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710092000 +0000" stop="20260710094500 +0000" channel="215#CMDY"><title lang="es">Launch Party</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710094500 +0000" stop="20260710101000 +0000" channel="215#CMDY"><title lang="es">Idiotas por accidente</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710101000 +0000" stop="20260710103000 +0000" channel="215#CMDY"><title lang="es">Mascotas</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710103000 +0000" stop="20260710105500 +0000" channel="215#CMDY"><title lang="es">Idiotas por accidente</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710105500 +0000" stop="20260710112000 +0000" channel="215#CMDY"><title lang="es">Idiotas por accidente</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710112000 +0000" stop="20260710114000 +0000" channel="215#CMDY"><title lang="es">See Dad Meet Matthew Pearson</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710114000 +0000" stop="20260710120000 +0000" channel="215#CMDY"><title lang="es">Papá en apuros</title></programme>
-<programme start="20260710120000 +0000" stop="20260710122000 +0000" channel="215#CMDY"><title lang="es">Dominando en el tránsito</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710122000 +0000" stop="20260710124500 +0000" channel="215#CMDY"><title lang="es">Compras compulsivas</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710124500 +0000" stop="20260710130500 +0000" channel="215#CMDY"><title lang="es">Camas separadas</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710130500 +0000" stop="20260710133000 +0000" channel="215#CMDY"><title lang="es">Docu Drama</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710133000 +0000" stop="20260710135000 +0000" channel="215#CMDY"><title lang="es">Se necesitan dos para pelear</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710135000 +0000" stop="20260710142000 +0000" channel="215#CMDY"><title lang="es">Olvidado pero no desaparecido</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710142000 +0000" stop="20260710144500 +0000" channel="215#CMDY"><title lang="es">Daphne regresa</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710144500 +0000" stop="20260710150500 +0000" channel="215#CMDY"><title lang="es">Prestando a Carrie</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710150500 +0000" stop="20260710153000 +0000" channel="215#CMDY"><title lang="es">El precio del moho</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710153000 +0000" stop="20260710155500 +0000" channel="215#CMDY"><title lang="es">La casa se caerá</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710155500 +0000" stop="20260710161500 +0000" channel="215#CMDY"><title lang="es">Bienvenidos a los bolos</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710161500 +0000" stop="20260710163500 +0000" channel="215#CMDY"><title lang="es">Welcome to the Dealbreaker</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710163500 +0000" stop="20260710170000 +0000" channel="215#CMDY"><title lang="es">The Italian Job</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710170000 +0000" stop="20260710172000 +0000" channel="215#CMDY"><title lang="es">Mystery Date: Oscar Edition</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710172000 +0000" stop="20260710174500 +0000" channel="215#CMDY"><title lang="es">City Lights</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710174500 +0000" stop="20260710181000 +0000" channel="215#CMDY"><title lang="es">Physician, Heal Thyself</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710181000 +0000" stop="20260710183000 +0000" channel="215#CMDY"><title lang="es">Grand Illusion</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710183000 +0000" stop="20260710190000 +0000" channel="215#CMDY"><title lang="es">Meet Tommy Dugan</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710190000 +0000" stop="20260710192000 +0000" channel="215#CMDY"><title lang="es">Tenemos una chica</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710192000 +0000" stop="20260710194000 +0000" channel="215#CMDY"><title lang="es">Mándalo al suelo</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710194000 +0000" stop="20260710200500 +0000" channel="215#CMDY"><title lang="es">Welcome to the Commercial</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710200500 +0000" stop="20260710203000 +0000" channel="215#CMDY"><title lang="es">Bienvenidos al equipo</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710203000 +0000" stop="20260710205000 +0000" channel="215#CMDY"><title lang="es">Guerra de tapetes</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710205000 +0000" stop="20260710211000 +0000" channel="215#CMDY"><title lang="es">Manualidades</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710211000 +0000" stop="20260710213500 +0000" channel="215#CMDY"><title lang="es">Talking Points</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710213500 +0000" stop="20260710220000 +0000" channel="215#CMDY"><title lang="es">Too Much, Too Late</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710220000 +0000" stop="20260710222000 +0000" channel="215#CMDY"><title lang="es">Meet the Parents</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710222000 +0000" stop="20260710224500 +0000" channel="215#CMDY"><title lang="es">It&apos;s Not That Complicated</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710224500 +0000" stop="20260710230500 +0000" channel="215#CMDY"><title lang="es">Negocios de familia</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710230500 +0000" stop="20260710233000 +0000" channel="215#CMDY"><title lang="es">El tazón de hoyo pared</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710233000 +0000" stop="20260710235000 +0000" channel="215#CMDY"><title lang="es">Bienvenidos al salto</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710235000 +0000" stop="20260711001000 +0000" channel="215#CMDY"><title lang="es">Welcome to the Standoff</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260711001000 +0000" stop="20260711003500 +0000" channel="215#CMDY"><title lang="es">Meet Tommy Dugan</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260711003500 +0000" stop="20260711010000 +0000" channel="215#CMDY"><title lang="es">The Competition</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260711010000 +0000" stop="20260711012000 +0000" channel="215#CMDY"><title lang="es">Choose Me</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260711012000 +0000" stop="20260711014500 +0000" channel="215#CMDY"><title lang="es">P.C. World</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260711014500 +0000" stop="20260711020500 +0000" channel="215#CMDY"><title lang="es">HombreOsoCerdo</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260711020500 +0000" stop="20260711023000 +0000" channel="215#CMDY"><title lang="es">Pobre y estúpido</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260711023000 +0000" stop="20260711025000 +0000" channel="215#CMDY"><title lang="es">Mapache 2: Retrospectiva</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20260711031500 +0000" stop="20260711034500 +0000" channel="207#A&amp;E"><title lang="es">¡Alto! Frontera: Chile</title></programme>
+<programme start="20260711034500 +0000" stop="20260711041500 +0000" channel="207#A&amp;E"><title lang="es">¡Alto! Frontera</title></programme>
+<programme start="20260711041500 +0000" stop="20260711044500 +0000" channel="207#A&amp;E"><title lang="es">¡Alto! Frontera</title></programme>
+<programme start="20260711044500 +0000" stop="20260711051000 +0000" channel="207#A&amp;E"><title lang="es">Cam Alert: Captura exitosa</title></programme>
+<programme start="20260711051000 +0000" stop="20260711054000 +0000" channel="207#A&amp;E"><title lang="es">Cam Alert: Captura exitosa</title></programme>
+<programme start="20260711054000 +0000" stop="20260711060500 +0000" channel="207#A&amp;E"><title lang="es">Cam Alert: Captura exitosa</title></programme>
+<programme start="20260711060500 +0000" stop="20260711063500 +0000" channel="207#A&amp;E"><title lang="es">Cam Alert: Captura exitosa</title></programme>
+<programme start="20260711063500 +0000" stop="20260711065500 +0000" channel="207#A&amp;E"><title lang="es">Episode 13</title></programme>
+<programme start="20260711065500 +0000" stop="20260711072000 +0000" channel="207#A&amp;E"><title lang="es">Episode 14</title></programme>
+<programme start="20260711072000 +0000" stop="20260711074000 +0000" channel="207#A&amp;E"><title lang="es">Episode 15</title></programme>
+<programme start="20260711074000 +0000" stop="20260711080000 +0000" channel="207#A&amp;E"><title lang="es">Episode 16</title></programme>
+<programme start="20260711080000 +0000" stop="20260711082000 +0000" channel="207#A&amp;E"><title lang="es">Episode 17</title></programme>
+<programme start="20260711082000 +0000" stop="20260711084000 +0000" channel="207#A&amp;E"><title lang="es">Episode 18</title></programme>
+<programme start="20260711084000 +0000" stop="20260711090000 +0000" channel="207#A&amp;E"><title lang="es">Episode 19</title></programme>
+<programme start="20260711090000 +0000" stop="20260711092000 +0000" channel="207#A&amp;E"><title lang="es">Episode 20</title></programme>
+<programme start="20260711092000 +0000" stop="20260711094000 +0000" channel="207#A&amp;E"><title lang="es">Patrulla policial</title></programme>
+<programme start="20260711094000 +0000" stop="20260711100000 +0000" channel="207#A&amp;E"><title lang="es">Episode 2</title></programme>
+<programme start="20260711100000 +0000" stop="20260711102000 +0000" channel="207#A&amp;E"><title lang="es">Patrulla policial</title></programme>
+<programme start="20260711102000 +0000" stop="20260711104000 +0000" channel="207#A&amp;E"><title lang="es">Episode 9</title></programme>
+<programme start="20260711104000 +0000" stop="20260711110000 +0000" channel="207#A&amp;E"><title lang="es">Episode 10</title></programme>
+<programme start="20260711110000 +0000" stop="20260711112000 +0000" channel="207#A&amp;E"><title lang="es">Episode 17</title></programme>
+<programme start="20260711112000 +0000" stop="20260711114000 +0000" channel="207#A&amp;E"><title lang="es">Patrulla policial</title></programme>
+<programme start="20260711114000 +0000" stop="20260711120000 +0000" channel="207#A&amp;E"><title lang="es">Episode 19</title></programme>
+<programme start="20260711120000 +0000" stop="20260711123000 +0000" channel="207#A&amp;E"><title lang="es">Programación pagada</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260711123000 +0000" stop="20260711130000 +0000" channel="207#A&amp;E"><title lang="es">Programación pagada</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260711130000 +0000" stop="20260711133000 +0000" channel="207#A&amp;E"><title lang="es">Programación pagada</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260711133000 +0000" stop="20260711140000 +0000" channel="207#A&amp;E"><title lang="es">Programación pagada</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260711140000 +0000" stop="20260711153500 +0000" channel="207#A&amp;E"><title lang="es">Carol</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711153500 +0000" stop="20260711170500 +0000" channel="207#A&amp;E"><title lang="es">Althia</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711170500 +0000" stop="20260711184500 +0000" channel="207#A&amp;E"><title lang="es">Flora</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711184500 +0000" stop="20260711195500 +0000" channel="207#A&amp;E"><title lang="es">Y en arcadia, yo</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711195500 +0000" stop="20260711210000 +0000" channel="207#A&amp;E"><title lang="es">El sueño</title></programme>
+<programme start="20260711210000 +0000" stop="20260711220000 +0000" channel="207#A&amp;E"><title lang="es">Un nuevo comienzo</title></programme>
+<programme start="20260711220000 +0000" stop="20260711230000 +0000" channel="207#A&amp;E"><title lang="es">Zonas sombrías</title></programme>
+<programme start="20260711230000 +0000" stop="20260712000000 +0000" channel="207#A&amp;E"><title lang="es">Encuentros mortales</title></programme>
+<programme start="20260712000000 +0000" stop="20260712002000 +0000" channel="207#A&amp;E"><title lang="es">Lo que se subasta en Montebello no queda en Montebello</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260712002000 +0000" stop="20260712004500 +0000" channel="207#A&amp;E"><title lang="es">¿Calidad o cantidad?</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260712004500 +0000" stop="20260712011000 +0000" channel="207#A&amp;E"><title lang="es">Una trama valiosa</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260712011000 +0000" stop="20260712013500 +0000" channel="207#A&amp;E"><title lang="es">Espejito, espejito...</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260712013500 +0000" stop="20260712015500 +0000" channel="207#A&amp;E"><title lang="es">Terapia de pareja</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260712015500 +0000" stop="20260712022000 +0000" channel="207#A&amp;E"><title lang="es">¡Rompan esos candados!</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260712022000 +0000" stop="20260712024500 +0000" channel="207#A&amp;E"><title lang="es">Kenny ¡oh la la!</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260712024500 +0000" stop="20260712031000 +0000" channel="207#A&amp;E"><title lang="es">Regla número uno</title><rating system="MPA"><value>TVPG</value></rating></programme>
 <programme start="20260711025000 +0000" stop="20260711031000 +0000" channel="215#CMDY"><title lang="es">Mysterion se subleva</title><rating system="MPA"><value>TVMA</value></rating></programme>
-<programme start="20260710024600 +0000" stop="20260710033600 +0000" channel="216#TNTN"><title lang="es">El chico de oro</title></programme>
-<programme start="20260710033600 +0000" stop="20260710041500 +0000" channel="216#TNTN"><title lang="es">Sin tetas no hay paraíso</title></programme>
-<programme start="20260710041500 +0000" stop="20260710045500 +0000" channel="216#TNTN"><title lang="es">Sin tetas no hay paraíso</title></programme>
-<programme start="20260710045500 +0000" stop="20260710054400 +0000" channel="216#TNTN"><title lang="es">Fuerza de mujer</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710054400 +0000" stop="20260710063100 +0000" channel="216#TNTN"><title lang="es">Fuerza de mujer</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710063100 +0000" stop="20260710071700 +0000" channel="216#TNTN"><title lang="es">Bahar</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710071700 +0000" stop="20260710080000 +0000" channel="216#TNTN"><title lang="es">Bahar</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710080000 +0000" stop="20260710084500 +0000" channel="216#TNTN"><title lang="es">El chico de oro</title></programme>
-<programme start="20260710084500 +0000" stop="20260710092900 +0000" channel="216#TNTN"><title lang="es">El chico de oro</title></programme>
-<programme start="20260710092900 +0000" stop="20260710101500 +0000" channel="216#TNTN"><title lang="es">Quiéreme siempre</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710101500 +0000" stop="20260710111600 +0000" channel="216#TNTN"><title lang="es">Quiéreme siempre</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710111600 +0000" stop="20260710120000 +0000" channel="216#TNTN"><title lang="es">Quiéreme siempre</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710120000 +0000" stop="20260710130000 +0000" channel="216#TNTN"><title lang="es">Sueños de libertad</title></programme>
-<programme start="20260710130000 +0000" stop="20260710135500 +0000" channel="216#TNTN"><title lang="es">Sueños de libertad</title></programme>
-<programme start="20260710135500 +0000" stop="20260710144400 +0000" channel="216#TNTN"><title lang="es">El chico de oro</title></programme>
-<programme start="20260710144400 +0000" stop="20260710153600 +0000" channel="216#TNTN"><title lang="es">El chico de oro</title></programme>
-<programme start="20260710153600 +0000" stop="20260710162700 +0000" channel="216#TNTN"><title lang="es">Quiéreme siempre</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710162700 +0000" stop="20260710172000 +0000" channel="216#TNTN"><title lang="es">Quiéreme siempre</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710172000 +0000" stop="20260710181400 +0000" channel="216#TNTN"><title lang="es">Aile</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710181400 +0000" stop="20260710190600 +0000" channel="216#TNTN"><title lang="es">Aile</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710190600 +0000" stop="20260710200300 +0000" channel="216#TNTN"><title lang="es">Nuevas amenazas</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710200300 +0000" stop="20260710204900 +0000" channel="216#TNTN"><title lang="es">Nuevas amenazas</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710204900 +0000" stop="20260710214400 +0000" channel="216#TNTN"><title lang="es">Bahar</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710214400 +0000" stop="20260710223600 +0000" channel="216#TNTN"><title lang="es">Bahar</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710223600 +0000" stop="20260710233100 +0000" channel="216#TNTN"><title lang="es">El chico de oro</title></programme>
-<programme start="20260710233100 +0000" stop="20260711002300 +0000" channel="216#TNTN"><title lang="es">El chico de oro</title></programme>
-<programme start="20260711002300 +0000" stop="20260711011700 +0000" channel="216#TNTN"><title lang="es">Quiéreme siempre</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260711011700 +0000" stop="20260711020600 +0000" channel="216#TNTN"><title lang="es">Quiéreme siempre</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260711020600 +0000" stop="20260711025700 +0000" channel="216#TNTN"><title lang="es">El chico de oro</title></programme>
+<programme start="20260711031000 +0000" stop="20260711033500 +0000" channel="215#CMDY"><title lang="es">Pudín Real</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711033500 +0000" stop="20260711040000 +0000" channel="215#CMDY"><title lang="es">City Sushi</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20260711040000 +0000" stop="20260711042000 +0000" channel="215#CMDY"><title lang="es">El increíble regalo de Cartman</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20260711042000 +0000" stop="20260711044500 +0000" channel="215#CMDY"><title lang="es">La nueva vagina del señor Garrison</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20260711044500 +0000" stop="20260711051000 +0000" channel="215#CMDY"><title lang="es">Beavis y Butt-Head</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711051000 +0000" stop="20260711053000 +0000" channel="215#CMDY"><title lang="es">Muere, hippie, muere</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20260711053000 +0000" stop="20260711055500 +0000" channel="215#CMDY"><title lang="es">Best Friends Forever</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20260711055500 +0000" stop="20260711062000 +0000" channel="215#CMDY"><title lang="es">La muerte de Eric Cartman</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711062000 +0000" stop="20260711064500 +0000" channel="215#CMDY"><title lang="es">Día de la erección</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20260711064500 +0000" stop="20260711070500 +0000" channel="215#CMDY"><title lang="es">RENO 911!</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711070500 +0000" stop="20260711073000 +0000" channel="215#CMDY"><title lang="es">La bruja y Roz</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711073000 +0000" stop="20260711075500 +0000" channel="215#CMDY"><title lang="es">Propuesta semidecente</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711075500 +0000" stop="20260711081500 +0000" channel="215#CMDY"><title lang="es">Un capricho pasajero</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711081500 +0000" stop="20260711084000 +0000" channel="215#CMDY"><title lang="es">Un día de mayo</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711084000 +0000" stop="20260711090000 +0000" channel="215#CMDY"><title lang="es">MC Mom</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711090000 +0000" stop="20260711092000 +0000" channel="215#CMDY"><title lang="es">Hollywood Sequel Doctor</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711092000 +0000" stop="20260711094500 +0000" channel="215#CMDY"><title lang="es">China</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711094500 +0000" stop="20260711101000 +0000" channel="215#CMDY"><title lang="es">Idiotas por accidente</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711101000 +0000" stop="20260711103000 +0000" channel="215#CMDY"><title lang="es">Idiotas por accidente</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711103000 +0000" stop="20260711105500 +0000" channel="215#CMDY"><title lang="es">Idiotas por accidente</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711105500 +0000" stop="20260711112000 +0000" channel="215#CMDY"><title lang="es">Idiotas por accidente</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711112000 +0000" stop="20260711114000 +0000" channel="215#CMDY"><title lang="es">See Dad Catch a Rat</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711114000 +0000" stop="20260711120000 +0000" channel="215#CMDY"><title lang="es">See Dad Run Christmas Into the Ground</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711120000 +0000" stop="20260711121000 +0000" channel="215#CMDY"><title lang="es">Idiotas por accidente</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711121000 +0000" stop="20260711123000 +0000" channel="215#CMDY"><title lang="es">Idiotas por accidente</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711123000 +0000" stop="20260711125500 +0000" channel="215#CMDY"><title lang="es">The Bachelors</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711125500 +0000" stop="20260711131500 +0000" channel="215#CMDY"><title lang="es">Pilot</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711131500 +0000" stop="20260711134000 +0000" channel="215#CMDY"><title lang="es">Atracción animal</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711134000 +0000" stop="20260711140000 +0000" channel="215#CMDY"><title lang="es">Flash fotográfico</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711140000 +0000" stop="20260711142500 +0000" channel="215#CMDY"><title lang="es">A prueba de fuego</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711142500 +0000" stop="20260711145000 +0000" channel="215#CMDY"><title lang="es">Cuatro conectados</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711145000 +0000" stop="20260711151000 +0000" channel="215#CMDY"><title lang="es">Prestando a Carrie</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711151000 +0000" stop="20260711153500 +0000" channel="215#CMDY"><title lang="es">El precio del moho</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711153500 +0000" stop="20260711160000 +0000" channel="215#CMDY"><title lang="es">La casa se caerá</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711160000 +0000" stop="20260711162000 +0000" channel="215#CMDY"><title lang="es">Déficit de atención</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711162000 +0000" stop="20260711164500 +0000" channel="215#CMDY"><title lang="es">Steve Moscow</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711164500 +0000" stop="20260711170000 +0000" channel="215#CMDY"><title lang="es">Win Win</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711170000 +0000" stop="20260711172500 +0000" channel="215#CMDY"><title lang="es">Don Elka</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711172500 +0000" stop="20260711175000 +0000" channel="215#CMDY"><title lang="es">The Bachelors</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711175000 +0000" stop="20260711181500 +0000" channel="215#CMDY"><title lang="es">Pilot</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711181500 +0000" stop="20260711183500 +0000" channel="215#CMDY"><title lang="es">Who&apos;s Your Mama?</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711183500 +0000" stop="20260711190000 +0000" channel="215#CMDY"><title lang="es">Un mal hijo</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711190000 +0000" stop="20260711192500 +0000" channel="215#CMDY"><title lang="es">El gran robo de los Crane</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711192500 +0000" stop="20260711195000 +0000" channel="215#CMDY"><title lang="es">Tomar libertades</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711195000 +0000" stop="20260711201000 +0000" channel="215#CMDY"><title lang="es">Pleitos, amor y ternura</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711201000 +0000" stop="20260711203500 +0000" channel="215#CMDY"><title lang="es">Un nuevo amigo</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711203500 +0000" stop="20260711210000 +0000" channel="215#CMDY"><title lang="es">Al filo de Frasier</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711210000 +0000" stop="20260711212500 +0000" channel="215#CMDY"><title lang="es">Pilot</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711212500 +0000" stop="20260711215000 +0000" channel="215#CMDY"><title lang="es">Take These Pills and Shove &apos;Em</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711215000 +0000" stop="20260711221000 +0000" channel="215#CMDY"><title lang="es">Sex in the Inner City</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711221000 +0000" stop="20260711223500 +0000" channel="215#CMDY"><title lang="es">Tell Me Lies</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711223500 +0000" stop="20260711225500 +0000" channel="215#CMDY"><title lang="es">My Dinner With Becker</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711225500 +0000" stop="20260711232000 +0000" channel="215#CMDY"><title lang="es">Prototype</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711232000 +0000" stop="20260711234500 +0000" channel="215#CMDY"><title lang="es">The Great Pretender</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711234500 +0000" stop="20260712001000 +0000" channel="215#CMDY"><title lang="es">The Apartment</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260712001000 +0000" stop="20260712003500 +0000" channel="215#CMDY"><title lang="es">Pride and Prejudice</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260712003500 +0000" stop="20260712005500 +0000" channel="215#CMDY"><title lang="es">The Rivals</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260712005500 +0000" stop="20260712012000 +0000" channel="215#CMDY"><title lang="es">Bienvenidos a la brecha digital</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260712012000 +0000" stop="20260712014000 +0000" channel="215#CMDY"><title lang="es">Bienvenidos a la aprovechada</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260712014000 +0000" stop="20260712020500 +0000" channel="215#CMDY"><title lang="es">Bienvenidos al nuevo pastor</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260712020500 +0000" stop="20260712022500 +0000" channel="215#CMDY"><title lang="es">Bienvenidos a la noche de trivias</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260712022500 +0000" stop="20260712025000 +0000" channel="215#CMDY"><title lang="es">Bienvenidos a la mala reseña</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260712025000 +0000" stop="20260712031500 +0000" channel="215#CMDY"><title lang="es">Buda Box</title><rating system="MPA"><value>TVMA</value></rating></programme>
 <programme start="20260711025700 +0000" stop="20260711034900 +0000" channel="216#TNTN"><title lang="es">El chico de oro</title></programme>
-<programme start="20260710005900 +0000" stop="20260710035700 +0000" channel="217#FX"><title lang="es">Puente de espías</title></programme>
-<programme start="20260710035700 +0000" stop="20260710055100 +0000" channel="217#FX"><title lang="es">El plan perfecto: El impostor</title><rating system="MPA"><value>R</value></rating></programme>
-<programme start="20260710055100 +0000" stop="20260710072500 +0000" channel="217#FX"><title lang="es">A prueba de balas 2</title></programme>
-<programme start="20260710072500 +0000" stop="20260710080900 +0000" channel="217#FX"><title lang="es">Es solo un millón de dólares, sin presiones</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710080900 +0000" stop="20260710100000 +0000" channel="217#FX"><title lang="es">Es Solo Un Millón de Dólares, Sin Presiones: Segunda Parte</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710100000 +0000" stop="20260710122000 +0000" channel="217#FX"><title lang="es">Un poco excedidos en músculos</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710122000 +0000" stop="20260710132200 +0000" channel="217#FX"><title lang="es">Entra y piensa como un perro</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710132200 +0000" stop="20260710152200 +0000" channel="217#FX"><title lang="es">La mejor oferta</title><rating system="MPA"><value>R</value></rating></programme>
-<programme start="20260710152200 +0000" stop="20260710170900 +0000" channel="217#FX"><title lang="es">El transportador 2</title></programme>
-<programme start="20260710170900 +0000" stop="20260710190400 +0000" channel="217#FX"><title lang="es">Negra Navidad</title></programme>
-<programme start="20260710190400 +0000" stop="20260710221000 +0000" channel="217#FX"><title lang="es">Éxodo: Dioses y reyes</title></programme>
-<programme start="20260710221000 +0000" stop="20260711005900 +0000" channel="217#FX"><title lang="es">The Martian: Misión rescate</title></programme>
+<programme start="20260711034900 +0000" stop="20260711043000 +0000" channel="216#TNTN"><title lang="es">Sin tetas no hay paraíso</title></programme>
+<programme start="20260711043000 +0000" stop="20260711050900 +0000" channel="216#TNTN"><title lang="es">Sin tetas no hay paraíso</title></programme>
+<programme start="20260711050900 +0000" stop="20260711055700 +0000" channel="216#TNTN"><title lang="es">Nuevas amenazas</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711055700 +0000" stop="20260711064400 +0000" channel="216#TNTN"><title lang="es">Nuevas amenazas</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711064400 +0000" stop="20260711073000 +0000" channel="216#TNTN"><title lang="es">Bahar</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711073000 +0000" stop="20260711081400 +0000" channel="216#TNTN"><title lang="es">Bahar</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711081400 +0000" stop="20260711085800 +0000" channel="216#TNTN"><title lang="es">El chico de oro</title></programme>
+<programme start="20260711085800 +0000" stop="20260711094400 +0000" channel="216#TNTN"><title lang="es">El chico de oro</title></programme>
+<programme start="20260711094400 +0000" stop="20260711102800 +0000" channel="216#TNTN"><title lang="es">Quiéreme siempre</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711102800 +0000" stop="20260711111200 +0000" channel="216#TNTN"><title lang="es">Quiéreme siempre</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711111200 +0000" stop="20260711120000 +0000" channel="216#TNTN"><title lang="es">Quiéreme siempre</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711120000 +0000" stop="20260711124300 +0000" channel="216#TNTN"><title lang="es">El chico de oro</title></programme>
+<programme start="20260711124300 +0000" stop="20260711133400 +0000" channel="216#TNTN"><title lang="es">El chico de oro</title></programme>
+<programme start="20260711133400 +0000" stop="20260711142600 +0000" channel="216#TNTN"><title lang="es">El chico de oro</title></programme>
+<programme start="20260711142600 +0000" stop="20260711151600 +0000" channel="216#TNTN"><title lang="es">El chico de oro</title></programme>
+<programme start="20260711151600 +0000" stop="20260711160900 +0000" channel="216#TNTN"><title lang="es">Quiéreme siempre</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711160900 +0000" stop="20260711170400 +0000" channel="216#TNTN"><title lang="es">Quiéreme siempre</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711170400 +0000" stop="20260711175800 +0000" channel="216#TNTN"><title lang="es">Fuerza de mujer</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711175800 +0000" stop="20260711185000 +0000" channel="216#TNTN"><title lang="es">Fuerza de mujer</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711185000 +0000" stop="20260711194000 +0000" channel="216#TNTN"><title lang="es">Fuerza de mujer</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711194000 +0000" stop="20260711203300 +0000" channel="216#TNTN"><title lang="es">Fuerza de mujer</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711203300 +0000" stop="20260711212900 +0000" channel="216#TNTN"><title lang="es">Fuerza de mujer</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711212900 +0000" stop="20260711222300 +0000" channel="216#TNTN"><title lang="es">Quiéreme siempre</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711222300 +0000" stop="20260711231700 +0000" channel="216#TNTN"><title lang="es">Quiéreme siempre</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711231700 +0000" stop="20260712001000 +0000" channel="216#TNTN"><title lang="es">Quiéreme siempre</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260712001000 +0000" stop="20260712010300 +0000" channel="216#TNTN"><title lang="es">Quiéreme siempre</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260712010300 +0000" stop="20260712015200 +0000" channel="216#TNTN"><title lang="es">Quiéreme siempre</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260712015200 +0000" stop="20260712024400 +0000" channel="216#TNTN"><title lang="es">El chico de oro</title></programme>
+<programme start="20260712024400 +0000" stop="20260712033400 +0000" channel="216#TNTN"><title lang="es">El chico de oro</title></programme>
 <programme start="20260711005900 +0000" stop="20260711033100 +0000" channel="217#FX"><title lang="es">Duro de matar 2</title><rating system="MPA"><value>R</value></rating></programme>
-<programme start="20260710022000 +0000" stop="20260710031000 +0000" channel="222#E!"><title lang="es">Donde las cosas se ponen Wildd</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710031000 +0000" stop="20260710040000 +0000" channel="222#E!"><title lang="es">La muñeca viviente</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710040000 +0000" stop="20260710045000 +0000" channel="222#E!"><title lang="es">Episode 23</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710045000 +0000" stop="20260710054000 +0000" channel="222#E!"><title lang="es">Episode 24: Unseen Bits</title><rating system="MPA"><value>TVMA</value></rating></programme>
-<programme start="20260710054000 +0000" stop="20260710063000 +0000" channel="222#E!"><title lang="es">Amenaza triple</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710063000 +0000" stop="20260710072500 +0000" channel="222#E!"><title lang="es">Alta peluquería</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710072500 +0000" stop="20260710081500 +0000" channel="222#E!"><title lang="es">Hermanas cosidas</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710081500 +0000" stop="20260710091000 +0000" channel="222#E!"><title lang="es">Influencer Sufragio Sexting Ciccone</title></programme>
-<programme start="20260710091000 +0000" stop="20260710100000 +0000" channel="222#E!"><title lang="es">Sofía; Harry; Spade; Adulterio</title></programme>
-<programme start="20260710100000 +0000" stop="20260710110000 +0000" channel="222#E!"><title lang="es">Tres son multitud</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710110000 +0000" stop="20260710120000 +0000" channel="222#E!"><title lang="es">¿Ya conociste a Kim?</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710120000 +0000" stop="20260710125000 +0000" channel="222#E!"><title lang="es">Psalm West</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710125000 +0000" stop="20260710133500 +0000" channel="222#E!"><title lang="es">Sofía; Harry; Spade; Adulterio</title></programme>
-<programme start="20260710133500 +0000" stop="20260710143000 +0000" channel="222#E!"><title lang="es">La modelo, musa</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710143000 +0000" stop="20260710152500 +0000" channel="222#E!"><title lang="es">El cielo es el límite</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710152500 +0000" stop="20260710161500 +0000" channel="222#E!"><title lang="es">Arrepentimiento del comprador</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710161500 +0000" stop="20260710170000 +0000" channel="222#E!"><title lang="es">Reunión</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710170000 +0000" stop="20260710175000 +0000" channel="222#E!"><title lang="es">Secretos revelados</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710175000 +0000" stop="20260710184000 +0000" channel="222#E!"><title lang="es">Cuerpos de verano</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710184000 +0000" stop="20260710193000 +0000" channel="222#E!"><title lang="es">El factor X</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710193000 +0000" stop="20260710202000 +0000" channel="222#E!"><title lang="es">Se dice por ahí</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710202000 +0000" stop="20260710211000 +0000" channel="222#E!"><title lang="es">Dulce mal trago</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710211000 +0000" stop="20260710220500 +0000" channel="222#E!"><title lang="es">La modelo, musa</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710220500 +0000" stop="20260710230000 +0000" channel="222#E!"><title lang="es">El cielo es el límite</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710230000 +0000" stop="20260710235000 +0000" channel="222#E!"><title lang="es">Cuando crees que ya lo has visto todo...</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710235000 +0000" stop="20260711004000 +0000" channel="222#E!"><title lang="es">Odio decir que te lo dije</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260711004000 +0000" stop="20260711013000 +0000" channel="222#E!"><title lang="es">Arrepentimiento del comprador</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260711013000 +0000" stop="20260711022000 +0000" channel="222#E!"><title lang="es">Hermanas cosidas</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711033100 +0000" stop="20260711052900 +0000" channel="217#FX"><title lang="es">El depredador</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20260711052900 +0000" stop="20260711070700 +0000" channel="217#FX"><title lang="es">Reefa</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20260711070700 +0000" stop="20260711075100 +0000" channel="217#FX"><title lang="es">Un poco excedidos en músculos</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711075100 +0000" stop="20260711100000 +0000" channel="217#FX"><title lang="es">Entra y piensa como un perro</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711100000 +0000" stop="20260711111600 +0000" channel="217#FX"><title lang="es">¿Dónde están mis perros?</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711111600 +0000" stop="20260711131500 +0000" channel="217#FX"><title lang="es">La mejor oferta</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20260711131500 +0000" stop="20260711153800 +0000" channel="217#FX"><title lang="es">La noche que luché contra Dios</title></programme>
+<programme start="20260711153800 +0000" stop="20260711173600 +0000" channel="217#FX"><title lang="es">Recién casados</title></programme>
+<programme start="20260711173600 +0000" stop="20260711194400 +0000" channel="217#FX"><title lang="es">El plan perfecto: El impostor</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20260711194400 +0000" stop="20260711214800 +0000" channel="217#FX"><title lang="es">Max Payne</title></programme>
+<programme start="20260711214800 +0000" stop="20260712004600 +0000" channel="217#FX"><title lang="es">Puente de espías</title></programme>
+<programme start="20260712004600 +0000" stop="20260712025900 +0000" channel="217#FX"><title lang="es">Maze Runner: correr o morir</title></programme>
+<programme start="20260712025900 +0000" stop="20260712045700 +0000" channel="217#FX"><title lang="es">Amenaza en lo profundo</title></programme>
+<programme start="20260711024300 +0000" stop="20260711030800 +0000" channel="220#ADSW"><title lang="es">The Pastry of Knowledge; The Informant&apos;s Great Romance Plan II</title></programme>
+<programme start="20260711030800 +0000" stop="20260711033300 +0000" channel="220#ADSW"><title lang="es">El origen de la fe ciega</title></programme>
+<programme start="20260711033300 +0000" stop="20260711035800 +0000" channel="220#ADSW"><title lang="es">Rickmancing the Stone</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711035800 +0000" stop="20260711041400 +0000" channel="220#ADSW"><title lang="es">Sociedad de la virtud</title></programme>
+<programme start="20260711041400 +0000" stop="20260711041700 +0000" channel="220#ADSW"><title lang="es">Shop A Pop Opera: Milk</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711041700 +0000" stop="20260711041900 +0000" channel="220#ADSW"><title lang="es">Shop A Pop Opera: Bread</title></programme>
+<programme start="20260711041900 +0000" stop="20260711042000 +0000" channel="220#ADSW"><title lang="es">Shop A Pop Opera: Paper Towel</title></programme>
+<programme start="20260711042000 +0000" stop="20260711044500 +0000" channel="220#ADSW"><title lang="es">The Threat</title></programme>
+<programme start="20260711044500 +0000" stop="20260711051000 +0000" channel="220#ADSW"><title lang="es">Go! Go! My First Mission</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711051000 +0000" stop="20260711053500 +0000" channel="220#ADSW"><title lang="es">The Secret of Dr. Gero</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711053500 +0000" stop="20260711055800 +0000" channel="220#ADSW"><title lang="es">In the System</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711055800 +0000" stop="20260711061900 +0000" channel="220#ADSW"><title lang="es">Valkyrick</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711061900 +0000" stop="20260711064300 +0000" channel="220#ADSW"><title lang="es">Hot Rick</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711064300 +0000" stop="20260711065400 +0000" channel="220#ADSW"><title lang="es">¿Quién asesinó violentamente a Simon S. Salty?</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711065400 +0000" stop="20260711071800 +0000" channel="220#ADSW"><title lang="es">Drifting To Another Dimension</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711071800 +0000" stop="20260711074100 +0000" channel="220#ADSW"><title lang="es">When Egrets Flap Their Wings</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711074100 +0000" stop="20260711075700 +0000" channel="220#ADSW"><title lang="es">Sociedad de la virtud</title></programme>
+<programme start="20260711075700 +0000" stop="20260711081800 +0000" channel="220#ADSW"><title lang="es">Revved Up</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20260711081800 +0000" stop="20260711083900 +0000" channel="220#ADSW"><title lang="es">Go</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20260711083900 +0000" stop="20260711090000 +0000" channel="220#ADSW"><title lang="es">Calling All Titans</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20260711090000 +0000" stop="20260711092400 +0000" channel="220#ADSW"><title lang="es">La pirámide de hielo</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711092400 +0000" stop="20260711095000 +0000" channel="220#ADSW"><title lang="es">El caballero de la llama</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711095000 +0000" stop="20260711101400 +0000" channel="220#ADSW"><title lang="es">El ángel de la muerte</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711101400 +0000" stop="20260711104200 +0000" channel="220#ADSW"><title lang="es">El vuelo de Pegaso</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711104200 +0000" stop="20260711110700 +0000" channel="220#ADSW"><title lang="es">Luck</title></programme>
+<programme start="20260711110700 +0000" stop="20260711113400 +0000" channel="220#ADSW"><title lang="es">The Time Has Come</title></programme>
+<programme start="20260711113400 +0000" stop="20260711120200 +0000" channel="220#ADSW"><title lang="es">A Girl Named Lime</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711120200 +0000" stop="20260711123000 +0000" channel="220#ADSW"><title lang="es">Memories of Gohan</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711123000 +0000" stop="20260711125800 +0000" channel="220#ADSW"><title lang="es">A New Guardian</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711125800 +0000" stop="20260711132500 +0000" channel="220#ADSW"><title lang="es">Maid of Honor</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260711132500 +0000" stop="20260711135100 +0000" channel="220#ADSW"><title lang="es">Maid of Honor</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20260711135100 +0000" stop="20260711141500 +0000" channel="220#ADSW"><title lang="es">Repercusiones</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20260711141500 +0000" stop="20260711143900 +0000" channel="220#ADSW"><title lang="es">Repercusiones</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20260711143900 +0000" stop="20260711150500 +0000" channel="220#ADSW"><title lang="es">Deception</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20260711150500 +0000" stop="20260711153000 +0000" channel="220#ADSW"><title lang="es">I Know Why the Caged Cat Sings</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711153000 +0000" stop="20260711155600 +0000" channel="220#ADSW"><title lang="es">Odnu!</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711155600 +0000" stop="20260711162500 +0000" channel="220#ADSW"><title lang="es">Call Out! Nebula Chain of Attack and Defense in One</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711162500 +0000" stop="20260711164900 +0000" channel="220#ADSW"><title lang="es">The Brave Man Hyogo Will Now Sleep Peacefully</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711164900 +0000" stop="20260711171600 +0000" channel="220#ADSW"><title lang="es">Dragon, Come Back From the Country of the Dead</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711171600 +0000" stop="20260711174200 +0000" channel="220#ADSW"><title lang="es">Guarding Your Back</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711174200 +0000" stop="20260711181000 +0000" channel="220#ADSW"><title lang="es">Conductors</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711181000 +0000" stop="20260711183300 +0000" channel="220#ADSW"><title lang="es">The Star&apos;s Radiance</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711183300 +0000" stop="20260711190000 +0000" channel="220#ADSW"><title lang="es">Kiba&apos;s Long Day</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711190000 +0000" stop="20260711192600 +0000" channel="220#ADSW"><title lang="es">Im Not There</title></programme>
+<programme start="20260711192600 +0000" stop="20260711195400 +0000" channel="220#ADSW"><title lang="es">Blue Lock</title></programme>
+<programme start="20260711195400 +0000" stop="20260711202200 +0000" channel="220#ADSW"><title lang="es">Gohan, Defeat Your Dad!</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711202200 +0000" stop="20260711204700 +0000" channel="220#ADSW"><title lang="es">Captain Ginyu ... the Frog</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711204700 +0000" stop="20260711211500 +0000" channel="220#ADSW"><title lang="es">Password Is Porunga</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711211500 +0000" stop="20260711213900 +0000" channel="220#ADSW"><title lang="es">Piccolo&apos;s Return</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711213900 +0000" stop="20260711220800 +0000" channel="220#ADSW"><title lang="es">Big Bang! The Battle of the Gold Bull Temple</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711220800 +0000" stop="20260711223200 +0000" channel="220#ADSW"><title lang="es">Gemini Temple! Labyrinth of Light and Darkness</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711223200 +0000" stop="20260711230000 +0000" channel="220#ADSW"><title lang="es">Drifting To Another Dimension</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711230000 +0000" stop="20260711232600 +0000" channel="220#ADSW"><title lang="es">Odnu!</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711232600 +0000" stop="20260711235400 +0000" channel="220#ADSW"><title lang="es">Nomed Esir!</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711235400 +0000" stop="20260712002000 +0000" channel="220#ADSW"><title lang="es">Hearts and Minds</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20260712002000 +0000" stop="20260712004300 +0000" channel="220#ADSW"><title lang="es">Hearts and Minds</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20260712004300 +0000" stop="20260712010800 +0000" channel="220#ADSW"><title lang="es">Cyborg el bárbaro</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20260712010800 +0000" stop="20260712012900 +0000" channel="220#ADSW"><title lang="es">El Empleado del Mes</title><rating system="MPA"><value>TVY7</value></rating></programme>
+<programme start="20260712012900 +0000" stop="20260712015200 +0000" channel="220#ADSW"><title lang="es">Shut Up And Feel The Love</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260712015200 +0000" stop="20260712031500 +0000" channel="220#ADSW"><title lang="es">La Liga de la Justicia: Guerra</title></programme>
 <programme start="20260711022000 +0000" stop="20260711031000 +0000" channel="222#E!"><title lang="es">Cuerpos extraños</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710023500 +0000" stop="20260710041000 +0000" channel="227#NVLA"><title lang="es">La que no podía amar</title></programme>
-<programme start="20260710041000 +0000" stop="20260710050000 +0000" channel="227#NVLA"><title lang="es">Sin máscaras</title></programme>
-<programme start="20260710050000 +0000" stop="20260710055000 +0000" channel="227#NVLA"><title lang="es">Mujer fit</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710055000 +0000" stop="20260710072000 +0000" channel="227#NVLA"><title lang="es">La vecina</title></programme>
-<programme start="20260710072000 +0000" stop="20260710085000 +0000" channel="227#NVLA"><title lang="es">Rosa salvaje</title></programme>
-<programme start="20260710085000 +0000" stop="20260710102000 +0000" channel="227#NVLA"><title lang="es">La que no podía amar</title></programme>
-<programme start="20260710102000 +0000" stop="20260710111000 +0000" channel="227#NVLA"><title lang="es">Sin máscaras</title></programme>
-<programme start="20260710111000 +0000" stop="20260710120000 +0000" channel="227#NVLA"><title lang="es">Mala decisión</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710120000 +0000" stop="20260710133500 +0000" channel="227#NVLA"><title lang="es">Cuanto más lejos, mejor</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710133500 +0000" stop="20260710151500 +0000" channel="227#NVLA"><title lang="es">La vecina</title></programme>
-<programme start="20260710151500 +0000" stop="20260710165500 +0000" channel="227#NVLA"><title lang="es">Mi pecado</title></programme>
-<programme start="20260710165500 +0000" stop="20260710183000 +0000" channel="227#NVLA"><title lang="es">Rosa salvaje</title></programme>
-<programme start="20260710183000 +0000" stop="20260710200500 +0000" channel="227#NVLA"><title lang="es">La que no podía amar</title></programme>
-<programme start="20260710200500 +0000" stop="20260710214500 +0000" channel="227#NVLA"><title lang="es">La vecina</title></programme>
-<programme start="20260710214500 +0000" stop="20260710232000 +0000" channel="227#NVLA"><title lang="es">Cuanto más lejos, mejor</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710232000 +0000" stop="20260711010000 +0000" channel="227#NVLA"><title lang="es">Mi pecado</title></programme>
-<programme start="20260711010000 +0000" stop="20260711023500 +0000" channel="227#NVLA"><title lang="es">Rosa salvaje</title></programme>
+<programme start="20260711031000 +0000" stop="20260711040000 +0000" channel="222#E!"><title lang="es">Senos masculinos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711040000 +0000" stop="20260711045000 +0000" channel="222#E!"><title lang="es">Episode 25</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711045000 +0000" stop="20260711055000 +0000" channel="222#E!"><title lang="es">Episode 26</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711055000 +0000" stop="20260711064000 +0000" channel="222#E!"><title lang="es">Cuando crees que ya lo has visto todo...</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711064000 +0000" stop="20260711073000 +0000" channel="222#E!"><title lang="es">Odio decir que te lo dije</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711073000 +0000" stop="20260711082000 +0000" channel="222#E!"><title lang="es">Pellizcado perfecto</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711082000 +0000" stop="20260711091000 +0000" channel="222#E!"><title lang="es">Sofía; Harry; Spade; Adulterio</title></programme>
+<programme start="20260711091000 +0000" stop="20260711101000 +0000" channel="222#E!"><title lang="es">Billie Denise Swift Jen</title></programme>
+<programme start="20260711101000 +0000" stop="20260711110000 +0000" channel="222#E!"><title lang="es">El factor X</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711110000 +0000" stop="20260711120000 +0000" channel="222#E!"><title lang="es">Se dice por ahí</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711120000 +0000" stop="20260711130000 +0000" channel="222#E!"><title lang="es">Aversiones</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711130000 +0000" stop="20260711135000 +0000" channel="222#E!"><title lang="es">Campista infeliz</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711135000 +0000" stop="20260711144000 +0000" channel="222#E!"><title lang="es">Caos de navidad</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711144000 +0000" stop="20260711153000 +0000" channel="222#E!"><title lang="es">Medio pesado</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711153000 +0000" stop="20260711162500 +0000" channel="222#E!"><title lang="es">El poder de las flores</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711162500 +0000" stop="20260711172000 +0000" channel="222#E!"><title lang="es">Apuesta por el oro... en lentejuelas</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711172000 +0000" stop="20260711181500 +0000" channel="222#E!"><title lang="es">¡La moda ha vuelto, baby!</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711181500 +0000" stop="20260711190500 +0000" channel="222#E!"><title lang="es">Estándares a la deriva</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711190500 +0000" stop="20260711195500 +0000" channel="222#E!"><title lang="es">Caos griego</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711195500 +0000" stop="20260711204500 +0000" channel="222#E!"><title lang="es">Solo nosotros tres</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711204500 +0000" stop="20260711213500 +0000" channel="222#E!"><title lang="es">Club del primer marido</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711213500 +0000" stop="20260711222500 +0000" channel="222#E!"><title lang="es">El juego del gato y la casa</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711222500 +0000" stop="20260711231500 +0000" channel="222#E!"><title lang="es">Los caballeros las prefieren rubias</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711231500 +0000" stop="20260712000500 +0000" channel="222#E!"><title lang="es">Vender o no vender</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260712000500 +0000" stop="20260712005500 +0000" channel="222#E!"><title lang="es">Rocky Hazen Picture Show</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260712005500 +0000" stop="20260712014500 +0000" channel="222#E!"><title lang="es">Ataque de los implantes de 3000 c.c.</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260712014500 +0000" stop="20260712023500 +0000" channel="222#E!"><title lang="es">Dile &quot;acepto&quot; a los senos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260712023500 +0000" stop="20260712032500 +0000" channel="222#E!"><title lang="es">El &quot;rellenador&quot; en serie</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711022200 +0000" stop="20260711031500 +0000" channel="223#ID"><title lang="es">Sin vuelta a casa</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711031500 +0000" stop="20260711040600 +0000" channel="223#ID"><title lang="es">Decepción serial</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711040600 +0000" stop="20260711045600 +0000" channel="223#ID"><title lang="es">Peligro cerca</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711045600 +0000" stop="20260711054600 +0000" channel="223#ID"><title lang="es">Enemigos dentro de casa</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711054600 +0000" stop="20260711063400 +0000" channel="223#ID"><title lang="es">Cortes asesinos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711063400 +0000" stop="20260711072200 +0000" channel="223#ID"><title lang="es">Voto de silencio</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711072200 +0000" stop="20260711080900 +0000" channel="223#ID"><title lang="es">Una obsesión se convierte en asesinato</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711080900 +0000" stop="20260711090900 +0000" channel="223#ID"><title lang="es">Las desaparecidas</title></programme>
+<programme start="20260711090900 +0000" stop="20260711101200 +0000" channel="223#ID"><title lang="es">El depredador del auto compartido</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711101200 +0000" stop="20260711110000 +0000" channel="223#ID"><title lang="es">Ciudad bajo fuego</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711110000 +0000" stop="20260711114900 +0000" channel="223#ID"><title lang="es">Sombras del lado sur</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711114900 +0000" stop="20260711123600 +0000" channel="223#ID"><title lang="es">El último intento</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711123600 +0000" stop="20260711132800 +0000" channel="223#ID"><title lang="es">Asesinato por conveniencia</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711132800 +0000" stop="20260711142000 +0000" channel="223#ID"><title lang="es">El barco fantasma</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711142000 +0000" stop="20260711151000 +0000" channel="223#ID"><title lang="es">Mi hermano dejó entrar al mal</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711151000 +0000" stop="20260711160000 +0000" channel="223#ID"><title lang="es">Te veo</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711160000 +0000" stop="20260711165300 +0000" channel="223#ID"><title lang="es">El depredador del auto compartido</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711165300 +0000" stop="20260711174500 +0000" channel="223#ID"><title lang="es">Ciudad bajo fuego</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711174500 +0000" stop="20260711183700 +0000" channel="223#ID"><title lang="es">¿Dónde está Alissa?</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711183700 +0000" stop="20260711192900 +0000" channel="223#ID"><title lang="es">Voto de silencio</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711192900 +0000" stop="20260711202200 +0000" channel="223#ID"><title lang="es">Una obsesión se convierte en asesinato</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711202200 +0000" stop="20260711211200 +0000" channel="223#ID"><title lang="es">Las desaparecidas</title></programme>
+<programme start="20260711211200 +0000" stop="20260711220300 +0000" channel="223#ID"><title lang="es">El crimen de la animadora</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711220300 +0000" stop="20260711225500 +0000" channel="223#ID"><title lang="es">Crimen entre estudiantes</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711225500 +0000" stop="20260711234800 +0000" channel="223#ID"><title lang="es">Masacre en Misuri</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711234800 +0000" stop="20260712003800 +0000" channel="223#ID"><title lang="es">Un asesino suelto</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260712003800 +0000" stop="20260712013000 +0000" channel="223#ID"><title lang="es">Nuevos sospechosos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260712013000 +0000" stop="20260712022300 +0000" channel="223#ID"><title lang="es">La confesión de Daxis</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260712022300 +0000" stop="20260712031400 +0000" channel="223#ID"><title lang="es">Adoctrinamiento</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711030000 +0000" stop="20260711040000 +0000" channel="226#CEST"><title lang="es">40 y 20</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711040000 +0000" stop="20260711050000 +0000" channel="226#CEST"><title lang="es">40 y 20</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711050000 +0000" stop="20260711052500 +0000" channel="226#CEST"><title lang="es">El Gurú</title></programme>
+<programme start="20260711052500 +0000" stop="20260711055000 +0000" channel="226#CEST"><title lang="es">Hazlo como Negrete</title></programme>
+<programme start="20260711055000 +0000" stop="20260711061500 +0000" channel="226#CEST"><title lang="es">En el cementerio de las estatuas fallidas</title></programme>
+<programme start="20260711061500 +0000" stop="20260711080000 +0000" channel="226#CEST"><title lang="es">Mujer, casos de la vida real</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711080000 +0000" stop="20260711120500 +0000" channel="226#CEST"><title lang="es">Hermanas, un amor compartido</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711120500 +0000" stop="20260711135500 +0000" channel="226#CEST"><title lang="es">Pelo suelto</title></programme>
+<programme start="20260711135500 +0000" stop="20260711153000 +0000" channel="226#CEST"><title lang="es">El Silencioso</title></programme>
+<programme start="20260711153000 +0000" stop="20260711171000 +0000" channel="226#CEST"><title lang="es">Como dice el dicho</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711171000 +0000" stop="20260711185500 +0000" channel="226#CEST"><title lang="es">El Chapulín Colorado</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711185500 +0000" stop="20260711192500 +0000" channel="226#CEST"><title lang="es">Partida de ma... no</title></programme>
+<programme start="20260711192500 +0000" stop="20260711205500 +0000" channel="226#CEST"><title lang="es">Hotel todo Incluido</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711205500 +0000" stop="20260711223500 +0000" channel="226#CEST"><title lang="es">La rosa de Guadalupe</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711223500 +0000" stop="20260712005000 +0000" channel="226#CEST"><title lang="es">El retador</title></programme>
+<programme start="20260712005000 +0000" stop="20260712014000 +0000" channel="226#CEST"><title lang="es">Se terminó</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260712014000 +0000" stop="20260712023000 +0000" channel="226#CEST"><title lang="es">Como dice el dicho</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260712023000 +0000" stop="20260712032000 +0000" channel="226#CEST"><title lang="es">La Rosa de Guadalupe: Relatos de impacto</title></programme>
 <programme start="20260711023500 +0000" stop="20260711041000 +0000" channel="227#NVLA"><title lang="es">La que no podía amar</title></programme>
-<programme start="20260710023100 +0000" stop="20260710032000 +0000" channel="229#DH&amp;H"><title lang="es">Shaun White va por una renovación de oro</title><rating system="MPA"><value>TVG</value></rating></programme>
-<programme start="20260710032000 +0000" stop="20260710041100 +0000" channel="229#DH&amp;H"><title lang="es">La encantadora de lipomas</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710041100 +0000" stop="20260710045900 +0000" channel="229#DH&amp;H"><title lang="es">Un bulto americano</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710045900 +0000" stop="20260710054600 +0000" channel="229#DH&amp;H"><title lang="es">Jugador de Hockey</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710054600 +0000" stop="20260710063200 +0000" channel="229#DH&amp;H"><title lang="es">Dr. Robot</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710063200 +0000" stop="20260710071800 +0000" channel="229#DH&amp;H"><title lang="es">Vivir con la cara de una extraña</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710071800 +0000" stop="20260710080500 +0000" channel="229#DH&amp;H"><title lang="es">Datos explosivos: Nariz sin límites</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710080500 +0000" stop="20260710083600 +0000" channel="229#DH&amp;H"><title lang="es">Extraña arquitectura</title><rating system="MPA"><value>TVG</value></rating></programme>
-<programme start="20260710083600 +0000" stop="20260710090000 +0000" channel="229#DH&amp;H"><title lang="es">La apuesta del bungalow</title><rating system="MPA"><value>TVG</value></rating></programme>
-<programme start="20260710090000 +0000" stop="20260710103500 +0000" channel="229#DH&amp;H"><title lang="es">Justin</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710103500 +0000" stop="20260710112600 +0000" channel="229#DH&amp;H"><title lang="es">No se puede pedir más de lo que tenemos</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710112600 +0000" stop="20260710121600 +0000" channel="229#DH&amp;H"><title lang="es">¿Quién le disparó a quién?</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710121600 +0000" stop="20260710130700 +0000" channel="229#DH&amp;H"><title lang="es">Convulsiones</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710130700 +0000" stop="20260710135700 +0000" channel="229#DH&amp;H"><title lang="es">Noche con cicatrices</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710135700 +0000" stop="20260710144600 +0000" channel="229#DH&amp;H"><title lang="es">Un bulto que parece un cerebro</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260710144600 +0000" stop="20260710153700 +0000" channel="229#DH&amp;H"><title lang="es">La segunda es la vencida</title><rating system="MPA"><value>TVG</value></rating></programme>
-<programme start="20260710153700 +0000" stop="20260710162800 +0000" channel="229#DH&amp;H"><title lang="es">Mejor que Navidad</title><rating system="MPA"><value>TVG</value></rating></programme>
-<programme start="20260710162800 +0000" stop="20260710171700 +0000" channel="229#DH&amp;H"><title lang="es">La casa construida en basura</title><rating system="MPA"><value>TVG</value></rating></programme>
-<programme start="20260710171700 +0000" stop="20260710181000 +0000" channel="229#DH&amp;H"><title lang="es">Dime lo que estás pensando</title><rating system="MPA"><value>TVG</value></rating></programme>
-<programme start="20260710181000 +0000" stop="20260710185900 +0000" channel="229#DH&amp;H"><title lang="es">Una casa para presumir</title><rating system="MPA"><value>TVG</value></rating></programme>
-<programme start="20260710185900 +0000" stop="20260710195100 +0000" channel="229#DH&amp;H"><title lang="es">Luz al final del túnel</title><rating system="MPA"><value>TVG</value></rating></programme>
-<programme start="20260710195100 +0000" stop="20260710204100 +0000" channel="229#DH&amp;H"><title lang="es">Glamour sin ostentación</title><rating system="MPA"><value>TVG</value></rating></programme>
-<programme start="20260710204100 +0000" stop="20260710213300 +0000" channel="229#DH&amp;H"><title lang="es">No hay tiempo para esperar</title><rating system="MPA"><value>TVG</value></rating></programme>
-<programme start="20260710213300 +0000" stop="20260710231200 +0000" channel="229#DH&amp;H"><title lang="es">El viaje de Isaac</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260710231200 +0000" stop="20260711005100 +0000" channel="229#DH&amp;H"><title lang="es">Isaac &amp; Irene</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260711005100 +0000" stop="20260711015200 +0000" channel="229#DH&amp;H"><title lang="es">Ana Bárbara</title></programme>
-<programme start="20260711015200 +0000" stop="20260711024000 +0000" channel="229#DH&amp;H"><title lang="es">Matándome suavemente</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711041000 +0000" stop="20260711050000 +0000" channel="227#NVLA"><title lang="es">Compromiso roto</title></programme>
+<programme start="20260711050000 +0000" stop="20260711055000 +0000" channel="227#NVLA"><title lang="es">Mala decisión</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711055000 +0000" stop="20260711102000 +0000" channel="227#NVLA"><title lang="es">En nombre del amor</title></programme>
+<programme start="20260711102000 +0000" stop="20260711111000 +0000" channel="227#NVLA"><title lang="es">Compromiso roto</title></programme>
+<programme start="20260711111000 +0000" stop="20260711141000 +0000" channel="227#NVLA"><title lang="es">Rosa salvaje</title></programme>
+<programme start="20260711141000 +0000" stop="20260711181000 +0000" channel="227#NVLA"><title lang="es">La que no podía amar</title></programme>
+<programme start="20260711181000 +0000" stop="20260711211000 +0000" channel="227#NVLA"><title lang="es">En nombre del amor</title></programme>
+<programme start="20260711211000 +0000" stop="20260712011000 +0000" channel="227#NVLA"><title lang="es">Amorcito corazón</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260712011000 +0000" stop="20260712041000 +0000" channel="227#NVLA"><title lang="es">La que no podía amar</title></programme>
 <programme start="20260711024000 +0000" stop="20260711032900 +0000" channel="229#DH&amp;H"><title lang="es">Dame más</title></programme>
+<programme start="20260711032900 +0000" stop="20260711041900 +0000" channel="229#DH&amp;H"><title lang="es">Pequeño bulto</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711041900 +0000" stop="20260711050800 +0000" channel="229#DH&amp;H"><title lang="es">El esteatocistoma</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711050800 +0000" stop="20260711055500 +0000" channel="229#DH&amp;H"><title lang="es">El dedo del pianista</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711055500 +0000" stop="20260711064000 +0000" channel="229#DH&amp;H"><title lang="es">El venado; Es complicado; ¿Y el bebé?</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711064000 +0000" stop="20260711072700 +0000" channel="229#DH&amp;H"><title lang="es">Las enormes manos de mi hijo</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711072700 +0000" stop="20260711081400 +0000" channel="229#DH&amp;H"><title lang="es">El tumor ataca</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711081400 +0000" stop="20260711083700 +0000" channel="229#DH&amp;H"><title lang="es">Problemas con la renovación</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260711083700 +0000" stop="20260711090000 +0000" channel="229#DH&amp;H"><title lang="es">Renovación fracasada</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260711090000 +0000" stop="20260711094800 +0000" channel="229#DH&amp;H"><title lang="es">Mi nariz gigante me está matando</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711094800 +0000" stop="20260711104000 +0000" channel="229#DH&amp;H"><title lang="es">Especial de Navidad</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711104000 +0000" stop="20260711113100 +0000" channel="229#DH&amp;H"><title lang="es">El psíquico de los lipomas</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711113100 +0000" stop="20260711122300 +0000" channel="229#DH&amp;H"><title lang="es">Como muerta</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711122300 +0000" stop="20260711131300 +0000" channel="229#DH&amp;H"><title lang="es">Restaurante Iberville</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711131300 +0000" stop="20260711140100 +0000" channel="229#DH&amp;H"><title lang="es">Restaurante Iberville</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711140100 +0000" stop="20260711145000 +0000" channel="229#DH&amp;H"><title lang="es">Restaurante Voleos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711145000 +0000" stop="20260711153900 +0000" channel="229#DH&amp;H"><title lang="es">Restaurante Kindred</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711153900 +0000" stop="20260711162700 +0000" channel="229#DH&amp;H"><title lang="es">Restaurante 3 Southern Girls</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711162700 +0000" stop="20260711171600 +0000" channel="229#DH&amp;H"><title lang="es">Restaurante Kings Blu Jam</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711171600 +0000" stop="20260711180400 +0000" channel="229#DH&amp;H"><title lang="es">Restaurante Verdict</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711180400 +0000" stop="20260711185500 +0000" channel="229#DH&amp;H"><title lang="es">Restaurante Grumpy George</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711185500 +0000" stop="20260711194400 +0000" channel="229#DH&amp;H"><title lang="es">Restaurante Leo&apos;s</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711194400 +0000" stop="20260711203200 +0000" channel="229#DH&amp;H"><title lang="es">Restaurante Blake&apos;s Place</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711203200 +0000" stop="20260711212200 +0000" channel="229#DH&amp;H"><title lang="es">Celebraciones para el dia del Derby</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260711212200 +0000" stop="20260711221300 +0000" channel="229#DH&amp;H"><title lang="es">Dulce venganza</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711221300 +0000" stop="20260711230300 +0000" channel="229#DH&amp;H"><title lang="es">Un cajún muy especial</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711230300 +0000" stop="20260711235300 +0000" channel="229#DH&amp;H"><title lang="es">Tapas In</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711235300 +0000" stop="20260712004100 +0000" channel="229#DH&amp;H"><title lang="es">Restaurante Voleos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260712004100 +0000" stop="20260712021800 +0000" channel="229#DH&amp;H"><title lang="es">Najjah</title></programme>
+<programme start="20260712021800 +0000" stop="20260712030800 +0000" channel="229#DH&amp;H"><title lang="es">Dibujos animados clásicos</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260711030000 +0000" stop="20260711033000 +0000" channel="232#GOUR"><title lang="es">Jitomate</title></programme>
+<programme start="20260711033000 +0000" stop="20260711040000 +0000" channel="232#GOUR"><title lang="es">Dip de garbanzos</title></programme>
+<programme start="20260711040000 +0000" stop="20260711043000 +0000" channel="232#GOUR"><title lang="es">Caldo de cuatete, gordita de chicarrón con pulpo</title></programme>
+<programme start="20260711043000 +0000" stop="20260711050000 +0000" channel="232#GOUR"><title lang="es">La K&apos;uinchekua</title></programme>
+<programme start="20260711050000 +0000" stop="20260711053000 +0000" channel="232#GOUR"><title lang="es">Valparaíso</title></programme>
+<programme start="20260711053000 +0000" stop="20260711060000 +0000" channel="232#GOUR"><title lang="es">Los favoritos de Zahie</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711060000 +0000" stop="20260711063000 +0000" channel="232#GOUR"><title lang="es">La K&apos;uinchekua</title></programme>
+<programme start="20260711063000 +0000" stop="20260711070000 +0000" channel="232#GOUR"><title lang="es">Puebla 2</title></programme>
+<programme start="20260711070000 +0000" stop="20260711073000 +0000" channel="232#GOUR"><title lang="es">Maestros de la pasta</title></programme>
+<programme start="20260711073000 +0000" stop="20260711080000 +0000" channel="232#GOUR"><title lang="es">Los imperdibles: Ciudad de México</title></programme>
+<programme start="20260711080000 +0000" stop="20260711083000 +0000" channel="232#GOUR"><title lang="es">Beatricita</title></programme>
+<programme start="20260711083000 +0000" stop="20260711090000 +0000" channel="232#GOUR"><title lang="es">Chiles rellenos de ceviche, aguachile rojo</title></programme>
+<programme start="20260711090000 +0000" stop="20260711093000 +0000" channel="232#GOUR"><title lang="es">Arroz con pollo y pasta con brócoli</title></programme>
+<programme start="20260711093000 +0000" stop="20260711100000 +0000" channel="232#GOUR"><title lang="es">Ensalada de langosta; Sopes de chorizo</title></programme>
+<programme start="20260711100000 +0000" stop="20260711103000 +0000" channel="232#GOUR"><title lang="es">Frijol</title></programme>
+<programme start="20260711103000 +0000" stop="20260711110000 +0000" channel="232#GOUR"><title lang="es">La K&apos;uinchekua</title></programme>
+<programme start="20260711110000 +0000" stop="20260711113000 +0000" channel="232#GOUR"><title lang="es">Maestros del pan Argentina</title></programme>
+<programme start="20260711113000 +0000" stop="20260711120000 +0000" channel="232#GOUR"><title lang="es">Platos de cuchara alrededor del mundo</title></programme>
+<programme start="20260711120000 +0000" stop="20260711123000 +0000" channel="232#GOUR"><title lang="es">Trujillo: Historia y gastronomía</title></programme>
+<programme start="20260711123000 +0000" stop="20260711130000 +0000" channel="232#GOUR"><title lang="es">Manchamanteles; manjar blanco</title></programme>
+<programme start="20260711130000 +0000" stop="20260711133000 +0000" channel="232#GOUR"><title lang="es">El sueño de don Juliote</title></programme>
+<programme start="20260711133000 +0000" stop="20260711140000 +0000" channel="232#GOUR"><title lang="es">Carnes de crianza artesanal; mermeladas de piña y nopal</title></programme>
+<programme start="20260711140000 +0000" stop="20260711143000 +0000" channel="232#GOUR"><title lang="es">Sopa asiática con setas y fideos</title></programme>
+<programme start="20260711143000 +0000" stop="20260711150000 +0000" channel="232#GOUR"><title lang="es">Las mejores recetas de Zahie</title></programme>
+<programme start="20260711150000 +0000" stop="20260711153000 +0000" channel="232#GOUR"><title lang="es">Maestros del pan Argentina</title></programme>
+<programme start="20260711153000 +0000" stop="20260711160000 +0000" channel="232#GOUR"><title lang="es">Burrito de pato, tapa con filete de res y ensalada norteña</title></programme>
+<programme start="20260711160000 +0000" stop="20260711163000 +0000" channel="232#GOUR"><title lang="es">La K&apos;uinchekua</title></programme>
+<programme start="20260711163000 +0000" stop="20260711173000 +0000" channel="232#GOUR"><title lang="es">Comida de agradecimiento</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260711173000 +0000" stop="20260711180000 +0000" channel="232#GOUR"><title lang="es">Manchamanteles; manjar blanco</title></programme>
+<programme start="20260711180000 +0000" stop="20260711183000 +0000" channel="232#GOUR"><title lang="es">Restaurante Harry&apos;s Sasson</title></programme>
+<programme start="20260711183000 +0000" stop="20260711190000 +0000" channel="232#GOUR"><title lang="es">Puebla 2</title></programme>
+<programme start="20260711190000 +0000" stop="20260711193000 +0000" channel="232#GOUR"><title lang="es">Coquimbo</title></programme>
+<programme start="20260711193000 +0000" stop="20260711200000 +0000" channel="232#GOUR"><title lang="es">Pueblos para comérselos: México</title></programme>
+<programme start="20260711200000 +0000" stop="20260711203000 +0000" channel="232#GOUR"><title lang="es">Ñoquis de papa</title></programme>
+<programme start="20260711203000 +0000" stop="20260711210000 +0000" channel="232#GOUR"><title lang="es">Caldo de piedra, mole blanco con conejo</title></programme>
+<programme start="20260711210000 +0000" stop="20260711213000 +0000" channel="232#GOUR"><title lang="es">Arroz con pollo y pasta con brócoli</title></programme>
+<programme start="20260711213000 +0000" stop="20260711220000 +0000" channel="232#GOUR"><title lang="es">Platos de cuchara alrededor del mundo</title></programme>
+<programme start="20260711220000 +0000" stop="20260711223000 +0000" channel="232#GOUR"><title lang="es">Manchamanteles; manjar blanco</title></programme>
+<programme start="20260711223000 +0000" stop="20260711230000 +0000" channel="232#GOUR"><title lang="es">Frijol</title></programme>
+<programme start="20260711230000 +0000" stop="20260711233000 +0000" channel="232#GOUR"><title lang="es">Coquimbo</title></programme>
+<programme start="20260711233000 +0000" stop="20260712000000 +0000" channel="232#GOUR"><title lang="es">Pueblos para comérselos: México</title></programme>
+<programme start="20260712000000 +0000" stop="20260712003000 +0000" channel="232#GOUR"><title lang="es">Sopa asiática con setas y fideos</title></programme>
+<programme start="20260712003000 +0000" stop="20260712010000 +0000" channel="232#GOUR"><title lang="es">Los imperdibles: Ciudad de México</title></programme>
+<programme start="20260712010000 +0000" stop="20260712013000 +0000" channel="232#GOUR"><title lang="es">Ñoquis de papa</title></programme>
+<programme start="20260712013000 +0000" stop="20260712020000 +0000" channel="232#GOUR"><title lang="es">Puebla 2</title></programme>
+<programme start="20260712020000 +0000" stop="20260712030000 +0000" channel="232#GOUR"><title lang="es">Madrid</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260711030000 +0000" stop="20260711033000 +0000" channel="236#MAGA"><title lang="es">El Mundo de la Moda</title></programme>
+<programme start="20260711033000 +0000" stop="20260711040000 +0000" channel="236#MAGA"><title lang="es">Dar la Nota</title></programme>
+<programme start="20260711040000 +0000" stop="20260711043000 +0000" channel="236#MAGA"><title lang="es">Cirujanos</title></programme>
+<programme start="20260711043000 +0000" stop="20260711050000 +0000" channel="236#MAGA"><title lang="es">Construyendo Sueños TV</title></programme>
+<programme start="20260711050000 +0000" stop="20260711053000 +0000" channel="236#MAGA"><title lang="es">Interés mutuo</title></programme>
+<programme start="20260711053000 +0000" stop="20260711063000 +0000" channel="236#MAGA"><title lang="es">Mshow</title></programme>
+<programme start="20260711063000 +0000" stop="20260711073000 +0000" channel="236#MAGA"><title lang="es">María Mercedes</title></programme>
+<programme start="20260711073000 +0000" stop="20260711080000 +0000" channel="236#MAGA"><title lang="es">Cucinare</title></programme>
+<programme start="20260711080000 +0000" stop="20260711090000 +0000" channel="236#MAGA"><title lang="es">El Color del Pecado</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711090000 +0000" stop="20260711093000 +0000" channel="236#MAGA"><title lang="es">A Dar la Nota</title></programme>
+<programme start="20260711093000 +0000" stop="20260711100000 +0000" channel="236#MAGA"><title lang="es">Doctora Lift</title></programme>
+<programme start="20260711100000 +0000" stop="20260711102800 +0000" channel="236#MAGA"><title lang="es">Hair recovery</title></programme>
+<programme start="20260711102800 +0000" stop="20260711120000 +0000" channel="236#MAGA"><title lang="es">Agente Salt</title></programme>
+<programme start="20260711120000 +0000" stop="20260711123000 +0000" channel="236#MAGA"><title lang="es">Vida Purita</title></programme>
+<programme start="20260711123000 +0000" stop="20260711130200 +0000" channel="236#MAGA"><title lang="es">Resto del mundo</title></programme>
+<programme start="20260711130200 +0000" stop="20260711140400 +0000" channel="236#MAGA"><title lang="es">El Chavo del ocho</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711140400 +0000" stop="20260711150600 +0000" channel="236#MAGA"><title lang="es">El Chavo del ocho</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711150600 +0000" stop="20260711164700 +0000" channel="236#MAGA"><title lang="es">Agente Salt</title></programme>
+<programme start="20260711164700 +0000" stop="20260711185800 +0000" channel="236#MAGA"><title lang="es">Entre navajas y secretos</title></programme>
+<programme start="20260711185800 +0000" stop="20260711210800 +0000" channel="236#MAGA"><title lang="es">Ben-Hur</title></programme>
+<programme start="20260711210800 +0000" stop="20260711231900 +0000" channel="236#MAGA"><title lang="es">Creed II: La leyenda de Rocky</title></programme>
+<programme start="20260711231900 +0000" stop="20260712010000 +0000" channel="236#MAGA"><title lang="es">Agente Salt</title></programme>
+<programme start="20260712010000 +0000" stop="20260712024400 +0000" channel="236#MAGA"><title lang="es">La herencia del Sr. Deeds</title></programme>
+<programme start="20260712024400 +0000" stop="20260712030000 +0000" channel="236#MAGA"><title lang="es">Resto del mundo</title></programme>
+<programme start="20260711030000 +0000" stop="20260711044000 +0000" channel="238#VLVR"><title lang="es">Despabílate amor</title></programme>
+<programme start="20260711044000 +0000" stop="20260711060000 +0000" channel="238#VLVR"><title lang="es">Pinti y aparte</title></programme>
+<programme start="20260711060000 +0000" stop="20260711080000 +0000" channel="238#VLVR"><title lang="es">Matrimonios y algo más</title></programme>
+<programme start="20260711080000 +0000" stop="20260711093000 +0000" channel="238#VLVR"><title lang="es">Monumental Moria</title></programme>
+<programme start="20260711093000 +0000" stop="20260711100000 +0000" channel="238#VLVR"><title lang="es">El Flequillo de Bala</title></programme>
+<programme start="20260711100000 +0000" stop="20260711114500 +0000" channel="238#VLVR"><title lang="es">Operación rosa rosa</title></programme>
+<programme start="20260711114500 +0000" stop="20260711130000 +0000" channel="238#VLVR"><title lang="es">Ritmo, amor y primavera</title></programme>
+<programme start="20260711130000 +0000" stop="20260711140000 +0000" channel="238#VLVR"><title lang="es">1002 momentos de la TV</title></programme>
+<programme start="20260711140000 +0000" stop="20260711150000 +0000" channel="238#VLVR"><title lang="es">Uruguayos, homenaje al humor</title></programme>
+<programme start="20260711150000 +0000" stop="20260711160000 +0000" channel="238#VLVR"><title lang="es">Arguiñano en tu cocina</title></programme>
+<programme start="20260711160000 +0000" stop="20260711170000 +0000" channel="238#VLVR"><title lang="es">La risa es bella</title></programme>
+<programme start="20260711170000 +0000" stop="20260711183600 +0000" channel="238#VLVR"><title lang="es">Mi Mujer no es mi Señora</title></programme>
+<programme start="20260711183600 +0000" stop="20260711201000 +0000" channel="238#VLVR"><title lang="es">Los Reyes del Sablazo</title></programme>
+<programme start="20260711201000 +0000" stop="20260711214000 +0000" channel="238#VLVR"><title lang="es">Te rompo el rating</title></programme>
+<programme start="20260711214000 +0000" stop="20260712000000 +0000" channel="238#VLVR"><title lang="es">Un lugar en el mundo</title></programme>
+<programme start="20260712000000 +0000" stop="20260712010000 +0000" channel="238#VLVR"><title lang="es">Grotowski y Stanislavski</title></programme>
+<programme start="20260712010000 +0000" stop="20260712030000 +0000" channel="238#VLVR"><title lang="es">Rompeportones</title></programme>
+<programme start="20260711023500 +0000" stop="20260711031500 +0000" channel="264#MTV"><title lang="es">Caught in the Act: Unfaithful</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711031500 +0000" stop="20260711040000 +0000" channel="264#MTV"><title lang="es">Caught in the Act: Unfaithful</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711040000 +0000" stop="20260711044000 +0000" channel="264#MTV"><title lang="es">Caught in the Act: Unfaithful</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711044000 +0000" stop="20260711052000 +0000" channel="264#MTV"><title lang="es">Caught in the Act: Unfaithful</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711052000 +0000" stop="20260711053000 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711053000 +0000" stop="20260711055000 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711055000 +0000" stop="20260711061000 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711061000 +0000" stop="20260711063500 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711063500 +0000" stop="20260711070000 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711070000 +0000" stop="20260711074000 +0000" channel="264#MTV"><title lang="es">Ink Master: Maestros vs. Aprendices</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711074000 +0000" stop="20260711082000 +0000" channel="264#MTV"><title lang="es">Ink Master: Maestros vs. Aprendices</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711082000 +0000" stop="20260711084500 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711084500 +0000" stop="20260711090500 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711090500 +0000" stop="20260711092500 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711092500 +0000" stop="20260711095000 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711095000 +0000" stop="20260711101000 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711101000 +0000" stop="20260711102500 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711102500 +0000" stop="20260711111000 +0000" channel="264#MTV"><title lang="es">La venganza de los ex VIP</title></programme>
+<programme start="20260711111000 +0000" stop="20260711120000 +0000" channel="264#MTV"><title lang="es">Geordie Shore</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20260711120000 +0000" stop="20260711122000 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711122000 +0000" stop="20260711124500 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711124500 +0000" stop="20260711130500 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711130500 +0000" stop="20260711133000 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711133000 +0000" stop="20260711135000 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711135000 +0000" stop="20260711141500 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711141500 +0000" stop="20260711143500 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711143500 +0000" stop="20260711150000 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711150000 +0000" stop="20260711151000 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711151000 +0000" stop="20260711160000 +0000" channel="264#MTV"><title lang="es">Behind the Music</title><rating system="MPA"><value>TVMA</value></rating></programme>
+<programme start="20260711160000 +0000" stop="20260711162500 +0000" channel="264#MTV"><title lang="es">Ink Master: Redemption</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711162500 +0000" stop="20260711164500 +0000" channel="264#MTV"><title lang="es">Ink Master: Redemption</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711164500 +0000" stop="20260711172500 +0000" channel="264#MTV"><title lang="es">Teen Mom: Nueva etapa</title></programme>
+<programme start="20260711172500 +0000" stop="20260711181000 +0000" channel="264#MTV"><title lang="es">Teen Mom: Nueva etapa</title></programme>
+<programme start="20260711181000 +0000" stop="20260711185000 +0000" channel="264#MTV"><title lang="es">Teen Mom: Nueva etapa</title></programme>
+<programme start="20260711185000 +0000" stop="20260711193500 +0000" channel="264#MTV"><title lang="es">Teen Mom: Nueva etapa</title></programme>
+<programme start="20260711193500 +0000" stop="20260711201500 +0000" channel="264#MTV"><title lang="es">¿Por qué me escondes?</title></programme>
+<programme start="20260711201500 +0000" stop="20260711205500 +0000" channel="264#MTV"><title lang="es">¿Por qué me escondes?</title></programme>
+<programme start="20260711205500 +0000" stop="20260711214000 +0000" channel="264#MTV"><title lang="es">Catfish: Mentiras en la red</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711214000 +0000" stop="20260711222500 +0000" channel="264#MTV"><title lang="es">Catfish: Mentiras en la red</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711222500 +0000" stop="20260711230500 +0000" channel="264#MTV"><title lang="es">Catfish: Mentiras en la red</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711230500 +0000" stop="20260711235000 +0000" channel="264#MTV"><title lang="es">Catfish: Mentiras en la red</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260711235000 +0000" stop="20260712003000 +0000" channel="264#MTV"><title lang="es">Catfish: Mentiras en la red</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260712003000 +0000" stop="20260712011500 +0000" channel="264#MTV"><title lang="es">Caught in the Act: Double Life</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260712011500 +0000" stop="20260712015500 +0000" channel="264#MTV"><title lang="es">Caught in the Act: Unfaithful</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260712015500 +0000" stop="20260712023500 +0000" channel="264#MTV"><title lang="es">Caught in the Act: Unfaithful</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260712023500 +0000" stop="20260712025500 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260712025500 +0000" stop="20260712031500 +0000" channel="264#MTV"><title lang="es">Ridículos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260711030000 +0000" stop="20260711043000 +0000" channel="269#QMMI"><title lang="es">Quiero fiesta</title></programme>
+<programme start="20260711043000 +0000" stop="20260711053000 +0000" channel="269#QMMI"><title lang="es">En alta</title></programme>
+<programme start="20260711053000 +0000" stop="20260711073000 +0000" channel="269#QMMI"><title lang="es">Lo que quiero</title></programme>
+<programme start="20260711073000 +0000" stop="20260711080000 +0000" channel="269#QMMI"><title lang="es">Q al día</title></programme>
+<programme start="20260711080000 +0000" stop="20260711100000 +0000" channel="269#QMMI"><title lang="es">Q clásicos</title></programme>
+<programme start="20260711100000 +0000" stop="20260711123000 +0000" channel="269#QMMI"><title lang="es">Dulce despertar</title></programme>
+<programme start="20260711123000 +0000" stop="20260711130000 +0000" channel="269#QMMI"><title lang="es">Mediahora con</title></programme>
+<programme start="20260711130000 +0000" stop="20260711133000 +0000" channel="269#QMMI"><title lang="es">Q gym</title></programme>
+<programme start="20260711133000 +0000" stop="20260711140000 +0000" channel="269#QMMI"><title lang="es">Los 5 edición famosos</title></programme>
+<programme start="20260711140000 +0000" stop="20260711150000 +0000" channel="269#QMMI"><title lang="es">En alta</title></programme>
+<programme start="20260711150000 +0000" stop="20260711160000 +0000" channel="269#QMMI"><title lang="es">Los quince mejores de la semana</title></programme>
+<programme start="20260711160000 +0000" stop="20260711163000 +0000" channel="269#QMMI"><title lang="es">Al día</title></programme>
+<programme start="20260711163000 +0000" stop="20260711170000 +0000" channel="269#QMMI"><title lang="es">Encuentros extraordinarios</title></programme>
+<programme start="20260711170000 +0000" stop="20260711190000 +0000" channel="269#QMMI"><title lang="es">Lo que quiero</title></programme>
+<programme start="20260711190000 +0000" stop="20260711230000 +0000" channel="269#QMMI"><title lang="es">Los 60 mejores</title></programme>
+<programme start="20260711230000 +0000" stop="20260712010000 +0000" channel="269#QMMI"><title lang="es">Te quiero celeste y blanca</title></programme>
+<programme start="20260712010000 +0000" stop="20260712020000 +0000" channel="269#QMMI"><title lang="es">Lo que quiero</title></programme>
+<programme start="20260712020000 +0000" stop="20260712030000 +0000" channel="269#QMMI"><title lang="es">Lo mejor del pop, volumen 1</title></programme>
 </tv>

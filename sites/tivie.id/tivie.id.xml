@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260710">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260711">
 <channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png"/></channel>
 <channel id="AXNAsia.sg@Indonesia"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original"/></channel>
 <channel id="beINSports1.qa@Indonesia"><display-name>beIN Sports 1</display-name><icon src="https://i.imgur.com/Vtk2cGI.png"/></channel>
@@ -54,61 +54,71 @@
 <channel id="VTV.id@SD"><display-name>VTV</display-name><icon src="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png"/></channel>
 <channel id="WarnerTVAsia.us@SD"><display-name>Warner TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png"/></channel>
 <channel id="ZeeBioskop.id@SD"><display-name>Zee Bioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/></channel>
-<programme start="20260709170000 +0000" stop="20260709181500 +0000" channel="ANTV.id@SD"><title lang="id">Bioskop Asia</title></programme>
-<programme start="20260709181500 +0000" stop="20260709203000 +0000" channel="ANTV.id@SD"><title lang="id">Mega Bollywood</title></programme>
-<programme start="20260709203000 +0000" stop="20260709213000 +0000" channel="ANTV.id@SD"><title lang="id">Karma Baik</title></programme>
-<programme start="20260709213000 +0000" stop="20260709223000 +0000" channel="ANTV.id@SD"><title lang="id">Hati ke Hati Bersama Mamah Dedeh</title></programme>
-<programme start="20260709223000 +0000" stop="20260710003000 +0000" channel="ANTV.id@SD"><title lang="id">Aini: Malaikat Tak Bersayap</title></programme>
-<programme start="20260710003000 +0000" stop="20260710023000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Pagi</title></programme>
-<programme start="20260710023000 +0000" stop="20260710060000 +0000" channel="ANTV.id@SD"><title lang="id">Mega Bollywood</title></programme>
-<programme start="20260710060000 +0000" stop="20260710073000 +0000" channel="ANTV.id@SD"><title lang="id">Jhanak</title></programme>
-<programme start="20260710073000 +0000" stop="20260710090000 +0000" channel="ANTV.id@SD"><title lang="id">Sayali</title></programme>
-<programme start="20260710090000 +0000" stop="20260710110000 +0000" channel="ANTV.id@SD"><title lang="id">Teri Meri Doriyaann</title></programme>
-<programme start="20260710110000 +0000" stop="20260710130000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial</title></programme>
-<programme start="20260710130000 +0000" stop="20260710143000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial</title></programme>
-<programme start="20260710143000 +0000" stop="20260710163000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Laga Klasik</title></programme>
-<programme start="20260710163000 +0000" stop="20260710170000 +0000" channel="ANTV.id@SD"><title lang="id">Bioskop Asia</title></programme>
-<programme start="20260709170000 +0000" stop="20260709171500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Prime News</title></programme>
-<programme start="20260709171500 +0000" stop="20260709174500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Malam</title></programme>
-<programme start="20260709174500 +0000" stop="20260709181500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia News Update</title></programme>
-<programme start="20260709181500 +0000" stop="20260709194500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Newsroom</title></programme>
-<programme start="20260709194500 +0000" stop="20260709211500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Prime News</title></programme>
-<programme start="20260709211500 +0000" stop="20260709220000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi</title></programme>
-<programme start="20260709220000 +0000" stop="20260709223000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Gapai Kemuliaan</title></programme>
-<programme start="20260709223000 +0000" stop="20260709233000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Pagi</title></programme>
-<programme start="20260709233000 +0000" stop="20260710003000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia New Day</title></programme>
-<programme start="20260710003000 +0000" stop="20260710013000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Good Morning</title></programme>
-<programme start="20260710013000 +0000" stop="20260710020000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Pagi</title></programme>
-<programme start="20260710020000 +0000" stop="20260710023000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Lacak Kriminal</title></programme>
-<programme start="20260710023000 +0000" stop="20260710030000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Today</title></programme>
-<programme start="20260710030000 +0000" stop="20260710040000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Business</title></programme>
-<programme start="20260710040000 +0000" stop="20260710054500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia News Hour</title></programme>
-<programme start="20260710054500 +0000" stop="20260710061500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Gempita Bola 2026</title></programme>
-<programme start="20260710061500 +0000" stop="20260710071500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia New Day</title></programme>
-<programme start="20260710071500 +0000" stop="20260710080000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi</title></programme>
-<programme start="20260710080000 +0000" stop="20260710090000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Lacak Kriminal</title></programme>
-<programme start="20260710090000 +0000" stop="20260710093000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia News Update</title></programme>
-<programme start="20260710093000 +0000" stop="20260710111500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Newsroom</title></programme>
-<programme start="20260710111500 +0000" stop="20260710120000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Lacak Kriminal</title></programme>
-<programme start="20260710120000 +0000" stop="20260710133000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Prime News</title></programme>
-<programme start="20260710133000 +0000" stop="20260710140000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Malam</title></programme>
-<programme start="20260710140000 +0000" stop="20260710153000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Newsroom</title></programme>
-<programme start="20260710153000 +0000" stop="20260710160000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Gempita Bola 2026</title></programme>
-<programme start="20260710160000 +0000" stop="20260710170000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Prime News</title></programme>
-<programme start="20260709170000 +0000" stop="20260709170500 +0000" channel="GalaxyPremium.id@SD"><title lang="id">Zoom</title></programme>
-<programme start="20260709170500 +0000" stop="20260709184000 +0000" channel="GalaxyPremium.id@SD"><title lang="id">Paul Blart: Mall Cop 2</title></programme>
-<programme start="20260709184000 +0000" stop="20260709203000 +0000" channel="GalaxyPremium.id@SD"><title lang="id">30 Days of Night</title></programme>
-<programme start="20260709203000 +0000" stop="20260709225000 +0000" channel="GalaxyPremium.id@SD"><title lang="id">Black Hawk Down</title></programme>
-<programme start="20260709225000 +0000" stop="20260710004500 +0000" channel="GalaxyPremium.id@SD"><title lang="id">The 5th Wave</title></programme>
-<programme start="20260710004500 +0000" stop="20260710022500 +0000" channel="GalaxyPremium.id@SD"><title lang="id">The Rundown</title></programme>
-<programme start="20260710022500 +0000" stop="20260710035500 +0000" channel="GalaxyPremium.id@SD"><title lang="id">Holmes &amp; Watson</title></programme>
-<programme start="20260710035500 +0000" stop="20260710054000 +0000" channel="GalaxyPremium.id@SD"><title lang="id">The Taking of Pelham 1 2 3</title></programme>
-<programme start="20260710054000 +0000" stop="20260710072000 +0000" channel="GalaxyPremium.id@SD"><title lang="id">Rough Night</title></programme>
-<programme start="20260710072000 +0000" stop="20260710092500 +0000" channel="GalaxyPremium.id@SD"><title lang="id">Total Recall</title></programme>
-<programme start="20260710092500 +0000" stop="20260710110500 +0000" channel="GalaxyPremium.id@SD"><title lang="id">Grown Ups</title></programme>
-<programme start="20260710110500 +0000" stop="20260710124000 +0000" channel="GalaxyPremium.id@SD"><title lang="id">Punisher: War Zone</title></programme>
-<programme start="20260710124000 +0000" stop="20260710140000 +0000" channel="GalaxyPremium.id@SD"><title lang="id">Patient Zero</title></programme>
-<programme start="20260710140000 +0000" stop="20260710153000 +0000" channel="GalaxyPremium.id@SD"><title lang="id">Zombieland</title></programme>
-<programme start="20260710153000 +0000" stop="20260710165500 +0000" channel="GalaxyPremium.id@SD"><title lang="id">Ultraviolet</title></programme>
-<programme start="20260710165500 +0000" stop="20260710170000 +0000" channel="GalaxyPremium.id@SD"><title lang="id">The Intruder</title></programme>
+<programme start="20260710170000 +0000" stop="20260710175500 +0000" channel="SPOTV2.id@SD"><title lang="id">The Championships Wimbledon 2026 Day 12 Semifinals (No.1 Court)</title></programme>
+<programme start="20260710175500 +0000" stop="20260710190000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 Red Bull MotoGP Rookies Cup Round 4 Assen Race 1</title></programme>
+<programme start="20260710190000 +0000" stop="20260710200000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 Red Bull MotoGP Rookies Cup Round 4 Assen Race 2</title></programme>
+<programme start="20260710200000 +0000" stop="20260710224500 +0000" channel="SPOTV2.id@SD"><title lang="id">WTT United States Smash 2026 Day 8 Session 2 Finals</title></programme>
+<programme start="20260710224500 +0000" stop="20260710231500 +0000" channel="SPOTV2.id@SD"><title lang="id">SailGP: Racing on the Edge S6 Ep 3</title></programme>
+<programme start="20260710231500 +0000" stop="20260711014500 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 Longines Global Champions Tour Monaco CSI 5* FEI Art</title></programme>
+<programme start="20260711014500 +0000" stop="20260711043000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 Longines Global Champions Tour Monaco Grand Prix of Monaco</title></programme>
+<programme start="20260711043000 +0000" stop="20260711050000 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2026</title></programme>
+<programme start="20260711050000 +0000" stop="20260711053000 +0000" channel="SPOTV2.id@SD"><title lang="id">52 SUPER SERIES GP Sailing show Ep 1 Puerto Portals</title></programme>
+<programme start="20260711053000 +0000" stop="20260711060000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 Global Champions League Monaco Highlights</title></programme>
+<programme start="20260711060000 +0000" stop="20260711063500 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2026</title></programme>
+<programme start="20260711063500 +0000" stop="20260711094500 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2026</title></programme>
+<programme start="20260711094500 +0000" stop="20260711104000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 FIM EWC Highlights Rd 2 Spa Motos Belgium</title></programme>
+<programme start="20260711104000 +0000" stop="20260711140500 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2026</title></programme>
+<programme start="20260711140500 +0000" stop="20260711150500 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 Red Bull MotoGP Rookies Cup Round 5 Sachsenring Race 1</title></programme>
+<programme start="20260711150500 +0000" stop="20260711160000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 Moto4 Northern Cup Round 5 Sachsenring Race 1</title></programme>
+<programme start="20260711160000 +0000" stop="20260711170000 +0000" channel="SPOTV2.id@SD"><title lang="id">The Championships Wimbledon 2026 Day 12 Semifinals (No.1 Court)</title></programme>
+<programme start="20260710170000 +0000" stop="20260710180000 +0000" channel="SPOTV.id@SD"><title lang="id">The Championships Wimbledon 2026 Day 12 Semifinals (Centre Court)</title></programme>
+<programme start="20260710180000 +0000" stop="20260710200000 +0000" channel="SPOTV.id@SD"><title lang="id">Wanda Diamond League 2026 Monaco</title></programme>
+<programme start="20260710200000 +0000" stop="20260710210000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 Wimbledon Highlights Day 11</title></programme>
+<programme start="20260710210000 +0000" stop="20260710220000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 U.S. Open Championship Round 3 Highlights</title></programme>
+<programme start="20260710220000 +0000" stop="20260711020000 +0000" channel="SPOTV.id@SD"><title lang="id">The Championships Wimbledon 2026 Day 11 Semifinals (Centre Court)</title></programme>
+<programme start="20260711020000 +0000" stop="20260711030000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 Wimbledon Highlights Day 12</title></programme>
+<programme start="20260711030000 +0000" stop="20260711045500 +0000" channel="SPOTV.id@SD"><title lang="id">WorldSBK 2026</title></programme>
+<programme start="20260711045500 +0000" stop="20260711070500 +0000" channel="SPOTV.id@SD"><title lang="id">2026 Supercars: NTI Townsville 500 Race 21</title></programme>
+<programme start="20260711070500 +0000" stop="20260711080000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 Wimbledon Highlights Day 12</title></programme>
+<programme start="20260711080000 +0000" stop="20260711083500 +0000" channel="SPOTV.id@SD"><title lang="id">Formula E 2025/26</title></programme>
+<programme start="20260711083500 +0000" stop="20260711091000 +0000" channel="SPOTV.id@SD"><title lang="id">WorldSBK 2026</title></programme>
+<programme start="20260711091000 +0000" stop="20260711095000 +0000" channel="SPOTV.id@SD"><title lang="id">Formula E 2025/26</title></programme>
+<programme start="20260711095000 +0000" stop="20260711103000 +0000" channel="SPOTV.id@SD"><title lang="id">WorldSBK 2026</title></programme>
+<programme start="20260711103000 +0000" stop="20260711110000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 WorldWCR Prosecco Doc UK Round - Superpole</title></programme>
+<programme start="20260711110000 +0000" stop="20260711115500 +0000" channel="SPOTV.id@SD"><title lang="id">2026 Wimbledon Highlights Day 12</title></programme>
+<programme start="20260711115500 +0000" stop="20260711170000 +0000" channel="SPOTV.id@SD"><title lang="id">The Championships Wimbledon 2026 Day 13 Gent&apos;s Doubles &amp; Ladies&apos; Singles Final (Centre Court)</title></programme>
+<programme start="20260710170000 +0000" stop="20260710182000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Nanny McPhee</title></programme>
+<programme start="20260710182000 +0000" stop="20260710195500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Shark Tale</title></programme>
+<programme start="20260710195500 +0000" stop="20260710230000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">King Kong</title></programme>
+<programme start="20260710230000 +0000" stop="20260711010500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Downton Abbey</title></programme>
+<programme start="20260711010500 +0000" stop="20260711024500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Nanny McPhee</title></programme>
+<programme start="20260711024500 +0000" stop="20260711042000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Shark Tale</title></programme>
+<programme start="20260711042000 +0000" stop="20260711072500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">King Kong</title></programme>
+<programme start="20260711072500 +0000" stop="20260711093000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Downton Abbey</title></programme>
+<programme start="20260711093000 +0000" stop="20260711110500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Trolls</title></programme>
+<programme start="20260711110500 +0000" stop="20260711123500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Curious George</title></programme>
+<programme start="20260711123500 +0000" stop="20260711143000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Identity Thief</title></programme>
+<programme start="20260711143000 +0000" stop="20260711165000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">The Hulk</title></programme>
+<programme start="20260711165000 +0000" stop="20260711170000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil"><title lang="id">Atonement</title></programme>
+<programme start="20260710170000 +0000" stop="20260710180000 +0000" channel="tvOne.id@SD"><title lang="id">Breaking News</title></programme>
+<programme start="20260710180000 +0000" stop="20260710190000 +0000" channel="tvOne.id@SD"><title lang="id">Breaking News</title></programme>
+<programme start="20260710190000 +0000" stop="20260710203000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang</title></programme>
+<programme start="20260710203000 +0000" stop="20260710213000 +0000" channel="tvOne.id@SD"><title lang="id">Breaking News</title></programme>
+<programme start="20260710213000 +0000" stop="20260710230000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Pagi</title></programme>
+<programme start="20260710230000 +0000" stop="20260710233000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi</title></programme>
+<programme start="20260710233000 +0000" stop="20260711010000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi</title></programme>
+<programme start="20260711010000 +0000" stop="20260711020000 +0000" channel="tvOne.id@SD"><title lang="id">Inspirasi Pagi</title></programme>
+<programme start="20260711020000 +0000" stop="20260711023000 +0000" channel="tvOne.id@SD"><title lang="id">Xpose</title></programme>
+<programme start="20260711023000 +0000" stop="20260711040000 +0000" channel="tvOne.id@SD"><title lang="id">Breaking News</title></programme>
+<programme start="20260711040000 +0000" stop="20260711053000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Siang</title></programme>
+<programme start="20260711053000 +0000" stop="20260711070000 +0000" channel="tvOne.id@SD"><title lang="id">Damai Indonesiaku</title></programme>
+<programme start="20260711070000 +0000" stop="20260711080000 +0000" channel="tvOne.id@SD"><title lang="id">Breaking News</title></programme>
+<programme start="20260711080000 +0000" stop="20260711090000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Siang</title></programme>
+<programme start="20260711090000 +0000" stop="20260711110000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang</title></programme>
+<programme start="20260711110000 +0000" stop="20260711130000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
+<programme start="20260711130000 +0000" stop="20260711140000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama</title></programme>
+<programme start="20260711140000 +0000" stop="20260711150000 +0000" channel="tvOne.id@SD"><title lang="id">Khazanah Qur&apos;an</title></programme>
+<programme start="20260711150000 +0000" stop="20260711153000 +0000" channel="tvOne.id@SD"><title lang="id">Pesta Sepak Bola Dunia</title></programme>
+<programme start="20260711153000 +0000" stop="20260711163000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini</title></programme>
+<programme start="20260711163000 +0000" stop="20260711170000 +0000" channel="tvOne.id@SD"><title lang="id">Breaking News</title></programme>
 </tv>
