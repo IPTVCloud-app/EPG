@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260716">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260717">
 <channel id="120#AME2"><display-name>América TV (ARG)</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/120.png"/></channel>
 <channel id="121#CAN7"><display-name>La TV Pública (ARG)</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/121.png"/></channel>
 <channel id="122#CAN9"><display-name>Canal 9 (ARG)</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/122.png"/></channel>
@@ -373,17 +373,69 @@
 <channel id="4773#ESC+"><display-name>Escuela plus</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/302.png"/></channel>
 <channel id="4992#TRES"><display-name>EL TRES Rosario</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/134.png"/></channel>
 <channel id="4997#KZO"><display-name>KZO</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/199.png"/></channel>
-<programme start="20260716005000 +0000" stop="20260716032500 +0000" channel="HBOPlusLatinAmerica.us@SD"><title lang="es">Furiosa: de la saga Mad Max</title><rating system="MPA"><value>R</value></rating></programme>
-<programme start="20260716032500 +0000" stop="20260716052500 +0000" channel="HBOPlusLatinAmerica.us@SD"><title lang="es">Jumanji: En la selva</title></programme>
-<programme start="20260716052500 +0000" stop="20260716071000 +0000" channel="HBOPlusLatinAmerica.us@SD"><title lang="es">Compañera perfecta</title><rating system="MPA"><value>R</value></rating></programme>
-<programme start="20260716071000 +0000" stop="20260716090000 +0000" channel="HBOPlusLatinAmerica.us@SD"><title lang="es">Déjame salir</title><rating system="MPA"><value>R</value></rating></programme>
-<programme start="20260716090000 +0000" stop="20260716104500 +0000" channel="HBOPlusLatinAmerica.us@SD"><title lang="es">Miedo punto com</title><rating system="MPA"><value>R</value></rating></programme>
-<programme start="20260716104500 +0000" stop="20260716132500 +0000" channel="HBOPlusLatinAmerica.us@SD"><title lang="es">Dune</title></programme>
-<programme start="20260716132500 +0000" stop="20260716151000 +0000" channel="HBOPlusLatinAmerica.us@SD"><title lang="es">Hasta que el cuerpo aguante</title><rating system="MPA"><value>R</value></rating></programme>
-<programme start="20260716151000 +0000" stop="20260716170000 +0000" channel="HBOPlusLatinAmerica.us@SD"><title lang="es">Exterminio: el templo de huesos</title><rating system="MPA"><value>R</value></rating></programme>
-<programme start="20260716170000 +0000" stop="20260716192500 +0000" channel="HBOPlusLatinAmerica.us@SD"><title lang="es">El sorprendente Hombre Araña 2: La amenaza de Electro</title></programme>
-<programme start="20260716192500 +0000" stop="20260716211500 +0000" channel="HBOPlusLatinAmerica.us@SD"><title lang="es">Until Dawn: noche de terror</title><rating system="MPA"><value>R</value></rating></programme>
-<programme start="20260716211500 +0000" stop="20260716232500 +0000" channel="HBOPlusLatinAmerica.us@SD"><title lang="es">Warcraft: El primer encuentro de dos mundos</title></programme>
-<programme start="20260716232500 +0000" stop="20260717012500 +0000" channel="HBOPlusLatinAmerica.us@SD"><title lang="es">El conjuro</title><rating system="MPA"><value>R</value></rating></programme>
-<programme start="20260717012500 +0000" stop="20260717030000 +0000" channel="HBOPlusLatinAmerica.us@SD"><title lang="es">Tierra de zombies</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20260717024500 +0000" stop="20260717034000 +0000" channel="207#A&amp;E"><title lang="es">En nombre del amor: Parte 2</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260717034000 +0000" stop="20260717043000 +0000" channel="207#A&amp;E"><title lang="es">Casos abiertos</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260717043000 +0000" stop="20260717052000 +0000" channel="207#A&amp;E"><title lang="es">Sin sentido</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260717052000 +0000" stop="20260717061000 +0000" channel="207#A&amp;E"><title lang="es">La gran oportunidad</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260717061000 +0000" stop="20260717065500 +0000" channel="207#A&amp;E"><title lang="es">Captado por la cámara</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260717065500 +0000" stop="20260717074000 +0000" channel="207#A&amp;E"><title lang="es">Interrogatorios: Mentiras e historias</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260717074000 +0000" stop="20260717082500 +0000" channel="207#A&amp;E"><title lang="es">Caminar en el parque</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260717082500 +0000" stop="20260717091000 +0000" channel="207#A&amp;E"><title lang="es">Estilo libre</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260717091000 +0000" stop="20260717095500 +0000" channel="207#A&amp;E"><title lang="es">Injusticia</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260717095500 +0000" stop="20260717104000 +0000" channel="207#A&amp;E"><title lang="es">Labios sellados</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260717104000 +0000" stop="20260717110000 +0000" channel="207#A&amp;E"><title lang="es">Episode 7</title></programme>
+<programme start="20260717110000 +0000" stop="20260717112000 +0000" channel="207#A&amp;E"><title lang="es">Brandi y Jarrod se ponen a trabajar</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260717112000 +0000" stop="20260717114000 +0000" channel="207#A&amp;E"><title lang="es">Vistete para ganar</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260717114000 +0000" stop="20260717120000 +0000" channel="207#A&amp;E"><title lang="es">Sr. Agradable</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260717120000 +0000" stop="20260717123000 +0000" channel="207#A&amp;E"><title lang="es">Programación pagada</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260717123000 +0000" stop="20260717130000 +0000" channel="207#A&amp;E"><title lang="es">Programación pagada</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260717130000 +0000" stop="20260717133000 +0000" channel="207#A&amp;E"><title lang="es">Programación pagada</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260717133000 +0000" stop="20260717140000 +0000" channel="207#A&amp;E"><title lang="es">Programación pagada</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260717140000 +0000" stop="20260717153000 +0000" channel="207#A&amp;E"><title lang="es">Dennis</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260717153000 +0000" stop="20260717160000 +0000" channel="207#A&amp;E"><title lang="es">¡Alto! Frontera: Chile</title></programme>
+<programme start="20260717160000 +0000" stop="20260717163000 +0000" channel="207#A&amp;E"><title lang="es">¡Alto! Frontera: Chile</title></programme>
+<programme start="20260717163000 +0000" stop="20260717170000 +0000" channel="207#A&amp;E"><title lang="es">¡Alto! Frontera: Chile</title></programme>
+<programme start="20260717170000 +0000" stop="20260717173000 +0000" channel="207#A&amp;E"><title lang="es">¡Alto! Frontera: Chile</title></programme>
+<programme start="20260717173000 +0000" stop="20260717175500 +0000" channel="207#A&amp;E"><title lang="es">Cam Alert: Captura exitosa</title></programme>
+<programme start="20260717175500 +0000" stop="20260717182000 +0000" channel="207#A&amp;E"><title lang="es">Cam Alert: Captura exitosa</title></programme>
+<programme start="20260717182000 +0000" stop="20260717184500 +0000" channel="207#A&amp;E"><title lang="es">Cam Alert: Captura exitosa</title></programme>
+<programme start="20260717184500 +0000" stop="20260717191000 +0000" channel="207#A&amp;E"><title lang="es">Cam Alert: Captura exitosa</title></programme>
+<programme start="20260717191000 +0000" stop="20260717193000 +0000" channel="207#A&amp;E"><title lang="es">Episode 6</title></programme>
+<programme start="20260717193000 +0000" stop="20260717195500 +0000" channel="207#A&amp;E"><title lang="es">Patrulla policial</title></programme>
+<programme start="20260717195500 +0000" stop="20260717201500 +0000" channel="207#A&amp;E"><title lang="es">Episode 8</title></programme>
+<programme start="20260717201500 +0000" stop="20260717204000 +0000" channel="207#A&amp;E"><title lang="es">Episode 9</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260717204000 +0000" stop="20260717210000 +0000" channel="207#A&amp;E"><title lang="es">Episode 19</title></programme>
+<programme start="20260717210000 +0000" stop="20260717212500 +0000" channel="207#A&amp;E"><title lang="es">Episode 20</title></programme>
+<programme start="20260717212500 +0000" stop="20260717214500 +0000" channel="207#A&amp;E"><title lang="es">Episode 1</title></programme>
+<programme start="20260717214500 +0000" stop="20260717221000 +0000" channel="207#A&amp;E"><title lang="es">Episode 2</title></programme>
+<programme start="20260717221000 +0000" stop="20260717223000 +0000" channel="207#A&amp;E"><title lang="es">Episode 3</title></programme>
+<programme start="20260717223000 +0000" stop="20260717225500 +0000" channel="207#A&amp;E"><title lang="es">Episode 4</title></programme>
+<programme start="20260717225500 +0000" stop="20260717231500 +0000" channel="207#A&amp;E"><title lang="es">Episode 5</title></programme>
+<programme start="20260717231500 +0000" stop="20260717234000 +0000" channel="207#A&amp;E"><title lang="es">Episode 6</title></programme>
+<programme start="20260717234000 +0000" stop="20260718000000 +0000" channel="207#A&amp;E"><title lang="es">Vistete para ganar</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260718000000 +0000" stop="20260718002500 +0000" channel="207#A&amp;E"><title lang="es">Sr. Agradable</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260718002500 +0000" stop="20260718005000 +0000" channel="207#A&amp;E"><title lang="es">Whiskers and Lies</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260718005000 +0000" stop="20260718011500 +0000" channel="207#A&amp;E"><title lang="es">Día de aprendizajes</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260718011500 +0000" stop="20260718014000 +0000" channel="207#A&amp;E"><title lang="es">Episode 7</title></programme>
+<programme start="20260718014000 +0000" stop="20260718020000 +0000" channel="207#A&amp;E"><title lang="es">Episode 8</title></programme>
+<programme start="20260718020000 +0000" stop="20260718022500 +0000" channel="207#A&amp;E"><title lang="es">Episode 9</title></programme>
+<programme start="20260718022500 +0000" stop="20260718024500 +0000" channel="207#A&amp;E"><title lang="es">Episode 10</title></programme>
+<programme start="20260718024500 +0000" stop="20260718031500 +0000" channel="207#A&amp;E"><title lang="es">¡Alto! Frontera: Chile</title></programme>
+<programme start="20260717010000 +0000" stop="20260717032100 +0000" channel="StarChannelLatinAmerica.us@South"><title lang="es">Luce</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20260717032100 +0000" stop="20260717035200 +0000" channel="StarChannelLatinAmerica.us@South"><title lang="es">La cultura no está de moda</title></programme>
+<programme start="20260717035200 +0000" stop="20260717060800 +0000" channel="StarChannelLatinAmerica.us@South"><title lang="es">Freaks</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20260717060800 +0000" stop="20260717081400 +0000" channel="StarChannelLatinAmerica.us@South"><title lang="es">Queen y Slim: Los fugitivos</title><rating system="MPA"><value>R</value></rating></programme>
+<programme start="20260717081400 +0000" stop="20260717085800 +0000" channel="StarChannelLatinAmerica.us@South"><title lang="es">La última seducción</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260717085800 +0000" stop="20260717100000 +0000" channel="StarChannelLatinAmerica.us@South"><title lang="es">Mr. &amp; Mrs. Castle</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260717100000 +0000" stop="20260717110400 +0000" channel="StarChannelLatinAmerica.us@South"><title lang="es">Testigo de la acusación</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260717110400 +0000" stop="20260717115600 +0000" channel="StarChannelLatinAmerica.us@South"><title lang="es">El juego de la culpa</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260717115600 +0000" stop="20260717124800 +0000" channel="StarChannelLatinAmerica.us@South"><title lang="es">Justicia para todos</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260717124800 +0000" stop="20260717144900 +0000" channel="StarChannelLatinAmerica.us@South"><title lang="es">La noche de su vida</title></programme>
+<programme start="20260717144900 +0000" stop="20260717165600 +0000" channel="StarChannelLatinAmerica.us@South"><title lang="es">Una segunda oportunidad</title><rating system="MPA"><value>PG</value></rating></programme>
+<programme start="20260717165600 +0000" stop="20260717192400 +0000" channel="StarChannelLatinAmerica.us@South"><title lang="es">Brigada A: Los magníficos</title></programme>
+<programme start="20260717192400 +0000" stop="20260717214200 +0000" channel="StarChannelLatinAmerica.us@South"><title lang="es">Sexto sentido</title></programme>
+<programme start="20260717214200 +0000" stop="20260717235600 +0000" channel="StarChannelLatinAmerica.us@South"><title lang="es">Free guy: Tomando el control</title></programme>
+<programme start="20260717235600 +0000" stop="20260718002800 +0000" channel="StarChannelLatinAmerica.us@South"><title lang="es">Oh, hermano. ¿Dónde estás?</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260718002800 +0000" stop="20260718010000 +0000" channel="StarChannelLatinAmerica.us@South"><title lang="es">Un jueves con el abuelo</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260718010000 +0000" stop="20260718030400 +0000" channel="StarChannelLatinAmerica.us@South"><title lang="es">Hada por accidente</title><rating system="MPA"><value>PG</value></rating></programme>
 </tv>

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T05:39:12.201749+00:00",
-  "total_sites": 174,
+  "generated_at": "2026-07-17T05:40:13.251355+00:00",
+  "total_sites": 176,
   "guides": [
     {
       "site": "9tv.co.il",
@@ -11,9 +11,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 15743,
-      "programmes": 30,
-      "updated_at": "2026-07-16T03:22:30.803572+00:00"
+      "size_bytes": 5554,
+      "programmes": 10,
+      "updated_at": "2026-07-17T03:25:32.669297+00:00"
     },
     {
       "site": "abc.net.au",
@@ -24,9 +24,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 8570753,
-      "programmes": 17522,
-      "updated_at": "2026-07-16T03:23:02.901806+00:00"
+      "size_bytes": 8521038,
+      "programmes": 17415,
+      "updated_at": "2026-07-17T03:26:04.030901+00:00"
     },
     {
       "site": "airtelxstream.in",
@@ -37,9 +37,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 13994730,
-      "programmes": 24081,
-      "updated_at": "2026-07-16T03:23:08.869839+00:00"
+      "size_bytes": 12838153,
+      "programmes": 21847,
+      "updated_at": "2026-07-17T03:26:12.737241+00:00"
     },
     {
       "site": "aljazeera.com",
@@ -50,9 +50,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 17836,
-      "programmes": 64,
-      "updated_at": "2026-07-16T03:22:30.426657+00:00"
+      "size_bytes": 19108,
+      "programmes": 70,
+      "updated_at": "2026-07-17T03:25:33.498287+00:00"
     },
     {
       "site": "allente.dk",
@@ -63,9 +63,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 919994,
-      "programmes": 1795,
-      "updated_at": "2026-07-16T03:22:38.245528+00:00"
+      "size_bytes": 1206740,
+      "programmes": 2319,
+      "updated_at": "2026-07-17T03:25:42.211175+00:00"
     },
     {
       "site": "allente.fi",
@@ -76,9 +76,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1199424,
-      "programmes": 2397,
-      "updated_at": "2026-07-16T03:22:35.131658+00:00"
+      "size_bytes": 1196889,
+      "programmes": 2394,
+      "updated_at": "2026-07-17T03:25:37.196242+00:00"
     },
     {
       "site": "allente.no",
@@ -89,9 +89,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1132990,
-      "programmes": 2300,
-      "updated_at": "2026-07-16T03:22:40.970692+00:00"
+      "size_bytes": 1399423,
+      "programmes": 2832,
+      "updated_at": "2026-07-17T03:25:42.977165+00:00"
     },
     {
       "site": "allente.se",
@@ -102,9 +102,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 2149548,
-      "programmes": 4237,
-      "updated_at": "2026-07-16T03:22:43.452707+00:00"
+      "size_bytes": 2137771,
+      "programmes": 4215,
+      "updated_at": "2026-07-17T03:25:46.201126+00:00"
     },
     {
       "site": "anteltv.com.uy",
@@ -115,9 +115,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 35499,
-      "programmes": 190,
-      "updated_at": "2026-07-16T03:22:58.351780+00:00"
+      "size_bytes": 37120,
+      "programmes": 201,
+      "updated_at": "2026-07-17T03:25:57.935979+00:00"
     },
     {
       "site": "antennaeurope.gr",
@@ -128,9 +128,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 3918,
-      "programmes": 23,
-      "updated_at": "2026-07-16T03:23:25.164431+00:00"
+      "size_bytes": 3432,
+      "programmes": 20,
+      "updated_at": "2026-07-17T03:26:11.491807+00:00"
     },
     {
       "site": "antennapacific.gr",
@@ -143,7 +143,7 @@
       "parts": 1,
       "size_bytes": 4350,
       "programmes": 26,
-      "updated_at": "2026-07-16T03:23:30.261958+00:00"
+      "updated_at": "2026-07-17T03:26:18.213425+00:00"
     },
     {
       "site": "antennasatellite.gr",
@@ -154,9 +154,22 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 3856,
-      "programmes": 23,
-      "updated_at": "2026-07-16T03:23:30.147785+00:00"
+      "size_bytes": 3517,
+      "programmes": 21,
+      "updated_at": "2026-07-17T03:26:17.673738+00:00"
+    },
+    {
+      "site": "app.tvufop.com.br",
+      "path": "app.tvufop.com.br/app.tvufop.com.br.xml",
+      "full_path": "/home/runner/work/EPG/EPG/sites/app.tvufop.com.br/app.tvufop.com.br.xml",
+      "url": [
+        "/app.tvufop.com.br/app.tvufop.com.br.xml"
+      ],
+      "split": false,
+      "parts": 1,
+      "size_bytes": 53264,
+      "programmes": 125,
+      "updated_at": "2026-07-17T03:26:23.099234+00:00"
     },
     {
       "site": "arianatelevision.com",
@@ -169,7 +182,7 @@
       "parts": 1,
       "size_bytes": 7333,
       "programmes": 49,
-      "updated_at": "2026-07-16T03:23:22.908802+00:00"
+      "updated_at": "2026-07-17T03:26:23.678211+00:00"
     },
     {
       "site": "arirang.com",
@@ -180,22 +193,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 46375,
-      "programmes": 57,
-      "updated_at": "2026-07-16T03:23:54.738083+00:00"
-    },
-    {
-      "site": "ayn.om",
-      "path": "ayn.om/ayn.om.xml",
-      "full_path": "/home/runner/work/EPG/EPG/sites/ayn.om/ayn.om.xml",
-      "url": [
-        "/ayn.om/ayn.om.xml"
-      ],
-      "split": false,
-      "parts": 1,
-      "size_bytes": 4612,
-      "programmes": 19,
-      "updated_at": "2026-07-16T03:24:28.405259+00:00"
+      "size_bytes": 89707,
+      "programmes": 107,
+      "updated_at": "2026-07-17T03:26:58.265218+00:00"
     },
     {
       "site": "bein.com",
@@ -206,9 +206,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 638454,
-      "programmes": 2793,
-      "updated_at": "2026-07-16T03:24:08.285156+00:00"
+      "size_bytes": 719826,
+      "programmes": 3120,
+      "updated_at": "2026-07-17T03:26:58.168219+00:00"
     },
     {
       "site": "beinsports.com",
@@ -219,9 +219,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 349481,
-      "programmes": 1092,
-      "updated_at": "2026-07-16T03:23:50.308060+00:00"
+      "size_bytes": 388608,
+      "programmes": 1302,
+      "updated_at": "2026-07-17T03:26:40.656003+00:00"
     },
     {
       "site": "cableplus.com.uy",
@@ -232,9 +232,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 134546,
-      "programmes": 472,
-      "updated_at": "2026-07-16T03:24:11.310171+00:00"
+      "size_bytes": 152621,
+      "programmes": 540,
+      "updated_at": "2026-07-17T03:26:59.358204+00:00"
     },
     {
       "site": "canalplus.com",
@@ -245,9 +245,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1141897,
-      "programmes": 297,
-      "updated_at": "2026-07-16T03:34:21.738030+00:00"
+      "size_bytes": 1162408,
+      "programmes": 241,
+      "updated_at": "2026-07-17T03:35:04.216241+00:00"
     },
     {
       "site": "cgates.lt",
@@ -258,9 +258,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 8212,
-      "programmes": 12,
-      "updated_at": "2026-07-16T03:24:29.184263+00:00"
+      "size_bytes": 12170,
+      "programmes": 25,
+      "updated_at": "2026-07-17T03:28:01.703569+00:00"
     },
     {
       "site": "chada.ma",
@@ -271,9 +271,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 2105,
+      "size_bytes": 2118,
       "programmes": 10,
-      "updated_at": "2026-07-16T03:24:57.762795+00:00"
+      "updated_at": "2026-07-17T03:27:23.550049+00:00"
     },
     {
       "site": "clarotvmais.com.br",
@@ -284,9 +284,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1452814,
-      "programmes": 3033,
-      "updated_at": "2026-07-16T03:24:50.853472+00:00"
+      "size_bytes": 1734907,
+      "programmes": 3634,
+      "updated_at": "2026-07-17T03:27:40.378688+00:00"
     },
     {
       "site": "content.astro.com.my",
@@ -297,9 +297,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1623900,
-      "programmes": 2892,
-      "updated_at": "2026-07-16T03:26:55.847462+00:00"
+      "size_bytes": 1569015,
+      "programmes": 2774,
+      "updated_at": "2026-07-17T03:29:33.008873+00:00"
     },
     {
       "site": "cosmotetv.gr",
@@ -310,9 +310,22 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1148912,
-      "programmes": 1815,
-      "updated_at": "2026-07-16T03:25:23.251534+00:00"
+      "size_bytes": 672142,
+      "programmes": 1030,
+      "updated_at": "2026-07-17T03:27:55.668496+00:00"
+    },
+    {
+      "site": "ctc.ru",
+      "path": "ctc.ru/ctc.ru.xml",
+      "full_path": "/home/runner/work/EPG/EPG/sites/ctc.ru/ctc.ru.xml",
+      "url": [
+        "/ctc.ru/ctc.ru.xml"
+      ],
+      "split": false,
+      "parts": 1,
+      "size_bytes": 8015,
+      "programmes": 12,
+      "updated_at": "2026-07-17T03:28:01.009251+00:00"
     },
     {
       "site": "cubmu.com",
@@ -323,9 +336,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 73472,
-      "programmes": 437,
-      "updated_at": "2026-07-16T03:25:31.013565+00:00"
+      "size_bytes": 75011,
+      "programmes": 447,
+      "updated_at": "2026-07-17T03:28:19.764489+00:00"
     },
     {
       "site": "cyta.com.cy",
@@ -336,9 +349,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 104724,
-      "programmes": 585,
-      "updated_at": "2026-07-16T03:25:38.258735+00:00"
+      "size_bytes": 134778,
+      "programmes": 784,
+      "updated_at": "2026-07-17T03:28:19.553196+00:00"
     },
     {
       "site": "dens.tv",
@@ -351,7 +364,7 @@
       "parts": 1,
       "size_bytes": 10674,
       "programmes": 26,
-      "updated_at": "2026-07-16T03:26:19.375813+00:00"
+      "updated_at": "2026-07-17T03:29:03.517646+00:00"
     },
     {
       "site": "derana.lk",
@@ -362,9 +375,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 6429,
+      "size_bytes": 6436,
       "programmes": 27,
-      "updated_at": "2026-07-16T03:25:39.476619+00:00"
+      "updated_at": "2026-07-17T03:28:28.024090+00:00"
     },
     {
       "site": "digea.gr",
@@ -375,9 +388,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 168314,
-      "programmes": 477,
-      "updated_at": "2026-07-16T03:25:57.020704+00:00"
+      "size_bytes": 271537,
+      "programmes": 748,
+      "updated_at": "2026-07-17T03:28:36.812185+00:00"
     },
     {
       "site": "directv.com",
@@ -388,9 +401,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 12558935,
-      "programmes": 22835,
-      "updated_at": "2026-07-16T03:26:46.336446+00:00"
+      "size_bytes": 12734328,
+      "programmes": 23155,
+      "updated_at": "2026-07-17T03:29:14.920502+00:00"
     },
     {
       "site": "directv.com.ar",
@@ -401,9 +414,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 245408,
-      "programmes": 1021,
-      "updated_at": "2026-07-16T03:26:27.973050+00:00"
+      "size_bytes": 250154,
+      "programmes": 1042,
+      "updated_at": "2026-07-17T03:29:03.099402+00:00"
     },
     {
       "site": "directv.com.uy",
@@ -414,9 +427,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 64978,
-      "programmes": 13,
-      "updated_at": "2026-07-16T03:28:33.554457+00:00"
+      "size_bytes": 73976,
+      "programmes": 65,
+      "updated_at": "2026-07-17T03:29:09.528857+00:00"
     },
     {
       "site": "dishtv.in",
@@ -436,7 +449,7 @@
       "parts": 2,
       "size_bytes": 3538694,
       "programmes": 13810,
-      "updated_at": "2026-07-16T03:21:49.609365+00:00"
+      "updated_at": "2026-07-17T03:24:52.262819+00:00"
     },
     {
       "site": "distro.tv",
@@ -447,9 +460,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 186151,
-      "programmes": 401,
-      "updated_at": "2026-07-16T03:26:36.904196+00:00"
+      "size_bytes": 187888,
+      "programmes": 404,
+      "updated_at": "2026-07-17T03:29:14.276510+00:00"
     },
     {
       "site": "dna.fi",
@@ -460,9 +473,22 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1124004,
-      "programmes": 1352,
-      "updated_at": "2026-07-16T03:26:51.907491+00:00"
+      "size_bytes": 1870654,
+      "programmes": 2357,
+      "updated_at": "2026-07-17T03:29:25.243373+00:00"
+    },
+    {
+      "site": "dsmart.com.tr",
+      "path": "dsmart.com.tr/dsmart.com.tr.xml",
+      "full_path": "/home/runner/work/EPG/EPG/sites/dsmart.com.tr/dsmart.com.tr.xml",
+      "url": [
+        "/dsmart.com.tr/dsmart.com.tr.xml"
+      ],
+      "split": false,
+      "parts": 1,
+      "size_bytes": 214999,
+      "programmes": 672,
+      "updated_at": "2026-07-17T03:30:21.903669+00:00"
     },
     {
       "site": "dstv.com",
@@ -475,7 +501,20 @@
       "parts": 1,
       "size_bytes": 8652076,
       "programmes": 16261,
-      "updated_at": "2026-07-16T03:21:49.631365+00:00"
+      "updated_at": "2026-07-17T03:24:52.284819+00:00"
+    },
+    {
+      "site": "dtv8.net",
+      "path": "dtv8.net/dtv8.net.xml",
+      "full_path": "/home/runner/work/EPG/EPG/sites/dtv8.net/dtv8.net.xml",
+      "url": [
+        "/dtv8.net/dtv8.net.xml"
+      ],
+      "split": false,
+      "parts": 1,
+      "size_bytes": 2624,
+      "programmes": 17,
+      "updated_at": "2026-07-17T03:29:30.179311+00:00"
     },
     {
       "site": "elcinema.com",
@@ -486,9 +525,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 288336,
-      "programmes": 538,
-      "updated_at": "2026-07-16T03:27:16.399091+00:00"
+      "size_bytes": 267714,
+      "programmes": 554,
+      "updated_at": "2026-07-17T03:29:48.916076+00:00"
     },
     {
       "site": "energeek.cl",
@@ -499,9 +538,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 24355,
+      "size_bytes": 24314,
       "programmes": 81,
-      "updated_at": "2026-07-16T03:27:25.024073+00:00"
+      "updated_at": "2026-07-17T03:29:48.660829+00:00"
     },
     {
       "site": "epg.112114.xyz",
@@ -514,7 +553,7 @@
       "parts": 1,
       "size_bytes": 1922283,
       "programmes": 12354,
-      "updated_at": "2026-07-16T03:21:49.635365+00:00"
+      "updated_at": "2026-07-17T03:24:52.288819+00:00"
     },
     {
       "site": "epg.telemach.ba",
@@ -525,9 +564,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 3356293,
-      "programmes": 7386,
-      "updated_at": "2026-07-16T03:28:50.035531+00:00"
+      "size_bytes": 3875666,
+      "programmes": 8599,
+      "updated_at": "2026-07-17T03:30:45.986391+00:00"
     },
     {
       "site": "epg.tmacaraibes.com",
@@ -540,7 +579,7 @@
       "parts": 1,
       "size_bytes": 13783,
       "programmes": 18,
-      "updated_at": "2026-07-16T03:28:22.724405+00:00"
+      "updated_at": "2026-07-17T03:30:29.682573+00:00"
     },
     {
       "site": "epgshare01.online",
@@ -567,9 +606,9 @@
       ],
       "split": true,
       "parts": 5,
-      "size_bytes": 32941277,
-      "programmes": 255075,
-      "updated_at": "2026-07-16T05:38:57.375036+00:00"
+      "size_bytes": 39149854,
+      "programmes": 303370,
+      "updated_at": "2026-07-17T05:39:55.068220+00:00"
     },
     {
       "site": "foxsports.com.au",
@@ -580,9 +619,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 66297,
-      "programmes": 164,
-      "updated_at": "2026-07-16T03:29:10.817624+00:00"
+      "size_bytes": 56972,
+      "programmes": 142,
+      "updated_at": "2026-07-17T03:31:09.503412+00:00"
     },
     {
       "site": "foxtel.com.au",
@@ -593,9 +632,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 617233,
-      "programmes": 1073,
-      "updated_at": "2026-07-16T03:31:49.758446+00:00"
+      "size_bytes": 656734,
+      "programmes": 1147,
+      "updated_at": "2026-07-17T03:34:48.059440+00:00"
     },
     {
       "site": "france.tv",
@@ -606,9 +645,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 251778,
-      "programmes": 539,
-      "updated_at": "2026-07-16T03:29:21.784674+00:00"
+      "size_bytes": 286572,
+      "programmes": 606,
+      "updated_at": "2026-07-17T03:31:31.985842+00:00"
     },
     {
       "site": "freetv.tv",
@@ -619,9 +658,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 222997,
-      "programmes": 245,
-      "updated_at": "2026-07-16T03:29:28.232198+00:00"
+      "size_bytes": 233292,
+      "programmes": 255,
+      "updated_at": "2026-07-17T03:31:33.814814+00:00"
     },
     {
       "site": "freeview.co.uk",
@@ -632,9 +671,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 2502428,
-      "programmes": 6452,
-      "updated_at": "2026-07-16T03:34:50.143157+00:00"
+      "size_bytes": 2546261,
+      "programmes": 6574,
+      "updated_at": "2026-07-17T03:37:41.112314+00:00"
     },
     {
       "site": "gatotv.com",
@@ -645,9 +684,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 5742863,
-      "programmes": 31334,
-      "updated_at": "2026-07-16T03:33:42.071850+00:00"
+      "size_bytes": 6743906,
+      "programmes": 36724,
+      "updated_at": "2026-07-17T03:35:24.736309+00:00"
     },
     {
       "site": "gigatv.3bbtv.co.th",
@@ -658,9 +697,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 134786,
-      "programmes": 736,
-      "updated_at": "2026-07-16T03:33:16.962236+00:00"
+      "size_bytes": 175280,
+      "programmes": 980,
+      "updated_at": "2026-07-17T03:35:40.506818+00:00"
     },
     {
       "site": "go3.ee",
@@ -671,9 +710,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1452365,
-      "programmes": 1705,
-      "updated_at": "2026-07-16T03:33:34.599473+00:00"
+      "size_bytes": 1617189,
+      "programmes": 1887,
+      "updated_at": "2026-07-17T03:35:46.306722+00:00"
     },
     {
       "site": "guiadetv.com",
@@ -684,9 +723,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 645885,
-      "programmes": 3811,
-      "updated_at": "2026-07-16T03:33:51.201890+00:00"
+      "size_bytes": 609974,
+      "programmes": 3631,
+      "updated_at": "2026-07-17T03:36:01.802523+00:00"
     },
     {
       "site": "guida.tv",
@@ -697,9 +736,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 295618,
-      "programmes": 1470,
-      "updated_at": "2026-07-16T03:33:56.895268+00:00"
+      "size_bytes": 291420,
+      "programmes": 1355,
+      "updated_at": "2026-07-17T03:36:05.089483+00:00"
     },
     {
       "site": "guidatv.sky.it",
@@ -710,9 +749,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 2804574,
-      "programmes": 3979,
-      "updated_at": "2026-07-16T03:34:06.963001+00:00"
+      "size_bytes": 2844158,
+      "programmes": 4012,
+      "updated_at": "2026-07-17T03:36:10.730413+00:00"
     },
     {
       "site": "horizon.tv",
@@ -723,9 +762,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 2881273,
-      "programmes": 4882,
-      "updated_at": "2026-07-16T03:42:49.737611+00:00"
+      "size_bytes": 4301076,
+      "programmes": 7023,
+      "updated_at": "2026-07-17T03:42:20.635831+00:00"
     },
     {
       "site": "hoy.tv",
@@ -736,9 +775,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 25352,
-      "programmes": 130,
-      "updated_at": "2026-07-16T03:34:32.966080+00:00"
+      "size_bytes": 23266,
+      "programmes": 125,
+      "updated_at": "2026-07-17T03:36:22.367705+00:00"
     },
     {
       "site": "i24news.tv",
@@ -749,9 +788,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 31370,
-      "programmes": 108,
-      "updated_at": "2026-07-16T03:35:00.458423+00:00"
+      "size_bytes": 33589,
+      "programmes": 115,
+      "updated_at": "2026-07-17T03:37:25.948101+00:00"
     },
     {
       "site": "iltalehti.fi",
@@ -762,9 +801,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1643497,
-      "programmes": 2586,
-      "updated_at": "2026-07-16T03:35:18.699356+00:00"
+      "size_bytes": 1469231,
+      "programmes": 2465,
+      "updated_at": "2026-07-17T03:37:43.042286+00:00"
     },
     {
       "site": "ipko.tv",
@@ -775,9 +814,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 565022,
-      "programmes": 1927,
-      "updated_at": "2026-07-16T03:35:43.614393+00:00"
+      "size_bytes": 507225,
+      "programmes": 1632,
+      "updated_at": "2026-07-17T03:38:07.000988+00:00"
     },
     {
       "site": "knr.gl",
@@ -788,9 +827,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 5859,
-      "programmes": 19,
-      "updated_at": "2026-07-16T03:36:48.965598+00:00"
+      "size_bytes": 5423,
+      "programmes": 17,
+      "updated_at": "2026-07-17T03:39:16.317968+00:00"
     },
     {
       "site": "magticom.ge",
@@ -801,9 +840,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 684480,
-      "programmes": 2203,
-      "updated_at": "2026-07-16T03:42:01.116536+00:00"
+      "size_bytes": 364702,
+      "programmes": 1393,
+      "updated_at": "2026-07-17T03:43:03.818292+00:00"
     },
     {
       "site": "mako.co.il",
@@ -814,9 +853,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 11536,
-      "programmes": 26,
-      "updated_at": "2026-07-16T03:42:10.885349+00:00"
+      "size_bytes": 10338,
+      "programmes": 20,
+      "updated_at": "2026-07-17T03:43:13.119176+00:00"
     },
     {
       "site": "makrodigitaltelevision.com",
@@ -827,9 +866,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 5370,
+      "size_bytes": 5351,
       "programmes": 31,
-      "updated_at": "2026-07-16T03:42:19.878073+00:00"
+      "updated_at": "2026-07-17T03:43:22.117181+00:00"
     },
     {
       "site": "maxstream.tv",
@@ -840,22 +879,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 414523,
-      "programmes": 1118,
-      "updated_at": "2026-07-16T03:42:48.890724+00:00"
-    },
-    {
-      "site": "mediaklikk.hu",
-      "path": "mediaklikk.hu/mediaklikk.hu.xml",
-      "full_path": "/home/runner/work/EPG/EPG/sites/mediaklikk.hu/mediaklikk.hu.xml",
-      "url": [
-        "/mediaklikk.hu/mediaklikk.hu.xml"
-      ],
-      "split": false,
-      "parts": 1,
-      "size_bytes": 53120,
-      "programmes": 105,
-      "updated_at": "2026-07-16T03:44:41.264156+00:00"
+      "size_bytes": 420701,
+      "programmes": 1074,
+      "updated_at": "2026-07-17T03:43:41.913817+00:00"
     },
     {
       "site": "mediasetinfinity.mediaset.it",
@@ -866,9 +892,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 324508,
-      "programmes": 593,
-      "updated_at": "2026-07-16T03:44:01.755960+00:00"
+      "size_bytes": 12881,
+      "programmes": 47,
+      "updated_at": "2026-07-17T03:44:54.483740+00:00"
     },
     {
       "site": "melita.com",
@@ -879,9 +905,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 728709,
-      "programmes": 1321,
-      "updated_at": "2026-07-16T03:44:15.710030+00:00"
+      "size_bytes": 909422,
+      "programmes": 1666,
+      "updated_at": "2026-07-17T03:45:16.061644+00:00"
     },
     {
       "site": "meo.pt",
@@ -892,9 +918,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 3056115,
-      "programmes": 3511,
-      "updated_at": "2026-07-16T03:44:26.750084+00:00"
+      "size_bytes": 2203612,
+      "programmes": 2548,
+      "updated_at": "2026-07-17T03:45:41.994214+00:00"
     },
     {
       "site": "mewatch.sg",
@@ -905,9 +931,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 2290289,
-      "programmes": 2999,
-      "updated_at": "2026-07-16T03:44:22.964066+00:00"
+      "size_bytes": 2092052,
+      "programmes": 2724,
+      "updated_at": "2026-07-17T03:46:01.774073+00:00"
     },
     {
       "site": "mi.tv",
@@ -925,9 +951,9 @@
       ],
       "split": true,
       "parts": 2,
-      "size_bytes": 6708942,
-      "programmes": 45470,
-      "updated_at": "2026-07-16T05:39:00.394439+00:00"
+      "size_bytes": 6390630,
+      "programmes": 43322,
+      "updated_at": "2026-07-17T05:39:57.986183+00:00"
     },
     {
       "site": "mncvision.id",
@@ -938,9 +964,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 43711,
-      "programmes": 60,
-      "updated_at": "2026-07-16T03:44:55.411227+00:00"
+      "size_bytes": 37536,
+      "programmes": 36,
+      "updated_at": "2026-07-17T03:46:43.420553+00:00"
     },
     {
       "site": "mojmaxtv.hrvatskitelekom.hr",
@@ -951,9 +977,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 4404172,
-      "programmes": 8531,
-      "updated_at": "2026-07-16T03:46:41.831726+00:00"
+      "size_bytes": 3688134,
+      "programmes": 7611,
+      "updated_at": "2026-07-17T03:48:36.818466+00:00"
     },
     {
       "site": "movistarplus.es",
@@ -964,9 +990,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 250172,
-      "programmes": 359,
-      "updated_at": "2026-07-16T03:46:10.470580+00:00"
+      "size_bytes": 294034,
+      "programmes": 406,
+      "updated_at": "2026-07-17T03:47:35.217912+00:00"
     },
     {
       "site": "mujtvprogram.cz",
@@ -977,9 +1003,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1311860,
-      "programmes": 4323,
-      "updated_at": "2026-07-16T03:46:38.948713+00:00"
+      "size_bytes": 767759,
+      "programmes": 2244,
+      "updated_at": "2026-07-17T03:48:10.638303+00:00"
     },
     {
       "site": "musor.tv",
@@ -990,9 +1016,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1074732,
-      "programmes": 2910,
-      "updated_at": "2026-07-16T03:46:41.476725+00:00"
+      "size_bytes": 932423,
+      "programmes": 2507,
+      "updated_at": "2026-07-17T03:48:13.937474+00:00"
     },
     {
       "site": "mysky.com.ph",
@@ -1005,7 +1031,7 @@
       "parts": 1,
       "size_bytes": 20190,
       "programmes": 38,
-      "updated_at": "2026-07-16T03:21:49.805366+00:00"
+      "updated_at": "2026-07-17T03:24:52.433820+00:00"
     },
     {
       "site": "mytelly.co.uk",
@@ -1016,9 +1042,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1029405,
-      "programmes": 4789,
-      "updated_at": "2026-07-16T03:47:06.470834+00:00"
+      "size_bytes": 912649,
+      "programmes": 4182,
+      "updated_at": "2026-07-17T03:48:46.753082+00:00"
     },
     {
       "site": "mytvsuper.com",
@@ -1029,9 +1055,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1143493,
-      "programmes": 3390,
-      "updated_at": "2026-07-16T03:46:52.401973+00:00"
+      "size_bytes": 1142674,
+      "programmes": 3418,
+      "updated_at": "2026-07-17T03:48:24.690346+00:00"
     },
     {
       "site": "neo.io",
@@ -1042,9 +1068,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 2346942,
-      "programmes": 6439,
-      "updated_at": "2026-07-16T03:47:15.034882+00:00"
+      "size_bytes": 1753066,
+      "programmes": 4455,
+      "updated_at": "2026-07-17T03:48:49.581048+00:00"
     },
     {
       "site": "nhkworldpremium.com",
@@ -1055,9 +1081,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 23456,
-      "programmes": 128,
-      "updated_at": "2026-07-16T03:46:53.022550+00:00"
+      "size_bytes": 22617,
+      "programmes": 122,
+      "updated_at": "2026-07-17T03:48:32.475060+00:00"
     },
     {
       "site": "nhl.com",
@@ -1068,9 +1094,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 7511,
-      "programmes": 26,
-      "updated_at": "2026-07-16T03:47:09.871858+00:00"
+      "size_bytes": 5405,
+      "programmes": 21,
+      "updated_at": "2026-07-17T03:48:39.123173+00:00"
     },
     {
       "site": "nostv.pt",
@@ -1081,9 +1107,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 2470867,
-      "programmes": 2932,
-      "updated_at": "2026-07-16T03:47:11.232865+00:00"
+      "size_bytes": 2529661,
+      "programmes": 2926,
+      "updated_at": "2026-07-17T03:48:54.103994+00:00"
     },
     {
       "site": "nowplayer.now.com",
@@ -1094,9 +1120,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 800565,
-      "programmes": 4464,
-      "updated_at": "2026-07-16T03:47:35.594049+00:00"
+      "size_bytes": 687992,
+      "programmes": 3786,
+      "updated_at": "2026-07-17T03:49:11.590236+00:00"
     },
     {
       "site": "nzxmltv.com",
@@ -1109,7 +1135,7 @@
       "parts": 1,
       "size_bytes": 1109842,
       "programmes": 2531,
-      "updated_at": "2026-07-16T03:21:49.848366+00:00"
+      "updated_at": "2026-07-17T03:24:52.472820+00:00"
     },
     {
       "site": "ontvtonight.com",
@@ -1122,7 +1148,7 @@
       "parts": 1,
       "size_bytes": 3123920,
       "programmes": 14800,
-      "updated_at": "2026-07-16T03:21:49.853366+00:00"
+      "updated_at": "2026-07-17T03:24:52.476820+00:00"
     },
     {
       "site": "opto.sic.pt",
@@ -1133,9 +1159,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 20310,
-      "programmes": 75,
-      "updated_at": "2026-07-16T03:48:15.122155+00:00"
+      "size_bytes": 20876,
+      "programmes": 78,
+      "updated_at": "2026-07-17T03:49:48.288346+00:00"
     },
     {
       "site": "orangetv.orange.es",
@@ -1146,9 +1172,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 6065718,
-      "programmes": 9022,
-      "updated_at": "2026-07-16T03:48:45.601296+00:00"
+      "size_bytes": 5641877,
+      "programmes": 8434,
+      "updated_at": "2026-07-17T03:50:19.010970+00:00"
     },
     {
       "site": "osn.com",
@@ -1159,9 +1185,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 141739,
-      "programmes": 193,
-      "updated_at": "2026-07-16T03:49:44.960568+00:00"
+      "size_bytes": 143868,
+      "programmes": 200,
+      "updated_at": "2026-07-17T03:51:18.095726+00:00"
     },
     {
       "site": "passie.nl",
@@ -1172,9 +1198,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 5987,
-      "programmes": 35,
-      "updated_at": "2026-07-16T03:49:10.468410+00:00"
+      "size_bytes": 5585,
+      "programmes": 33,
+      "updated_at": "2026-07-17T03:50:32.957711+00:00"
     },
     {
       "site": "pickx.be",
@@ -1185,9 +1211,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 8140754,
-      "programmes": 12364,
-      "updated_at": "2026-07-16T03:50:16.534710+00:00"
+      "size_bytes": 11021563,
+      "programmes": 17762,
+      "updated_at": "2026-07-17T03:51:49.030854+00:00"
     },
     {
       "site": "player.ee.co.uk",
@@ -1198,22 +1224,29 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 2104996,
-      "programmes": 6285,
-      "updated_at": "2026-07-16T03:49:59.481433+00:00"
+      "size_bytes": 2095583,
+      "programmes": 6272,
+      "updated_at": "2026-07-17T03:51:39.950006+00:00"
     },
     {
       "site": "plex.tv",
-      "path": "plex.tv/plex.tv.xml",
-      "full_path": "/home/runner/work/EPG/EPG/sites/plex.tv/plex.tv.xml",
-      "url": [
-        "/plex.tv/plex.tv.xml"
+      "path": [
+        "plex.tv/plex.tv_part_001.xml",
+        "plex.tv/plex.tv_part_002.xml"
       ],
-      "split": false,
-      "parts": 1,
-      "size_bytes": 7191259,
-      "programmes": 10798,
-      "updated_at": "2026-07-16T03:50:58.706336+00:00"
+      "full_path": [
+        "/home/runner/work/EPG/EPG/sites/plex.tv/plex.tv_part_001.xml",
+        "/home/runner/work/EPG/EPG/sites/plex.tv/plex.tv_part_002.xml"
+      ],
+      "url": [
+        "/plex.tv/plex.tv_part_001.xml",
+        "/plex.tv/plex.tv_part_002.xml"
+      ],
+      "split": true,
+      "parts": 2,
+      "size_bytes": 7225465,
+      "programmes": 35673,
+      "updated_at": "2026-07-17T05:40:01.160144+00:00"
     },
     {
       "site": "pluto.tv",
@@ -1240,9 +1273,9 @@
       ],
       "split": true,
       "parts": 5,
-      "size_bytes": 23103427,
-      "programmes": 102250,
-      "updated_at": "2026-07-16T05:39:11.112089+00:00"
+      "size_bytes": 23237172,
+      "programmes": 102832,
+      "updated_at": "2026-07-17T05:40:12.280005+00:00"
     },
     {
       "site": "port.hu",
@@ -1253,9 +1286,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 524293,
-      "programmes": 2322,
-      "updated_at": "2026-07-16T03:50:38.960177+00:00"
+      "size_bytes": 674318,
+      "programmes": 3049,
+      "updated_at": "2026-07-17T03:52:10.523592+00:00"
     },
     {
       "site": "programetv.ro",
@@ -1266,9 +1299,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 198514,
-      "programmes": 328,
-      "updated_at": "2026-07-16T03:51:45.549349+00:00"
+      "size_bytes": 118032,
+      "programmes": 180,
+      "updated_at": "2026-07-17T03:53:19.584076+00:00"
     },
     {
       "site": "programme-tv.net",
@@ -1279,9 +1312,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1916730,
-      "programmes": 5299,
-      "updated_at": "2026-07-16T03:52:30.701308+00:00"
+      "size_bytes": 2255821,
+      "programmes": 6419,
+      "updated_at": "2026-07-17T03:54:02.604016+00:00"
     },
     {
       "site": "programme.tvb.com",
@@ -1292,9 +1325,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 89153,
-      "programmes": 348,
-      "updated_at": "2026-07-16T03:52:41.077352+00:00"
+      "size_bytes": 93474,
+      "programmes": 366,
+      "updated_at": "2026-07-17T03:54:06.315012+00:00"
     },
     {
       "site": "programtv.onet.pl",
@@ -1305,9 +1338,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 10407499,
-      "programmes": 20137,
-      "updated_at": "2026-07-16T04:05:45.112283+00:00"
+      "size_bytes": 10174153,
+      "programmes": 19840,
+      "updated_at": "2026-07-17T04:06:20.617143+00:00"
     },
     {
       "site": "raiplay.it",
@@ -1318,9 +1351,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 480840,
-      "programmes": 638,
-      "updated_at": "2026-07-16T03:52:53.744051+00:00"
+      "size_bytes": 200607,
+      "programmes": 266,
+      "updated_at": "2026-07-17T03:54:16.736030+00:00"
     },
     {
       "site": "rikstv.no",
@@ -1331,9 +1364,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1654032,
-      "programmes": 2556,
-      "updated_at": "2026-07-16T03:53:16.047509+00:00"
+      "size_bytes": 1900930,
+      "programmes": 2933,
+      "updated_at": "2026-07-17T03:54:49.006674+00:00"
     },
     {
       "site": "rotana.net",
@@ -1344,9 +1377,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 181901,
-      "programmes": 260,
-      "updated_at": "2026-07-16T03:53:34.077590+00:00"
+      "size_bytes": 187785,
+      "programmes": 293,
+      "updated_at": "2026-07-17T03:55:06.503416+00:00"
     },
     {
       "site": "roya-tv.com",
@@ -1357,9 +1390,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 213387,
-      "programmes": 379,
-      "updated_at": "2026-07-16T03:53:39.784835+00:00"
+      "size_bytes": 233968,
+      "programmes": 408,
+      "updated_at": "2026-07-17T03:55:06.117420+00:00"
     },
     {
       "site": "rthk.hk",
@@ -1370,9 +1403,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 126916,
-      "programmes": 414,
-      "updated_at": "2026-07-16T03:54:04.226785+00:00"
+      "size_bytes": 118792,
+      "programmes": 396,
+      "updated_at": "2026-07-17T03:55:32.900098+00:00"
     },
     {
       "site": "rtmklik.rtm.gov.my",
@@ -1383,9 +1416,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 54401,
-      "programmes": 189,
-      "updated_at": "2026-07-16T03:53:50.579471+00:00"
+      "size_bytes": 58019,
+      "programmes": 200,
+      "updated_at": "2026-07-17T03:55:17.142291+00:00"
     },
     {
       "site": "rtp.pt",
@@ -1396,9 +1429,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 102373,
-      "programmes": 309,
-      "updated_at": "2026-07-16T03:54:16.609781+00:00"
+      "size_bytes": 83026,
+      "programmes": 248,
+      "updated_at": "2026-07-17T03:55:29.242143+00:00"
     },
     {
       "site": "rts.ch",
@@ -1409,9 +1442,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 20605,
-      "programmes": 38,
-      "updated_at": "2026-07-16T03:54:16.255779+00:00"
+      "size_bytes": 33812,
+      "programmes": 74,
+      "updated_at": "2026-07-17T03:55:42.171736+00:00"
     },
     {
       "site": "s.mxtv.jp",
@@ -1422,9 +1455,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 22522,
-      "programmes": 83,
-      "updated_at": "2026-07-16T03:54:43.241900+00:00"
+      "size_bytes": 22601,
+      "programmes": 86,
+      "updated_at": "2026-07-17T03:56:08.038162+00:00"
     },
     {
       "site": "shahid.mbc.net",
@@ -1435,9 +1468,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 2826714,
-      "programmes": 6501,
-      "updated_at": "2026-07-16T03:55:24.822085+00:00"
+      "size_bytes": 2694324,
+      "programmes": 6285,
+      "updated_at": "2026-07-17T03:56:50.717303+00:00"
     },
     {
       "site": "siba.com.co",
@@ -1448,9 +1481,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 109940,
-      "programmes": 605,
-      "updated_at": "2026-07-16T03:55:54.533110+00:00"
+      "size_bytes": 138519,
+      "programmes": 823,
+      "updated_at": "2026-07-17T03:57:10.655716+00:00"
     },
     {
       "site": "singtel.com",
@@ -1461,9 +1494,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1505249,
-      "programmes": 4070,
-      "updated_at": "2026-07-16T03:56:01.640319+00:00"
+      "size_bytes": 1497622,
+      "programmes": 4054,
+      "updated_at": "2026-07-17T03:57:19.516794+00:00"
     },
     {
       "site": "sjonvarp.is",
@@ -1474,9 +1507,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 11524,
-      "programmes": 25,
-      "updated_at": "2026-07-16T03:56:08.669207+00:00"
+      "size_bytes": 11876,
+      "programmes": 24,
+      "updated_at": "2026-07-17T03:57:25.653075+00:00"
     },
     {
       "site": "sky.co.nz",
@@ -1487,9 +1520,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 734569,
-      "programmes": 2060,
-      "updated_at": "2026-07-16T03:56:21.081452+00:00"
+      "size_bytes": 738434,
+      "programmes": 2050,
+      "updated_at": "2026-07-17T03:57:39.429143+00:00"
     },
     {
       "site": "sky.com",
@@ -1500,9 +1533,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 8297539,
-      "programmes": 14603,
-      "updated_at": "2026-07-16T03:56:52.615633+00:00"
+      "size_bytes": 8235812,
+      "programmes": 14519,
+      "updated_at": "2026-07-17T03:58:07.757181+00:00"
     },
     {
       "site": "skylife.co.kr",
@@ -1513,9 +1546,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1723146,
-      "programmes": 6177,
-      "updated_at": "2026-07-16T03:57:30.817859+00:00"
+      "size_bytes": 1723244,
+      "programmes": 6133,
+      "updated_at": "2026-07-17T03:58:42.799744+00:00"
     },
     {
       "site": "skyperfectv.co.jp",
@@ -1526,9 +1559,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 2710100,
-      "programmes": 8965,
-      "updated_at": "2026-07-16T03:58:06.246045+00:00"
+      "size_bytes": 2851613,
+      "programmes": 9253,
+      "updated_at": "2026-07-17T03:59:16.324719+00:00"
     },
     {
       "site": "snrt.ma",
@@ -1539,9 +1572,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 7899,
+      "size_bytes": 7944,
       "programmes": 39,
-      "updated_at": "2026-07-16T03:58:02.337023+00:00"
+      "updated_at": "2026-07-17T03:59:33.437807+00:00"
     },
     {
       "site": "sporttv.pt",
@@ -1552,9 +1585,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 38695,
-      "programmes": 107,
-      "updated_at": "2026-07-16T03:58:16.001097+00:00"
+      "size_bytes": 45446,
+      "programmes": 125,
+      "updated_at": "2026-07-17T03:59:28.898170+00:00"
     },
     {
       "site": "starhubtvplus.com",
@@ -1565,9 +1598,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 4535431,
-      "programmes": 6558,
-      "updated_at": "2026-07-16T03:58:33.473192+00:00"
+      "size_bytes": 4561618,
+      "programmes": 6628,
+      "updated_at": "2026-07-17T03:59:53.557163+00:00"
     },
     {
       "site": "startimestv.com",
@@ -1578,9 +1611,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 13213,
-      "programmes": 19,
-      "updated_at": "2026-07-16T03:59:50.861593+00:00"
+      "size_bytes": 29241,
+      "programmes": 75,
+      "updated_at": "2026-07-17T04:00:09.031671+00:00"
     },
     {
       "site": "syn.is",
@@ -1591,9 +1624,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 43063,
-      "programmes": 64,
-      "updated_at": "2026-07-16T04:02:52.740297+00:00"
+      "size_bytes": 7661,
+      "programmes": 12,
+      "updated_at": "2026-07-17T04:03:02.010319+00:00"
     },
     {
       "site": "tataplay.com",
@@ -1604,9 +1637,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 136836,
-      "programmes": 42,
-      "updated_at": "2026-07-16T04:04:59.562076+00:00"
+      "size_bytes": 255302,
+      "programmes": 396,
+      "updated_at": "2026-07-17T04:06:16.061810+00:00"
     },
     {
       "site": "telenet.tv",
@@ -1617,9 +1650,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 3442127,
-      "programmes": 4356,
-      "updated_at": "2026-07-16T04:06:30.848680+00:00"
+      "size_bytes": 3569752,
+      "programmes": 4541,
+      "updated_at": "2026-07-17T04:07:55.105842+00:00"
     },
     {
       "site": "teliatv.ee",
@@ -1630,9 +1663,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 2675378,
-      "programmes": 7649,
-      "updated_at": "2026-07-16T04:05:45.899287+00:00"
+      "size_bytes": 2100942,
+      "programmes": 5989,
+      "updated_at": "2026-07-17T04:06:55.112594+00:00"
     },
     {
       "site": "telkussa.fi",
@@ -1643,9 +1676,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 859527,
-      "programmes": 1794,
-      "updated_at": "2026-07-16T04:06:15.206584+00:00"
+      "size_bytes": 35567,
+      "programmes": 89,
+      "updated_at": "2026-07-17T04:06:46.403487+00:00"
     },
     {
       "site": "tivie.id",
@@ -1656,9 +1689,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 12896,
-      "programmes": 32,
-      "updated_at": "2026-07-16T04:06:44.977838+00:00"
+      "size_bytes": 33760,
+      "programmes": 154,
+      "updated_at": "2026-07-17T04:08:02.129803+00:00"
     },
     {
       "site": "tivu.tv",
@@ -1669,9 +1702,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 94777,
-      "programmes": 204,
-      "updated_at": "2026-07-16T04:06:57.441613+00:00"
+      "size_bytes": 47928,
+      "programmes": 85,
+      "updated_at": "2026-07-17T04:07:59.671809+00:00"
     },
     {
       "site": "tv-programme.telecablesat.fr",
@@ -1682,9 +1715,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 930159,
-      "programmes": 1622,
-      "updated_at": "2026-07-16T04:07:31.579768+00:00"
+      "size_bytes": 905077,
+      "programmes": 1614,
+      "updated_at": "2026-07-17T04:08:33.381363+00:00"
     },
     {
       "site": "tv-spored.siol.net",
@@ -1695,9 +1728,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 24775,
-      "programmes": 9,
-      "updated_at": "2026-07-16T04:10:04.290652+00:00"
+      "size_bytes": 31776,
+      "programmes": 39,
+      "updated_at": "2026-07-17T04:09:13.513929+00:00"
     },
     {
       "site": "tv.blue.ch",
@@ -1708,9 +1741,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 5453575,
-      "programmes": 13146,
-      "updated_at": "2026-07-16T04:08:59.310159+00:00"
+      "size_bytes": 4847878,
+      "programmes": 11859,
+      "updated_at": "2026-07-17T04:09:56.475321+00:00"
     },
     {
       "site": "tv.boxbg.net",
@@ -1721,9 +1754,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 329111,
-      "programmes": 1123,
-      "updated_at": "2026-07-16T04:07:51.983861+00:00"
+      "size_bytes": 403263,
+      "programmes": 1434,
+      "updated_at": "2026-07-17T04:08:54.246291+00:00"
     },
     {
       "site": "tv.cctv.com",
@@ -1734,9 +1767,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 340755,
-      "programmes": 2132,
-      "updated_at": "2026-07-16T04:08:04.223917+00:00"
+      "size_bytes": 366465,
+      "programmes": 2328,
+      "updated_at": "2026-07-17T04:09:06.018830+00:00"
     },
     {
       "site": "tv.dir.bg",
@@ -1747,9 +1780,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 215250,
-      "programmes": 1085,
-      "updated_at": "2026-07-16T04:09:13.571223+00:00"
+      "size_bytes": 297869,
+      "programmes": 1502,
+      "updated_at": "2026-07-17T04:10:17.944052+00:00"
     },
     {
       "site": "tv.lv",
@@ -1760,9 +1793,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 46714,
+      "size_bytes": 47275,
       "programmes": 105,
-      "updated_at": "2026-07-16T04:09:00.639165+00:00"
+      "updated_at": "2026-07-17T04:09:26.480694+00:00"
     },
     {
       "site": "tv.movistar.co",
@@ -1773,9 +1806,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 405677,
-      "programmes": 931,
-      "updated_at": "2026-07-16T04:09:57.880082+00:00"
+      "size_bytes": 905855,
+      "programmes": 1999,
+      "updated_at": "2026-07-17T04:10:26.245807+00:00"
     },
     {
       "site": "tv.movistar.com.pe",
@@ -1786,22 +1819,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 582938,
-      "programmes": 1429,
-      "updated_at": "2026-07-16T04:10:13.426420+00:00"
-    },
-    {
-      "site": "tv.nu",
-      "path": "tv.nu/tv.nu.xml",
-      "full_path": "/home/runner/work/EPG/EPG/sites/tv.nu/tv.nu.xml",
-      "url": [
-        "/tv.nu/tv.nu.xml"
-      ],
-      "split": false,
-      "parts": 1,
-      "size_bytes": 53182,
-      "programmes": 50,
-      "updated_at": "2026-07-16T04:10:10.501467+00:00"
+      "size_bytes": 1017507,
+      "programmes": 2500,
+      "updated_at": "2026-07-17T04:10:46.323696+00:00"
     },
     {
       "site": "tv.post.lu",
@@ -1812,9 +1832,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 4034803,
-      "programmes": 6524,
-      "updated_at": "2026-07-16T04:10:32.672573+00:00"
+      "size_bytes": 3895520,
+      "programmes": 6366,
+      "updated_at": "2026-07-17T04:11:16.488318+00:00"
     },
     {
       "site": "tv.sfr.fr",
@@ -1825,9 +1845,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 8711352,
-      "programmes": 12672,
-      "updated_at": "2026-07-16T04:12:14.740033+00:00"
+      "size_bytes": 7788743,
+      "programmes": 11474,
+      "updated_at": "2026-07-17T04:12:30.177396+00:00"
     },
     {
       "site": "tv.trueid.net",
@@ -1838,9 +1858,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 466670,
-      "programmes": 1593,
-      "updated_at": "2026-07-16T04:10:39.131611+00:00"
+      "size_bytes": 434953,
+      "programmes": 1550,
+      "updated_at": "2026-07-17T04:11:36.947062+00:00"
     },
     {
       "site": "tv24.co.uk",
@@ -1851,9 +1871,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 4460762,
-      "programmes": 14147,
-      "updated_at": "2026-07-16T04:11:44.805616+00:00"
+      "size_bytes": 4701700,
+      "programmes": 14845,
+      "updated_at": "2026-07-17T04:12:34.764688+00:00"
     },
     {
       "site": "tv24.se",
@@ -1864,9 +1884,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 2272656,
-      "programmes": 3672,
-      "updated_at": "2026-07-16T04:21:27.203417+00:00"
+      "size_bytes": 1541397,
+      "programmes": 2489,
+      "updated_at": "2026-07-17T04:18:44.621727+00:00"
     },
     {
       "site": "tv2go.t-2.net",
@@ -1877,9 +1897,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 2061200,
-      "programmes": 6377,
-      "updated_at": "2026-07-16T04:11:19.976790+00:00"
+      "size_bytes": 2004387,
+      "programmes": 6198,
+      "updated_at": "2026-07-17T04:12:26.331770+00:00"
     },
     {
       "site": "tvarenasport.hr",
@@ -1890,9 +1910,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 16952,
-      "programmes": 69,
-      "updated_at": "2026-07-16T04:11:59.416440+00:00"
+      "size_bytes": 18544,
+      "programmes": 76,
+      "updated_at": "2026-07-17T04:12:41.117260+00:00"
     },
     {
       "site": "tvcesoir.fr",
@@ -1903,9 +1923,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 836543,
-      "programmes": 3526,
-      "updated_at": "2026-07-16T04:12:19.349053+00:00"
+      "size_bytes": 651329,
+      "programmes": 2725,
+      "updated_at": "2026-07-17T04:12:53.515105+00:00"
     },
     {
       "site": "tvgids.nl",
@@ -1916,9 +1936,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 796719,
-      "programmes": 2386,
-      "updated_at": "2026-07-16T04:12:38.250345+00:00"
+      "size_bytes": 411255,
+      "programmes": 1215,
+      "updated_at": "2026-07-17T04:13:15.958733+00:00"
     },
     {
       "site": "tvguide.com",
@@ -1929,9 +1949,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 2181925,
-      "programmes": 4356,
-      "updated_at": "2026-07-16T04:18:44.118634+00:00"
+      "size_bytes": 2161865,
+      "programmes": 4299,
+      "updated_at": "2026-07-17T04:19:16.771326+00:00"
     },
     {
       "site": "tvguide.myjcom.jp",
@@ -1942,9 +1962,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1963516,
-      "programmes": 4461,
-      "updated_at": "2026-07-16T04:12:53.093302+00:00"
+      "size_bytes": 1935565,
+      "programmes": 4382,
+      "updated_at": "2026-07-17T04:13:47.546431+00:00"
     },
     {
       "site": "tvhebdo.com",
@@ -1955,9 +1975,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1316249,
-      "programmes": 8478,
-      "updated_at": "2026-07-16T04:13:18.529421+00:00"
+      "size_bytes": 1285732,
+      "programmes": 8264,
+      "updated_at": "2026-07-17T04:13:59.619831+00:00"
     },
     {
       "site": "tvheute.at",
@@ -1968,9 +1988,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 75884,
-      "programmes": 46,
-      "updated_at": "2026-07-16T04:13:26.898471+00:00"
+      "size_bytes": 913399,
+      "programmes": 1704,
+      "updated_at": "2026-07-17T04:14:18.596707+00:00"
     },
     {
       "site": "tvi.iol.pt",
@@ -1981,9 +2001,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 29396,
-      "programmes": 114,
-      "updated_at": "2026-07-16T04:13:29.190590+00:00"
+      "size_bytes": 30940,
+      "programmes": 118,
+      "updated_at": "2026-07-17T04:14:09.270915+00:00"
     },
     {
       "site": "tvinsider.com",
@@ -1994,9 +2014,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 3025451,
-      "programmes": 7504,
-      "updated_at": "2026-07-16T04:14:08.599571+00:00"
+      "size_bytes": 3084256,
+      "programmes": 7649,
+      "updated_at": "2026-07-17T04:14:56.794566+00:00"
     },
     {
       "site": "tvireland.ie",
@@ -2007,9 +2027,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1840756,
-      "programmes": 7469,
-      "updated_at": "2026-07-16T04:14:33.883914+00:00"
+      "size_bytes": 1788553,
+      "programmes": 7286,
+      "updated_at": "2026-07-17T04:15:30.741036+00:00"
     },
     {
       "site": "tvkaista.org",
@@ -2020,9 +2040,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 95565,
+      "size_bytes": 96385,
       "programmes": 213,
-      "updated_at": "2026-07-16T04:14:37.203936+00:00"
+      "updated_at": "2026-07-17T04:15:23.978230+00:00"
     },
     {
       "site": "tvmusor.hu",
@@ -2033,9 +2053,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 603449,
-      "programmes": 1441,
-      "updated_at": "2026-07-16T04:14:47.244850+00:00"
+      "size_bytes": 606803,
+      "programmes": 1437,
+      "updated_at": "2026-07-17T04:15:41.667765+00:00"
     },
     {
       "site": "tvmustra.hu",
@@ -2046,9 +2066,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 169896,
-      "programmes": 1066,
-      "updated_at": "2026-07-16T04:15:07.353125+00:00"
+      "size_bytes": 333804,
+      "programmes": 2186,
+      "updated_at": "2026-07-17T04:16:05.012718+00:00"
     },
     {
       "site": "tvplus.com.tr",
@@ -2059,9 +2079,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 106755,
-      "programmes": 94,
-      "updated_at": "2026-07-16T04:15:41.297142+00:00"
+      "size_bytes": 192217,
+      "programmes": 221,
+      "updated_at": "2026-07-17T04:16:37.864824+00:00"
     },
     {
       "site": "vidio.com",
@@ -2072,9 +2092,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 834084,
-      "programmes": 1739,
-      "updated_at": "2026-07-16T04:20:25.651021+00:00"
+      "size_bytes": 749339,
+      "programmes": 1556,
+      "updated_at": "2026-07-17T04:19:33.731737+00:00"
     },
     {
       "site": "virginmediatelevision.ie",
@@ -2085,9 +2105,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 28670,
-      "programmes": 69,
-      "updated_at": "2026-07-16T04:21:02.469635+00:00"
+      "size_bytes": 9128,
+      "programmes": 20,
+      "updated_at": "2026-07-17T04:20:05.200720+00:00"
     },
     {
       "site": "virgintvgo.virginmedia.com",
@@ -2098,9 +2118,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 4424899,
-      "programmes": 6089,
-      "updated_at": "2026-07-16T04:22:57.531530+00:00"
+      "size_bytes": 4540652,
+      "programmes": 6216,
+      "updated_at": "2026-07-17T04:21:17.642851+00:00"
     },
     {
       "site": "visionplus.id",
@@ -2111,9 +2131,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 2922375,
-      "programmes": 7246,
-      "updated_at": "2026-07-16T04:21:47.108261+00:00"
+      "size_bytes": 2859287,
+      "programmes": 7096,
+      "updated_at": "2026-07-17T04:20:28.578799+00:00"
     },
     {
       "site": "vivoplay.com.br",
@@ -2124,9 +2144,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 255805,
-      "programmes": 479,
-      "updated_at": "2026-07-16T04:22:26.911387+00:00"
+      "size_bytes": 401908,
+      "programmes": 843,
+      "updated_at": "2026-07-17T04:21:05.131297+00:00"
     },
     {
       "site": "vodafone.pt",
@@ -2137,9 +2157,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 2294024,
-      "programmes": 5029,
-      "updated_at": "2026-07-16T04:22:40.262062+00:00"
+      "size_bytes": 2236406,
+      "programmes": 4878,
+      "updated_at": "2026-07-17T04:21:21.481282+00:00"
     },
     {
       "site": "vtm.be",
@@ -2150,9 +2170,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 15038,
-      "programmes": 29,
-      "updated_at": "2026-07-16T04:22:51.436501+00:00"
+      "size_bytes": 49962,
+      "programmes": 110,
+      "updated_at": "2026-07-17T04:21:42.299032+00:00"
     },
     {
       "site": "watch.whaletvplus.com",
@@ -2163,9 +2183,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 423125,
-      "programmes": 1149,
-      "updated_at": "2026-07-16T04:23:52.399760+00:00"
+      "size_bytes": 413139,
+      "programmes": 955,
+      "updated_at": "2026-07-17T04:23:09.725528+00:00"
     },
     {
       "site": "watchyour.tv",
@@ -2176,9 +2196,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 146016,
-      "programmes": 684,
-      "updated_at": "2026-07-16T04:23:39.009076+00:00"
+      "size_bytes": 259035,
+      "programmes": 1259,
+      "updated_at": "2026-07-17T04:22:59.060595+00:00"
     },
     {
       "site": "webtv.delta.nl",
@@ -2189,9 +2209,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 2699300,
-      "programmes": 5315,
-      "updated_at": "2026-07-16T04:30:53.209846+00:00"
+      "size_bytes": 2877379,
+      "programmes": 5674,
+      "updated_at": "2026-07-17T04:28:22.067556+00:00"
     },
     {
       "site": "webtv.sk",
@@ -2202,9 +2222,22 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1876592,
-      "programmes": 5194,
-      "updated_at": "2026-07-16T04:24:15.078882+00:00"
+      "size_bytes": 2285763,
+      "programmes": 6140,
+      "updated_at": "2026-07-17T04:24:05.062268+00:00"
+    },
+    {
+      "site": "winplay.co",
+      "path": "winplay.co/winplay.co.xml",
+      "full_path": "/home/runner/work/EPG/EPG/sites/winplay.co/winplay.co.xml",
+      "url": [
+        "/winplay.co/winplay.co.xml"
+      ],
+      "split": false,
+      "parts": 1,
+      "size_bytes": 1418,
+      "programmes": 5,
+      "updated_at": "2026-07-17T04:24:12.267673+00:00"
     },
     {
       "site": "worldfishingnetwork.com",
@@ -2215,9 +2248,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 21101,
+      "size_bytes": 22579,
       "programmes": 48,
-      "updated_at": "2026-07-16T04:24:56.221509+00:00"
+      "updated_at": "2026-07-17T04:24:19.510583+00:00"
     },
     {
       "site": "www.magenta.tv",
@@ -2228,9 +2261,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 6739497,
-      "programmes": 11218,
-      "updated_at": "2026-07-16T04:25:24.880201+00:00"
+      "size_bytes": 7759450,
+      "programmes": 12931,
+      "updated_at": "2026-07-17T04:24:44.247275+00:00"
     },
     {
       "site": "www.tv-tokyo.co.jp",
@@ -2241,9 +2274,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 27825,
-      "programmes": 64,
-      "updated_at": "2026-07-16T04:25:13.687499+00:00"
+      "size_bytes": 28453,
+      "programmes": 66,
+      "updated_at": "2026-07-17T04:24:35.060164+00:00"
     },
     {
       "site": "www3.nhk.or.jp",
@@ -2254,9 +2287,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 37583,
+      "size_bytes": 37136,
       "programmes": 103,
-      "updated_at": "2026-07-16T04:25:19.742472+00:00"
+      "updated_at": "2026-07-17T04:24:41.776172+00:00"
     },
     {
       "site": "xumo.tv",
@@ -2267,9 +2300,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 3389608,
-      "programmes": 10124,
-      "updated_at": "2026-07-16T04:26:36.404412+00:00"
+      "size_bytes": 3630570,
+      "programmes": 10763,
+      "updated_at": "2026-07-17T04:25:58.219352+00:00"
     },
     {
       "site": "zap2it.com",
@@ -2280,9 +2313,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 5182929,
-      "programmes": 10568,
-      "updated_at": "2026-07-16T04:28:40.001074+00:00"
+      "size_bytes": 6024848,
+      "programmes": 12319,
+      "updated_at": "2026-07-17T04:27:34.334473+00:00"
     },
     {
       "site": "zee5.com",
@@ -2293,9 +2326,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 1589934,
-      "programmes": 3015,
-      "updated_at": "2026-07-16T04:28:55.782147+00:00"
+      "size_bytes": 1557621,
+      "programmes": 2937,
+      "updated_at": "2026-07-17T04:27:38.488100+00:00"
     },
     {
       "site": "zuragt.mn",
@@ -2306,9 +2339,9 @@
       ],
       "split": false,
       "parts": 1,
-      "size_bytes": 10898,
-      "programmes": 38,
-      "updated_at": "2026-07-16T04:29:06.991198+00:00"
+      "size_bytes": 42565,
+      "programmes": 205,
+      "updated_at": "2026-07-17T04:27:46.653998+00:00"
     }
   ]
 }
