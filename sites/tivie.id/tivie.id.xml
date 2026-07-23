@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260722">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260723">
 <channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png"/></channel>
 <channel id="AXNAsia.sg@Indonesia"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original"/></channel>
 <channel id="beINSports1.qa@Indonesia"><display-name>beIN Sports 1</display-name><icon src="https://i.imgur.com/Vtk2cGI.png"/></channel>
@@ -54,33 +54,51 @@
 <channel id="VTV.id@SD"><display-name>VTV</display-name><icon src="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png"/></channel>
 <channel id="WarnerTVAsia.us@SD"><display-name>Warner TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png"/></channel>
 <channel id="ZeeBioskop.id@SD"><display-name>Zee Bioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/></channel>
-<programme start="20260721170000 +0000" stop="20260721183000 +0000" channel="GTV.id@SD"><title lang="id">1001 Kisah</title></programme>
-<programme start="20260721183000 +0000" stop="20260721210000 +0000" channel="GTV.id@SD"><title lang="id">Ragam Cerita</title></programme>
-<programme start="20260721210000 +0000" stop="20260721230000 +0000" channel="GTV.id@SD"><title lang="id">Petualangan Fantasi</title></programme>
-<programme start="20260721230000 +0000" stop="20260721233000 +0000" channel="GTV.id@SD"><title lang="id">Cocomelon dan Sahabat</title></programme>
-<programme start="20260721233000 +0000" stop="20260722023000 +0000" channel="GTV.id@SD"><title lang="id">SpongeBob SquarePants</title></programme>
-<programme start="20260722023000 +0000" stop="20260722030000 +0000" channel="GTV.id@SD"><title lang="id">Buletin iNews Pagi</title></programme>
-<programme start="20260722030000 +0000" stop="20260722090000 +0000" channel="GTV.id@SD"><title lang="id">SpongeBob SquarePants</title></programme>
-<programme start="20260722090000 +0000" stop="20260722110000 +0000" channel="GTV.id@SD"><title lang="id">Pada Zaman Dahulu</title></programme>
-<programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="GTV.id@SD"><title lang="id">Dongeng Penguasa Hutan</title></programme>
-<programme start="20260722120000 +0000" stop="20260722134500 +0000" channel="GTV.id@SD"><title lang="id">Take Me Out Indonesia</title></programme>
-<programme start="20260722134500 +0000" stop="20260722154500 +0000" channel="GTV.id@SD"><title lang="id">Big Movies</title></programme>
-<programme start="20260722154500 +0000" stop="20260722161500 +0000" channel="GTV.id@SD"><title lang="id">Untold Story: Experiment</title></programme>
-<programme start="20260722161500 +0000" stop="20260722170000 +0000" channel="GTV.id@SD"><title lang="id">Twisted 3: The Sinners</title></programme>
-<programme start="20260721170000 +0000" stop="20260721172500 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">In the Heights</title></programme>
-<programme start="20260721172500 +0000" stop="20260721190000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">The Fallout</title></programme>
-<programme start="20260721190000 +0000" stop="20260721194500 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">A Knight of the Seven Kingdoms</title></programme>
-<programme start="20260721194500 +0000" stop="20260721213500 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">Juror #2</title></programme>
-<programme start="20260721213500 +0000" stop="20260721220000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">Hollywood on Set, Ep. 1176</title><episode-num system="xmltv_ns">0.1175.0/1</episode-num><episode-num system="onscreen">S01E1176</episode-num></programme>
-<programme start="20260721220000 +0000" stop="20260721235000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">Deadwood: The Movie</title></programme>
-<programme start="20260721235000 +0000" stop="20260722012000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">Everyday People</title></programme>
-<programme start="20260722012000 +0000" stop="20260722030000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">Friendship</title></programme>
-<programme start="20260722030000 +0000" stop="20260722050000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">Game Change</title></programme>
-<programme start="20260722050000 +0000" stop="20260722065000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">O.G.</title></programme>
-<programme start="20260722065000 +0000" stop="20260722091000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">In the Heights</title></programme>
-<programme start="20260722091000 +0000" stop="20260722110000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">Save the Last Dance</title></programme>
-<programme start="20260722110000 +0000" stop="20260722125000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">The Huntsman: Winter&apos;s War</title></programme>
-<programme start="20260722125000 +0000" stop="20260722140000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">War Dog: A Soldier&apos;s Best Friend</title></programme>
-<programme start="20260722140000 +0000" stop="20260722155000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">Juror #2</title></programme>
-<programme start="20260722155000 +0000" stop="20260722170000 +0000" channel="HBOSignatureAsia.sg@SD"><title lang="id">Rocketman</title></programme>
+<programme start="20260722170000 +0000" stop="20260722183000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">AFCON U17 Ivory Coast vs Cameroon</title></programme>
+<programme start="20260722183000 +0000" stop="20260722203000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">CAF CL Pyramids FC vs Power Dynamos</title></programme>
+<programme start="20260722203000 +0000" stop="20260722210000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">AFCON Mini - Mini Match Benin vs Botswana</title></programme>
+<programme start="20260722210000 +0000" stop="20260722230000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCI World Tour Tour Auvergne-Rhone-Alpes Stage 6</title></programme>
+<programme start="20260722230000 +0000" stop="20260722233000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UEFA Champions League Mini - Mini Match Benfica vs Napoli</title></programme>
+<programme start="20260722233000 +0000" stop="20260723000000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UEFA Champions League Mini - Mini Match Inter vs Arsenal</title></programme>
+<programme start="20260723000000 +0000" stop="20260723003000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Tour de France Highlights Stage 17 - Chambery - Voiron</title></programme>
+<programme start="20260723003000 +0000" stop="20260723023500 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">AFCON U17 Tanzania vs Algeria - QF 1</title></programme>
+<programme start="20260723023500 +0000" stop="20260723033000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCI World Tour Highlights Tour Auvergne-Rhone-Alpes</title></programme>
+<programme start="20260723033000 +0000" stop="20260723040000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Tour de France Highlights Stage 17 - Chambery - Voiron</title></programme>
+<programme start="20260723040000 +0000" stop="20260723050000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">MUTV Cantona: Reflections Of An Artist</title></programme>
+<programme start="20260723050000 +0000" stop="20260723073000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">MUTV Man United vs Wrexham - Friendly</title></programme>
+<programme start="20260723073000 +0000" stop="20260723080000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">SFT Surf Foil World Tour GKA Magazine 2: SFT E-Foil World Cup Shenzhen</title></programme>
+<programme start="20260723080000 +0000" stop="20260723095500 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCI Women&apos;s World Tour La Vuelta Femenina - Stage 6</title></programme>
+<programme start="20260723095500 +0000" stop="20260723102500 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Tour de France Highlights Stage 17 - Chambery - Voiron</title></programme>
+<programme start="20260723102500 +0000" stop="20260723160000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Tour de France Stage 18 - Voiron - Orcieres-Merlette</title></programme>
+<programme start="20260723160000 +0000" stop="20260723163000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">MUTV Treble Twenty: Leicester vs Man Utd</title></programme>
+<programme start="20260723163000 +0000" stop="20260723170000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">AFCON U17 Egypt vs Ethiopia</title></programme>
+<programme start="20260722170000 +0000" stop="20260722184000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">Vengeance of a Snow Girl</title></programme>
+<programme start="20260722184000 +0000" stop="20260722201000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">The Shadow Whip</title></programme>
+<programme start="20260722201000 +0000" stop="20260722214500 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">Brothers from the Walled City</title></programme>
+<programme start="20260722214500 +0000" stop="20260722231000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">The Swordmates</title></programme>
+<programme start="20260722231000 +0000" stop="20260723004500 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">The Chinese Boxer</title></programme>
+<programme start="20260723004500 +0000" stop="20260723023000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">Madam White Snake</title></programme>
+<programme start="20260723023000 +0000" stop="20260723043500 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">The 14 Amazons</title></programme>
+<programme start="20260723043500 +0000" stop="20260723061000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">The Big Sting</title></programme>
+<programme start="20260723061000 +0000" stop="20260723075500 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">One Way Only</title></programme>
+<programme start="20260723075500 +0000" stop="20260723093500 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">Fast Fingers</title></programme>
+<programme start="20260723093500 +0000" stop="20260723112000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">Man of Iron</title></programme>
+<programme start="20260723112000 +0000" stop="20260723130000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">Human Lanterns</title></programme>
+<programme start="20260723130000 +0000" stop="20260723144500 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">Kid From Kwangtung</title></programme>
+<programme start="20260723144500 +0000" stop="20260723162000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">The Melody of Love</title></programme>
+<programme start="20260723162000 +0000" stop="20260723170000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">The Supreme Swordsman</title></programme>
+<programme start="20260722170000 +0000" stop="20260722171000 +0000" channel="GalaxyPremium.id@SD"><title lang="id">The Taking of Pelham 1 2 3</title></programme>
+<programme start="20260722171000 +0000" stop="20260722185500 +0000" channel="GalaxyPremium.id@SD"><title lang="id">Blumhouse&apos;s Fantasy Island</title></programme>
+<programme start="20260722185500 +0000" stop="20260722203500 +0000" channel="GalaxyPremium.id@SD"><title lang="id">Venom</title></programme>
+<programme start="20260722203500 +0000" stop="20260722220000 +0000" channel="GalaxyPremium.id@SD"><title lang="id">Proud Mary</title></programme>
+<programme start="20260722220000 +0000" stop="20260722235500 +0000" channel="GalaxyPremium.id@SD"><title lang="id">S.W.A.T.</title></programme>
+<programme start="20260722235500 +0000" stop="20260723014500 +0000" channel="GalaxyPremium.id@SD"><title lang="id">You Don&apos;t Mess with the Zohan</title></programme>
+<programme start="20260723014500 +0000" stop="20260723031500 +0000" channel="GalaxyPremium.id@SD"><title lang="id">I Spy</title></programme>
+<programme start="20260723031500 +0000" stop="20260723054500 +0000" channel="GalaxyPremium.id@SD"><title lang="id">2012</title></programme>
+<programme start="20260723054500 +0000" stop="20260723080000 +0000" channel="GalaxyPremium.id@SD"><title lang="id">The Good Shepherd</title></programme>
+<programme start="20260723080000 +0000" stop="20260723101500 +0000" channel="GalaxyPremium.id@SD"><title lang="id">Minority Report</title></programme>
+<programme start="20260723101500 +0000" stop="20260723120000 +0000" channel="GalaxyPremium.id@SD"><title lang="id">Life</title></programme>
+<programme start="20260723120000 +0000" stop="20260723140000 +0000" channel="GalaxyPremium.id@SD"><title lang="id">Ghost Rider</title></programme>
+<programme start="20260723140000 +0000" stop="20260723152500 +0000" channel="GalaxyPremium.id@SD"><title lang="id">Sausage Party</title></programme>
+<programme start="20260723152500 +0000" stop="20260723170000 +0000" channel="GalaxyPremium.id@SD"><title lang="id">The Legend of Zorro</title></programme>
 </tv>
