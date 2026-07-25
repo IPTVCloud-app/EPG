@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260724">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260725">
 <channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png"/></channel>
 <channel id="AXNAsia.sg@Indonesia"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original"/></channel>
 <channel id="beINSports1.qa@Indonesia"><display-name>beIN Sports 1</display-name><icon src="https://i.imgur.com/Vtk2cGI.png"/></channel>
@@ -54,19 +54,50 @@
 <channel id="VTV.id@SD"><display-name>VTV</display-name><icon src="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png"/></channel>
 <channel id="WarnerTVAsia.us@SD"><display-name>Warner TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png"/></channel>
 <channel id="ZeeBioskop.id@SD"><display-name>Zee Bioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/></channel>
-<programme start="20260723170000 +0000" stop="20260723180000 +0000" channel="CinemaWorld.my@SD"><title lang="id">A Dose of Happiness</title></programme>
-<programme start="20260723180000 +0000" stop="20260723195000 +0000" channel="CinemaWorld.my@SD"><title lang="id">Life Feels Good</title></programme>
-<programme start="20260723195000 +0000" stop="20260723220000 +0000" channel="CinemaWorld.my@SD"><title lang="id">A Far Shore</title></programme>
-<programme start="20260723220000 +0000" stop="20260723234000 +0000" channel="CinemaWorld.my@SD"><title lang="id">The Breach</title></programme>
-<programme start="20260723234000 +0000" stop="20260724013000 +0000" channel="CinemaWorld.my@SD"><title lang="id">Forever-Forever</title></programme>
-<programme start="20260724013000 +0000" stop="20260724030000 +0000" channel="CinemaWorld.my@SD"><title lang="id">Black as the Snow 2: Dead at the Summit</title></programme>
-<programme start="20260724030000 +0000" stop="20260724043000 +0000" channel="CinemaWorld.my@SD"><title lang="id">Room 514</title></programme>
-<programme start="20260724043000 +0000" stop="20260724061000 +0000" channel="CinemaWorld.my@SD"><title lang="id">Secret Delivery</title></programme>
-<programme start="20260724061000 +0000" stop="20260724072500 +0000" channel="CinemaWorld.my@SD"><title lang="id">Europa</title></programme>
-<programme start="20260724072500 +0000" stop="20260724090000 +0000" channel="CinemaWorld.my@SD"><title lang="id">The Traveller: At the End of the Night</title></programme>
-<programme start="20260724090000 +0000" stop="20260724105000 +0000" channel="CinemaWorld.my@SD"><title lang="id">Celeste</title></programme>
-<programme start="20260724105000 +0000" stop="20260724123500 +0000" channel="CinemaWorld.my@SD"><title lang="id">A Dose of Happiness</title></programme>
-<programme start="20260724123500 +0000" stop="20260724140000 +0000" channel="CinemaWorld.my@SD"><title lang="id">Ainu Mosir</title></programme>
-<programme start="20260724140000 +0000" stop="20260724153500 +0000" channel="CinemaWorld.my@SD"><title lang="id">The Daval Mystery</title></programme>
-<programme start="20260724153500 +0000" stop="20260724170000 +0000" channel="CinemaWorld.my@SD"><title lang="id">Paralympian</title></programme>
+<programme start="20260724170000 +0000" stop="20260724171500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Porsche Mobil 1 Supercup Practice Budapest, Hungary</title></programme>
+<programme start="20260724171500 +0000" stop="20260724173000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Chasing the Dream Spa-Francochamps, Belgium</title></programme>
+<programme start="20260724173000 +0000" stop="20260724183000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">European Le Mans Series Imola</title></programme>
+<programme start="20260724183000 +0000" stop="20260724192500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">GT World Challenge Asia Highlights Fuji International Speedway, Japan</title></programme>
+<programme start="20260724192500 +0000" stop="20260724210000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">DTM Esports Championship Norisring</title></programme>
+<programme start="20260724210000 +0000" stop="20260724223000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">DTM Esports Championship Oschersleben</title></programme>
+<programme start="20260724223000 +0000" stop="20260724224500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Chasing the Dream Spa-Francochamps, Belgium</title></programme>
+<programme start="20260724224500 +0000" stop="20260724231500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Porsche Mobil 1 Supercup Highlights Spa-Francorchamps, Belgium</title></programme>
+<programme start="20260724231500 +0000" stop="20260724234500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Fastzone, Ep. 15</title><episode-num system="xmltv_ns">0.14.0/1</episode-num><episode-num system="onscreen">S01E15</episode-num></programme>
+<programme start="20260724234500 +0000" stop="20260725004500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">GT World Challenge Europe Highlights MIsano, Italy</title></programme>
+<programme start="20260725004500 +0000" stop="20260725014500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">WRC Highlights Rally Estonia</title></programme>
+<programme start="20260725014500 +0000" stop="20260725024500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">The F1 Show HUNGARIAN GRAND PRIX 2026</title></programme>
+<programme start="20260725024500 +0000" stop="20260725033000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 3 Championship Practice Budapest, Hungary</title></programme>
+<programme start="20260725033000 +0000" stop="20260725041500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 2 Championship Practice Budapest, Hungary</title></programme>
+<programme start="20260725041500 +0000" stop="20260725050000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Porsche Mobil 1 Supercup Practice Budapest, Hungary</title></programme>
+<programme start="20260725050000 +0000" stop="20260725053000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 3 Championship Qualifying Budapest, Hungary</title></programme>
+<programme start="20260725053000 +0000" stop="20260725060000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 2 Championship Qualifying Budapest, Hungary</title></programme>
+<programme start="20260725060000 +0000" stop="20260725070000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Practice HUNGARIAN GRAND PRIX 2026 Practice 1</title></programme>
+<programme start="20260725070000 +0000" stop="20260725080000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Practice HUNGARIAN GRAND PRIX 2026 Practice 2</title></programme>
+<programme start="20260725080000 +0000" stop="20260725085000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 3 Championship Sprint Budapest, Hungary</title></programme>
+<programme start="20260725085000 +0000" stop="20260725091800 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Porsche Mobil 1 Supercup Highlights Spa-Francorchamps, Belgium</title></programme>
+<programme start="20260725091800 +0000" stop="20260725095000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Porsche Mobil 1 Supercup Qualifying Budapest, Hungary</title></programme>
+<programme start="20260725095000 +0000" stop="20260725102500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Fastzone, Ep. 15</title><episode-num system="xmltv_ns">0.14.0/1</episode-num><episode-num system="onscreen">S01E15</episode-num></programme>
+<programme start="20260725102500 +0000" stop="20260725113000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Practice HUNGARIAN GRAND PRIX 2026 Practice 3</title></programme>
+<programme start="20260725113000 +0000" stop="20260725114000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LaLiga Classic Barcelona vs Real Madrid - 2018/19</title></programme>
+<programme start="20260725114000 +0000" stop="20260725121000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">WRC Magazine Show Rally Finland</title></programme>
+<programme start="20260725121000 +0000" stop="20260725130000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 2 Championship Sprint Budapest, Hungary</title></programme>
+<programme start="20260725130000 +0000" stop="20260725131500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Chasing the Dream Spa-Francochamps, Belgium</title></programme>
+<programme start="20260725131500 +0000" stop="20260725135500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Qualifying Pre Show HUNGARIAN GRAND PRIX 2026</title></programme>
+<programme start="20260725135500 +0000" stop="20260725150000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Qualifying HUNGARIAN GRAND PRIX 2026</title></programme>
+<programme start="20260725150000 +0000" stop="20260725160000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Qualifying Post Show HUNGARIAN GRAND PRIX 2026</title></programme>
+<programme start="20260725160000 +0000" stop="20260725163000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Ted&apos;s Qualifying Notebook HUNGARIAN GRAND PRIX 2026</title></programme>
+<programme start="20260725163000 +0000" stop="20260725164500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Chasing the Dream Spa-Francochamps, Belgium</title></programme>
+<programme start="20260725164500 +0000" stop="20260725170000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Fastzone, Ep. 15</title><episode-num system="xmltv_ns">0.14.0/1</episode-num><episode-num system="onscreen">S01E15</episode-num></programme>
+<programme start="20260724170000 +0000" stop="20260724183000 +0000" channel="GTV.id@SD"><title lang="id">1001 Kisah</title></programme>
+<programme start="20260724183000 +0000" stop="20260724210000 +0000" channel="GTV.id@SD"><title lang="id">Ragam Cerita</title></programme>
+<programme start="20260724210000 +0000" stop="20260724230000 +0000" channel="GTV.id@SD"><title lang="id">Petualangan Fantasi</title></programme>
+<programme start="20260724230000 +0000" stop="20260724233000 +0000" channel="GTV.id@SD"><title lang="id">Bima S</title></programme>
+<programme start="20260724233000 +0000" stop="20260725000000 +0000" channel="GTV.id@SD"><title lang="id">Bernard Bear</title></programme>
+<programme start="20260725000000 +0000" stop="20260725010000 +0000" channel="GTV.id@SD"><title lang="id">Zak Storm</title></programme>
+<programme start="20260725010000 +0000" stop="20260725090000 +0000" channel="GTV.id@SD"><title lang="id">SpongeBob SquarePants</title></programme>
+<programme start="20260725090000 +0000" stop="20260725110000 +0000" channel="GTV.id@SD"><title lang="id">Pada Zaman Dahulu</title></programme>
+<programme start="20260725110000 +0000" stop="20260725123000 +0000" channel="GTV.id@SD"><title lang="id">SpongeBob SquarePants</title></programme>
+<programme start="20260725123000 +0000" stop="20260725150000 +0000" channel="GTV.id@SD"><title lang="id">ASEAN Championship 2026</title></programme>
+<programme start="20260725150000 +0000" stop="20260725153000 +0000" channel="GTV.id@SD"><title lang="id">Untold Story: Experiment</title></programme>
+<programme start="20260725153000 +0000" stop="20260725170000 +0000" channel="GTV.id@SD"><title lang="id">Indonesia International Open 2026</title></programme>
 </tv>
