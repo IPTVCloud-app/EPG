@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260725">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260726">
 <channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png"/></channel>
 <channel id="AXNAsia.sg@Indonesia"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original"/></channel>
 <channel id="beINSports1.qa@Indonesia"><display-name>beIN Sports 1</display-name><icon src="https://i.imgur.com/Vtk2cGI.png"/></channel>
@@ -54,50 +54,66 @@
 <channel id="VTV.id@SD"><display-name>VTV</display-name><icon src="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png"/></channel>
 <channel id="WarnerTVAsia.us@SD"><display-name>Warner TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png"/></channel>
 <channel id="ZeeBioskop.id@SD"><display-name>Zee Bioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/></channel>
-<programme start="20260724170000 +0000" stop="20260724171500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Porsche Mobil 1 Supercup Practice Budapest, Hungary</title></programme>
-<programme start="20260724171500 +0000" stop="20260724173000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Chasing the Dream Spa-Francochamps, Belgium</title></programme>
-<programme start="20260724173000 +0000" stop="20260724183000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">European Le Mans Series Imola</title></programme>
-<programme start="20260724183000 +0000" stop="20260724192500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">GT World Challenge Asia Highlights Fuji International Speedway, Japan</title></programme>
-<programme start="20260724192500 +0000" stop="20260724210000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">DTM Esports Championship Norisring</title></programme>
-<programme start="20260724210000 +0000" stop="20260724223000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">DTM Esports Championship Oschersleben</title></programme>
-<programme start="20260724223000 +0000" stop="20260724224500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Chasing the Dream Spa-Francochamps, Belgium</title></programme>
-<programme start="20260724224500 +0000" stop="20260724231500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Porsche Mobil 1 Supercup Highlights Spa-Francorchamps, Belgium</title></programme>
-<programme start="20260724231500 +0000" stop="20260724234500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Fastzone, Ep. 15</title><episode-num system="xmltv_ns">0.14.0/1</episode-num><episode-num system="onscreen">S01E15</episode-num></programme>
-<programme start="20260724234500 +0000" stop="20260725004500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">GT World Challenge Europe Highlights MIsano, Italy</title></programme>
-<programme start="20260725004500 +0000" stop="20260725014500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">WRC Highlights Rally Estonia</title></programme>
-<programme start="20260725014500 +0000" stop="20260725024500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">The F1 Show HUNGARIAN GRAND PRIX 2026</title></programme>
-<programme start="20260725024500 +0000" stop="20260725033000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 3 Championship Practice Budapest, Hungary</title></programme>
-<programme start="20260725033000 +0000" stop="20260725041500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 2 Championship Practice Budapest, Hungary</title></programme>
-<programme start="20260725041500 +0000" stop="20260725050000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Porsche Mobil 1 Supercup Practice Budapest, Hungary</title></programme>
-<programme start="20260725050000 +0000" stop="20260725053000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 3 Championship Qualifying Budapest, Hungary</title></programme>
-<programme start="20260725053000 +0000" stop="20260725060000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 2 Championship Qualifying Budapest, Hungary</title></programme>
-<programme start="20260725060000 +0000" stop="20260725070000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Practice HUNGARIAN GRAND PRIX 2026 Practice 1</title></programme>
-<programme start="20260725070000 +0000" stop="20260725080000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Practice HUNGARIAN GRAND PRIX 2026 Practice 2</title></programme>
-<programme start="20260725080000 +0000" stop="20260725085000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 3 Championship Sprint Budapest, Hungary</title></programme>
-<programme start="20260725085000 +0000" stop="20260725091800 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Porsche Mobil 1 Supercup Highlights Spa-Francorchamps, Belgium</title></programme>
-<programme start="20260725091800 +0000" stop="20260725095000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Porsche Mobil 1 Supercup Qualifying Budapest, Hungary</title></programme>
-<programme start="20260725095000 +0000" stop="20260725102500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Fastzone, Ep. 15</title><episode-num system="xmltv_ns">0.14.0/1</episode-num><episode-num system="onscreen">S01E15</episode-num></programme>
-<programme start="20260725102500 +0000" stop="20260725113000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Practice HUNGARIAN GRAND PRIX 2026 Practice 3</title></programme>
-<programme start="20260725113000 +0000" stop="20260725114000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LaLiga Classic Barcelona vs Real Madrid - 2018/19</title></programme>
-<programme start="20260725114000 +0000" stop="20260725121000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">WRC Magazine Show Rally Finland</title></programme>
-<programme start="20260725121000 +0000" stop="20260725130000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">FIA Formula 2 Championship Sprint Budapest, Hungary</title></programme>
-<programme start="20260725130000 +0000" stop="20260725131500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Chasing the Dream Spa-Francochamps, Belgium</title></programme>
-<programme start="20260725131500 +0000" stop="20260725135500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Qualifying Pre Show HUNGARIAN GRAND PRIX 2026</title></programme>
-<programme start="20260725135500 +0000" stop="20260725150000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Qualifying HUNGARIAN GRAND PRIX 2026</title></programme>
-<programme start="20260725150000 +0000" stop="20260725160000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Qualifying Post Show HUNGARIAN GRAND PRIX 2026</title></programme>
-<programme start="20260725160000 +0000" stop="20260725163000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Ted&apos;s Qualifying Notebook HUNGARIAN GRAND PRIX 2026</title></programme>
-<programme start="20260725163000 +0000" stop="20260725164500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Chasing the Dream Spa-Francochamps, Belgium</title></programme>
-<programme start="20260725164500 +0000" stop="20260725170000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Fastzone, Ep. 15</title><episode-num system="xmltv_ns">0.14.0/1</episode-num><episode-num system="onscreen">S01E15</episode-num></programme>
-<programme start="20260724170000 +0000" stop="20260724183000 +0000" channel="GTV.id@SD"><title lang="id">1001 Kisah</title></programme>
-<programme start="20260724183000 +0000" stop="20260724210000 +0000" channel="GTV.id@SD"><title lang="id">Ragam Cerita</title></programme>
-<programme start="20260724210000 +0000" stop="20260724230000 +0000" channel="GTV.id@SD"><title lang="id">Petualangan Fantasi</title></programme>
-<programme start="20260724230000 +0000" stop="20260724233000 +0000" channel="GTV.id@SD"><title lang="id">Bima S</title></programme>
-<programme start="20260724233000 +0000" stop="20260725000000 +0000" channel="GTV.id@SD"><title lang="id">Bernard Bear</title></programme>
-<programme start="20260725000000 +0000" stop="20260725010000 +0000" channel="GTV.id@SD"><title lang="id">Zak Storm</title></programme>
-<programme start="20260725010000 +0000" stop="20260725090000 +0000" channel="GTV.id@SD"><title lang="id">SpongeBob SquarePants</title></programme>
-<programme start="20260725090000 +0000" stop="20260725110000 +0000" channel="GTV.id@SD"><title lang="id">Pada Zaman Dahulu</title></programme>
-<programme start="20260725110000 +0000" stop="20260725123000 +0000" channel="GTV.id@SD"><title lang="id">SpongeBob SquarePants</title></programme>
-<programme start="20260725123000 +0000" stop="20260725150000 +0000" channel="GTV.id@SD"><title lang="id">ASEAN Championship 2026</title></programme>
-<programme start="20260725150000 +0000" stop="20260725153000 +0000" channel="GTV.id@SD"><title lang="id">Untold Story: Experiment</title></programme>
-<programme start="20260725153000 +0000" stop="20260725170000 +0000" channel="GTV.id@SD"><title lang="id">Indonesia International Open 2026</title></programme>
+<programme start="20260725170000 +0000" stop="20260725171500 +0000" channel="MNCTV.id@SD"><title lang="id">Montir Cantik</title></programme>
+<programme start="20260725171500 +0000" stop="20260725200000 +0000" channel="MNCTV.id@SD"><title lang="id">Suparman Reborn</title></programme>
+<programme start="20260725200000 +0000" stop="20260725203000 +0000" channel="MNCTV.id@SD"><title lang="id">Bimbingan Rohani Budha</title></programme>
+<programme start="20260725203000 +0000" stop="20260725230000 +0000" channel="MNCTV.id@SD"><title lang="id">Suparman Reborn</title></programme>
+<programme start="20260725230000 +0000" stop="20260725231500 +0000" channel="MNCTV.id@SD"><title lang="id">Cocomelon</title></programme>
+<programme start="20260725231500 +0000" stop="20260725234500 +0000" channel="MNCTV.id@SD"><title lang="id">Bima S</title></programme>
+<programme start="20260725234500 +0000" stop="20260726001500 +0000" channel="MNCTV.id@SD"><title lang="id">Titus The Detective</title></programme>
+<programme start="20260726001500 +0000" stop="20260726010000 +0000" channel="MNCTV.id@SD"><title lang="id">Dora &amp; Sahabat</title></programme>
+<programme start="20260726010000 +0000" stop="20260726110000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
+<programme start="20260726110000 +0000" stop="20260726120000 +0000" channel="MNCTV.id@SD"><title lang="id">Entong</title></programme>
+<programme start="20260726120000 +0000" stop="20260726130000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
+<programme start="20260726130000 +0000" stop="20260726161500 +0000" channel="MNCTV.id@SD"><title lang="id">DMD Panggung Rezeki</title></programme>
+<programme start="20260726161500 +0000" stop="20260726170000 +0000" channel="MNCTV.id@SD"><title lang="id">Montir Cantik</title></programme>
+<programme start="20260725170000 +0000" stop="20260725180000 +0000" channel="Moji.id@SD"><title lang="id">One Friday Fights</title></programme>
+<programme start="20260725180000 +0000" stop="20260725200000 +0000" channel="Moji.id@SD"><title lang="id">Women&apos;s Volleyball Nations League 2026</title></programme>
+<programme start="20260725200000 +0000" stop="20260725220000 +0000" channel="Moji.id@SD"><title lang="id">Men&apos;s Volleyball Nations League 2026</title></programme>
+<programme start="20260725220000 +0000" stop="20260725231500 +0000" channel="Moji.id@SD"><title lang="id">Moji Sport</title></programme>
+<programme start="20260725231500 +0000" stop="20260726000000 +0000" channel="Moji.id@SD"><title lang="id">Liputan 6 Pagi Moji</title></programme>
+<programme start="20260726000000 +0000" stop="20260726010000 +0000" channel="Moji.id@SD"><title lang="id">Bisik Pagi</title></programme>
+<programme start="20260726010000 +0000" stop="20260726033000 +0000" channel="Moji.id@SD"><title lang="id">Ungkap</title></programme>
+<programme start="20260726033000 +0000" stop="20260726053000 +0000" channel="Moji.id@SD"><title lang="id">Tercyduk</title></programme>
+<programme start="20260726053000 +0000" stop="20260726080000 +0000" channel="Moji.id@SD"><title lang="id">Women Volleyball Friendly Match</title></programme>
+<programme start="20260726080000 +0000" stop="20260726103000 +0000" channel="Moji.id@SD"><title lang="id">SEA V Cup 2026 - Men</title></programme>
+<programme start="20260726103000 +0000" stop="20260726113000 +0000" channel="Moji.id@SD"><title lang="id">Tercyduk</title></programme>
+<programme start="20260726113000 +0000" stop="20260726143000 +0000" channel="Moji.id@SD"><title lang="id">SEA V Cup 2026 - Men</title></programme>
+<programme start="20260726143000 +0000" stop="20260726170000 +0000" channel="Moji.id@SD"><title lang="id">Women&apos;s Volleyball Nations League 2026</title></programme>
+<programme start="20260725170000 +0000" stop="20260725180000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Kokom - Kompilasi Komedi</title></programme>
+<programme start="20260725180000 +0000" stop="20260725183000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Terang Kasih</title></programme>
+<programme start="20260725183000 +0000" stop="20260725200000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Movinesia</title></programme>
+<programme start="20260725200000 +0000" stop="20260725203000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ustadz On The Road</title></programme>
+<programme start="20260725203000 +0000" stop="20260725213000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ultraman Arc</title></programme>
+<programme start="20260725213000 +0000" stop="20260725220000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Superbook</title></programme>
+<programme start="20260725220000 +0000" stop="20260725233000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Bread Barbershop</title></programme>
+<programme start="20260725233000 +0000" stop="20260726010000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Metal Cardbot</title></programme>
+<programme start="20260726010000 +0000" stop="20260726030000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Grizzy &amp; The Lemmings</title></programme>
+<programme start="20260726030000 +0000" stop="20260726050000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Smurf</title></programme>
+<programme start="20260726050000 +0000" stop="20260726070000 +0000" channel="RajawaliTV.id@SD"><title lang="id">BoBoiBoy</title></programme>
+<programme start="20260726070000 +0000" stop="20260726083000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Super Wings</title></programme>
+<programme start="20260726083000 +0000" stop="20260726090000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Riko the Series</title></programme>
+<programme start="20260726090000 +0000" stop="20260726100000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Quantum Heroes Dinoster</title></programme>
+<programme start="20260726100000 +0000" stop="20260726103000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Papa Pipi</title></programme>
+<programme start="20260726103000 +0000" stop="20260726130000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy Baraju The Movie</title></programme>
+<programme start="20260726130000 +0000" stop="20260726143000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Metal Cardbot</title></programme>
+<programme start="20260726143000 +0000" stop="20260726150000 +0000" channel="RajawaliTV.id@SD"><title lang="id">BOBA - Bombastis Banget</title></programme>
+<programme start="20260726150000 +0000" stop="20260726153000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Check In - Check Informasi</title></programme>
+<programme start="20260726153000 +0000" stop="20260726160000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Obral - Obrolan Viral</title></programme>
+<programme start="20260726160000 +0000" stop="20260726170000 +0000" channel="RajawaliTV.id@SD"><title lang="id">STB - Sangat Tidak Biasa</title></programme>
+<programme start="20260725170000 +0000" stop="20260725171500 +0000" channel="RCTI.id@SD"><title lang="id">Semua Indah Karena Cinta</title></programme>
+<programme start="20260725171500 +0000" stop="20260725183000 +0000" channel="RCTI.id@SD"><title lang="id">Mega Film TV Malam</title></programme>
+<programme start="20260725183000 +0000" stop="20260725200000 +0000" channel="RCTI.id@SD"><title lang="id">Mega Film TV Malam</title></programme>
+<programme start="20260725200000 +0000" stop="20260725203000 +0000" channel="RCTI.id@SD"><title lang="id">Mukjizat Itu Nyata</title></programme>
+<programme start="20260725203000 +0000" stop="20260725230000 +0000" channel="RCTI.id@SD"><title lang="id">Preman Pensiun</title></programme>
+<programme start="20260725230000 +0000" stop="20260726010000 +0000" channel="RCTI.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
+<programme start="20260726010000 +0000" stop="20260726030000 +0000" channel="RCTI.id@SD"><title lang="id">Entong</title></programme>
+<programme start="20260726030000 +0000" stop="20260726043000 +0000" channel="RCTI.id@SD"><title lang="id">Titus: Mystery of The Enygma</title></programme>
+<programme start="20260726043000 +0000" stop="20260726070000 +0000" channel="RCTI.id@SD"><title lang="id">Terikat Janji Selamanya</title></programme>
+<programme start="20260726070000 +0000" stop="20260726101500 +0000" channel="RCTI.id@SD"><title lang="id">Ikatan Cinta</title></programme>
+<programme start="20260726101500 +0000" stop="20260726120000 +0000" channel="RCTI.id@SD"><title lang="id">Box Office Indonesia</title></programme>
+<programme start="20260726120000 +0000" stop="20260726133000 +0000" channel="RCTI.id@SD"><title lang="id">Terikat Janji</title></programme>
+<programme start="20260726133000 +0000" stop="20260726144500 +0000" channel="RCTI.id@SD"><title lang="id">Terlanjur Mencintaimu</title></programme>
+<programme start="20260726144500 +0000" stop="20260726160000 +0000" channel="RCTI.id@SD"><title lang="id">Microdrama+</title></programme>
+<programme start="20260726160000 +0000" stop="20260726170000 +0000" channel="RCTI.id@SD"><title lang="id">Semua Indah Karena Cinta</title></programme>
 </tv>
