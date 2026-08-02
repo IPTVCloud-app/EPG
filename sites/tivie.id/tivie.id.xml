@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260801">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260802">
 <channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png"/></channel>
 <channel id="AXNAsia.sg@Indonesia"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original"/></channel>
 <channel id="beINSports1.qa@Indonesia"><display-name>beIN Sports 1</display-name><icon src="https://i.imgur.com/Vtk2cGI.png"/></channel>
@@ -54,286 +54,80 @@
 <channel id="VTV.id@SD"><display-name>VTV</display-name><icon src="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png"/></channel>
 <channel id="WarnerTVAsia.us@SD"><display-name>Warner TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png"/></channel>
 <channel id="ZeeBioskop.id@SD"><display-name>Zee Bioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/></channel>
-<programme start="20260731170000 +0000" stop="20260731180000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">King Kong</title></programme>
-<programme start="20260731180000 +0000" stop="20260731183000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Cyril: Simply Magic, Ep. 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260731183000 +0000" stop="20260731192000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">S.W.A.T. S8, Ep. 2</title><episode-num system="xmltv_ns">7.1.0/1</episode-num><episode-num system="onscreen">S08E02</episode-num></programme>
-<programme start="20260731192000 +0000" stop="20260731201500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">The Rookie S8, Ep. 14</title><episode-num system="xmltv_ns">7.13.0/1</episode-num><episode-num system="onscreen">S08E14</episode-num></programme>
-<programme start="20260731201500 +0000" stop="20260731210500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Elsbeth S2, Ep. 4</title><episode-num system="xmltv_ns">1.3.0/1</episode-num><episode-num system="onscreen">S02E04</episode-num></programme>
-<programme start="20260731210500 +0000" stop="20260731220000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Red Eye S2, Ep. 1</title><episode-num system="xmltv_ns">1.0.0/1</episode-num><episode-num system="onscreen">S02E01</episode-num></programme>
-<programme start="20260731220000 +0000" stop="20260731225000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Sight Unseen S1, Ep. 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
-<programme start="20260731225000 +0000" stop="20260731234000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Sight Unseen S1, Ep. 8</title><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
-<programme start="20260731234000 +0000" stop="20260801003000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">NCIS: Sydney S1, Ep. 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
-<programme start="20260801003000 +0000" stop="20260801012500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">NCIS: Sydney S1, Ep. 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
-<programme start="20260801012500 +0000" stop="20260801034000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">The Bourne Identity</title></programme>
-<programme start="20260801034000 +0000" stop="20260801041000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Cyril: Simply Magic, Ep. 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
-<programme start="20260801041000 +0000" stop="20260801050000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">FBI: International S4, Ep. 1</title><episode-num system="xmltv_ns">3.0.0/1</episode-num><episode-num system="onscreen">S04E01</episode-num></programme>
-<programme start="20260801050000 +0000" stop="20260801055500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Coroner S2, Ep. 3</title><episode-num system="xmltv_ns">1.2.0/1</episode-num><episode-num system="onscreen">S02E03</episode-num></programme>
-<programme start="20260801055500 +0000" stop="20260801064500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Doc S2, Ep. 4</title><episode-num system="xmltv_ns">1.3.0/1</episode-num><episode-num system="onscreen">S02E04</episode-num></programme>
-<programme start="20260801064500 +0000" stop="20260801074000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">FBI S8, Ep. 12</title><episode-num system="xmltv_ns">7.11.0/1</episode-num><episode-num system="onscreen">S08E12</episode-num></programme>
-<programme start="20260801074000 +0000" stop="20260801110000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">King Kong</title></programme>
-<programme start="20260801110000 +0000" stop="20260801115500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">Doc S2, Ep. 4</title><episode-num system="xmltv_ns">1.3.0/1</episode-num><episode-num system="onscreen">S02E04</episode-num></programme>
-<programme start="20260801115500 +0000" stop="20260801125000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">NCIS: Sydney S3, Ep. 15</title><episode-num system="xmltv_ns">2.14.0/1</episode-num><episode-num system="onscreen">S03E15</episode-num></programme>
-<programme start="20260801125000 +0000" stop="20260801134500 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">FBI S8, Ep. 12</title><episode-num system="xmltv_ns">7.11.0/1</episode-num><episode-num system="onscreen">S08E12</episode-num></programme>
-<programme start="20260801134500 +0000" stop="20260801144000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">CIA S1, Ep. 12</title><episode-num system="xmltv_ns">0.11.0/1</episode-num><episode-num system="onscreen">S01E12</episode-num></programme>
-<programme start="20260801144000 +0000" stop="20260801153000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">FBI: International S4, Ep. 1</title><episode-num system="xmltv_ns">3.0.0/1</episode-num><episode-num system="onscreen">S04E01</episode-num></programme>
-<programme start="20260801153000 +0000" stop="20260801170000 +0000" channel="AXNAsia.sg@Indonesia"><title lang="id">The Equalizer 3</title></programme>
-<programme start="20260731170000 +0000" stop="20260731190000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">WAFCON South Africa vs Ivory Coast</title></programme>
-<programme start="20260731190000 +0000" stop="20260731195300 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 4 Mugello Race 4</title></programme>
-<programme start="20260731195300 +0000" stop="20260731220000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">WAFCON Burkina Faso vs Tanzania</title></programme>
-<programme start="20260731220000 +0000" stop="20260801000000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">UEFA Conference League 2025/26</title></programme>
-<programme start="20260801000000 +0000" stop="20260801020000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LFCTV Liverpool vs Wrexham - Friendly</title></programme>
-<programme start="20260801020000 +0000" stop="20260801023000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LFCTV LFC Trending, Ep. 50</title><episode-num system="xmltv_ns">0.49.0/1</episode-num><episode-num system="onscreen">S01E50</episode-num></programme>
-<programme start="20260801023000 +0000" stop="20260801030000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Le Mans Cup Highlights Road to Le Mans</title></programme>
-<programme start="20260801030000 +0000" stop="20260801050000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LaLiga 2025/26</title></programme>
-<programme start="20260801050000 +0000" stop="20260801060000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">ERC Rally Poland SS 12 Silesian Voivodeship 1</title></programme>
-<programme start="20260801060000 +0000" stop="20260801070000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">ERC Rally Poland SS 15 Silesian Voivodeship 2 - PS</title></programme>
-<programme start="20260801070000 +0000" stop="20260801090000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Main Race HUNGARIAN GRAND PRIX 2026</title></programme>
-<programme start="20260801090000 +0000" stop="20260801100000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">WRC Rally Finland SS14 Leustu 1</title></programme>
-<programme start="20260801100000 +0000" stop="20260801110000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Ferrari Challenge Race 1, Brands Hatch</title></programme>
-<programme start="20260801110000 +0000" stop="20260801120000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Ferrari Challenge Race 2, Brands Hatch</title></programme>
-<programme start="20260801120000 +0000" stop="20260801123000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Porsche Mobil 1 Supercup Highlights Budapest, Hungary</title></programme>
-<programme start="20260801123000 +0000" stop="20260801124500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LaLiga 2025/26</title></programme>
-<programme start="20260801124500 +0000" stop="20260801132500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">GT World Challenge Europe Magny-Cours Qualifying 1, Sprint Cup</title></programme>
-<programme start="20260801132500 +0000" stop="20260801135500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Fastzone, Ep. 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
-<programme start="20260801135500 +0000" stop="20260801160000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Friendly Match</title></programme>
-<programme start="20260801160000 +0000" stop="20260801170000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">WRC Rally Finland SS18 Leustu 2</title></programme>
-<programme start="20260731170000 +0000" stop="20260731180000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Premier Padel Pretoria P1 Day 5 QF Match 6</title></programme>
-<programme start="20260731180000 +0000" stop="20260731183000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Premier Padel Highlights Cancun P2</title></programme>
-<programme start="20260731183000 +0000" stop="20260731200000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Premier Padel Buenos Aires P1 Day 2 Match 3</title></programme>
-<programme start="20260731200000 +0000" stop="20260731213000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Premier Padel Buenos Aires P1 Day 2 Match 4</title></programme>
-<programme start="20260731213000 +0000" stop="20260731232000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Women&apos;s Super League Man City vs Everton</title></programme>
-<programme start="20260731232000 +0000" stop="20260801011000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Women&apos;s Super League Chelsea vs West Ham</title></programme>
-<programme start="20260801011000 +0000" stop="20260801030000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Georgia vs Italy - 9th Place Semi Final - Junior World Championship</title></programme>
-<programme start="20260801030000 +0000" stop="20260801050000 +0000" channel="beINSports2.qa@MENA"><title lang="id">PSG TV Metz vs PSG</title></programme>
-<programme start="20260801050000 +0000" stop="20260801053000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Roland Garros Mini - Mini Match Men&apos;s Singles Rd 2 Sinner v Cerundolo</title></programme>
-<programme start="20260801053000 +0000" stop="20260801060000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Roland Garros Mini - Mini Match Women&apos;s Singles Rd 2 Sabalenka v Jacquemot</title></programme>
-<programme start="20260801060000 +0000" stop="20260801070000 +0000" channel="beINSports2.qa@MENA"><title lang="id">HSBC SVNS Series Highlights Singapore</title></programme>
-<programme start="20260801070000 +0000" stop="20260801073000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Australian Open Mini - Mini Match Men&apos;s Singles Rd 2 Djokovic v Maestrelli</title></programme>
-<programme start="20260801073000 +0000" stop="20260801080000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Australian Open Mini - Mini Match Men&apos;s Singles Rd 2 Sinner v Duckworth</title></programme>
-<programme start="20260801080000 +0000" stop="20260801083000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Premier Padel Highlights Italy Major</title></programme>
-<programme start="20260801083000 +0000" stop="20260801085500 +0000" channel="beINSports2.qa@MENA"><title lang="id">Canada vs Spain - Pool Stage, Bordeaux - Women - HSBC SVNS World Championships</title></programme>
-<programme start="20260801085500 +0000" stop="20260801092000 +0000" channel="beINSports2.qa@MENA"><title lang="id">USA vs Great Britain - Pool Stage, Bordeaux - Women - HSBC SVNS World Championships</title></programme>
-<programme start="20260801092000 +0000" stop="20260801094500 +0000" channel="beINSports2.qa@MENA"><title lang="id">Japan vs Fiji - Pool Stage, Bordeaux - Women - HSBC SVNS World Championships</title></programme>
-<programme start="20260801094500 +0000" stop="20260801101000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Australia vs Brazil - Pool Stage, Bordeaux - Women - HSBC SVNS World Championships</title></programme>
-<programme start="20260801101000 +0000" stop="20260801103500 +0000" channel="beINSports2.qa@MENA"><title lang="id">France vs South Africa - Pool Stage, Bordeaux - Women - HSBC SVNS World Championships</title></programme>
-<programme start="20260801103500 +0000" stop="20260801110000 +0000" channel="beINSports2.qa@MENA"><title lang="id">New Zealand vs Argentina - Pool Stage, Bordeaux - Women - HSBC SVNS World Championships</title></programme>
-<programme start="20260801110000 +0000" stop="20260801123000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Pretoria P1 Day 6 SF1 - Women - Premier Padel</title></programme>
-<programme start="20260801123000 +0000" stop="20260801140000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Pretoria P1 Day 6 SF2 - Women - Premier Padel</title></programme>
-<programme start="20260801140000 +0000" stop="20260801142500 +0000" channel="beINSports2.qa@MENA"><title lang="id">France vs Japan - 5th Place Play-Off, Valladolid - Women - HSBC SVNS World Championships</title></programme>
-<programme start="20260801142500 +0000" stop="20260801163000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Friendly Match</title></programme>
-<programme start="20260801163000 +0000" stop="20260801170000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Pretoria P1 Day 6 SF2 - Men - Premier Padel</title></programme>
-<programme start="20260731170000 +0000" stop="20260731180000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">SailGP Portsmouth, Great Britain Day 2</title></programme>
-<programme start="20260731180000 +0000" stop="20260731200000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">CAF CL Pyramids FC vs AS FAR</title></programme>
-<programme start="20260731200000 +0000" stop="20260731210000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCI World Tour Highlights Tour Auvergne-Rhone-Alpes</title></programme>
-<programme start="20260731210000 +0000" stop="20260731230000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCI Women&apos;s World Tour La Vuelta Femenina - Stage 5</title></programme>
-<programme start="20260731230000 +0000" stop="20260731233000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Racing On The Edge, Ep. 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
-<programme start="20260731233000 +0000" stop="20260801022000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Tour de France Stage 1 - Barcelona</title></programme>
-<programme start="20260801022000 +0000" stop="20260801023000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCL PSV vs Milan (2008/09)</title></programme>
-<programme start="20260801023000 +0000" stop="20260801030000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Racing On The Edge, Ep. 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
-<programme start="20260801030000 +0000" stop="20260801040000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">MUTV All The Goals: Ronaldo</title></programme>
-<programme start="20260801040000 +0000" stop="20260801055000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Women&apos;s Super League Aston Villa vs Liverpool</title></programme>
-<programme start="20260801055000 +0000" stop="20260801060000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCL PSV vs Milan (2008/09)</title></programme>
-<programme start="20260801060000 +0000" stop="20260801073000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">SailGP Portsmouth, Great Britain Day 1</title></programme>
-<programme start="20260801073000 +0000" stop="20260801090000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">SailGP Portsmouth, Great Britain Day 2</title></programme>
-<programme start="20260801090000 +0000" stop="20260801114500 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Tour de France Stage 1 - Barcelona</title></programme>
-<programme start="20260801114500 +0000" stop="20260801121500 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Racing On The Edge, Ep. 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
-<programme start="20260801121500 +0000" stop="20260801124500 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCI Women&apos;s World Tour Highlights Santos Tour Down Under - One Day Race</title></programme>
-<programme start="20260801124500 +0000" stop="20260801131500 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Mass Participation Transvulcania</title></programme>
-<programme start="20260801131500 +0000" stop="20260801133500 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">MUTV One Love: Supporting Each Other</title></programme>
-<programme start="20260801133500 +0000" stop="20260801134500 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCL PSV vs Milan (2008/09)</title></programme>
-<programme start="20260801134500 +0000" stop="20260801161500 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCI Women&apos;s World Tour Tour de France Femmes - Stage 1</title></programme>
-<programme start="20260801161500 +0000" stop="20260801162300 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCL Barcelona vs Arsenal (2005/06)</title></programme>
-<programme start="20260801162300 +0000" stop="20260801165300 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Racing On The Edge, Ep. 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
-<programme start="20260801165300 +0000" stop="20260801170000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">WAFCON Egypt vs Malawi</title></programme>
-<programme start="20260731170000 +0000" stop="20260731174500 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">Call to Arms</title></programme>
-<programme start="20260731174500 +0000" stop="20260731192500 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">Asia-Pol</title></programme>
-<programme start="20260731192500 +0000" stop="20260731212500 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">The Three Smiles</title></programme>
-<programme start="20260731212500 +0000" stop="20260731234000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">The Love Eterne</title></programme>
-<programme start="20260731234000 +0000" stop="20260801012000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">The Black Enforcer</title></programme>
-<programme start="20260801012000 +0000" stop="20260801024000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">The Magnificent Concubine</title></programme>
-<programme start="20260801024000 +0000" stop="20260801043000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">The Lizard</title></programme>
-<programme start="20260801043000 +0000" stop="20260801062000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">Apartment for Ladies</title></programme>
-<programme start="20260801062000 +0000" stop="20260801080000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">Temple of the Red Lotus</title></programme>
-<programme start="20260801080000 +0000" stop="20260801093500 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">The Butterfly Chalice</title></programme>
-<programme start="20260801093500 +0000" stop="20260801112000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">Death Valley</title></programme>
-<programme start="20260801112000 +0000" stop="20260801130000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">A Place to Call Home</title></programme>
-<programme start="20260801130000 +0000" stop="20260801143500 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">Bat Without Wings</title></programme>
-<programme start="20260801143500 +0000" stop="20260801161500 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">The Pure and the Evil</title></programme>
-<programme start="20260801161500 +0000" stop="20260801170000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">Disciples of Shaolin</title></programme>
-<programme start="20260731170000 +0000" stop="20260731182000 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">How to Choose a Royal Bride</title></programme>
-<programme start="20260731182000 +0000" stop="20260731195500 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Fate Jealous Greed</title></programme>
-<programme start="20260731195500 +0000" stop="20260731212500 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">The Bare-Footed Kid</title></programme>
-<programme start="20260731212500 +0000" stop="20260731230500 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Kung Fu Stuntmen</title></programme>
-<programme start="20260731230500 +0000" stop="20260801004500 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Get in the Dark</title></programme>
-<programme start="20260801004500 +0000" stop="20260801023500 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Ne Zha</title></programme>
-<programme start="20260801023500 +0000" stop="20260801040500 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Fierce Cop</title></programme>
-<programme start="20260801040500 +0000" stop="20260801054000 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Girl with the Diamond Slipper</title></programme>
-<programme start="20260801054000 +0000" stop="20260801070000 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Dragon Master: Dragon Spell</title></programme>
-<programme start="20260801070000 +0000" stop="20260801083000 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Let&apos;s Make Laugh II</title></programme>
-<programme start="20260801083000 +0000" stop="20260801094500 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Munitions Hijacking Case</title></programme>
-<programme start="20260801094500 +0000" stop="20260801112000 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Law or Justice</title></programme>
-<programme start="20260801112000 +0000" stop="20260801130000 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Legend of the Dragon</title></programme>
-<programme start="20260801130000 +0000" stop="20260801150500 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Unbeatable</title></programme>
-<programme start="20260801150500 +0000" stop="20260801164500 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Let&apos;s Make Laugh</title></programme>
-<programme start="20260801164500 +0000" stop="20260801170000 +0000" channel="CelestialMoviesIndonesia.id@SD"><title lang="id">Lost Memories</title></programme>
-<programme start="20260731170000 +0000" stop="20260731173500 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Alarum</title></programme>
-<programme start="20260731173500 +0000" stop="20260731192000 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Civil War</title></programme>
-<programme start="20260731192000 +0000" stop="20260731204000 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">The Dictator</title></programme>
-<programme start="20260731204000 +0000" stop="20260731220000 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">The Gallows</title></programme>
-<programme start="20260731220000 +0000" stop="20260731232500 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Life Support</title></programme>
-<programme start="20260731232500 +0000" stop="20260801011000 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Caddo Lake</title></programme>
-<programme start="20260801011000 +0000" stop="20260801025000 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Changing Lanes</title></programme>
-<programme start="20260801025000 +0000" stop="20260801044500 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Dinner for Schmucks</title></programme>
-<programme start="20260801044500 +0000" stop="20260801062500 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Wifelike</title></programme>
-<programme start="20260801062500 +0000" stop="20260801080500 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Drop</title></programme>
-<programme start="20260801080500 +0000" stop="20260801083500 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Hollywood on Set, Ep. 1180</title><episode-num system="xmltv_ns">0.1179.0/1</episode-num><episode-num system="onscreen">S01E1180</episode-num></programme>
-<programme start="20260801083500 +0000" stop="20260801101500 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Too Big to Fail</title></programme>
-<programme start="20260801101500 +0000" stop="20260801121000 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Recount</title></programme>
-<programme start="20260801121000 +0000" stop="20260801140000 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Get Smart</title></programme>
-<programme start="20260801140000 +0000" stop="20260801161000 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Shazam!</title></programme>
-<programme start="20260801161000 +0000" stop="20260801170000 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">King Kong</title></programme>
-<programme start="20260731170000 +0000" stop="20260731171500 +0000" channel="GTV.id@SD"><title lang="id">Predator-PBC Indonesia Open 2026</title></programme>
-<programme start="20260731171500 +0000" stop="20260731181500 +0000" channel="GTV.id@SD"><title lang="id">Uang Kaget</title></programme>
-<programme start="20260731181500 +0000" stop="20260731190000 +0000" channel="GTV.id@SD"><title lang="id">1001 Kisah</title></programme>
-<programme start="20260731190000 +0000" stop="20260731210000 +0000" channel="GTV.id@SD"><title lang="id">Ragam Cerita</title></programme>
-<programme start="20260731210000 +0000" stop="20260731230000 +0000" channel="GTV.id@SD"><title lang="id">Petualangan Fantasi</title></programme>
-<programme start="20260731230000 +0000" stop="20260731233000 +0000" channel="GTV.id@SD"><title lang="id">The Helping Heroes</title></programme>
-<programme start="20260731233000 +0000" stop="20260801000000 +0000" channel="GTV.id@SD"><title lang="id">Bima S</title></programme>
-<programme start="20260801000000 +0000" stop="20260801010000 +0000" channel="GTV.id@SD"><title lang="id">Zak Storm</title></programme>
-<programme start="20260801010000 +0000" stop="20260801030000 +0000" channel="GTV.id@SD"><title lang="id">Pada Zaman Dahulu</title></programme>
-<programme start="20260801030000 +0000" stop="20260801100000 +0000" channel="GTV.id@SD"><title lang="id">SpongeBob SquarePants</title></programme>
-<programme start="20260801100000 +0000" stop="20260801123000 +0000" channel="GTV.id@SD"><title lang="id">Pada Zaman Dahulu</title></programme>
-<programme start="20260801123000 +0000" stop="20260801150000 +0000" channel="GTV.id@SD"><title lang="id">ASEAN Championship 2026</title></programme>
-<programme start="20260801150000 +0000" stop="20260801170000 +0000" channel="GTV.id@SD"><title lang="id">ASEAN Championship 2026</title></programme>
-<programme start="20260731170000 +0000" stop="20260731173000 +0000" channel="HITSNOW.sg@SD"><title lang="id">MasterChef: Global Gauntlet, Ep. 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
-<programme start="20260731173000 +0000" stop="20260731183000 +0000" channel="HITSNOW.sg@SD"><title lang="id">Celebrity Family Feud S11, Ep. 4</title><episode-num system="xmltv_ns">10.3.0/1</episode-num><episode-num system="onscreen">S11E04</episode-num></programme>
-<programme start="20260731183000 +0000" stop="20260731193000 +0000" channel="HITSNOW.sg@SD"><title lang="id">Snapped: Killer Couples S17, Ep. 17</title><episode-num system="xmltv_ns">16.16.0/1</episode-num><episode-num system="onscreen">S17E17</episode-num></programme>
-<programme start="20260731193000 +0000" stop="20260731213000 +0000" channel="HITSNOW.sg@SD"><title lang="id">America&apos;s Got Talent S21, Ep. 9</title><episode-num system="xmltv_ns">20.8.0/1</episode-num><episode-num system="onscreen">S21E09</episode-num></programme>
-<programme start="20260731213000 +0000" stop="20260731223000 +0000" channel="HITSNOW.sg@SD"><title lang="id">The Hand That Robbed the Cradle S1, Ep. 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260731223000 +0000" stop="20260731230000 +0000" channel="HITSNOW.sg@SD"><title lang="id">Entertainment Tonight, Ep. 11709</title><episode-num system="xmltv_ns">0.11708.0/1</episode-num><episode-num system="onscreen">S01E11709</episode-num></programme>
-<programme start="20260731230000 +0000" stop="20260801000000 +0000" channel="HITSNOW.sg@SD"><title lang="id">MasterChef: Global Gauntlet, Ep. 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
-<programme start="20260801000000 +0000" stop="20260801010000 +0000" channel="HITSNOW.sg@SD"><title lang="id">Celebrity Family Feud S11, Ep. 4</title><episode-num system="xmltv_ns">10.3.0/1</episode-num><episode-num system="onscreen">S11E04</episode-num></programme>
-<programme start="20260801010000 +0000" stop="20260801020000 +0000" channel="HITSNOW.sg@SD"><title lang="id">Snapped: Killer Couples S17, Ep. 17</title><episode-num system="xmltv_ns">16.16.0/1</episode-num><episode-num system="onscreen">S17E17</episode-num></programme>
-<programme start="20260801020000 +0000" stop="20260801030000 +0000" channel="HITSNOW.sg@SD"><title lang="id">Hell&apos;s Kitchen S24, Ep. 15</title><episode-num system="xmltv_ns">23.14.0/1</episode-num><episode-num system="onscreen">S24E15</episode-num></programme>
-<programme start="20260801030000 +0000" stop="20260801040000 +0000" channel="HITSNOW.sg@SD"><title lang="id">The Hand That Robbed the Cradle S1, Ep. 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260801040000 +0000" stop="20260801043000 +0000" channel="HITSNOW.sg@SD"><title lang="id">Entertainment Tonight, Ep. 11709</title><episode-num system="xmltv_ns">0.11708.0/1</episode-num><episode-num system="onscreen">S01E11709</episode-num></programme>
-<programme start="20260801043000 +0000" stop="20260801053000 +0000" channel="HITSNOW.sg@SD"><title lang="id">MasterChef: Global Gauntlet, Ep. 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
-<programme start="20260801053000 +0000" stop="20260801063000 +0000" channel="HITSNOW.sg@SD"><title lang="id">Celebrity Family Feud S11, Ep. 4</title><episode-num system="xmltv_ns">10.3.0/1</episode-num><episode-num system="onscreen">S11E04</episode-num></programme>
-<programme start="20260801063000 +0000" stop="20260801073000 +0000" channel="HITSNOW.sg@SD"><title lang="id">Snapped: Killer Couples S17, Ep. 17</title><episode-num system="xmltv_ns">16.16.0/1</episode-num><episode-num system="onscreen">S17E17</episode-num></programme>
-<programme start="20260801073000 +0000" stop="20260801093000 +0000" channel="HITSNOW.sg@SD"><title lang="id">America&apos;s Got Talent S21, Ep. 9</title><episode-num system="xmltv_ns">20.8.0/1</episode-num><episode-num system="onscreen">S21E09</episode-num></programme>
-<programme start="20260801093000 +0000" stop="20260801103000 +0000" channel="HITSNOW.sg@SD"><title lang="id">The Hand That Robbed the Cradle S1, Ep. 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260801103000 +0000" stop="20260801113000 +0000" channel="HITSNOW.sg@SD"><title lang="id">Celebrity Wheel of Fortune S4, Ep. 8</title><episode-num system="xmltv_ns">3.7.0/1</episode-num><episode-num system="onscreen">S04E08</episode-num></programme>
-<programme start="20260801113000 +0000" stop="20260801120000 +0000" channel="HITSNOW.sg@SD"><title lang="id">Entertainment Tonight, Ep. 11709</title><episode-num system="xmltv_ns">0.11708.0/1</episode-num><episode-num system="onscreen">S01E11709</episode-num></programme>
-<programme start="20260801120000 +0000" stop="20260801130000 +0000" channel="HITSNOW.sg@SD"><title lang="id">Shark Tank S16, Ep. 8</title><episode-num system="xmltv_ns">15.7.0/1</episode-num><episode-num system="onscreen">S16E08</episode-num></programme>
-<programme start="20260801130000 +0000" stop="20260801150000 +0000" channel="HITSNOW.sg@SD"><title lang="id">Anyone but You</title></programme>
-<programme start="20260801150000 +0000" stop="20260801153000 +0000" channel="HITSNOW.sg@SD"><title lang="id">Entertainment Tonight, Ep. 11710</title><episode-num system="xmltv_ns">0.11709.0/1</episode-num><episode-num system="onscreen">S01E11710</episode-num></programme>
-<programme start="20260801153000 +0000" stop="20260801160000 +0000" channel="HITSNOW.sg@SD"><title lang="id">The Goldbergs S4, Ep. 22</title><episode-num system="xmltv_ns">3.21.0/1</episode-num><episode-num system="onscreen">S04E22</episode-num></programme>
-<programme start="20260801160000 +0000" stop="20260801170000 +0000" channel="HITSNOW.sg@SD"><title lang="id">Celebrity Wheel of Fortune S4, Ep. 8</title><episode-num system="xmltv_ns">3.7.0/1</episode-num><episode-num system="onscreen">S04E08</episode-num></programme>
-<programme start="20260731170000 +0000" stop="20260731172000 +0000" channel="IMC.id@SD"><title lang="id">Kangen</title></programme>
-<programme start="20260731172000 +0000" stop="20260731190500 +0000" channel="IMC.id@SD"><title lang="id">Semua karena Ginah</title></programme>
-<programme start="20260731190500 +0000" stop="20260731203500 +0000" channel="IMC.id@SD"><title lang="id">Bidadari Pulau Hantu</title></programme>
-<programme start="20260731203500 +0000" stop="20260731220500 +0000" channel="IMC.id@SD"><title lang="id">Kawin Kontrak 3</title></programme>
-<programme start="20260731220500 +0000" stop="20260801000000 +0000" channel="IMC.id@SD"><title lang="id">Misteri Gunung Merapi: Penghuni Rumah Tua</title></programme>
-<programme start="20260801000000 +0000" stop="20260801014500 +0000" channel="IMC.id@SD"><title lang="id">Cintaku di Kampus Biru</title></programme>
-<programme start="20260801014500 +0000" stop="20260801032000 +0000" channel="IMC.id@SD"><title lang="id">Jatuh Cinta Lagi</title></programme>
-<programme start="20260801032000 +0000" stop="20260801045500 +0000" channel="IMC.id@SD"><title lang="id">Lorong</title></programme>
-<programme start="20260801045500 +0000" stop="20260801061500 +0000" channel="IMC.id@SD"><title lang="id">Tumbal 97</title></programme>
-<programme start="20260801061500 +0000" stop="20260801074000 +0000" channel="IMC.id@SD"><title lang="id">Toilet 105</title></programme>
-<programme start="20260801074000 +0000" stop="20260801092500 +0000" channel="IMC.id@SD"><title lang="id">Maju Kena Mundur Kena Returns</title></programme>
-<programme start="20260801092500 +0000" stop="20260801112500 +0000" channel="IMC.id@SD"><title lang="id">Hijrah Cinta</title></programme>
-<programme start="20260801112500 +0000" stop="20260801130000 +0000" channel="IMC.id@SD"><title lang="id">Bing Slamet Sibuk</title></programme>
-<programme start="20260801130000 +0000" stop="20260801142500 +0000" channel="IMC.id@SD"><title lang="id">Mertua vs Menantu</title></programme>
-<programme start="20260801142500 +0000" stop="20260801160000 +0000" channel="IMC.id@SD"><title lang="id">Kuntilanak 3</title></programme>
-<programme start="20260801160000 +0000" stop="20260801170000 +0000" channel="IMC.id@SD"><title lang="id">Pulau Hantu</title></programme>
-<programme start="20260731170000 +0000" stop="20260731181500 +0000" channel="Indosiar.id@SD"><title lang="id">D&apos;Academy 8</title></programme>
-<programme start="20260731181500 +0000" stop="20260731200000 +0000" channel="Indosiar.id@SD"><title lang="id">Mega Film Asia</title></programme>
-<programme start="20260731200000 +0000" stop="20260731213000 +0000" channel="Indosiar.id@SD"><title lang="id">Mega Film Asia</title></programme>
-<programme start="20260731213000 +0000" stop="20260731230000 +0000" channel="Indosiar.id@SD"><title lang="id">Fokus Pagi</title></programme>
-<programme start="20260731230000 +0000" stop="20260801003000 +0000" channel="Indosiar.id@SD"><title lang="id">Merangkai Kisah Indah</title></programme>
-<programme start="20260801003000 +0000" stop="20260801023000 +0000" channel="Indosiar.id@SD"><title lang="id">Kisah Nyata Pagi</title></programme>
-<programme start="20260801023000 +0000" stop="20260801033000 +0000" channel="Indosiar.id@SD"><title lang="id">Best Kiss</title></programme>
-<programme start="20260801033000 +0000" stop="20260801040000 +0000" channel="Indosiar.id@SD"><title lang="id">Patroli</title></programme>
-<programme start="20260801040000 +0000" stop="20260801043000 +0000" channel="Indosiar.id@SD"><title lang="id">Fokus</title></programme>
-<programme start="20260801043000 +0000" stop="20260801060000 +0000" channel="Indosiar.id@SD"><title lang="id">Kisah Nyata Siang</title></programme>
-<programme start="20260801060000 +0000" stop="20260801073000 +0000" channel="Indosiar.id@SD"><title lang="id">Kisah Nyata</title></programme>
-<programme start="20260801073000 +0000" stop="20260801080000 +0000" channel="Indosiar.id@SD"><title lang="id">Indonesia Cerdas</title></programme>
-<programme start="20260801080000 +0000" stop="20260801103000 +0000" channel="Indosiar.id@SD"><title lang="id">Piala Presiden 2026</title></programme>
-<programme start="20260801103000 +0000" stop="20260801120000 +0000" channel="Indosiar.id@SD"><title lang="id">Merangkai Kisah Indah</title></programme>
-<programme start="20260801120000 +0000" stop="20260801143000 +0000" channel="Indosiar.id@SD"><title lang="id">Piala Presiden 2026</title></programme>
-<programme start="20260801143000 +0000" stop="20260801170000 +0000" channel="Indosiar.id@SD"><title lang="id">D&apos;Academy 8</title></programme>
-<programme start="20260731170000 +0000" stop="20260731181500 +0000" channel="KPlus.sg@SD"><title lang="id">Good Partner, Ep. 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
-<programme start="20260731181500 +0000" stop="20260731193000 +0000" channel="KPlus.sg@SD"><title lang="id">The Defects, Ep. 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260731193000 +0000" stop="20260731204500 +0000" channel="KPlus.sg@SD"><title lang="id">Show Champion, Ep. 603</title><episode-num system="xmltv_ns">0.602.0/1</episode-num><episode-num system="onscreen">S01E603</episode-num></programme>
-<programme start="20260731204500 +0000" stop="20260731220000 +0000" channel="KPlus.sg@SD"><title lang="id">The Art of Negotiation, Ep. 12</title><episode-num system="xmltv_ns">0.11.0/1</episode-num><episode-num system="onscreen">S01E12</episode-num></programme>
-<programme start="20260731220000 +0000" stop="20260731231500 +0000" channel="KPlus.sg@SD"><title lang="id">Strong Woman Do Bong Soon, Ep. 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
-<programme start="20260731231500 +0000" stop="20260801010000 +0000" channel="KPlus.sg@SD"><title lang="id">Chef &amp; My Fridge, Ep. 13</title><episode-num system="xmltv_ns">0.12.0/1</episode-num><episode-num system="onscreen">S01E13</episode-num></programme>
-<programme start="20260801010000 +0000" stop="20260801021500 +0000" channel="KPlus.sg@SD"><title lang="id">Good Partner, Ep. 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
-<programme start="20260801021500 +0000" stop="20260801033000 +0000" channel="KPlus.sg@SD"><title lang="id">The Defects, Ep. 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260801033000 +0000" stop="20260801044500 +0000" channel="KPlus.sg@SD"><title lang="id">The Art of Negotiation, Ep. 12</title><episode-num system="xmltv_ns">0.11.0/1</episode-num><episode-num system="onscreen">S01E12</episode-num></programme>
-<programme start="20260801044500 +0000" stop="20260801060000 +0000" channel="KPlus.sg@SD"><title lang="id">Strong Woman Do Bong Soon, Ep. 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
-<programme start="20260801060000 +0000" stop="20260801071500 +0000" channel="KPlus.sg@SD"><title lang="id">Show Champion, Ep. 603</title><episode-num system="xmltv_ns">0.602.0/1</episode-num><episode-num system="onscreen">S01E603</episode-num></programme>
-<programme start="20260801071500 +0000" stop="20260801081500 +0000" channel="KPlus.sg@SD"><title lang="id">Weekly Idol, Ep. 703</title><episode-num system="xmltv_ns">0.702.0/1</episode-num><episode-num system="onscreen">S01E703</episode-num></programme>
-<programme start="20260801081500 +0000" stop="20260801093000 +0000" channel="KPlus.sg@SD"><title lang="id">Good Partner, Ep. 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
-<programme start="20260801093000 +0000" stop="20260801104500 +0000" channel="KPlus.sg@SD"><title lang="id">The Defects, Ep. 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260801104500 +0000" stop="20260801120000 +0000" channel="KPlus.sg@SD"><title lang="id">Show Champion, Ep. 604</title><episode-num system="xmltv_ns">0.603.0/1</episode-num><episode-num system="onscreen">S01E604</episode-num></programme>
-<programme start="20260801120000 +0000" stop="20260801131500 +0000" channel="KPlus.sg@SD"><title lang="id">Evilive, Ep. 9</title><episode-num system="xmltv_ns">0.8.0/1</episode-num><episode-num system="onscreen">S01E09</episode-num></programme>
-<programme start="20260801131500 +0000" stop="20260801143000 +0000" channel="KPlus.sg@SD"><title lang="id">Evilive, Ep. 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
-<programme start="20260801143000 +0000" stop="20260801161500 +0000" channel="KPlus.sg@SD"><title lang="id">Knowing Bros, Ep. 535</title><episode-num system="xmltv_ns">0.534.0/1</episode-num><episode-num system="onscreen">S01E535</episode-num></programme>
-<programme start="20260801161500 +0000" stop="20260801170000 +0000" channel="KPlus.sg@SD"><title lang="id">Show Champion, Ep. 604</title><episode-num system="xmltv_ns">0.603.0/1</episode-num><episode-num system="onscreen">S01E604</episode-num></programme>
-<programme start="20260731170000 +0000" stop="20260731170500 +0000" channel="LifetimeAsia.us@SD"><title lang="id">MasterChef Australia S18, Ep. 20</title><episode-num system="xmltv_ns">17.19.0/1</episode-num><episode-num system="onscreen">S18E20</episode-num></programme>
-<programme start="20260731170500 +0000" stop="20260731173500 +0000" channel="LifetimeAsia.us@SD"><title lang="id">Rachael Ray in Tuscany, Ep. 20</title><episode-num system="xmltv_ns">0.19.0/1</episode-num><episode-num system="onscreen">S01E20</episode-num></programme>
-<programme start="20260731173500 +0000" stop="20260731183500 +0000" channel="LifetimeAsia.us@SD"><title lang="id">Earth Sweepers, Ep. 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
-<programme start="20260731183500 +0000" stop="20260731202000 +0000" channel="LifetimeAsia.us@SD"><title lang="id">The Venice Murders</title></programme>
-<programme start="20260731202000 +0000" stop="20260731220500 +0000" channel="LifetimeAsia.us@SD"><title lang="id">My Amish Double Life</title></programme>
-<programme start="20260731220500 +0000" stop="20260731230000 +0000" channel="LifetimeAsia.us@SD"><title lang="id">Dr. Pimple Popper: Breaking Out, Ep. 13</title><episode-num system="xmltv_ns">0.12.0/1</episode-num><episode-num system="onscreen">S01E13</episode-num></programme>
-<programme start="20260731230000 +0000" stop="20260801000000 +0000" channel="LifetimeAsia.us@SD"><title lang="id">Dr. Pimple Popper: Breaking Out, Ep. 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
-<programme start="20260801000000 +0000" stop="20260801003000 +0000" channel="LifetimeAsia.us@SD"><title lang="id">1,000 Ways to Dine, Ep. 17</title><episode-num system="xmltv_ns">0.16.0/1</episode-num><episode-num system="onscreen">S01E17</episode-num></programme>
-<programme start="20260801003000 +0000" stop="20260801010000 +0000" channel="LifetimeAsia.us@SD"><title lang="id">1,000 Ways to Dine, Ep. 18</title><episode-num system="xmltv_ns">0.17.0/1</episode-num><episode-num system="onscreen">S01E18</episode-num></programme>
-<programme start="20260801010000 +0000" stop="20260801013500 +0000" channel="LifetimeAsia.us@SD"><title lang="id">Global Soul Kitchen S1, Ep. 9</title><episode-num system="xmltv_ns">0.8.0/1</episode-num><episode-num system="onscreen">S01E09</episode-num></programme>
-<programme start="20260801013500 +0000" stop="20260801020500 +0000" channel="LifetimeAsia.us@SD"><title lang="id">Rachael Ray in Tuscany, Ep. 15</title><episode-num system="xmltv_ns">0.14.0/1</episode-num><episode-num system="onscreen">S01E15</episode-num></programme>
-<programme start="20260801020500 +0000" stop="20260801023500 +0000" channel="LifetimeAsia.us@SD"><title lang="id">Rachael Ray in Tuscany, Ep. 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
-<programme start="20260801023500 +0000" stop="20260801042000 +0000" channel="LifetimeAsia.us@SD"><title lang="id">A Boyfriend to Die For</title></programme>
-<programme start="20260801042000 +0000" stop="20260801060000 +0000" channel="LifetimeAsia.us@SD"><title lang="id">How She Caught a Killer</title></programme>
-<programme start="20260801060000 +0000" stop="20260801070000 +0000" channel="LifetimeAsia.us@SD"><title lang="id">Zombie House Flipping S6, Ep. 88</title><episode-num system="xmltv_ns">5.87.0/1</episode-num><episode-num system="onscreen">S06E88</episode-num></programme>
-<programme start="20260801070000 +0000" stop="20260801073000 +0000" channel="LifetimeAsia.us@SD"><title lang="id">1,000 Ways to Dine, Ep. 17</title><episode-num system="xmltv_ns">0.16.0/1</episode-num><episode-num system="onscreen">S01E17</episode-num></programme>
-<programme start="20260801073000 +0000" stop="20260801082500 +0000" channel="LifetimeAsia.us@SD"><title lang="id">MasterChef Australia S18, Ep. 11</title><episode-num system="xmltv_ns">17.10.0/1</episode-num><episode-num system="onscreen">S18E11</episode-num></programme>
-<programme start="20260801082500 +0000" stop="20260801095500 +0000" channel="LifetimeAsia.us@SD"><title lang="id">MasterChef Australia S18, Ep. 12</title><episode-num system="xmltv_ns">17.11.0/1</episode-num><episode-num system="onscreen">S18E12</episode-num></programme>
-<programme start="20260801095500 +0000" stop="20260801105500 +0000" channel="LifetimeAsia.us@SD"><title lang="id">MasterChef Australia S18, Ep. 13</title><episode-num system="xmltv_ns">17.12.0/1</episode-num><episode-num system="onscreen">S18E13</episode-num></programme>
-<programme start="20260801105500 +0000" stop="20260801115500 +0000" channel="LifetimeAsia.us@SD"><title lang="id">MasterChef Australia S18, Ep. 14</title><episode-num system="xmltv_ns">17.13.0/1</episode-num><episode-num system="onscreen">S18E14</episode-num></programme>
-<programme start="20260801115500 +0000" stop="20260801130000 +0000" channel="LifetimeAsia.us@SD"><title lang="id">MasterChef Australia S18, Ep. 15</title><episode-num system="xmltv_ns">17.14.0/1</episode-num><episode-num system="onscreen">S18E15</episode-num></programme>
-<programme start="20260801130000 +0000" stop="20260801140000 +0000" channel="LifetimeAsia.us@SD"><title lang="id">Dr. Pimple Popper: Breaking Out, Ep. 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
-<programme start="20260801140000 +0000" stop="20260801153500 +0000" channel="LifetimeAsia.us@SD"><title lang="id">Murder at the Lighthouse</title></programme>
-<programme start="20260801153500 +0000" stop="20260801170000 +0000" channel="LifetimeAsia.us@SD"><title lang="id">Secrets in the Desert</title></programme>
-<programme start="20260731170000 +0000" stop="20260731172500 +0000" channel="MDTV.id@HD"><title lang="id">Customs Protection</title></programme>
-<programme start="20260731172500 +0000" stop="20260731175500 +0000" channel="MDTV.id@HD"><title lang="id">86</title></programme>
-<programme start="20260731175500 +0000" stop="20260731190000 +0000" channel="MDTV.id@HD"><title lang="id">Perfume</title></programme>
-<programme start="20260731190000 +0000" stop="20260731200500 +0000" channel="MDTV.id@HD"><title lang="id">Kokdu: Season of Deity</title></programme>
-<programme start="20260731200500 +0000" stop="20260731211000 +0000" channel="MDTV.id@HD"><title lang="id">Dear.M</title></programme>
-<programme start="20260731211000 +0000" stop="20260731225000 +0000" channel="MDTV.id@HD"><title lang="id">Top Spot</title></programme>
-<programme start="20260731225000 +0000" stop="20260731234500 +0000" channel="MDTV.id@HD"><title lang="id">Jelajah Masjid Nusantara</title></programme>
-<programme start="20260731234500 +0000" stop="20260801010000 +0000" channel="MDTV.id@HD"><title lang="id">Ada Apa dengan Dunia</title></programme>
-<programme start="20260801010000 +0000" stop="20260801015500 +0000" channel="MDTV.id@HD"><title lang="id">Fakta +62 Weekend</title></programme>
-<programme start="20260801015500 +0000" stop="20260801030000 +0000" channel="MDTV.id@HD"><title lang="id">SensasiHot</title></programme>
-<programme start="20260801030000 +0000" stop="20260801035000 +0000" channel="MDTV.id@HD"><title lang="id">Main Drama Casting</title></programme>
-<programme start="20260801035000 +0000" stop="20260801050000 +0000" channel="MDTV.id@HD"><title lang="id">Suci</title></programme>
-<programme start="20260801050000 +0000" stop="20260801060000 +0000" channel="MDTV.id@HD"><title lang="id">Resep Chef Devina</title></programme>
-<programme start="20260801060000 +0000" stop="20260801073000 +0000" channel="MDTV.id@HD"><title lang="id">Makan Enak</title></programme>
-<programme start="20260801073000 +0000" stop="20260801090000 +0000" channel="MDTV.id@HD"><title lang="id">Laper Mata</title></programme>
-<programme start="20260801090000 +0000" stop="20260801100000 +0000" channel="MDTV.id@HD"><title lang="id">Masak, Gesss!!!</title></programme>
-<programme start="20260801100000 +0000" stop="20260801103000 +0000" channel="MDTV.id@HD"><title lang="id">Adit Sopo Jarwo</title></programme>
-<programme start="20260801103000 +0000" stop="20260801123000 +0000" channel="MDTV.id@HD"><title lang="id">Carita de ángel</title></programme>
-<programme start="20260801123000 +0000" stop="20260801133000 +0000" channel="MDTV.id@HD"><title lang="id">Ipar Adalah Maut The Series</title></programme>
-<programme start="20260801133000 +0000" stop="20260801143000 +0000" channel="MDTV.id@HD"><title lang="id">Kupu Malam</title></programme>
-<programme start="20260801143000 +0000" stop="20260801153000 +0000" channel="MDTV.id@HD"><title lang="id">Main Drama Casting</title></programme>
-<programme start="20260801153000 +0000" stop="20260801163500 +0000" channel="MDTV.id@HD"><title lang="id">Jatanras</title></programme>
-<programme start="20260801163500 +0000" stop="20260801170000 +0000" channel="MDTV.id@HD"><title lang="id">Customs Protection</title></programme>
-<programme start="20260731170000 +0000" stop="20260731200000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Machine</title></programme>
-<programme start="20260731200000 +0000" stop="20260731230000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Satyaprem Ki Katha</title></programme>
-<programme start="20260731230000 +0000" stop="20260801013000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Toilet: Ek Prem Katha</title></programme>
-<programme start="20260801013000 +0000" stop="20260801020000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Song Fillers</title></programme>
-<programme start="20260801020000 +0000" stop="20260801050000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Naam Shabana</title></programme>
-<programme start="20260801050000 +0000" stop="20260801080000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Satyaprem Ki Katha</title></programme>
-<programme start="20260801080000 +0000" stop="20260801110000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Machine</title></programme>
-<programme start="20260801110000 +0000" stop="20260801140000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Bachchhan Paandey</title></programme>
-<programme start="20260801140000 +0000" stop="20260801170000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Vijay The Master</title></programme>
+<programme start="20260801170000 +0000" stop="20260801180000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Ferrari Challenge Trofeo Pirelli Race 2, Fuji</title></programme>
+<programme start="20260801180000 +0000" stop="20260801183500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Highlights HUNGARIAN GRAND PRIX 2026</title></programme>
+<programme start="20260801183500 +0000" stop="20260801202500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">GT World Challenge Europe Magny-Cours Race 1, Sprint Cup</title></programme>
+<programme start="20260801202500 +0000" stop="20260801203500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LaLiga Goals Galore Vini Jr</title></programme>
+<programme start="20260801203500 +0000" stop="20260801205000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Chasing the Dream Budapest, Hungary</title></programme>
+<programme start="20260801205000 +0000" stop="20260801235000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">European Le Mans Series Imola - Race</title></programme>
+<programme start="20260801235000 +0000" stop="20260802012000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Gran Turismo World Series Nations Cup, Milan</title></programme>
+<programme start="20260802012000 +0000" stop="20260802032000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula 1 Main Race HUNGARIAN GRAND PRIX 2026</title></programme>
+<programme start="20260802032000 +0000" stop="20260802041500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Monaco Grand Prix Historique Highlight Show 1</title></programme>
+<programme start="20260802041500 +0000" stop="20260802051000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Monaco Grand Prix Historique Highlight Show 2</title></programme>
+<programme start="20260802051000 +0000" stop="20260802062000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Ligier European Series Le Castellet Race 1</title></programme>
+<programme start="20260802062000 +0000" stop="20260802073000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Ligier European Series Le Castellet Race 2</title></programme>
+<programme start="20260802073000 +0000" stop="20260802083000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">WRC Rally Finland SS19 Himos-Jamsa 1</title></programme>
+<programme start="20260802083000 +0000" stop="20260802084500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Chasing the Dream Budapest, Hungary</title></programme>
+<programme start="20260802084500 +0000" stop="20260802092500 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">GT World Challenge Europe Magny-Cours Qualifying 2, Sprint Cup</title></programme>
+<programme start="20260802092500 +0000" stop="20260802100000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Formula Regional Highlights Le Castellet</title></programme>
+<programme start="20260802100000 +0000" stop="20260802113000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">WRC Rally Finland SS20 Himos-Jamsa 2 - Wolf PS</title></programme>
+<programme start="20260802113000 +0000" stop="20260802123000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">DTM Highlights Oschersleben</title></programme>
+<programme start="20260802123000 +0000" stop="20260802130000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">Porsche Mobil 1 Supercup Highlights Budapest, Hungary</title></programme>
+<programme start="20260802130000 +0000" stop="20260802145000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">GT World Challenge Europe Magny-Cours Race 2, Sprint Cup</title></programme>
+<programme start="20260802145000 +0000" stop="20260802151000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">LaLiga 2025/26</title></programme>
+<programme start="20260802151000 +0000" stop="20260802165300 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">GT Masters Lausitzring Race 2</title></programme>
+<programme start="20260802165300 +0000" stop="20260802170000 +0000" channel="beINSports1.qa@Indonesia"><title lang="id">WAFCON Ghana vs Cameroon</title></programme>
+<programme start="20260801170000 +0000" stop="20260801180000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Pretoria P1 Day 6 SF2 - Men - Premier Padel</title></programme>
+<programme start="20260801180000 +0000" stop="20260801183000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Premier Padel Highlights Miami P1</title></programme>
+<programme start="20260801183000 +0000" stop="20260801200000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Premier Padel Buenos Aires P1 Day 2 Match 5</title></programme>
+<programme start="20260801200000 +0000" stop="20260801213000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Premier Padel Buenos Aires P1 Day 2 Match 6</title></programme>
+<programme start="20260801213000 +0000" stop="20260801232000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Women&apos;s Super League Liverpool vs London City Lionesses</title></programme>
+<programme start="20260801232000 +0000" stop="20260802011000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Women&apos;s Super League Everton vs Brighton</title></programme>
+<programme start="20260802011000 +0000" stop="20260802030000 +0000" channel="beINSports2.qa@MENA"><title lang="id">France vs New Zealand - Semi Final - Junior World Championship</title></programme>
+<programme start="20260802030000 +0000" stop="20260802050000 +0000" channel="beINSports2.qa@MENA"><title lang="id">PSG TV PSG vs Paris FC</title></programme>
+<programme start="20260802050000 +0000" stop="20260802053000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Roland Garros Mini - Mini Match Women&apos;s Singles Rd 2 Gauff v Sherif</title></programme>
+<programme start="20260802053000 +0000" stop="20260802060000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Roland Garros Mini - Mini Match Women&apos;s Singles Rd 3 Swiatek v Linette</title></programme>
+<programme start="20260802060000 +0000" stop="20260802080000 +0000" channel="beINSports2.qa@MENA"><title lang="id">UCI World Tour Clasica San Sebastian</title></programme>
+<programme start="20260802080000 +0000" stop="20260802093000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Pretoria P1 Day 6 SF1 - Men - Premier Padel</title></programme>
+<programme start="20260802093000 +0000" stop="20260802110000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Pretoria P1 Day 6 SF2 - Men - Premier Padel</title></programme>
+<programme start="20260802110000 +0000" stop="20260802123000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Pretoria P1 Day 7 Final - Women - Premier Padel</title></programme>
+<programme start="20260802123000 +0000" stop="20260802130000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Spain vs New Zealand - 5th Place Play-Off, Valladolid - Men - HSBC SVNS World Championships</title></programme>
+<programme start="20260802130000 +0000" stop="20260802143000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Pretoria P1 Day 7 Final - Men - Premier Padel</title></programme>
+<programme start="20260802143000 +0000" stop="20260802145500 +0000" channel="beINSports2.qa@MENA"><title lang="id">New Zealand vs Canada - 3rd Place Play-Off, Valladolid - Women - HSBC SVNS World Championships</title></programme>
+<programme start="20260802145500 +0000" stop="20260802152000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Fiji vs Argentina - 3rd Place Play-Off, Valladolid - Men - HSBC SVNS World Championships</title></programme>
+<programme start="20260802152000 +0000" stop="20260802154500 +0000" channel="beINSports2.qa@MENA"><title lang="id">Australia vs USA - Cup Final, Valladolid - Women - HSBC SVNS World Championships</title></programme>
+<programme start="20260802154500 +0000" stop="20260802161500 +0000" channel="beINSports2.qa@MENA"><title lang="id">Australia vs South Africa - Cup Final, Valladolid - Men - HSBC SVNS World Championships</title></programme>
+<programme start="20260802161500 +0000" stop="20260802170000 +0000" channel="beINSports2.qa@MENA"><title lang="id">Premier Padel Buenos Aires P1 Day 2 Match 7</title></programme>
+<programme start="20260801170000 +0000" stop="20260801190000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">WAFCON Egypt vs Malawi</title></programme>
+<programme start="20260801190000 +0000" stop="20260801195300 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCL Celtic vs Juventus (2001/02)</title></programme>
+<programme start="20260801195300 +0000" stop="20260801220000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">WAFCON Nigeria vs Zambia</title></programme>
+<programme start="20260801220000 +0000" stop="20260801223000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Racing On The Edge, Ep. 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20260801223000 +0000" stop="20260801230000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCI Women&apos;s World Tour Highlights Santos Tour Down Under - One Day Race</title></programme>
+<programme start="20260801230000 +0000" stop="20260801233000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UEFA Champions League Mini - Mini Match Barcelona vs Copenhagen</title></programme>
+<programme start="20260801233000 +0000" stop="20260802000000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UEFA Champions League Mini - Mini Match Liverpool vs Qarabag</title></programme>
+<programme start="20260802000000 +0000" stop="20260802020000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">AFCON U17 Morocco vs Egypt - 3rd Place</title></programme>
+<programme start="20260802020000 +0000" stop="20260802035000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Super Lig Trabzonspor vs Fenerbahce</title></programme>
+<programme start="20260802035000 +0000" stop="20260802054000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Women&apos;s Super League Brighton vs West Ham</title></programme>
+<programme start="20260802054000 +0000" stop="20260802060000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">MUTV 2000 Premier League Goals: 2011/12</title></programme>
+<programme start="20260802060000 +0000" stop="20260802063000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Racing On The Edge, Ep. 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20260802063000 +0000" stop="20260802070000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCI Women&apos;s World Tour Highlights Santos Tour Down Under - One Day Race</title></programme>
+<programme start="20260802070000 +0000" stop="20260802090000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">AFCON U17 Senegal vs Tanzania - Final</title></programme>
+<programme start="20260802090000 +0000" stop="20260802115500 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Tour de France Stage 2 - Tarragona - Barcelona</title></programme>
+<programme start="20260802115500 +0000" stop="20260802135500 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Friendly Match</title></programme>
+<programme start="20260802135500 +0000" stop="20260802161500 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCI Women&apos;s World Tour Tour de France Femmes - Stage 2</title></programme>
+<programme start="20260802161500 +0000" stop="20260802163000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">MUTV Top Ten: Treble Headers</title></programme>
+<programme start="20260802163000 +0000" stop="20260802170000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">AFCON U17 Cameroon vs Uganda</title></programme>
+<programme start="20260801170000 +0000" stop="20260801191000 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">King Kong</title></programme>
+<programme start="20260801191000 +0000" stop="20260801204000 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Old Guy</title></programme>
+<programme start="20260801204000 +0000" stop="20260801221500 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Pu-239</title></programme>
+<programme start="20260801221500 +0000" stop="20260801235000 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Changing Lanes</title></programme>
+<programme start="20260801235000 +0000" stop="20260802014000 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Dinner for Schmucks</title></programme>
+<programme start="20260802014000 +0000" stop="20260802031500 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Drop</title></programme>
+<programme start="20260802031500 +0000" stop="20260802045500 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Wifelike</title></programme>
+<programme start="20260802045500 +0000" stop="20260802080000 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">King Kong</title></programme>
+<programme start="20260802080000 +0000" stop="20260802101500 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Shazam!</title></programme>
+<programme start="20260802101500 +0000" stop="20260802120500 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Get Smart</title></programme>
+<programme start="20260802120500 +0000" stop="20260802140000 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Hustle &amp; Flow</title></programme>
+<programme start="20260802140000 +0000" stop="20260802160000 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Joker</title></programme>
+<programme start="20260802160000 +0000" stop="20260802170000 +0000" channel="CinemaxAsia.sg@SD"><title lang="id">Old Guy</title></programme>
 </tv>
