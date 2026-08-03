@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260802">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260803">
 <channel id="90"><display-name>Hanacaraka TV</display-name></channel>
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/></channel>
 <channel id="AlJazeera.qa@English"><display-name>Al Jazeera English</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png"/></channel>
@@ -213,106 +213,181 @@
 <channel id="VisionPrime.id@SD"><display-name>Vision Prime</display-name><icon src="https://i.imgur.com/dKnWI2O.png"/></channel>
 <channel id="ZeeBioskop.id@SD"><display-name>Zee Bioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/></channel>
 <channel id="ZooMoo.sg@SD"><display-name>Zoomoo</display-name><icon src="https://i.imgur.com/ciTJrnl.png"/></channel>
-<programme start="20260801180500 +0000" stop="20260801202000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">Between Tears And Smiles</title></programme>
-<programme start="20260801202000 +0000" stop="20260801221500 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">Invincible Enforcer</title></programme>
-<programme start="20260801221500 +0000" stop="20260801235000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">A Friend From Inner Space</title></programme>
-<programme start="20260801235000 +0000" stop="20260802013500 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">Ambush</title></programme>
-<programme start="20260802013500 +0000" stop="20260802035000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">My Dream Boat</title></programme>
-<programme start="20260802035000 +0000" stop="20260802055500 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">The Blood Brothers</title></programme>
-<programme start="20260802055500 +0000" stop="20260802075000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">The Story Of Sue San</title></programme>
-<programme start="20260802075000 +0000" stop="20260802094000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">Four Riders</title></programme>
-<programme start="20260802094000 +0000" stop="20260802112500 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">Sunset</title></programme>
-<programme start="20260802112500 +0000" stop="20260802130000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">Purple Darts</title></programme>
-<programme start="20260802130000 +0000" stop="20260802151000 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">The Adulteress</title></programme>
-<programme start="20260802151000 +0000" stop="20260802171500 +0000" channel="CelestialClassicMovies.id@SD"><title lang="id">King Gambler</title></programme>
-<programme start="20260801182500 +0000" stop="20260801220100 +0000" channel="Cinemachi.uk@HD"><title lang="id">Nightmare Alley: Possession</title></programme>
-<programme start="20260801220100 +0000" stop="20260801233500 +0000" channel="Cinemachi.uk@HD"><title lang="id">Run The Race</title></programme>
-<programme start="20260801233500 +0000" stop="20260802012500 +0000" channel="Cinemachi.uk@HD"><title lang="id">Legendary Voyages</title></programme>
-<programme start="20260802012500 +0000" stop="20260802030800 +0000" channel="Cinemachi.uk@HD"><title lang="id">Le Horla</title></programme>
-<programme start="20260802030800 +0000" stop="20260802050200 +0000" channel="Cinemachi.uk@HD"><title lang="id">Nightmare Alley: Possession</title></programme>
-<programme start="20260802050200 +0000" stop="20260802064800 +0000" channel="Cinemachi.uk@HD"><title lang="id">Take Me Home</title></programme>
-<programme start="20260802064800 +0000" stop="20260802081300 +0000" channel="Cinemachi.uk@HD"><title lang="id">Red Dog</title></programme>
-<programme start="20260802081300 +0000" stop="20260802095800 +0000" channel="Cinemachi.uk@HD"><title lang="id">Legendary Voyages</title></programme>
-<programme start="20260802095800 +0000" stop="20260802115300 +0000" channel="Cinemachi.uk@HD"><title lang="id">Borrego</title></programme>
-<programme start="20260802115300 +0000" stop="20260802134600 +0000" channel="Cinemachi.uk@HD"><title lang="id">Nightmare Alley: Possession</title></programme>
-<programme start="20260802134600 +0000" stop="20260802152600 +0000" channel="Cinemachi.uk@HD"><title lang="id">Viking Quest</title></programme>
-<programme start="20260802152600 +0000" stop="20260802164900 +0000" channel="Cinemachi.uk@HD"><title lang="id">Angels In The Snow</title></programme>
-<programme start="20260802164900 +0000" stop="20260802183600 +0000" channel="Cinemachi.uk@HD"><title lang="id">Legendary Voyages</title></programme>
-<programme start="20260801183300 +0000" stop="20260801202500 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Bridge Of Dragons</title></programme>
-<programme start="20260801202500 +0000" stop="20260801215900 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Death Squad</title></programme>
-<programme start="20260801215900 +0000" stop="20260801233400 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Zodiac: Signs Of The Apocalypse</title></programme>
-<programme start="20260801233400 +0000" stop="20260802005900 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Wake Of Death</title></programme>
-<programme start="20260802005900 +0000" stop="20260802024500 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Deadly Vendeta</title></programme>
-<programme start="20260802024500 +0000" stop="20260802042300 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Wake Of Death</title></programme>
-<programme start="20260802042300 +0000" stop="20260802055700 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Death Squad</title></programme>
-<programme start="20260802055700 +0000" stop="20260802073000 +0000" channel="CinemachiAction.uk@SD"><title lang="id">2012: Supernova</title></programme>
-<programme start="20260802073000 +0000" stop="20260802090500 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Kill Switch</title></programme>
-<programme start="20260802090500 +0000" stop="20260802111700 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Deadly Vendeta</title></programme>
-<programme start="20260802111700 +0000" stop="20260802132300 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Danger Close</title></programme>
-<programme start="20260802132300 +0000" stop="20260802152500 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Death Squad</title></programme>
-<programme start="20260802152500 +0000" stop="20260802170500 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Supercell</title></programme>
-<programme start="20260801180200 +0000" stop="20260801195400 +0000" channel="CinemachiKids.uk@HD"><title lang="id">Space Racers</title></programme>
-<programme start="20260801195400 +0000" stop="20260801215700 +0000" channel="CinemachiKids.uk@HD"><title lang="id">Pokmon: Zoroark</title></programme>
-<programme start="20260801215700 +0000" stop="20260801234100 +0000" channel="CinemachiKids.uk@HD"><title lang="id">House Of Wonder</title></programme>
-<programme start="20260801234100 +0000" stop="20260802012300 +0000" channel="CinemachiKids.uk@HD"><title lang="id">Pokmon: Zoroark</title></programme>
-<programme start="20260802012300 +0000" stop="20260802031000 +0000" channel="CinemachiKids.uk@HD"><title lang="id">Space Racers</title></programme>
-<programme start="20260802031000 +0000" stop="20260802044800 +0000" channel="CinemachiKids.uk@HD"><title lang="id">Dragon Girl</title></programme>
-<programme start="20260802044800 +0000" stop="20260802063300 +0000" channel="CinemachiKids.uk@HD"><title lang="id">House Of Wonder</title></programme>
-<programme start="20260802063300 +0000" stop="20260802080600 +0000" channel="CinemachiKids.uk@HD"><title lang="id">Geschichten vom Franz</title></programme>
-<programme start="20260802080600 +0000" stop="20260802094600 +0000" channel="CinemachiKids.uk@HD"><title lang="id">Space Racers</title></programme>
-<programme start="20260802094600 +0000" stop="20260802112400 +0000" channel="CinemachiKids.uk@HD"><title lang="id">The Christmas Project</title></programme>
-<programme start="20260802112400 +0000" stop="20260802130800 +0000" channel="CinemachiKids.uk@HD"><title lang="id">House Of Wonder</title></programme>
-<programme start="20260802130800 +0000" stop="20260802144100 +0000" channel="CinemachiKids.uk@HD"><title lang="id">Mister Twister Goes Camping</title></programme>
-<programme start="20260802144100 +0000" stop="20260802163100 +0000" channel="CinemachiKids.uk@HD"><title lang="id">Space Racers</title></programme>
-<programme start="20260802163100 +0000" stop="20260802183000 +0000" channel="CinemachiKids.uk@HD"><title lang="id">Least Of These: Christmas Story</title></programme>
-<programme start="20260801180200 +0000" stop="20260801195400 +0000" channel="CinemachiKids.uk@SD"><title lang="id">Space Racers</title></programme>
-<programme start="20260801195400 +0000" stop="20260801215700 +0000" channel="CinemachiKids.uk@SD"><title lang="id">Pokmon: Zoroark</title></programme>
-<programme start="20260801215700 +0000" stop="20260801234100 +0000" channel="CinemachiKids.uk@SD"><title lang="id">House Of Wonder</title></programme>
-<programme start="20260801234100 +0000" stop="20260802012300 +0000" channel="CinemachiKids.uk@SD"><title lang="id">Pokmon: Zoroark</title></programme>
-<programme start="20260802012300 +0000" stop="20260802031000 +0000" channel="CinemachiKids.uk@SD"><title lang="id">Space Racers</title></programme>
-<programme start="20260802031000 +0000" stop="20260802044800 +0000" channel="CinemachiKids.uk@SD"><title lang="id">Dragon Girl</title></programme>
-<programme start="20260802044800 +0000" stop="20260802063300 +0000" channel="CinemachiKids.uk@SD"><title lang="id">House Of Wonder</title></programme>
-<programme start="20260802063300 +0000" stop="20260802080600 +0000" channel="CinemachiKids.uk@SD"><title lang="id">Geschichten vom Franz</title></programme>
-<programme start="20260802080600 +0000" stop="20260802094600 +0000" channel="CinemachiKids.uk@SD"><title lang="id">Space Racers</title></programme>
-<programme start="20260802094600 +0000" stop="20260802112400 +0000" channel="CinemachiKids.uk@SD"><title lang="id">The Christmas Project</title></programme>
-<programme start="20260802112400 +0000" stop="20260802130800 +0000" channel="CinemachiKids.uk@SD"><title lang="id">House Of Wonder</title></programme>
-<programme start="20260802130800 +0000" stop="20260802144100 +0000" channel="CinemachiKids.uk@SD"><title lang="id">Mister Twister Goes Camping</title></programme>
-<programme start="20260802144100 +0000" stop="20260802163100 +0000" channel="CinemachiKids.uk@SD"><title lang="id">Space Racers</title></programme>
-<programme start="20260802163100 +0000" stop="20260802183000 +0000" channel="CinemachiKids.uk@SD"><title lang="id">Least Of These: Christmas Story</title></programme>
-<programme start="20260801173000 +0000" stop="20260801190000 +0000" channel="MuslimTV.id@SD"><title lang="id">Live Dari Mekkah</title></programme>
-<programme start="20260801190000 +0000" stop="20260801200000 +0000" channel="MuslimTV.id@SD"><title lang="id">Cahaya Lentera Hati</title></programme>
-<programme start="20260801200000 +0000" stop="20260801210000 +0000" channel="MuslimTV.id@SD"><title lang="id">Aku Mencintaimu Karena Allah</title></programme>
-<programme start="20260801210000 +0000" stop="20260801220000 +0000" channel="MuslimTV.id@SD"><title lang="id">Amanah Wali S4</title></programme>
-<programme start="20260801220000 +0000" stop="20260801233000 +0000" channel="MuslimTV.id@SD"><title lang="id">Hafiz Indonesia 2019</title></programme>
-<programme start="20260801233000 +0000" stop="20260802003000 +0000" channel="MuslimTV.id@SD"><title lang="id">Cahaya Hati Indonesia</title></programme>
-<programme start="20260802003000 +0000" stop="20260802013000 +0000" channel="MuslimTV.id@SD"><title lang="id">Kun Anta S3</title></programme>
-<programme start="20260802013000 +0000" stop="20260802020000 +0000" channel="MuslimTV.id@SD"><title lang="id">World Of Moslem</title></programme>
-<programme start="20260802020000 +0000" stop="20260802031500 +0000" channel="MuslimTV.id@SD"><title lang="id">Catatan Harian Aisha</title></programme>
-<programme start="20260802031500 +0000" stop="20260802041500 +0000" channel="MuslimTV.id@SD"><title lang="id">Aku Mencintaimu Karena Allah</title></programme>
-<programme start="20260802041500 +0000" stop="20260802053000 +0000" channel="MuslimTV.id@SD"><title lang="id">Siraman Qolbu</title></programme>
-<programme start="20260802053000 +0000" stop="20260802070000 +0000" channel="MuslimTV.id@SD"><title lang="id">Rindu Sang Ibu</title></programme>
-<programme start="20260802070000 +0000" stop="20260802083000 +0000" channel="MuslimTV.id@SD"><title lang="id">Cahaya Hati Indonesia</title></programme>
-<programme start="20260802083000 +0000" stop="20260802093000 +0000" channel="MuslimTV.id@SD"><title lang="id">Catatan Harian Aisha</title></programme>
-<programme start="20260802093000 +0000" stop="20260802103000 +0000" channel="MuslimTV.id@SD"><title lang="id">Cahaya Lentera Hati</title></programme>
-<programme start="20260802103000 +0000" stop="20260802114500 +0000" channel="MuslimTV.id@SD"><title lang="id">Amanah Wali S4</title></programme>
-<programme start="20260802114500 +0000" stop="20260802130000 +0000" channel="MuslimTV.id@SD"><title lang="id">Amanah Wali S4</title></programme>
-<programme start="20260802130000 +0000" stop="20260802140000 +0000" channel="MuslimTV.id@SD"><title lang="id">Catatan Harian Aisha</title></programme>
-<programme start="20260802140000 +0000" stop="20260802150000 +0000" channel="MuslimTV.id@SD"><title lang="id">Aku Mencintaimu Karena Allah</title></programme>
-<programme start="20260802150000 +0000" stop="20260802163000 +0000" channel="MuslimTV.id@SD"><title lang="id">Rindu Sang Ibu</title></programme>
-<programme start="20260802163000 +0000" stop="20260802173000 +0000" channel="MuslimTV.id@SD"><title lang="id">Siraman Qolbu</title></programme>
-<programme start="20260801190000 +0000" stop="20260801191000 +0000" channel="tvNAsia.hk@SD"><title lang="id">You Can Cook, Sam Kim, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
-<programme start="20260801191000 +0000" stop="20260801202500 +0000" channel="tvNAsia.hk@SD"><title lang="id">Mr. Eo&apos;s Food World Tour, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
-<programme start="20260801202500 +0000" stop="20260801220000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Guardian 10th Anniv., Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
-<programme start="20260801220000 +0000" stop="20260802000000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Sixth Sense: City Tour, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
-<programme start="20260802000000 +0000" stop="20260802011500 +0000" channel="tvNAsia.hk@SD"><title lang="id">Filing For Love, Ep 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
-<programme start="20260802011500 +0000" stop="20260802023000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Filing For Love, Ep 8</title><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
-<programme start="20260802023000 +0000" stop="20260802040500 +0000" channel="tvNAsia.hk@SD"><title lang="id">GBRB: Farm Operation, Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
-<programme start="20260802040500 +0000" stop="20260802052000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Mr. Eo&apos;s Food World Tour, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
-<programme start="20260802052000 +0000" stop="20260802074500 +0000" channel="tvNAsia.hk@SD"><title lang="id">Undercover Chef: Korea, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
-<programme start="20260802074500 +0000" stop="20260802092000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Guardian 10th Anniv., Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
-<programme start="20260802092000 +0000" stop="20260802113000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Kill It: Style Creator..., Ep 8</title><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
-<programme start="20260802113000 +0000" stop="20260802132500 +0000" channel="tvNAsia.hk@SD"><title lang="id">Sixth Sense: City Tour, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
-<programme start="20260802132500 +0000" stop="20260802143500 +0000" channel="tvNAsia.hk@SD"><title lang="id">Legend Of Kitchen Soldier, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
-<programme start="20260802143500 +0000" stop="20260802154500 +0000" channel="tvNAsia.hk@SD"><title lang="id">Legend Of Kitchen Soldier, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
-<programme start="20260802154500 +0000" stop="20260802170000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Filing For Love, Ep 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20260802183000 +0000" stop="20260802203000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">CAF Champions: HIL Vs RSB</title></programme>
+<programme start="20260802203000 +0000" stop="20260802210000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">MUTV Treble 20: MUN Vs LOD</title></programme>
+<programme start="20260802210000 +0000" stop="20260802230000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCI Women&apos;s World Tour 2026</title></programme>
+<programme start="20260802230000 +0000" stop="20260802233000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Mini Match UCL: MCI Vs GAL</title></programme>
+<programme start="20260802233000 +0000" stop="20260803000000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Mini Match UCL: PSG Vs NEW</title></programme>
+<programme start="20260803000000 +0000" stop="20260803015000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UECL 2025/26: M05 Vs SAM</title></programme>
+<programme start="20260803015000 +0000" stop="20260803034000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Super Lig 2025/26: GOZ Vs KAY</title></programme>
+<programme start="20260803034000 +0000" stop="20260803035000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCL Classic Matches: AND Vs PSG</title></programme>
+<programme start="20260803035000 +0000" stop="20260803054000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">WSL 2025/26: CHE Vs LEI</title></programme>
+<programme start="20260803054000 +0000" stop="20260803061000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">Mini Match UCL: MCI Vs GAL</title></programme>
+<programme start="20260803061000 +0000" stop="20260803080500 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">WAFCON 2026: GHA Vs CMR</title></programme>
+<programme start="20260803080500 +0000" stop="20260803100000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">WAFCON 2026: MLI Vs CPV</title></programme>
+<programme start="20260803100000 +0000" stop="20260803103000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCL Draw 2026/27 (L)</title></programme>
+<programme start="20260803103000 +0000" stop="20260803130000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">MUTV 2025/26: MUN Vs ATM</title></programme>
+<programme start="20260803130000 +0000" stop="20260803134500 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">MUTV Specials: Casemiro</title></programme>
+<programme start="20260803134500 +0000" stop="20260803161500 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">UCI Women&apos;s World Tour 2026 (L)</title></programme>
+<programme start="20260803161500 +0000" stop="20260803163000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">MUTV Top Ten: Treble Moments</title></programme>
+<programme start="20260803163000 +0000" stop="20260803183000 +0000" channel="beINSports3.qa@Indonesia"><title lang="id">U-17 AFCON 2026: ETH Vs MAR</title></programme>
+<programme start="20260802190000 +0000" stop="20260802210000 +0000" channel="beINSports5.qa@MENA"><title lang="id">beIN Sports 5</title></programme>
+<programme start="20260802210000 +0000" stop="20260802230000 +0000" channel="beINSports5.qa@MENA"><title lang="id">beIN Sports 5</title></programme>
+<programme start="20260802230000 +0000" stop="20260803010000 +0000" channel="beINSports5.qa@MENA"><title lang="id">beIN Sports 5</title></programme>
+<programme start="20260803010000 +0000" stop="20260803030000 +0000" channel="beINSports5.qa@MENA"><title lang="id">beIN Sports 5</title></programme>
+<programme start="20260803030000 +0000" stop="20260803050000 +0000" channel="beINSports5.qa@MENA"><title lang="id">beIN Sports 5</title></programme>
+<programme start="20260803050000 +0000" stop="20260803070000 +0000" channel="beINSports5.qa@MENA"><title lang="id">beIN Sports 5</title></programme>
+<programme start="20260803070000 +0000" stop="20260803090000 +0000" channel="beINSports5.qa@MENA"><title lang="id">beIN Sports 5</title></programme>
+<programme start="20260803090000 +0000" stop="20260803110000 +0000" channel="beINSports5.qa@MENA"><title lang="id">beIN Sports 5</title></programme>
+<programme start="20260803110000 +0000" stop="20260803130000 +0000" channel="beINSports5.qa@MENA"><title lang="id">beIN Sports 5</title></programme>
+<programme start="20260803130000 +0000" stop="20260803150000 +0000" channel="beINSports5.qa@MENA"><title lang="id">beIN Sports 5</title></programme>
+<programme start="20260803150000 +0000" stop="20260803170000 +0000" channel="beINSports5.qa@MENA"><title lang="id">beIN Sports 5</title></programme>
+<programme start="20260802170500 +0000" stop="20260802183300 +0000" channel="CinemachiAction.uk@HD"><title lang="id">Trigger Point</title></programme>
+<programme start="20260802183300 +0000" stop="20260802203800 +0000" channel="CinemachiAction.uk@HD"><title lang="id">Deadly Vendeta</title></programme>
+<programme start="20260802203800 +0000" stop="20260802223300 +0000" channel="CinemachiAction.uk@HD"><title lang="id">Agent Jade Black</title></programme>
+<programme start="20260802223300 +0000" stop="20260803001800 +0000" channel="CinemachiAction.uk@HD"><title lang="id">Death Squad</title></programme>
+<programme start="20260803001800 +0000" stop="20260803015700 +0000" channel="CinemachiAction.uk@HD"><title lang="id">Meteor Apocalypse</title></programme>
+<programme start="20260803015700 +0000" stop="20260803034100 +0000" channel="CinemachiAction.uk@HD"><title lang="id">American Sicario</title></programme>
+<programme start="20260803034100 +0000" stop="20260803053800 +0000" channel="CinemachiAction.uk@HD"><title lang="id">Deadly Vendeta</title></programme>
+<programme start="20260803053800 +0000" stop="20260803071900 +0000" channel="CinemachiAction.uk@HD"><title lang="id">Gold Of Rio Bravo: Sheriff...</title></programme>
+<programme start="20260803071900 +0000" stop="20260803091200 +0000" channel="CinemachiAction.uk@HD"><title lang="id">Death Squad</title></programme>
+<programme start="20260803091200 +0000" stop="20260803105200 +0000" channel="CinemachiAction.uk@HD"><title lang="id">Meteor Apocalypse</title></programme>
+<programme start="20260803105200 +0000" stop="20260803123400 +0000" channel="CinemachiAction.uk@HD"><title lang="id">Direct Action</title></programme>
+<programme start="20260803123400 +0000" stop="20260803141600 +0000" channel="CinemachiAction.uk@HD"><title lang="id">Deadly Vendeta</title></programme>
+<programme start="20260803141600 +0000" stop="20260803161400 +0000" channel="CinemachiAction.uk@HD"><title lang="id">Escape From Death Block 13</title></programme>
+<programme start="20260803161400 +0000" stop="20260803175100 +0000" channel="CinemachiAction.uk@HD"><title lang="id">Death Squad</title></programme>
+<programme start="20260802170500 +0000" stop="20260802183300 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Trigger Point</title></programme>
+<programme start="20260802183300 +0000" stop="20260802203800 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Deadly Vendeta</title></programme>
+<programme start="20260802203800 +0000" stop="20260802223300 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Agent Jade Black</title></programme>
+<programme start="20260802223300 +0000" stop="20260803001800 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Death Squad</title></programme>
+<programme start="20260803001800 +0000" stop="20260803015700 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Meteor Apocalypse</title></programme>
+<programme start="20260803015700 +0000" stop="20260803034100 +0000" channel="CinemachiAction.uk@SD"><title lang="id">American Sicario</title></programme>
+<programme start="20260803034100 +0000" stop="20260803053800 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Deadly Vendeta</title></programme>
+<programme start="20260803053800 +0000" stop="20260803071900 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Gold Of Rio Bravo: Sheriff...</title></programme>
+<programme start="20260803071900 +0000" stop="20260803091200 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Death Squad</title></programme>
+<programme start="20260803091200 +0000" stop="20260803105200 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Meteor Apocalypse</title></programme>
+<programme start="20260803105200 +0000" stop="20260803123400 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Direct Action</title></programme>
+<programme start="20260803123400 +0000" stop="20260803141600 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Deadly Vendeta</title></programme>
+<programme start="20260803141600 +0000" stop="20260803161400 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Escape From Death Block 13</title></programme>
+<programme start="20260803161400 +0000" stop="20260803175100 +0000" channel="CinemachiAction.uk@SD"><title lang="id">Death Squad</title></programme>
+<programme start="20260802172500 +0000" stop="20260802181500 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Sleeping With Killer S2, Ep 18</title><episode-num system="xmltv_ns">1.17.0/1</episode-num><episode-num system="onscreen">S02E18</episode-num></programme>
+<programme start="20260802181500 +0000" stop="20260802184500 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">My Ghost Story Asia S1, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260802184500 +0000" stop="20260802191500 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">My Ghost Story Asia S1, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20260802191500 +0000" stop="20260802200500 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Hoarders S14, Ep 1</title><episode-num system="xmltv_ns">13.0.0/1</episode-num><episode-num system="onscreen">S14E01</episode-num></programme>
+<programme start="20260802200500 +0000" stop="20260802210000 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Hoarders S14, Ep 2</title><episode-num system="xmltv_ns">13.1.0/1</episode-num><episode-num system="onscreen">S14E02</episode-num></programme>
+<programme start="20260802210000 +0000" stop="20260802220000 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">The Life &amp; Murder Of..., Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20260802220000 +0000" stop="20260802225000 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">City Confidential S9, Ep 10</title><episode-num system="xmltv_ns">8.9.0/1</episode-num><episode-num system="onscreen">S09E10</episode-num></programme>
+<programme start="20260802225000 +0000" stop="20260802232000 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Partners In Crime S2, Ep 3</title><episode-num system="xmltv_ns">1.2.0/1</episode-num><episode-num system="onscreen">S02E03</episode-num></programme>
+<programme start="20260802232000 +0000" stop="20260802235000 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Partners In Crime S2, Ep 4</title><episode-num system="xmltv_ns">1.3.0/1</episode-num><episode-num system="onscreen">S02E04</episode-num></programme>
+<programme start="20260802235000 +0000" stop="20260803004000 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Undercover: On Tape, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20260803004000 +0000" stop="20260803013500 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Hoarders S14, Ep 1</title><episode-num system="xmltv_ns">13.0.0/1</episode-num><episode-num system="onscreen">S14E01</episode-num></programme>
+<programme start="20260803013500 +0000" stop="20260803023000 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Hoarders S14, Ep 2</title><episode-num system="xmltv_ns">13.1.0/1</episode-num><episode-num system="onscreen">S14E02</episode-num></programme>
+<programme start="20260803023000 +0000" stop="20260803033000 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">The Life &amp; Murder Of..., Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20260803033000 +0000" stop="20260803042000 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Ozark Law S1, Ep 9</title><episode-num system="xmltv_ns">0.8.0/1</episode-num><episode-num system="onscreen">S01E09</episode-num></programme>
+<programme start="20260803042000 +0000" stop="20260803051000 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Sleeping With Killer S2, Ep 18</title><episode-num system="xmltv_ns">1.17.0/1</episode-num><episode-num system="onscreen">S02E18</episode-num></programme>
+<programme start="20260803051000 +0000" stop="20260803054000 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">My Ghost Story Asia S1, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260803054000 +0000" stop="20260803061000 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">My Ghost Story Asia S1, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20260803061000 +0000" stop="20260803070000 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">City Confidential S9, Ep 10</title><episode-num system="xmltv_ns">8.9.0/1</episode-num><episode-num system="onscreen">S09E10</episode-num></programme>
+<programme start="20260803070000 +0000" stop="20260803073000 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Partners In Crime S2, Ep 3</title><episode-num system="xmltv_ns">1.2.0/1</episode-num><episode-num system="onscreen">S02E03</episode-num></programme>
+<programme start="20260803073000 +0000" stop="20260803080000 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Partners In Crime S2, Ep 4</title><episode-num system="xmltv_ns">1.3.0/1</episode-num><episode-num system="onscreen">S02E04</episode-num></programme>
+<programme start="20260803080000 +0000" stop="20260803085500 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Undercover: On Tape, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20260803085500 +0000" stop="20260803094500 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Cold Case Files: West, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20260803094500 +0000" stop="20260803103500 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Booked: First Day In S1, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20260803103500 +0000" stop="20260803112500 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Beyond Headlines: Tanya Kach</title></programme>
+<programme start="20260803112500 +0000" stop="20260803121500 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Taking The Stand S2, Ep 1</title><episode-num system="xmltv_ns">1.0.0/1</episode-num><episode-num system="onscreen">S02E01</episode-num></programme>
+<programme start="20260803121500 +0000" stop="20260803130500 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Cold Case Files: DNA, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20260803130500 +0000" stop="20260803135500 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Murder And Mayhem In Taipei</title></programme>
+<programme start="20260803135500 +0000" stop="20260803144500 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Crime In Progress, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20260803144500 +0000" stop="20260803153500 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Murder In The 21st, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20260803153500 +0000" stop="20260803162500 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Accused: Guilty Or... S6, Ep 5</title><episode-num system="xmltv_ns">5.4.0/1</episode-num><episode-num system="onscreen">S06E05</episode-num></programme>
+<programme start="20260803162500 +0000" stop="20260803172000 +0000" channel="CrimePlusInvestigationAsia.sg@SD"><title lang="id">Murder And Mayhem In Taipei</title></programme>
+<programme start="20260802172500 +0000" stop="20260802182000 +0000" channel="LoveNature.ca@HD"><title lang="id">Bugs That Rule World S1, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260802182000 +0000" stop="20260802191500 +0000" channel="LoveNature.ca@HD"><title lang="id">Bugs That Rule World S1, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260802191500 +0000" stop="20260802201000 +0000" channel="LoveNature.ca@HD"><title lang="id">Bugs That Rule World S1, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260802201000 +0000" stop="20260802210500 +0000" channel="LoveNature.ca@HD"><title lang="id">Bugs That Rule World S1, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20260802210500 +0000" stop="20260802220000 +0000" channel="LoveNature.ca@HD"><title lang="id">A Bee&apos;s Diary</title></programme>
+<programme start="20260802220000 +0000" stop="20260802222500 +0000" channel="LoveNature.ca@HD"><title lang="id">Animal Senses S1, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260802222500 +0000" stop="20260802232000 +0000" channel="LoveNature.ca@HD"><title lang="id">My Best Friend&apos;s An... S2, Ep 1</title><episode-num system="xmltv_ns">1.0.0/1</episode-num><episode-num system="onscreen">S02E01</episode-num></programme>
+<programme start="20260802232000 +0000" stop="20260803001500 +0000" channel="LoveNature.ca@HD"><title lang="id">My Best Friend&apos;s An... S2, Ep 2</title><episode-num system="xmltv_ns">1.1.0/1</episode-num><episode-num system="onscreen">S02E02</episode-num></programme>
+<programme start="20260803001500 +0000" stop="20260803011000 +0000" channel="LoveNature.ca@HD"><title lang="id">Superbeast S1, Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260803011000 +0000" stop="20260803020500 +0000" channel="LoveNature.ca@HD"><title lang="id">Africa&apos;s Hunters S3, Ep 4</title><episode-num system="xmltv_ns">2.3.0/1</episode-num><episode-num system="onscreen">S03E04</episode-num></programme>
+<programme start="20260803020500 +0000" stop="20260803030000 +0000" channel="LoveNature.ca@HD"><title lang="id">Africa&apos;s Hunters S3, Ep 5</title><episode-num system="xmltv_ns">2.4.0/1</episode-num><episode-num system="onscreen">S03E05</episode-num></programme>
+<programme start="20260803030000 +0000" stop="20260803035000 +0000" channel="LoveNature.ca@HD"><title lang="id">Survival Of The Beast S1, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260803035000 +0000" stop="20260803044000 +0000" channel="LoveNature.ca@HD"><title lang="id">Wild Tales From Farm S1, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260803044000 +0000" stop="20260803053500 +0000" channel="LoveNature.ca@HD"><title lang="id">My Best Friend&apos;s An... S2, Ep 1</title><episode-num system="xmltv_ns">1.0.0/1</episode-num><episode-num system="onscreen">S02E01</episode-num></programme>
+<programme start="20260803053500 +0000" stop="20260803063000 +0000" channel="LoveNature.ca@HD"><title lang="id">My Best Friend&apos;s An... S2, Ep 2</title><episode-num system="xmltv_ns">1.1.0/1</episode-num><episode-num system="onscreen">S02E02</episode-num></programme>
+<programme start="20260803063000 +0000" stop="20260803072500 +0000" channel="LoveNature.ca@HD"><title lang="id">Bugs That Rule World S1, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260803072500 +0000" stop="20260803082000 +0000" channel="LoveNature.ca@HD"><title lang="id">Africa&apos;s Hunters S3, Ep 4</title><episode-num system="xmltv_ns">2.3.0/1</episode-num><episode-num system="onscreen">S03E04</episode-num></programme>
+<programme start="20260803082000 +0000" stop="20260803091500 +0000" channel="LoveNature.ca@HD"><title lang="id">Africa&apos;s Hunters S3, Ep 5</title><episode-num system="xmltv_ns">2.4.0/1</episode-num><episode-num system="onscreen">S03E05</episode-num></programme>
+<programme start="20260803091500 +0000" stop="20260803101000 +0000" channel="LoveNature.ca@HD"><title lang="id">Survival Of The Beast S1, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260803101000 +0000" stop="20260803110500 +0000" channel="LoveNature.ca@HD"><title lang="id">Wild Tales From Farm S1, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260803110500 +0000" stop="20260803120000 +0000" channel="LoveNature.ca@HD"><title lang="id">My Best Friend&apos;s An... S2, Ep 1</title><episode-num system="xmltv_ns">1.0.0/1</episode-num><episode-num system="onscreen">S02E01</episode-num></programme>
+<programme start="20260803120000 +0000" stop="20260803125500 +0000" channel="LoveNature.ca@HD"><title lang="id">My Best Friend&apos;s An... S2, Ep 2</title><episode-num system="xmltv_ns">1.1.0/1</episode-num><episode-num system="onscreen">S02E02</episode-num></programme>
+<programme start="20260803125500 +0000" stop="20260803135000 +0000" channel="LoveNature.ca@HD"><title lang="id">Superbeast S1, Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260803135000 +0000" stop="20260803144500 +0000" channel="LoveNature.ca@HD"><title lang="id">Africa&apos;s Hunters S3, Ep 4</title><episode-num system="xmltv_ns">2.3.0/1</episode-num><episode-num system="onscreen">S03E04</episode-num></programme>
+<programme start="20260803144500 +0000" stop="20260803154000 +0000" channel="LoveNature.ca@HD"><title lang="id">Africa&apos;s Hunters S3, Ep 5</title><episode-num system="xmltv_ns">2.4.0/1</episode-num><episode-num system="onscreen">S03E05</episode-num></programme>
+<programme start="20260803154000 +0000" stop="20260803163500 +0000" channel="LoveNature.ca@HD"><title lang="id">Survival Of The Beast S1, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260803163500 +0000" stop="20260803172500 +0000" channel="LoveNature.ca@HD"><title lang="id">Wild Tales From Farm S1, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260802170000 +0000" stop="20260802190000 +0000" channel="MNCTV.id@SD"><title lang="id">Suparman Reborn</title></programme>
+<programme start="20260802190000 +0000" stop="20260802220000 +0000" channel="MNCTV.id@SD"><title lang="id">Suparman Reborn</title></programme>
+<programme start="20260802220000 +0000" stop="20260802230000 +0000" channel="MNCTV.id@SD"><title lang="id">Siraman Qolbu</title></programme>
+<programme start="20260802230000 +0000" stop="20260802231500 +0000" channel="MNCTV.id@SD"><title lang="id">CoComelon</title></programme>
+<programme start="20260802231500 +0000" stop="20260803000000 +0000" channel="MNCTV.id@SD"><title lang="id">Dora &amp; Sahabat</title></programme>
+<programme start="20260803000000 +0000" stop="20260803003000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
+<programme start="20260803003000 +0000" stop="20260803010000 +0000" channel="MNCTV.id@SD"><title lang="id">Pada Zaman Dahulu</title></programme>
+<programme start="20260803010000 +0000" stop="20260803041500 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
+<programme start="20260803041500 +0000" stop="20260803050000 +0000" channel="MNCTV.id@SD"><title lang="id">Kiko</title></programme>
+<programme start="20260803050000 +0000" stop="20260803053000 +0000" channel="MNCTV.id@SD"><title lang="id">Lintas iNews Siang</title></programme>
+<programme start="20260803053000 +0000" stop="20260803060000 +0000" channel="MNCTV.id@SD"><title lang="id">Seleb On News</title></programme>
+<programme start="20260803060000 +0000" stop="20260803073000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
+<programme start="20260803073000 +0000" stop="20260803090000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
+<programme start="20260803090000 +0000" stop="20260803110000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
+<programme start="20260803110000 +0000" stop="20260803120000 +0000" channel="MNCTV.id@SD"><title lang="id">Entong</title></programme>
+<programme start="20260803120000 +0000" stop="20260803130000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
+<programme start="20260803130000 +0000" stop="20260803160000 +0000" channel="MNCTV.id@SD"><title lang="id">DMD Panggung Rezeki</title></programme>
+<programme start="20260803160000 +0000" stop="20260803170000 +0000" channel="MNCTV.id@SD"><title lang="id">Montir Cantik</title></programme>
+<programme start="20260802170000 +0000" stop="20260802190000 +0000" channel="Sportstars4.id@SD"><title lang="id">Garuda Di Arena SEA Games</title></programme>
+<programme start="20260802190000 +0000" stop="20260802210000 +0000" channel="Sportstars4.id@SD"><title lang="id">V-League Women</title></programme>
+<programme start="20260802210000 +0000" stop="20260802230000 +0000" channel="Sportstars4.id@SD"><title lang="id">Bundesliga</title></programme>
+<programme start="20260802230000 +0000" stop="20260803010000 +0000" channel="Sportstars4.id@SD"><title lang="id">Satu Hati Untuk Garuda</title></programme>
+<programme start="20260803010000 +0000" stop="20260803030000 +0000" channel="Sportstars4.id@SD"><title lang="id">ASEAN C&apos;ship Hyundai Cup 2026</title></programme>
+<programme start="20260803030000 +0000" stop="20260803050000 +0000" channel="Sportstars4.id@SD"><title lang="id">V-League Women</title></programme>
+<programme start="20260803050000 +0000" stop="20260803070000 +0000" channel="Sportstars4.id@SD"><title lang="id">Bundesliga</title></programme>
+<programme start="20260803070000 +0000" stop="20260803090000 +0000" channel="Sportstars4.id@SD"><title lang="id">Garuda Di Arena SEA Games</title></programme>
+<programme start="20260803090000 +0000" stop="20260803110000 +0000" channel="Sportstars4.id@SD"><title lang="id">V-League Women</title></programme>
+<programme start="20260803110000 +0000" stop="20260803130000 +0000" channel="Sportstars4.id@SD"><title lang="id">ASEAN C&apos;ship Hyundai Cup 2026</title></programme>
+<programme start="20260803130000 +0000" stop="20260803150000 +0000" channel="Sportstars4.id@SD"><title lang="id">Bundesliga</title></programme>
+<programme start="20260803150000 +0000" stop="20260803170000 +0000" channel="Sportstars4.id@SD"><title lang="id">Sportacular International Match</title></programme>
+<programme start="20260802170000 +0000" stop="20260802180000 +0000" channel="SPOTV.id@SD"><title lang="id">AIG Women&apos;s Open 2026 (L)</title></programme>
+<programme start="20260802180000 +0000" stop="20260802193000 +0000" channel="SPOTV.id@SD"><title lang="id">Bosch Power Tools Perth Super</title></programme>
+<programme start="20260802193000 +0000" stop="20260802213000 +0000" channel="SPOTV.id@SD"><title lang="id">Bosch Power Tools Perth Super</title></programme>
+<programme start="20260802213000 +0000" stop="20260802233000 +0000" channel="SPOTV.id@SD"><title lang="id">Bosch Power Tools Perth Super</title></programme>
+<programme start="20260802233000 +0000" stop="20260803030000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 WTCS: London</title></programme>
+<programme start="20260803030000 +0000" stop="20260803050000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 U.S. Junior Amateur C&apos;ship</title></programme>
+<programme start="20260803050000 +0000" stop="20260803080000 +0000" channel="SPOTV.id@SD"><title lang="id">AIG Women&apos;s Open 2026</title></programme>
+<programme start="20260803080000 +0000" stop="20260803120000 +0000" channel="SPOTV.id@SD"><title lang="id">AIG Women&apos;s Open 2026</title></programme>
+<programme start="20260803120000 +0000" stop="20260803124500 +0000" channel="SPOTV.id@SD"><title lang="id">ISPS Handa Senior Open 2026 HL</title></programme>
+<programme start="20260803124500 +0000" stop="20260803150000 +0000" channel="SPOTV.id@SD"><title lang="id">GOTF 2026: Basketball (L)</title></programme>
+<programme start="20260803150000 +0000" stop="20260803160000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 WSL Inside Pro Surfing</title></programme>
+<programme start="20260803160000 +0000" stop="20260803173000 +0000" channel="SPOTV.id@SD"><title lang="id">2026 LIV Golf League: U.K. HL</title></programme>
+<programme start="20260802170000 +0000" stop="20260802180000 +0000" channel="VisionPrime.id@SD"><title lang="id">Tiger And Crane</title></programme>
+<programme start="20260802180000 +0000" stop="20260802190000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terikat Janji</title></programme>
+<programme start="20260802190000 +0000" stop="20260802200000 +0000" channel="VisionPrime.id@SD"><title lang="id">Liontin</title></programme>
+<programme start="20260802200000 +0000" stop="20260802210000 +0000" channel="VisionPrime.id@SD"><title lang="id">Ikatan Cinta</title></programme>
+<programme start="20260802210000 +0000" stop="20260802220000 +0000" channel="VisionPrime.id@SD"><title lang="id">Cinta Yasmin</title></programme>
+<programme start="20260802220000 +0000" stop="20260802230000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terlanjur Mencintaimu</title></programme>
+<programme start="20260802230000 +0000" stop="20260803000000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terikat Janji</title></programme>
+<programme start="20260803000000 +0000" stop="20260803010000 +0000" channel="VisionPrime.id@SD"><title lang="id">Ikatan Cinta</title></programme>
+<programme start="20260803010000 +0000" stop="20260803030000 +0000" channel="VisionPrime.id@SD"><title lang="id">The Taichi Master</title></programme>
+<programme start="20260803030000 +0000" stop="20260803050000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terikat Janji</title></programme>
+<programme start="20260803050000 +0000" stop="20260803060000 +0000" channel="VisionPrime.id@SD"><title lang="id">Manda Curhat</title></programme>
+<programme start="20260803060000 +0000" stop="20260803070000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terlanjur Mencintaimu</title></programme>
+<programme start="20260803070000 +0000" stop="20260803080000 +0000" channel="VisionPrime.id@SD"><title lang="id">Liontin</title></programme>
+<programme start="20260803080000 +0000" stop="20260803090000 +0000" channel="VisionPrime.id@SD"><title lang="id">Cinta Yasmin</title></programme>
+<programme start="20260803090000 +0000" stop="20260803120000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terikat Janji</title></programme>
+<programme start="20260803120000 +0000" stop="20260803130000 +0000" channel="VisionPrime.id@SD"><title lang="id">Terlanjur Mencintaimu</title></programme>
+<programme start="20260803130000 +0000" stop="20260803140000 +0000" channel="VisionPrime.id@SD"><title lang="id">Cinderella Betawi</title></programme>
+<programme start="20260803140000 +0000" stop="20260803143000 +0000" channel="VisionPrime.id@SD"><title lang="id">Pay Later</title></programme>
+<programme start="20260803143000 +0000" stop="20260803150000 +0000" channel="VisionPrime.id@SD"><title lang="id">Ketawa Dimana Aja</title></programme>
+<programme start="20260803150000 +0000" stop="20260803170000 +0000" channel="VisionPrime.id@SD"><title lang="id">Imperfect</title></programme>
 </tv>
