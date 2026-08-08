@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260807">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260808">
 <channel id="3sat"><display-name>3sat</display-name></channel>
 <channel id="24urm"><display-name>Televizija 24</display-name></channel>
 <channel id="24vesti"><display-name>TV Vijesti</display-name></channel>
@@ -311,154 +311,34 @@
 <channel id="zdf"><display-name>ZDF</display-name></channel>
 <channel id="zdrava"><display-name>Zdrava Televizija</display-name></channel>
 <channel id="zdravatv"><display-name>Zdrava TV</display-name></channel>
-<programme start="20260807002500 +0000" stop="20260807011000 +0000" channel="3sat"><title lang="sl">Otoške sanje</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260807011000 +0000" stop="20260807015000 +0000" channel="3sat"><title lang="sl">Otoške sanje</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
-<programme start="20260807015000 +0000" stop="20260807023500 +0000" channel="3sat"><title lang="sl">Halligen v Waddenskem morju</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260807023500 +0000" stop="20260807032000 +0000" channel="3sat"><title lang="sl">Mit Severnega morja</title><category lang="sl">nadaljevanka-nanizanka</category><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260807032000 +0000" stop="20260807041000 +0000" channel="3sat"><title lang="sl">Mit Severnega morja</title><category lang="sl">nadaljevanka-nanizanka</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260807041000 +0000" stop="20260807041500 +0000" channel="3sat"><title lang="sl">Pause</title><category lang="sl">ostalo</category></programme>
-<programme start="20260807041500 +0000" stop="20260807044500 +0000" channel="3sat"><title lang="sl">Azori: Zeleni otoški raj</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260807044500 +0000" stop="20260807053000 +0000" channel="3sat"><title lang="sl">Sanjski kraji: Alentejo</title><category lang="sl">nadaljevanka-nanizanka</category></programme>
-<programme start="20260807053000 +0000" stop="20260807060000 +0000" channel="3sat"><title lang="sl">Alpska panorama</title><category lang="sl">ostalo</category></programme>
-<programme start="20260807060000 +0000" stop="20260807060500 +0000" channel="3sat"><title lang="sl">Čas v sliki</title><category lang="sl">informativni</category></programme>
-<programme start="20260807060500 +0000" stop="20260807063000 +0000" channel="3sat"><title lang="sl">Alpska panorama</title><category lang="sl">ostalo</category></programme>
-<programme start="20260807063000 +0000" stop="20260807063300 +0000" channel="3sat"><title lang="sl">Čas v sliki</title><category lang="sl">informativni</category></programme>
-<programme start="20260807063300 +0000" stop="20260807070000 +0000" channel="3sat"><title lang="sl">Alpska panorama</title><category lang="sl">ostalo</category></programme>
-<programme start="20260807070000 +0000" stop="20260807070500 +0000" channel="3sat"><title lang="sl">Čas v sliki</title><category lang="sl">informativni</category></programme>
-<programme start="20260807070500 +0000" stop="20260807074500 +0000" channel="3sat"><title lang="sl">Umetnost za večnost</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
-<programme start="20260807074500 +0000" stop="20260807083500 +0000" channel="3sat"><title lang="sl">Sanjski kraji: Alentejo</title><category lang="sl">nadaljevanka-nanizanka</category></programme>
-<programme start="20260807083500 +0000" stop="20260807092000 +0000" channel="3sat"><title lang="sl">Zmenek v parku</title><category lang="sl">nadaljevanka-nanizanka</category><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
-<programme start="20260807092000 +0000" stop="20260807095000 +0000" channel="3sat"><title lang="sl">Reporter</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260807095000 +0000" stop="20260807102000 +0000" channel="3sat"><title lang="sl">Preprosto človeško!: Življenje s protezo</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260807102000 +0000" stop="20260807105000 +0000" channel="3sat"><title lang="sl">puzzle</title><category lang="sl">kultura-umetnost</category></programme>
-<programme start="20260807105000 +0000" stop="20260807112000 +0000" channel="3sat"><title lang="sl">Nemčija, kdaj sem dovolj?</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260807112000 +0000" stop="20260807115000 +0000" channel="3sat"><title lang="sl">Azori: Zeleni otoški raj</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260807115000 +0000" stop="20260807123000 +0000" channel="3sat"><title lang="sl">Popoln Planet</title><category lang="sl">nadaljevanka-nanizanka</category><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260807123000 +0000" stop="20260807131500 +0000" channel="3sat"><title lang="sl">Filipinsko otočje</title><category lang="sl">nadaljevanka-nanizanka</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260807131500 +0000" stop="20260807140000 +0000" channel="3sat"><title lang="sl">La Palma – Protokol vulkanskega izbruha</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260807140000 +0000" stop="20260807144500 +0000" channel="3sat"><title lang="sl">Zadnji dan Pompejev</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260807144500 +0000" stop="20260807153000 +0000" channel="3sat"><title lang="sl">Strela – Naelektreno nebo</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260807153000 +0000" stop="20260807161500 +0000" channel="3sat"><title lang="sl">Ekspedicija Andi</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260807161500 +0000" stop="20260807170000 +0000" channel="3sat"><title lang="sl">Ekspedicija Andi</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260807170000 +0000" stop="20260807171800 +0000" channel="3sat"><title lang="sl">Danes</title><category lang="sl">informativni</category></programme>
-<programme start="20260807171800 +0000" stop="20260807172000 +0000" channel="3sat"><title lang="sl">3sat: Vreme</title><category lang="sl">informativni</category></programme>
-<programme start="20260807172000 +0000" stop="20260807180000 +0000" channel="3sat"><title lang="sl">Umetnost za večnost</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
-<programme start="20260807180000 +0000" stop="20260807181500 +0000" channel="3sat"><title lang="sl">Dnevnik</title><category lang="sl">informativni</category></programme>
-<programme start="20260807181500 +0000" stop="20260807194500 +0000" channel="3sat"><title lang="sl">Ottilie von Faber-Castell: Pogumna ženska</title><category lang="sl">film</category></programme>
-<programme start="20260807194500 +0000" stop="20260807200000 +0000" channel="3sat"><title lang="sl">Na vodnih poteh</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260807200000 +0000" stop="20260807202500 +0000" channel="3sat"><title lang="sl">Čas v sliki 2</title><category lang="sl">informativni</category></programme>
-<programme start="20260807202500 +0000" stop="20260807220500 +0000" channel="3sat"><title lang="sl">Pusta zemlja</title><category lang="sl">film</category></programme>
-<programme start="20260807220500 +0000" stop="20260807223000 +0000" channel="3sat"><title lang="sl">10 pred 10</title><category lang="sl">informativni</category></programme>
-<programme start="20260807223000 +0000" stop="20260807230000 +0000" channel="3sat"><title lang="sl">Anja Reschke</title><category lang="sl">razvedrilni</category><episode-num system="xmltv_ns">7.1.0/1</episode-num><episode-num system="onscreen">S08E02</episode-num></programme>
-<programme start="20260807230000 +0000" stop="20260807233000 +0000" channel="3sat"><title lang="sl">Vrhunci kabareta z Donauinselfesta: Angelika Niedetzky</title><category lang="sl">razvedrilni</category></programme>
-<programme start="20260807020000 +0000" stop="20260807050000 +0000" channel="24urm"><title lang="sl">Nočni program</title><category lang="sl">ostalo</category></programme>
-<programme start="20260807050000 +0000" stop="20260807060000 +0000" channel="24urm"><title lang="sl">Zabavna glasba</title><category lang="sl">razvedrilni</category></programme>
-<programme start="20260807060000 +0000" stop="20260807071500 +0000" channel="24urm"><title lang="sl">Iz oči v oči</title><category lang="sl">informativni</category></programme>
-<programme start="20260807071500 +0000" stop="20260807080000 +0000" channel="24urm"><title lang="sl">Dejavnik zdravja</title><category lang="sl">informativni</category></programme>
-<programme start="20260807080000 +0000" stop="20260807090000 +0000" channel="24urm"><title lang="sl">1001 obrok</title><category lang="sl">izobraževalni</category></programme>
-<programme start="20260807090000 +0000" stop="20260807100000 +0000" channel="24urm"><title lang="sl">Dokumentarna oddaja</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260807100000 +0000" stop="20260807104000 +0000" channel="24urm"><title lang="sl">Poročila</title><category lang="sl">informativni</category></programme>
-<programme start="20260807104000 +0000" stop="20260807120000 +0000" channel="24urm"><title lang="sl">V teku</title><category lang="sl">informativni</category></programme>
-<programme start="20260807120000 +0000" stop="20260807123000 +0000" channel="24urm"><title lang="sl">Poročila</title><category lang="sl">informativni</category></programme>
-<programme start="20260807123000 +0000" stop="20260807131000 +0000" channel="24urm"><title lang="sl">TV intervju</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260807131000 +0000" stop="20260807140000 +0000" channel="24urm"><title lang="sl">Dokumentarni program</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260807140000 +0000" stop="20260807150000 +0000" channel="24urm"><title lang="sl">Iz oči v oči</title><category lang="sl">informativni</category></programme>
-<programme start="20260807150000 +0000" stop="20260807160000 +0000" channel="24urm"><title lang="sl">Dnevnik</title><category lang="sl">informativni</category></programme>
-<programme start="20260807160000 +0000" stop="20260807165000 +0000" channel="24urm"><title lang="sl">Tisti, ki prihaja</title><category lang="sl">nadaljevanka-nanizanka</category></programme>
-<programme start="20260807165000 +0000" stop="20260807180000 +0000" channel="24urm"><title lang="sl">Dokumentarni program</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260807180000 +0000" stop="20260807184500 +0000" channel="24urm"><title lang="sl">Dnevnik</title><category lang="sl">informativni</category></programme>
-<programme start="20260807184500 +0000" stop="20260807200000 +0000" channel="24urm"><title lang="sl">Triling</title><category lang="sl">informativni</category></programme>
-<programme start="20260807200000 +0000" stop="20260807203000 +0000" channel="24urm"><title lang="sl">Dnevnik</title><category lang="sl">informativni</category></programme>
-<programme start="20260807203000 +0000" stop="20260807211500 +0000" channel="24urm"><title lang="sl">Tisti, ki prihaja</title><category lang="sl">nadaljevanka-nanizanka</category></programme>
-<programme start="20260807211500 +0000" stop="20260807220000 +0000" channel="24urm"><title lang="sl">Dokumentarni program</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260807000000 +0000" stop="20260807040000 +0000" channel="arenatv"><title lang="sl">Nočni program</title><category lang="sl">informativni</category></programme>
-<programme start="20260807040000 +0000" stop="20260807050000 +0000" channel="arenatv"><title lang="sl">Nočni program</title><category lang="sl">informativni</category></programme>
-<programme start="20260807050000 +0000" stop="20260807050500 +0000" channel="arenatv"><title lang="sl">TV koledar</title><category lang="sl">informativni</category></programme>
-<programme start="20260807050500 +0000" stop="20260807051000 +0000" channel="arenatv"><title lang="sl">Timmy Kids</title><category lang="sl">otroški-mladinski</category><episode-num system="xmltv_ns">0.267.0/1</episode-num><episode-num system="onscreen">S01E268</episode-num></programme>
-<programme start="20260807051000 +0000" stop="20260807074000 +0000" channel="arenatv"><title lang="sl">Arenina veselica</title><category lang="sl">razvedrilni</category></programme>
-<programme start="20260807074000 +0000" stop="20260807074500 +0000" channel="arenatv"><title lang="sl">TV koledar</title><category lang="sl">informativni</category></programme>
-<programme start="20260807074500 +0000" stop="20260807081000 +0000" channel="arenatv"><title lang="sl">Glasbeni večer: Perpetuum Jazzile</title><category lang="sl">razvedrilni</category></programme>
-<programme start="20260807081000 +0000" stop="20260807091500 +0000" channel="arenatv"><title lang="sl">Eliksir: Terrapromo</title><category lang="sl">ostalo</category></programme>
-<programme start="20260807091500 +0000" stop="20260807102000 +0000" channel="arenatv"><title lang="sl">Koncert domačih melodij</title><category lang="sl">razvedrilni</category></programme>
-<programme start="20260807102000 +0000" stop="20260807111000 +0000" channel="arenatv"><title lang="sl">Bonanza</title><category lang="sl">nadaljevanka-nanizanka</category><episode-num system="xmltv_ns">0.152.0/1</episode-num><episode-num system="onscreen">S01E153</episode-num></programme>
-<programme start="20260807111000 +0000" stop="20260807120000 +0000" channel="arenatv"><title lang="sl">Hišica v preriji</title><category lang="sl">nadaljevanka-nanizanka</category><episode-num system="xmltv_ns">0.171.0/1</episode-num><episode-num system="onscreen">S01E172</episode-num></programme>
-<programme start="20260807120000 +0000" stop="20260807123000 +0000" channel="arenatv"><title lang="sl">Butik Kapsula</title><category lang="sl">ostalo</category></programme>
-<programme start="20260807123000 +0000" stop="20260807160500 +0000" channel="arenatv"><title lang="sl">Italijanska modna trgovina</title><category lang="sl">ostalo</category></programme>
-<programme start="20260807160500 +0000" stop="20260807163500 +0000" channel="arenatv"><title lang="sl">Več zdravja: MIC Mengeš</title><category lang="sl">informativni</category></programme>
-<programme start="20260807163500 +0000" stop="20260807174000 +0000" channel="arenatv"><title lang="sl">Klepet ob kavi</title><category lang="sl">informativni</category></programme>
-<programme start="20260807174000 +0000" stop="20260807180000 +0000" channel="arenatv"><title lang="sl">Arenina veselica</title><category lang="sl">razvedrilni</category></programme>
-<programme start="20260807180000 +0000" stop="20260807190000 +0000" channel="arenatv"><title lang="sl">Nostalgija</title><category lang="sl">razvedrilni</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260807190000 +0000" stop="20260807195000 +0000" channel="arenatv"><title lang="sl">Hišica v preriji</title><category lang="sl">nadaljevanka-nanizanka</category><episode-num system="xmltv_ns">0.172.0/1</episode-num><episode-num system="onscreen">S01E173</episode-num></programme>
-<programme start="20260807195000 +0000" stop="20260807212500 +0000" channel="arenatv"><title lang="sl">Beli Komanč</title><category lang="sl">film</category></programme>
-<programme start="20260807212500 +0000" stop="20260807231500 +0000" channel="arenatv"><title lang="sl">A lahko to ostane med nama?</title><category lang="sl">informativni</category><episode-num system="xmltv_ns">0.87.0/1</episode-num><episode-num system="onscreen">S01E88</episode-num></programme>
-<programme start="20260807231500 +0000" stop="20260807235500 +0000" channel="arenatv"><title lang="sl">Bordel Arena</title><category lang="sl">za odrasle</category></programme>
-<programme start="20260807022000 +0000" stop="20260807030000 +0000" channel="arte"><title lang="sl">Karambolaža</title><category lang="sl">kultura-umetnost</category><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260807030000 +0000" stop="20260807035500 +0000" channel="arte"><title lang="sl">28 minut</title><category lang="sl">informativni</category><episode-num system="xmltv_ns">0.29.0/1</episode-num><episode-num system="onscreen">S01E30</episode-num></programme>
-<programme start="20260807035500 +0000" stop="20260807045000 +0000" channel="arte"><title lang="sl">Zatočišče v Andih: domorodne trans ženske v Kolumbiji</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260807045000 +0000" stop="20260807052000 +0000" channel="arte"><title lang="sl">Svetovne kuhinje</title><category lang="sl">izobraževalni</category><episode-num system="xmltv_ns">0.66.0/1</episode-num><episode-num system="onscreen">S01E67</episode-num></programme>
-<programme start="20260807052000 +0000" stop="20260807060500 +0000" channel="arte"><title lang="sl">Vabilo na potovanje</title><category lang="sl">kultura-umetnost</category><episode-num system="xmltv_ns">0.22.0/1</episode-num><episode-num system="onscreen">S01E23</episode-num></programme>
-<programme start="20260807060500 +0000" stop="20260807065500 +0000" channel="arte"><title lang="sl">Vabilo na potovanje</title><category lang="sl">kultura-umetnost</category><episode-num system="xmltv_ns">0.60.0/1</episode-num><episode-num system="onscreen">S01E61</episode-num></programme>
-<programme start="20260807065500 +0000" stop="20260807074500 +0000" channel="arte"><title lang="sl">Sinovi sonca</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260807074500 +0000" stop="20260807084000 +0000" channel="arte"><title lang="sl">Sinovi sonca</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260807084000 +0000" stop="20260807095500 +0000" channel="arte"><title lang="sl">Sinovi sonca</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
-<programme start="20260807095500 +0000" stop="20260807102500 +0000" channel="arte"><title lang="sl">Za sosedovo mizo</title><category lang="sl">izobraževalni</category><episode-num system="xmltv_ns">0.10.0/1</episode-num><episode-num system="onscreen">S01E11</episode-num></programme>
-<programme start="20260807102500 +0000" stop="20260807111000 +0000" channel="arte"><title lang="sl">Vabilo na potovanje</title><category lang="sl">kultura-umetnost</category><episode-num system="xmltv_ns">0.23.0/1</episode-num><episode-num system="onscreen">S01E24</episode-num></programme>
-<programme start="20260807111000 +0000" stop="20260807120000 +0000" channel="arte"><title lang="sl">Vabilo na potovanje</title><category lang="sl">kultura-umetnost</category><episode-num system="xmltv_ns">0.61.0/1</episode-num><episode-num system="onscreen">S01E62</episode-num></programme>
-<programme start="20260807120000 +0000" stop="20260807135000 +0000" channel="arte"><title lang="sl">Umre naj zver</title><category lang="sl">film</category></programme>
-<programme start="20260807135000 +0000" stop="20260807150500 +0000" channel="arte"><title lang="sl">Vaška diskoteka: Sobotna vročica na podeželju</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260807150500 +0000" stop="20260807155000 +0000" channel="arte"><title lang="sl">Veličastna narava</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.12.0/1</episode-num><episode-num system="onscreen">S01E13</episode-num></programme>
-<programme start="20260807155000 +0000" stop="20260807163500 +0000" channel="arte"><title lang="sl">V lovu na dež</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
-<programme start="20260807163500 +0000" stop="20260807172000 +0000" channel="arte"><title lang="sl">V lovu na dež</title><category lang="sl">dokumentarni</category><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
-<programme start="20260807172000 +0000" stop="20260807174000 +0000" channel="arte"><title lang="sl">Arte journal</title><category lang="sl">informativni</category><episode-num system="xmltv_ns">0.421.0/1</episode-num><episode-num system="onscreen">S01E422</episode-num></programme>
-<programme start="20260807174000 +0000" stop="20260807181500 +0000" channel="arte"><title lang="sl">Preprosto življenje kot pravi luksuz</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260807181500 +0000" stop="20260807194000 +0000" channel="arte"><title lang="sl">Umori v Sandhamnu</title><category lang="sl">nadaljevanka-nanizanka</category><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
-<programme start="20260807194000 +0000" stop="20260807211000 +0000" channel="arte"><title lang="sl">Umori v Sandhamnu</title><category lang="sl">nadaljevanka-nanizanka</category><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
-<programme start="20260807211000 +0000" stop="20260807224500 +0000" channel="arte"><title lang="sl">Umori v Sandhamnu</title><category lang="sl">nadaljevanka-nanizanka</category><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
-<programme start="20260807224500 +0000" stop="20260807234000 +0000" channel="arte"><title lang="sl">V velikanskih luknjah Arktike</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260807020000 +0000" stop="20260807060000 +0000" channel="atmtvkg"><title lang="sl">Informacije in panorama</title><category lang="sl">informativni</category></programme>
-<programme start="20260807060000 +0000" stop="20260807080000 +0000" channel="atmtvkg"><title lang="sl">Informacije in panorama</title><category lang="sl">informativni</category></programme>
-<programme start="20260807080000 +0000" stop="20260807093500 +0000" channel="atmtvkg"><title lang="sl">Iz arhiva: FS Triglav 10 let - koncert</title><category lang="sl">informativni</category></programme>
-<programme start="20260807093500 +0000" stop="20260807133500 +0000" channel="atmtvkg"><title lang="sl">Informacije in panorama</title><category lang="sl">informativni</category></programme>
-<programme start="20260807133500 +0000" stop="20260807155000 +0000" channel="atmtvkg"><title lang="sl">Informacije in panorama</title><category lang="sl">informativni</category></programme>
-<programme start="20260807155000 +0000" stop="20260807180000 +0000" channel="atmtvkg"><title lang="sl">Informacije in panorama</title><category lang="sl">informativni</category></programme>
-<programme start="20260807180000 +0000" stop="20260807184700 +0000" channel="atmtvkg"><title lang="sl">Igra: Večer slovenskih podoknic 2017</title><category lang="sl">razvedrilni</category></programme>
-<programme start="20260807184700 +0000" stop="20260807220000 +0000" channel="atmtvkg"><title lang="sl">Informacije in panorama</title><category lang="sl">informativni</category></programme>
-<programme start="20260807001300 +0000" stop="20260807010000 +0000" channel="b92"><title lang="sl">Pelagijin venec</title><category lang="sl">nadaljevanka-nanizanka</category></programme>
-<programme start="20260807010000 +0000" stop="20260807023900 +0000" channel="b92"><title lang="sl">Bratje za zmeraj</title><category lang="sl">film</category></programme>
-<programme start="20260807023900 +0000" stop="20260807031900 +0000" channel="b92"><title lang="sl">Od jutra do jutri</title><category lang="sl">nadaljevanka-nanizanka</category></programme>
-<programme start="20260807031900 +0000" stop="20260807040400 +0000" channel="b92"><title lang="sl">Od jutra do jutri</title><category lang="sl">nadaljevanka-nanizanka</category></programme>
-<programme start="20260807040400 +0000" stop="20260807042700 +0000" channel="b92"><title lang="sl">Ninja želve</title><category lang="sl">film</category></programme>
-<programme start="20260807042700 +0000" stop="20260807044900 +0000" channel="b92"><title lang="sl">Gromka hiša</title><category lang="sl">otroški-mladinski</category></programme>
-<programme start="20260807044900 +0000" stop="20260807051200 +0000" channel="b92"><title lang="sl">Spuži Kvadratnik</title><category lang="sl">otroški-mladinski</category></programme>
-<programme start="20260807051200 +0000" stop="20260807053400 +0000" channel="b92"><title lang="sl">Spuži Kvadratnik</title><category lang="sl">otroški-mladinski</category></programme>
-<programme start="20260807053400 +0000" stop="20260807062900 +0000" channel="b92"><title lang="sl">Jutranja ptica</title><category lang="sl">nadaljevanka-nanizanka</category></programme>
-<programme start="20260807062900 +0000" stop="20260807072200 +0000" channel="b92"><title lang="sl">Jutranja ptica</title><category lang="sl">nadaljevanka-nanizanka</category></programme>
-<programme start="20260807072200 +0000" stop="20260807081700 +0000" channel="b92"><title lang="sl">Sedem TV dni: Srčna okvara</title><category lang="sl">dokumentarni</category></programme>
-<programme start="20260807081700 +0000" stop="20260807081900 +0000" channel="b92"><title lang="sl">Presek</title><category lang="sl">informativni</category></programme>
-<programme start="20260807081900 +0000" stop="20260807083400 +0000" channel="b92"><title lang="sl">TV prodaja: Biostile</title><category lang="sl">ostalo</category></programme>
-<programme start="20260807083400 +0000" stop="20260807100000 +0000" channel="b92"><title lang="sl">Rad bi ti povedal</title><category lang="sl">razvedrilni</category></programme>
-<programme start="20260807100000 +0000" stop="20260807101500 +0000" channel="b92"><title lang="sl">Poročila na B92</title><category lang="sl">informativni</category></programme>
-<programme start="20260807101500 +0000" stop="20260807104800 +0000" channel="b92"><title lang="sl">Štoparica</title><category lang="sl">razvedrilni</category></programme>
-<programme start="20260807104800 +0000" stop="20260807114200 +0000" channel="b92"><title lang="sl">Urgentni center</title><category lang="sl">nadaljevanka-nanizanka</category></programme>
-<programme start="20260807114200 +0000" stop="20260807114400 +0000" channel="b92"><title lang="sl">Presek</title><category lang="sl">informativni</category></programme>
-<programme start="20260807114400 +0000" stop="20260807120000 +0000" channel="b92"><title lang="sl">TV prodaja: Telestar</title><category lang="sl">ostalo</category></programme>
-<programme start="20260807120000 +0000" stop="20260807130000 +0000" channel="b92"><title lang="sl">Ko potrka ljubezen</title><category lang="sl">nadaljevanka-nanizanka</category></programme>
-<programme start="20260807130000 +0000" stop="20260807130200 +0000" channel="b92"><title lang="sl">Presek</title><category lang="sl">informativni</category></programme>
-<programme start="20260807130200 +0000" stop="20260807140000 +0000" channel="b92"><title lang="sl">Tuje življenje</title><category lang="sl">nadaljevanka-nanizanka</category></programme>
-<programme start="20260807140000 +0000" stop="20260807143000 +0000" channel="b92"><title lang="sl">Poročila na B92</title><category lang="sl">informativni</category></programme>
-<programme start="20260807143000 +0000" stop="20260807150000 +0000" channel="b92"><title lang="sl">Športni pregled</title><category lang="sl">informativni</category></programme>
-<programme start="20260807150000 +0000" stop="20260807155500 +0000" channel="b92"><title lang="sl">Fokus B92</title><category lang="sl">informativni</category></programme>
-<programme start="20260807155500 +0000" stop="20260807155700 +0000" channel="b92"><title lang="sl">Presek</title><category lang="sl">informativni</category></programme>
-<programme start="20260807155700 +0000" stop="20260807165200 +0000" channel="b92"><title lang="sl">Kolo sreče</title><category lang="sl">razvedrilni</category></programme>
-<programme start="20260807165200 +0000" stop="20260807170700 +0000" channel="b92"><title lang="sl">Poročila na B92</title><category lang="sl">informativni</category></programme>
-<programme start="20260807170700 +0000" stop="20260807180600 +0000" channel="b92"><title lang="sl">Jutranja ptica</title><category lang="sl">nadaljevanka-nanizanka</category></programme>
-<programme start="20260807180600 +0000" stop="20260807180800 +0000" channel="b92"><title lang="sl">Presek</title><category lang="sl">informativni</category></programme>
-<programme start="20260807180800 +0000" stop="20260807191000 +0000" channel="b92"><title lang="sl">Leteči start</title><category lang="sl">razvedrilni</category></programme>
-<programme start="20260807191000 +0000" stop="20260807191200 +0000" channel="b92"><title lang="sl">Presek</title><category lang="sl">informativni</category></programme>
-<programme start="20260807191200 +0000" stop="20260807200000 +0000" channel="b92"><title lang="sl">Pelagijin venec</title><category lang="sl">nadaljevanka-nanizanka</category></programme>
-<programme start="20260807200000 +0000" stop="20260807201500 +0000" channel="b92"><title lang="sl">Poročila na B92</title><category lang="sl">informativni</category></programme>
-<programme start="20260807201500 +0000" stop="20260807215000 +0000" channel="b92"><title lang="sl">Spirala bolečine: Nova zapuščina igre žaga</title><category lang="sl">film</category></programme>
-<programme start="20260807215000 +0000" stop="20260807215100 +0000" channel="b92"><title lang="sl">Presek</title><category lang="sl">informativni</category></programme>
-<programme start="20260807215100 +0000" stop="20260807224600 +0000" channel="b92"><title lang="sl">Podnevi govorim, ponoči pojem</title><category lang="sl">razvedrilni</category></programme>
-<programme start="20260807224600 +0000" stop="20260807234000 +0000" channel="b92"><title lang="sl">Kolo sreče</title><category lang="sl">razvedrilni</category></programme>
+<programme start="20260808000000 +0000" stop="20260808001000 +0000" channel="dmtv"><title lang="sl">Estradne novice</title><category lang="sl">informativni</category></programme>
+<programme start="20260808001000 +0000" stop="20260808010000 +0000" channel="dmtv"><title lang="sl">Glasbeni program in pogovor preko SMS-ov</title><category lang="sl">razvedrilni</category></programme>
+<programme start="20260808010000 +0000" stop="20260808011000 +0000" channel="dmtv"><title lang="sl">Marketing</title><category lang="sl">ostalo</category></programme>
+<programme start="20260808011000 +0000" stop="20260808040000 +0000" channel="dmtv"><title lang="sl">Glasbeni program in pogovor preko SMS-ov</title><category lang="sl">razvedrilni</category></programme>
+<programme start="20260808040000 +0000" stop="20260808041000 +0000" channel="dmtv"><title lang="sl">Marketing</title><category lang="sl">ostalo</category></programme>
+<programme start="20260808041000 +0000" stop="20260808050000 +0000" channel="dmtv"><title lang="sl">Glasbeni program in pogovor preko SMS-ov</title><category lang="sl">razvedrilni</category></programme>
+<programme start="20260808050000 +0000" stop="20260808051000 +0000" channel="dmtv"><title lang="sl">Estradne novice</title><category lang="sl">informativni</category></programme>
+<programme start="20260808051000 +0000" stop="20260808070000 +0000" channel="dmtv"><title lang="sl">Glasbeni program in pogovor preko SMS-ov</title><category lang="sl">razvedrilni</category></programme>
+<programme start="20260808070000 +0000" stop="20260808071000 +0000" channel="dmtv"><title lang="sl">Marketing</title><category lang="sl">ostalo</category></programme>
+<programme start="20260808071000 +0000" stop="20260808090000 +0000" channel="dmtv"><title lang="sl">Glasbeni program in pogovor preko SMS-ov</title><category lang="sl">razvedrilni</category></programme>
+<programme start="20260808090000 +0000" stop="20260808091000 +0000" channel="dmtv"><title lang="sl">Estradne novice</title><category lang="sl">informativni</category></programme>
+<programme start="20260808091000 +0000" stop="20260808110000 +0000" channel="dmtv"><title lang="sl">Glasbeni program in pogovor preko SMS-ov</title><category lang="sl">razvedrilni</category></programme>
+<programme start="20260808110000 +0000" stop="20260808111000 +0000" channel="dmtv"><title lang="sl">Marketing</title><category lang="sl">ostalo</category></programme>
+<programme start="20260808111000 +0000" stop="20260808120000 +0000" channel="dmtv"><title lang="sl">Glasbeni program in pogovor preko SMS-ov</title><category lang="sl">razvedrilni</category></programme>
+<programme start="20260808120000 +0000" stop="20260808121000 +0000" channel="dmtv"><title lang="sl">Estradne novice</title><category lang="sl">informativni</category></programme>
+<programme start="20260808121000 +0000" stop="20260808140000 +0000" channel="dmtv"><title lang="sl">Glasbeni program in pogovor preko SMS-ov</title><category lang="sl">razvedrilni</category></programme>
+<programme start="20260808140000 +0000" stop="20260808141000 +0000" channel="dmtv"><title lang="sl">Marketing</title><category lang="sl">ostalo</category></programme>
+<programme start="20260808141000 +0000" stop="20260808142000 +0000" channel="dmtv"><title lang="sl">Estradne novice</title><category lang="sl">informativni</category></programme>
+<programme start="20260808142000 +0000" stop="20260808160000 +0000" channel="dmtv"><title lang="sl">Glasbeni program in pogovor preko SMS-ov</title><category lang="sl">razvedrilni</category></programme>
+<programme start="20260808160000 +0000" stop="20260808161000 +0000" channel="dmtv"><title lang="sl">Marketing</title><category lang="sl">ostalo</category></programme>
+<programme start="20260808161000 +0000" stop="20260808170000 +0000" channel="dmtv"><title lang="sl">Glasbeni program in pogovor preko SMS-ov</title><category lang="sl">razvedrilni</category></programme>
+<programme start="20260808170000 +0000" stop="20260808171000 +0000" channel="dmtv"><title lang="sl">Marketing</title><category lang="sl">ostalo</category></programme>
+<programme start="20260808171000 +0000" stop="20260808172000 +0000" channel="dmtv"><title lang="sl">Estradne novice</title><category lang="sl">informativni</category></programme>
+<programme start="20260808172000 +0000" stop="20260808190000 +0000" channel="dmtv"><title lang="sl">Glasbeni program in pogovor preko SMS-ov</title><category lang="sl">razvedrilni</category></programme>
+<programme start="20260808190000 +0000" stop="20260808191000 +0000" channel="dmtv"><title lang="sl">Marketing</title><category lang="sl">ostalo</category></programme>
+<programme start="20260808191000 +0000" stop="20260808210000 +0000" channel="dmtv"><title lang="sl">Glasbeni program in pogovor preko SMS-ov</title><category lang="sl">razvedrilni</category></programme>
+<programme start="20260808210000 +0000" stop="20260808211000 +0000" channel="dmtv"><title lang="sl">Marketing</title><category lang="sl">ostalo</category></programme>
+<programme start="20260808211000 +0000" stop="20260808212000 +0000" channel="dmtv"><title lang="sl">Estradne novice</title><category lang="sl">informativni</category></programme>
+<programme start="20260808212000 +0000" stop="20260808220000 +0000" channel="dmtv"><title lang="sl">Glasbeni program in pogovor preko SMS-ov</title><category lang="sl">razvedrilni</category></programme>
+<programme start="20260808220000 +0000" stop="20260808221000 +0000" channel="dmtv"><title lang="sl">Marketing</title><category lang="sl">ostalo</category></programme>
 </tv>
