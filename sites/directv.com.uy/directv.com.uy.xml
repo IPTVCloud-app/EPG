@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260808">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260809">
 <channel id="120#AME2"><display-name>América TV (ARG)</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/120.png"/></channel>
 <channel id="121#CAN7"><display-name>La TV Pública (ARG)</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/121.png"/></channel>
 <channel id="122#CAN9"><display-name>Canal 9 (ARG)</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/122.png"/></channel>
@@ -373,109 +373,45 @@
 <channel id="4773#ESC+"><display-name>Escuela plus</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/302.png"/></channel>
 <channel id="4992#TRES"><display-name>EL TRES Rosario</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/134.png"/></channel>
 <channel id="4997#KZO"><display-name>KZO</display-name><icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/199.png"/></channel>
-<programme start="20260808025100 +0000" stop="20260808031700 +0000" channel="220#ADSW"><title lang="es">Penguin Park</title></programme>
-<programme start="20260808031700 +0000" stop="20260808034200 +0000" channel="220#ADSW"><title lang="es">Right and Wrong, Part 2</title></programme>
-<programme start="20260808034200 +0000" stop="20260808040600 +0000" channel="220#ADSW"><title lang="es">Mortyplicidad</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808040600 +0000" stop="20260808042100 +0000" channel="220#ADSW"><title lang="es">Sociedad de la virtud</title></programme>
-<programme start="20260808042100 +0000" stop="20260808043400 +0000" channel="220#ADSW"><title lang="es">[as] Smalls</title></programme>
-<programme start="20260808043400 +0000" stop="20260808045800 +0000" channel="220#ADSW"><title lang="es">Jinshi y Maomao</title></programme>
-<programme start="20260808045800 +0000" stop="20260808052600 +0000" channel="220#ADSW"><title lang="es">The One I&apos;ve Set My Heart On</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808052600 +0000" stop="20260808055100 +0000" channel="220#ADSW"><title lang="es">Up to Piccolo</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808055100 +0000" stop="20260808061300 +0000" channel="220#ADSW"><title lang="es">In the System</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808061300 +0000" stop="20260808063600 +0000" channel="220#ADSW"><title lang="es">The Vat of Acid Episode</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808063600 +0000" stop="20260808065800 +0000" channel="220#ADSW"><title lang="es">Rick y Morty</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808065800 +0000" stop="20260808071000 +0000" channel="220#ADSW"><title lang="es">El episodio de Glep</title><rating system="MPA"><value>TVMA</value></rating></programme>
-<programme start="20260808071000 +0000" stop="20260808073400 +0000" channel="220#ADSW"><title lang="es">Ruge la espada sagrada</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808073400 +0000" stop="20260808075600 +0000" channel="220#ADSW"><title lang="es">Open for Business: The Leaf Moving Service</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808075600 +0000" stop="20260808081800 +0000" channel="220#ADSW"><title lang="es">For Real</title><rating system="MPA"><value>TVY7</value></rating></programme>
-<programme start="20260808081800 +0000" stop="20260808083900 +0000" channel="220#ADSW"><title lang="es">Snow Blind</title><rating system="MPA"><value>TVY7</value></rating></programme>
-<programme start="20260808083900 +0000" stop="20260808090000 +0000" channel="220#ADSW"><title lang="es">Kole</title><rating system="MPA"><value>TVY7</value></rating></programme>
-<programme start="20260808090000 +0000" stop="20260808092500 +0000" channel="220#ADSW"><title lang="es">Cassios Dies for Love</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808092500 +0000" stop="20260808095100 +0000" channel="220#ADSW"><title lang="es">Ikki! The Phoenix&apos;s Blazing Wings</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808095100 +0000" stop="20260808101700 +0000" channel="220#ADSW"><title lang="es">Ties of Friendship! Athena&apos;s Call</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808101700 +0000" stop="20260808104400 +0000" channel="220#ADSW"><title lang="es">Shaka, The Closest Saint To God</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808104400 +0000" stop="20260808111000 +0000" channel="220#ADSW"><title lang="es">Dream</title></programme>
-<programme start="20260808111000 +0000" stop="20260808113800 +0000" channel="220#ADSW"><title lang="es">Monster</title></programme>
-<programme start="20260808113800 +0000" stop="20260808120600 +0000" channel="220#ADSW"><title lang="es">Free the Future</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808120600 +0000" stop="20260808123400 +0000" channel="220#ADSW"><title lang="es">Warriors of the Dead</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808123400 +0000" stop="20260808130200 +0000" channel="220#ADSW"><title lang="es">Tournament Begins</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808130200 +0000" stop="20260808132900 +0000" channel="220#ADSW"><title lang="es">Comfort and Joy</title><rating system="MPA"><value>TVY7</value></rating></programme>
-<programme start="20260808132900 +0000" stop="20260808135500 +0000" channel="220#ADSW"><title lang="es">Starcrossed</title><rating system="MPA"><value>TVY7</value></rating></programme>
-<programme start="20260808135500 +0000" stop="20260808142000 +0000" channel="220#ADSW"><title lang="es">Mother Mae-Eye</title><rating system="MPA"><value>TVY7</value></rating></programme>
-<programme start="20260808142000 +0000" stop="20260808144500 +0000" channel="220#ADSW"><title lang="es">The End</title><rating system="MPA"><value>TVY7</value></rating></programme>
-<programme start="20260808144500 +0000" stop="20260808151000 +0000" channel="220#ADSW"><title lang="es">The End</title><rating system="MPA"><value>TVY7</value></rating></programme>
-<programme start="20260808151000 +0000" stop="20260808153500 +0000" channel="220#ADSW"><title lang="es">Actuación</title></programme>
-<programme start="20260808153500 +0000" stop="20260808155900 +0000" channel="220#ADSW"><title lang="es">Sospechosos habituales</title></programme>
-<programme start="20260808155900 +0000" stop="20260808162600 +0000" channel="220#ADSW"><title lang="es">Sleep in Peace, Shun</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808162600 +0000" stop="20260808165400 +0000" channel="220#ADSW"><title lang="es">El reloj de fuego se extingue</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808165400 +0000" stop="20260808172100 +0000" channel="220#ADSW"><title lang="es">No pierdas a tus amigos Seiya</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808172100 +0000" stop="20260808174900 +0000" channel="220#ADSW"><title lang="es">Umbrella</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808174900 +0000" stop="20260808181600 +0000" channel="220#ADSW"><title lang="es">Gears</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808181600 +0000" stop="20260808184300 +0000" channel="220#ADSW"><title lang="es">The Three Villains From the Maximum Security Prison</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808184300 +0000" stop="20260808190800 +0000" channel="220#ADSW"><title lang="es">¡Tontón, cuento contigo!</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808190800 +0000" stop="20260808193700 +0000" channel="220#ADSW"><title lang="es">Not Alone</title></programme>
-<programme start="20260808193700 +0000" stop="20260808200400 +0000" channel="220#ADSW"><title lang="es">Last Attack</title></programme>
-<programme start="20260808200400 +0000" stop="20260808203200 +0000" channel="220#ADSW"><title lang="es">Frieza Defeated!</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808203200 +0000" stop="20260808210000 +0000" channel="220#ADSW"><title lang="es">Mighty Blast of Rage</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808210000 +0000" stop="20260808212700 +0000" channel="220#ADSW"><title lang="es">Namek&apos;s Explosion ... Goku&apos;s End?</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808212700 +0000" stop="20260808215600 +0000" channel="220#ADSW"><title lang="es">Goku&apos;s Alive!</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808215600 +0000" stop="20260808222300 +0000" channel="220#ADSW"><title lang="es">Adiós mi maestro y mis amigos</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808222300 +0000" stop="20260808225100 +0000" channel="220#ADSW"><title lang="es">Un hermoso guerrero, Afrodita</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808225100 +0000" stop="20260808231700 +0000" channel="220#ADSW"><title lang="es">Demon Rose! Sweet Smell of Death</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808231700 +0000" stop="20260808234200 +0000" channel="220#ADSW"><title lang="es">Disciplina</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808234200 +0000" stop="20260809000700 +0000" channel="220#ADSW"><title lang="es">Infiltrador</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260809000700 +0000" stop="20260809003400 +0000" channel="220#ADSW"><title lang="es">Starcrossed</title><rating system="MPA"><value>TVY7</value></rating></programme>
-<programme start="20260809003400 +0000" stop="20260809005800 +0000" channel="220#ADSW"><title lang="es">Starcrossed</title><rating system="MPA"><value>TVY7</value></rating></programme>
-<programme start="20260809005800 +0000" stop="20260809012300 +0000" channel="220#ADSW"><title lang="es">Hide and Seek</title><rating system="MPA"><value>TVY7</value></rating></programme>
-<programme start="20260809012300 +0000" stop="20260809014600 +0000" channel="220#ADSW"><title lang="es">Lightspeed</title><rating system="MPA"><value>TVY7</value></rating></programme>
-<programme start="20260809014600 +0000" stop="20260809021100 +0000" channel="220#ADSW"><title lang="es">Shut Up And Watch This</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260809021100 +0000" stop="20260809034000 +0000" channel="220#ADSW"><title lang="es">Escuadrón suicida: Deuda infernal</title><rating system="MPA"><value>R</value></rating></programme>
-<programme start="20260808022700 +0000" stop="20260808032000 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">La mente maestra</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808032000 +0000" stop="20260808041000 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">Si, amo</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808041000 +0000" stop="20260808050200 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">En el bosque</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808050200 +0000" stop="20260808055200 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">El asesino en internet</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808055200 +0000" stop="20260808064200 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">Atractivo y malvado</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808064200 +0000" stop="20260808072800 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">Cae el telón</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808072800 +0000" stop="20260808081500 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">Amor fatal</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808081500 +0000" stop="20260808090700 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">Las desaparecidas</title></programme>
-<programme start="20260808090700 +0000" stop="20260808101200 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">Karma Asesino</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808101200 +0000" stop="20260808110000 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">Salvación Letal</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808110000 +0000" stop="20260808115000 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">La casa en la calle Revere</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808115000 +0000" stop="20260808123700 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">Pánico escénico</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808123700 +0000" stop="20260808132800 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">Cabeza en una bolsa</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808132800 +0000" stop="20260808142000 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">La caída de Aubrey Gold</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808142000 +0000" stop="20260808151000 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">Codicia, celos y malicia</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808151000 +0000" stop="20260808160200 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">Vaquero solitario</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808160200 +0000" stop="20260808165400 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">Karma Asesino</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808165400 +0000" stop="20260808174700 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">Salvación Letal</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808174700 +0000" stop="20260808183900 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">Contratado para matar</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808183900 +0000" stop="20260808193000 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">Cae el telón</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808193000 +0000" stop="20260808202300 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">Amor fatal</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808202300 +0000" stop="20260808211200 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">Las desaparecidas</title></programme>
-<programme start="20260808211200 +0000" stop="20260808220500 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">El Monstruo de Río Claro</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808220500 +0000" stop="20260808225700 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">La mataviejitas</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808225700 +0000" stop="20260808234900 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">El Sádico</title></programme>
-<programme start="20260808234900 +0000" stop="20260809004100 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">El asesinato de una madre</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260809004100 +0000" stop="20260809013200 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">Asesinato, interrumpido</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260809013200 +0000" stop="20260809022400 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">Asesinato más allá de la tumba</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260809022400 +0000" stop="20260809031700 +0000" channel="InvestigationDiscoveryLatinAmerica.us@South"><title lang="es">Sexo y mentiras</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808030000 +0000" stop="20260808040000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">40 y 20</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808040000 +0000" stop="20260808043000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">40 y 20</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808043000 +0000" stop="20260808050000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">En punto</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808050000 +0000" stop="20260808052500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Coque Muñiz y su adorable sonrisa</title></programme>
-<programme start="20260808052500 +0000" stop="20260808055000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Voltéale la tortilla</title></programme>
-<programme start="20260808055000 +0000" stop="20260808061500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">El secuestro macabrón</title></programme>
-<programme start="20260808061500 +0000" stop="20260808080000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mujer, casos de la vida real</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808080000 +0000" stop="20260808120500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Hermanas, un amor compartido</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808120500 +0000" stop="20260808135000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Ochocientas leguas por el Amazonas</title></programme>
-<programme start="20260808135000 +0000" stop="20260808153000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">El robo imposible</title></programme>
-<programme start="20260808153000 +0000" stop="20260808171000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Como dice el dicho</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808171000 +0000" stop="20260808185500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">El Chapulín Colorado</title><rating system="MPA"><value>TVPG</value></rating></programme>
-<programme start="20260808185500 +0000" stop="20260808192500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mano en el área</title></programme>
-<programme start="20260808192500 +0000" stop="20260808205500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Mi lista de exes</title></programme>
-<programme start="20260808205500 +0000" stop="20260808223500 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">La rosa de Guadalupe</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260808223500 +0000" stop="20260809005000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">El retador</title></programme>
-<programme start="20260809005000 +0000" stop="20260809014000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Por Siempre Joan Sebastian</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260809014000 +0000" stop="20260809023000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">Como dice el dicho</title><rating system="MPA"><value>TV14</value></rating></programme>
-<programme start="20260809023000 +0000" stop="20260809032000 +0000" channel="LasEstrellasLatinAmerica.mx@SD"><title lang="es">La Rosa de Guadalupe: Relatos de impacto</title></programme>
+<programme start="20260809030000 +0000" stop="20260809040000 +0000" channel="350#EWTN"><title lang="es">Santa María de Jesús Sacramentado</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809040000 +0000" stop="20260809043000 +0000" channel="350#EWTN"><title lang="es">Pope Leo And His Footsteps In Rome</title></programme>
+<programme start="20260809043000 +0000" stop="20260809050000 +0000" channel="350#EWTN"><title lang="es">San Giovanni Rotondo</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809050000 +0000" stop="20260809053000 +0000" channel="350#EWTN"><title lang="es">Alcachofas en aceite</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260809053000 +0000" stop="20260809060000 +0000" channel="350#EWTN"><title lang="es">Misterios Gloriosos</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809060000 +0000" stop="20260809070000 +0000" channel="350#EWTN"><title lang="es">Tertulias de fe</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809070000 +0000" stop="20260809080000 +0000" channel="350#EWTN"><title lang="es">Nunca tengo tiempo o no hago el tiempo</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260809080000 +0000" stop="20260809090000 +0000" channel="350#EWTN"><title lang="es">El párroco</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809090000 +0000" stop="20260809100000 +0000" channel="350#EWTN"><title lang="es">Con Dios en las buenas y en las malas</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809100000 +0000" stop="20260809103000 +0000" channel="350#EWTN"><title lang="es">Ángelus con el Papa León XIV</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809103000 +0000" stop="20260809110000 +0000" channel="350#EWTN"><title lang="es">Pope Leo And His Footsteps In Rome</title></programme>
+<programme start="20260809110000 +0000" stop="20260809113000 +0000" channel="350#EWTN"><title lang="es">El amor nunca muere: Sanando el duelo de un hijo</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809113000 +0000" stop="20260809120000 +0000" channel="350#EWTN"><title lang="es">Principio y fundamento</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260809120000 +0000" stop="20260809123000 +0000" channel="350#EWTN"><title lang="es">Misterios Gloriosos</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809123000 +0000" stop="20260809125000 +0000" channel="350#EWTN"><title lang="es">Coronilla de la Divina Misericordia - mundo</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809125000 +0000" stop="20260809130000 +0000" channel="350#EWTN"><title lang="es">Letanía al santísimo nombre de Jesús</title></programme>
+<programme start="20260809130000 +0000" stop="20260809133000 +0000" channel="350#EWTN"><title lang="es">Santo Domingo de Guzmán</title><rating system="MPA"><value>TVY</value></rating></programme>
+<programme start="20260809133000 +0000" stop="20260809140000 +0000" channel="350#EWTN"><title lang="es">La Confirmación</title><rating system="MPA"><value>TVY</value></rating></programme>
+<programme start="20260809140000 +0000" stop="20260809143000 +0000" channel="350#EWTN"><title lang="es">La asunción de la Virgen</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809143000 +0000" stop="20260809150000 +0000" channel="350#EWTN"><title lang="es">Misterios gloriosos</title><rating system="MPA"><value>TVY</value></rating></programme>
+<programme start="20260809150000 +0000" stop="20260809153000 +0000" channel="350#EWTN"><title lang="es">El Esfuerzo</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809153000 +0000" stop="20260809154500 +0000" channel="350#EWTN"><title lang="es">San Maximiliano Kolbe y la gratitud</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809154500 +0000" stop="20260809160000 +0000" channel="350#EWTN"><title lang="es">Santa Catalina de Siena y el respeto</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809160000 +0000" stop="20260809163000 +0000" channel="350#EWTN"><title lang="es">México católico</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809163000 +0000" stop="20260809170000 +0000" channel="350#EWTN"><title lang="es">La esencia del Kerigama</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809170000 +0000" stop="20260809173000 +0000" channel="350#EWTN"><title lang="es">Pope Leo And His Footsteps In Rome</title></programme>
+<programme start="20260809173000 +0000" stop="20260809180000 +0000" channel="350#EWTN"><title lang="es">Ángelus con el Papa León XIV</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809180000 +0000" stop="20260809183000 +0000" channel="350#EWTN"><title lang="es">Coronilla de la Divina Misericordia</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809183000 +0000" stop="20260809194500 +0000" channel="350#EWTN"><title lang="es">Misa del domingo</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809194500 +0000" stop="20260809200000 +0000" channel="350#EWTN"><title lang="es">Letanía al Sagrado Corazón de Jesús</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809200000 +0000" stop="20260809202000 +0000" channel="350#EWTN"><title lang="es">Letanía al santísimo nombre de Jesús</title></programme>
+<programme start="20260809202000 +0000" stop="20260809203000 +0000" channel="350#EWTN"><title lang="es">Adoración eucarística desde la capilla de EWTN</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809203000 +0000" stop="20260809210000 +0000" channel="350#EWTN"><title lang="es">El Santo Rosario desde Lourdes - Francia</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809210000 +0000" stop="20260809220000 +0000" channel="350#EWTN"><title lang="es">Hermana María de Guadalupe Rodrigo</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809220000 +0000" stop="20260809223000 +0000" channel="350#EWTN"><title lang="es">Pope Leo And His Footsteps In Rome</title></programme>
+<programme start="20260809223000 +0000" stop="20260809230000 +0000" channel="350#EWTN"><title lang="es">Justicia, prudencia y confianza en Dios</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809230000 +0000" stop="20260809233000 +0000" channel="350#EWTN"><title lang="es">El amor nunca muere: Sanando el duelo de un hijo</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260809233000 +0000" stop="20260810000000 +0000" channel="350#EWTN"><title lang="es">Principio y fundamento</title><rating system="MPA"><value>TV14</value></rating></programme>
+<programme start="20260810000000 +0000" stop="20260810010000 +0000" channel="350#EWTN"><title lang="es">Tertulias de fe</title><rating system="MPA"><value>TVG</value></rating></programme>
+<programme start="20260810010000 +0000" stop="20260810020000 +0000" channel="350#EWTN"><title lang="es">Nunca tengo tiempo o no hago el tiempo</title><rating system="MPA"><value>TVPG</value></rating></programme>
+<programme start="20260810020000 +0000" stop="20260810030000 +0000" channel="350#EWTN"><title lang="es">El párroco</title><rating system="MPA"><value>TVG</value></rating></programme>
 </tv>
